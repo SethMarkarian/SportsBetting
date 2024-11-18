@@ -1,11 +1,28 @@
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 import time
 import csv
 from datetime import date
 
-# Set up the WebDriver
-driver = webdriver.Chrome()  # Ensure ChromeDriver is installed and in PATH
+# Set up Chrome options for headless mode and CI/CD compatibility
+chrome_options = Options()
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+chrome_options.add_argument("--remote-debugging-port=9222")
+chrome_options.add_argument("--disable-gpu")
+chrome_options.binary_location = '/usr/bin/google-chrome'
+
+# Set up ChromeDriver path
+chrome_driver_path = '/usr/local/bin/chromedriver'
+service = Service(chrome_driver_path)
+
+# Initialize the WebDriver
+driver = webdriver.Chrome(service=service, options=chrome_options)
+
+# Navigate to the web page
 driver.get('https://linemate.io/nba/trends')
 
 # Wait for the page to load JavaScript content
@@ -46,13 +63,14 @@ current_date = date.today()
 # Combine player data with linemate insights
 combined_player_insight_data = [players + insights for players, insights in zip(players, insights)]
 
-
 # Save data to CSV with trend context
-with open(f'../nba_saved_csv/nba_betting_data_{current_date.strftime("%m_%d_%Y")}.csv', 'w', newline='', encoding='utf-8') as csvfile:
+output_path = f'../nba_saved_csv/nba_betting_data_{current_date.strftime("%m_%d_%Y")}.csv'
+with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['Player Name', 'Matchup', 'Market', 'Odds', 'Trend Context', 'Linemate Percentage'])
     writer.writerows(combined_player_insight_data)
 
-print(f'Data has been saved to ../nba_saved_csv/nba_betting_data_{current_date.strftime("%m_%d_%Y")}.csv')
+print(f'Data has been saved to {output_path}')
 
+# Close the driver
 driver.quit()
