@@ -32,6 +32,12 @@ df['Player Name'] = df['Player Name'].apply(lambda name: get_full_name(name) if 
 # Remove rows where the "Market" column contains "Q"
 df = df[~df['Market'].str.contains("Q", na=False)]
 
+# Rename "Matchup" column to "Opponent"
+df.rename(columns={"Matchup": "Opponent"}, inplace=True)
+
+# Remove "vs." and "@" from the "Opponent" column
+df["Opponent"] = df["Opponent"].str.replace("vs.", "").str.replace("@", "").str.strip()
+
 # Save the updated DataFrame back to the CSV file
 output_path = f'../nba_saved_csv/nba_betting_data_{input_date}.csv'
 df.to_csv(output_path, index=False)
