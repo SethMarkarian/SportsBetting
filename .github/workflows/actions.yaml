@@ -10,12 +10,12 @@ jobs:
     steps:
 
       - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to GitHub runner
+        uses: actions/checkout@v2 # Checkout the repository content to GitHub runner
 
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.9' # install the Python version needed
+          python-version: '3.9' # Install the Python version needed
           
       - name: install Chrome dependencies
         run: |
@@ -23,20 +23,25 @@ jobs:
           sudo apt-get install -y wget unzip
           wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
           sudo apt install -y ./google-chrome-stable_current_amd64.deb
-          sudo apt-get install -y xvfb
-          
+          sudo apt-get install -y xvfb libnss3 libx11-xcb1 libxcomposite1 libxcursor1 libxdamage1 libxi6 libxtst6 fonts-liberation libappindicator3-1 libasound2 xdg-utils libgbm-dev
+
       - name: install ChromeDriver
         run: |
           CHROME_DRIVER_VERSION=$(curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE)
           wget https://chromedriver.storage.googleapis.com/$CHROME_DRIVER_VERSION/chromedriver_linux64.zip
           unzip chromedriver_linux64.zip -d /usr/local/bin/
 
+      - name: start Xvfb
+        run: |
+          Xvfb :99 -screen 0 1280x1024x16 &
+          export DISPLAY=:99
+          
       - name: install python packages
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           
-      - name: change directory and execute py script # navigate to the directory and run the script
+      - name: change directory and execute py script # Navigate to the directory and run the script
         run: |
           cd webscraping
           python nba_webscraper.py
