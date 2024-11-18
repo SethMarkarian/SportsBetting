@@ -2,7 +2,7 @@ name: run nba_webscraper.py
 
 on:
   schedule:
-    - cron: '0 12 * * *' # At noon everyday
+    - cron: '* * * * *' # At noon everyday
 
 jobs:
   build:
