@@ -2,9 +2,12 @@ name: NBA Web Scraper
 
 on:
   schedule:
-    # Run daily at noon (12:00 PM) UTC
+    # Run every minute
     - cron: "* * * * *"
   workflow_dispatch: # Allow for manual triggers
+
+permissions:
+  contents: write   # Grant write access to the repository's contents (i.e., push changes)
 
 jobs:
   run-nba-scraper:
