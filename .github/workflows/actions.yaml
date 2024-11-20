@@ -43,7 +43,7 @@ jobs:
       - name: Commit and push CSV file
         run: |
           # Navigate to the parent directory where the CSV file is saved
-          cd nba_saved_csv
+          cd ../nba_saved_csv
 
           # Get the current date in MM_DD_YYYY format
           current_date=$(date +'%m_%d_%Y')
@@ -53,6 +53,9 @@ jobs:
           if [ -f "$csv_file" ]; then
             git config --global user.name "github-actions"
             git config --global user.email "github-actions@github.com"
+
+            # Configure Git to use the GITHUB_TOKEN for authentication
+            git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
             # Add the file
             git add "$csv_file"
