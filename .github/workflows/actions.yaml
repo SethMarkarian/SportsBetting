@@ -38,12 +38,12 @@ jobs:
 
           # Run the web scraper script
           python nba_webscraper.py
-          
+
       # Step 5: Commit and push the CSV file
       - name: Commit and push CSV file
         run: |
           # Navigate to the parent directory where the CSV file is saved
-          cd ../nba_saved_csv
+          cd nba_saved_csv
 
           # Get the current date in MM_DD_YYYY format
           current_date=$(date +'%m_%d_%Y')
