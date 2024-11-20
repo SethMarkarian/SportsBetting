@@ -20,7 +20,6 @@ pandas==2.2.3
 parse==1.20.2
 playwright==1.48.0
 pyee==12.0.0
-pyppeteer==2.0.0
 pyquery==2.0.1
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
