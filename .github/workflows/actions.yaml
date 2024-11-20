@@ -6,9 +6,6 @@ on:
     - cron: "* * * * *"
   workflow_dispatch: # Allow for manual triggers
 
-permissions:
-  contents: write   # Grant write access to the repository's contents (i.e., push changes)
-
 jobs:
   run-nba-scraper:
     runs-on: ubuntu-latest  # Use Ubuntu for the runner
@@ -42,7 +39,7 @@ jobs:
           # Run the web scraper script
           python nba_webscraper.py
 
-      # Step 5: Commit and push the CSV file
+      # Step 5: Commit and push the CSV file using PAT
       - name: Commit and push CSV file
         run: |
           # Navigate to the parent directory where the CSV file is saved
@@ -57,8 +54,8 @@ jobs:
             git config --global user.name "github-actions"
             git config --global user.email "github-actions@github.com"
 
-            # Configure Git to use the GITHUB_TOKEN for authentication
-            git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+            # Use the personal access token (PAT) for authentication
+            git remote set-url origin https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
 
             # Add the file
             git add "$csv_file"
