@@ -4,7 +4,6 @@ on:
   schedule:
     # Run every minute
     - cron: "* * * * *"
-  workflow_dispatch: # Allow for manual triggers
 
 jobs:
   run-nba-scraper:
