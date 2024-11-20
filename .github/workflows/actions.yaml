@@ -1,62 +1,40 @@
-name: run nba_webscraper.py
+name: NBA Web Scraper
 
-# on:
-#   schedule:
-#     - cron: '* * * * *' # At noon everyday
+on:
+  schedule:
+    # Run daily at noon (12:00 PM) UTC
+    - cron: "0 12 * * *"
+  workflow_dispatch: # Allow for manual triggers
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
+  run-nba-scraper:
+    runs-on: ubuntu-latest  # Use Ubuntu for the runner
     steps:
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-      - name: checkout repo content
-        uses: actions/checkout@v2 # Checkout the repository content to GitHub runner
-
-      - name: setup python
-        uses: actions/setup-python@v4
+      # Step 2: Set up Python environment
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2
         with:
-          python-version: '3.9' # Install the Python version needed
+          python-version: 3.x
 
-      - name: Install Chrome and dependencies
+      # Step 3: Install dependencies from requirements.txt
+      - name: Install dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y wget unzip
-          wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-          sudo apt install -y ./google-chrome-stable_current_amd64.deb
-          sudo apt-get install -y xvfb libnss3 libx11-xcb1 libxcomposite1 libxcursor1 libxdamage1 libxi6 libxtst6 fonts-liberation libappindicator3-1 libasound2 xdg-utils libgbm-dev
-
-      - name: Install ChromeDriver
-        run: |
-          CHROME_DRIVER_VERSION=$(curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE)
-          wget https://chromedriver.storage.googleapis.com/$CHROME_DRIVER_VERSION/chromedriver_linux64.zip
-          unzip chromedriver_linux64.zip -d /usr/local/bin/
-          sudo mv /usr/local/bin/chromedriver /usr/bin/chromedriver
-          sudo chmod +x /usr/bin/chromedriver
-
-      - name: start Xvfb
-        run: |
-          Xvfb :99 -screen 0 1280x1024x16 &
-          export DISPLAY=:99
-          
-      - name: install python packages
-        run: |
-          python -m pip install --upgrade pip
+          # Install dependencies from requirements.txt
+          pip install --upgrade pip
           pip install -r requirements.txt
-          
-      - name: change directory and execute py script # Navigate to the directory and run the script
+
+          # Install Playwright dependencies
+          python -m playwright install
+
+      # Step 4: Run the Python script
+      - name: Run NBA web scraper
         run: |
+          # Navigate to the webscraping directory
           cd webscraping
+
+          # Run the web scraper script
           python nba_webscraper.py
-          
-      - name: commit files
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "📊 data: NBA $(date '+%m-%d-%Y')" --allow-empty)
-          
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main

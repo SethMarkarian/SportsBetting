@@ -1,104 +1,73 @@
+import requests
+from bs4 import BeautifulSoup
 import pandas as pd
-from datetime import datetime
-from nba_api.stats.endpoints import boxscoretraditionalv2, scoreboardv2
-import os
 
-def get_game_id_for_date(opponent_team, date):
-    """Retrieves the game ID for a specified date and opponent team using nba_api."""
-    scoreboard = scoreboardv2.ScoreboardV2(game_date=date, timeout=60)
-    games = scoreboard.game_header.get_data_frame()
+def scrape_game_log_by_date(player_name, year, date):
+    """
+    Scrapes the game log data for a given basketball player and season from basketball-reference.com,
+    and returns the game log for the specified date.
 
-    for _, game in games.iterrows():
-        if opponent_team in (game['HOME_TEAM_ID'], game['VISITOR_TEAM_ID']):
-            return game['GAME_ID']
-    return None
+    Args:
+        player_name (str): The player's full name, e.g., "LeBron James".
+        year (int): The season year (e.g., 2025 for the 2024-25 season).
+        date (str): The specific date in the format "MM_DD_YYYY" to filter the game logs.
 
-def parse_bet_condition(bet_condition):
-    """Parses a bet condition to determine stat type, limit, and comparison (Over/Under)."""
-    components = bet_condition.split()
-    stat_type = components[-2]  # e.g., 'Rebounds', 'Points', 'Assists'
-    comparison = components[0]  # 'Over' or 'Under'
-    limit = float(components[1])  # e.g., '0.5'
+    Returns:
+        pd.DataFrame or None: A DataFrame containing the game log for the given date, or None if no game is found.
+    """
+    # Split the player's name into first and last name
+    names = player_name.split()
+    if len(names) != 2:
+        raise ValueError("Player name must be in the format 'FirstName LastName'")
     
-    # Determine the specific period if present (e.g., '1Q', 'Full Game')
-    period = 'Full Game'
-    if '1Q' in bet_condition:
-        period = '1Q'
-    elif '2Q' in bet_condition:
-        period = '2Q'
-    elif '3Q' in bet_condition:
-        period = '3Q'
-    elif '4Q' in bet_condition:
-        period = '4Q'
+    first_name, last_name = names
+    # Create the player's URL based on the naming convention
+    url = f"https://www.basketball-reference.com/players/{last_name[0].lower()}/{last_name[:5].lower()}{first_name[:2].lower()}01/gamelog/{year}"
+
+    try:
+        # Make a request to the URL
+        response = requests.get(url)
+        response.raise_for_status()
+
+        # Parse the HTML content
+        soup = BeautifulSoup(response.content, "html.parser")
+
+        # Locate the game log table
+        table = soup.find("table", {"id": "pgl_basic"})
+
+        if table:
+            # Convert the table to a DataFrame
+            df = pd.read_html(str(table))[0]
+
+            # Check if the DataFrame has multi-level headers
+            if isinstance(df.columns, pd.MultiIndex):
+                # Remove the top level of multi-index headers
+                df.columns = df.columns.droplevel(0)
+
+            # Format the date for comparison
+            formatted_date = pd.to_datetime(date, format="%m_%d_%Y").strftime("%Y-%m-%d")
+
+            # Filter the DataFrame for the specific date
+            filtered_game = df[df['Date'] == formatted_date]
+
+            if not filtered_game.empty:
+                return filtered_game
+            else:
+                print(f"No game found for {player_name} on {formatted_date}.")
+                return None
+        else:
+            print("Game log table not found.")
+            return None
+    except requests.exceptions.RequestException as e:
+        print(f"Error fetching data: {e}")
+        return None
+
+# Example usage
+if __name__ == "__main__":
+    player_name = "LeBron James"
+    year = 2025
+    date = "11_10_2024"  # Example date (March 12, 2025)
+    game_log = scrape_game_log_by_date(player_name, year, date)
     
-    return stat_type, comparison, limit, period
-
-def get_player_stats(game_id, player_name, bet_condition):
-    """Retrieves a player's stats for a given game and verifies if the bet condition was met."""
-    boxscore = boxscoretraditionalv2.BoxScoreTraditionalV2(game_id=game_id)
-    player_stats = boxscore.player_stats.get_data_frame()
-    
-    player_row = player_stats[player_stats['PLAYER_NAME'].str.contains(player_name, case=False)]
-    if not player_row.empty:
-        player_data = player_row.iloc[0]  # Get the first matching row
-        
-        # Parse the bet condition to determine what to check
-        stat_type, comparison, limit, period = parse_bet_condition(bet_condition)
-        
-        # Map stat types to columns in the DataFrame
-        stat_mapping = {
-            'Points': 'PTS',
-            'Rebounds': 'REB',
-            'Assists': 'AST',
-            'Steals': 'STL',
-            'Blocks': 'BLK',
-            'Turnovers': 'TO'
-        }
-        
-        # Extract the relevant stat
-        if stat_type in stat_mapping:
-            stat_value = player_data[stat_mapping[stat_type]]
-            
-            # Perform comparison for full game stats (modify if quarter data is available)
-            if period == 'Full Game':  
-                if comparison == 'Under':
-                    return stat_value < limit
-                elif comparison == 'Over':
-                    return stat_value > limit
-    
-    return None
-
-# User input date (in format MM_DD_YYYY)
-input_date = input("Enter the date (MM_DD_YYYY): ")
-
-# Format the date to YYYY-MM-DD for NBA API
-formatted_date = datetime.strptime(input_date, '%m_%d_%Y').strftime('%Y-%m-%d')
-
-# Load the specific CSV file for the given date
-csv_file_path = f'../nba_saved_csv/nba_betting_data_{input_date}.csv'
-if not os.path.exists(csv_file_path):
-    print(f"CSV file for the date {input_date} does not exist.")
-    exit()
-
-betting_data = pd.read_csv(csv_file_path)
-
-# Add a column for bet result
-betting_data['Bet Hit'] = False
-
-# Process each bet in the DataFrame
-for index, row in betting_data.iterrows():
-    player_name = row['Player Name']
-    opponent_team = row['Matchup'].split(' ')[1]
-    bet_condition = row['Market']
-    
-    # Get game ID for the specific date and opponent
-    game_id = get_game_id_for_date(opponent_team, formatted_date)
-    if game_id:
-        result = get_player_stats(game_id, player_name, bet_condition)
-        if result is not None:
-            betting_data.at[index, 'Bet Hit'] = result
-
-# Save the updated DataFrame to a new CSV file
-output_path = f'../nba_saved_csv/nba_betting_data_verified_{input_date}.csv'
-betting_data.to_csv(output_path, index=False)
-print(f"Updated CSV saved to {output_path}")
+    if game_log is not None:
+        print(game_log)
