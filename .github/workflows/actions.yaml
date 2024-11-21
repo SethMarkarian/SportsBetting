@@ -4,8 +4,6 @@ on:
   schedule:
     ## Run every day at 12:00 PM EST (5:00 PM UTC)
     - cron: "0 17 * * *"
-  workflow_dispatch: # Allow for manual triggers
-
 
 jobs:
   run-nba-scraper:
@@ -60,7 +58,7 @@ jobs:
 
             # Add the file
             git add "$csv_file"
-            git commit -m "Add NBA betting data for ${current_date}"
+            git commit -m "📊 data: add NBA betting data for ${current_date}"
             git push
           else
             echo "CSV file not found, skipping commit."
