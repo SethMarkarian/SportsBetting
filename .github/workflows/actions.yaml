@@ -2,8 +2,8 @@ name: NBA Web Scraper
 
 on:
   schedule:
-    ## Run every day at 12:00 PM EST (5:00 PM UTC)
-    - cron: '8 * * * *'
+    ## Run every day at 10:30 EST (3:30 PM UTC)
+    - cron: '30 15 * * *'
   workflow_dispatch: # Allow for manual triggers
 
 jobs:
