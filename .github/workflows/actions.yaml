@@ -4,6 +4,8 @@ on:
   schedule:
     ## Run every day at 12:00 PM EST (5:00 PM UTC)
     - cron: "0 17 * * *"
+  workflow_dispatch: # Allow for manual triggers
+
 
 jobs:
   run-nba-scraper:
