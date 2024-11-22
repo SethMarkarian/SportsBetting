@@ -39,7 +39,16 @@ jobs:
           # Run the web scraper script
           python nba_webscraper.py
 
-      # Step 5: Commit and push the CSV file using PAT
+      # Step 5: Run the NBA verifier
+      - name: Run NBA verifier
+        run: |
+          # Navigate to the verifier directory (if different) or stay in the same directory
+          cd webscraping
+
+          # Run the verifier script
+          python nba_verifier.py
+
+      # Step 6: Commit and push the CSV file using PAT
       - name: Commit and push CSV file
         run: |
           # Navigate to the parent directory where the CSV file is saved
@@ -49,18 +58,15 @@ jobs:
           current_date=$(date +'%m_%d_%Y')
           csv_file="nba_betting_data_${current_date}.csv"
           
-          # Check if the CSV file exists and commit it
-          if [ -f "$csv_file" ]; then
-            git config --global user.name "github-actions"
-            git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
 
-            # Configure Git to use the GITHUB_TOKEN for authentication
-            git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          # Configure Git to use the GITHUB_TOKEN for authentication
+          git remote set-url origin https://github-actions:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
-            # Add the file
-            git add "$csv_file"
-            git commit -m "📊 data: add NBA betting data for ${current_date}"
-            git push
-          else
-            echo "CSV file not found, skipping commit."
+          # Add the file
+          git add .
+          git commit -m "📊 data: add NBA betting data for ${current_date}"
+          git push
+          
           fi

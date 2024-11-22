@@ -1,140 +1,204 @@
+from basketball_reference_web_scraper import client
+from basketball_reference_web_scraper.data import OutputType
 import pandas as pd
-import requests
-from datetime import datetime
-from nba_api.stats.endpoints import ScoreboardV2, BoxScoreTraditionalV2
-import time
+from datetime import datetime, timedelta
 
-def get_games_and_players_data(date: str):
-    # Convert date from MM_DD_YYYY format to required YYYY-MM-DD
-    date_obj = datetime.strptime(date, "%m_%d_%Y")
-    date_str = date_obj.strftime("%Y-%m-%d")
-    
-    # Get games for the specified date
-    scoreboard = ScoreboardV2(game_date=date_str)
-    games = scoreboard.get_data_frames()[0]  # Dataframe containing game details
-    
-    # Prepare an empty list to collect player stats data
-    all_player_stats = []
-    
-    # Loop through each game to get player stats
-    for game_id in games['GAME_ID']:
-        # Retrieve player stats for the game
-        box_score = BoxScoreTraditionalV2(game_id=game_id)
-        player_stats = box_score.get_data_frames()[0]  # Dataframe containing player stats
-        
-        # Append to the list of all player stats
-        all_player_stats.append(player_stats)
-        
-        # Rate limit handling (avoid hitting API limits)
-        time.sleep(1)  # You may adjust the sleep duration if needed
+# Extended mapping to include all bet types
+stat_map = {
+    "3PTM": "made_three_point_field_goals",
+    "Double Double": None,  # Calculated dynamically
+    "STL+BLK": lambda row: row.get("steals", 0) + row.get("blocks", 0),
+    "Blocks": "blocks",
+    "Assists": "assists",
+    "Turnovers": "turnovers",
+    "Rebounds": "total_rebounds",  # Add total_rebounds to stat_map
+    "Steals": "steals",
+    "REB+AST": lambda row: row.get("total_rebounds", 0) + row.get("assists", 0),
+    "P+A+R": lambda row: row.get("points", 0) + row.get("assists", 0) + row.get("total_rebounds", 0),
+    "PTS+AST": lambda row: row.get("points", 0) + row.get("assists", 0),
+    "PTS+REB": lambda row: row.get("points", 0) + row.get("total_rebounds", 0),
+    "Points": "points",
+}
 
-    # Concatenate all player stats into a single dataframe
-    all_player_stats_df = pd.concat(all_player_stats, ignore_index=True)
-    
-    # Optional: Add game details to player stats for additional context
-    all_player_stats_df = all_player_stats_df.merge(games[['GAME_ID', 'HOME_TEAM_ID', 'VISITOR_TEAM_ID']],
-                                                    on='GAME_ID', how='left')
-    
-    return games, all_player_stats_df
-
-def evaluate_over_under(bet, game_data):
+def fetch_game_logs_for_date(date):
     """
-    Evaluate an over/under bet based on the final score.
+    Fetch all game logs for a specific date.
+
+    Args:
+        date (str): The game date in "MM_DD_YYYY" format.
+
+    Returns:
+        pd.DataFrame: DataFrame containing all game logs for the date.
     """
-    total_score = game_data['PTS_home'] + game_data['PTS_away']
-    if bet['Bet Type'] == 'over':
-        hit = total_score > bet['Bet Value']
-    elif bet['Bet Type'] == 'under':
-        hit = total_score < bet['Bet Value']
+    date_obj = pd.to_datetime(date, format="%m_%d_%Y")
+    try:
+        # Fetch all games for the date
+        games = client.player_box_scores(
+            day=date_obj.day, month=date_obj.month, year=date_obj.year
+        )
+        
+        # Convert to DataFrame for easier handling
+        game_logs_df = pd.DataFrame(games)
+        
+        # Calculate points and add to player data
+        game_logs_df['points'] = (
+            game_logs_df.get('made_field_goals', 0) * 2 +
+            game_logs_df.get('made_three_point_field_goals', 0) * 3 +
+            game_logs_df.get('made_free_throws', 0) * 1
+        )
+        
+        # Ensure total_rebounds is available (it might be named differently, e.g., 'offensive_rebounds' + 'defensive_rebounds')
+        game_logs_df['total_rebounds'] = game_logs_df.get('total_rebounds', 0)
+        if 'offensive_rebounds' in game_logs_df.columns and 'defensive_rebounds' in game_logs_df.columns:
+            game_logs_df['total_rebounds'] = game_logs_df['offensive_rebounds'] + game_logs_df['defensive_rebounds']
+        
+        pd.set_option('display.max_columns', None)  # Shows all columns
+        pd.set_option('display.width', None)  # Allows wide output without wrapping
+
+        return game_logs_df
+    except Exception as e:
+        print(f"Error fetching game logs: {e}")
+        return pd.DataFrame()
+
+def calculate_double_double(player_stats):
+    """
+    Determine if a player achieved a double-double.
+
+    Args:
+        player_stats (dict): The player's stats.
+
+    Returns:
+        bool: True if the player achieved a double-double, False otherwise.
+    """
+    double_double_categories = ["points", "total_rebounds", "assists", "blocks", "steals"]
+    qualifying_stats = 0
+    
+    for stat in double_double_categories:
+        # Convert stat to a numeric value, default to 0 if it's not a valid number
+        try:
+            stat_value = float(player_stats.get(stat, 0))
+            if stat_value >= 10:
+                qualifying_stats += 1
+        except ValueError:
+            print(f"Invalid stat value for {stat}: {player_stats.get(stat, 0)}")
+    
+    return qualifying_stats >= 2
+
+def check_bet_hit(row, player_stats):
+    """
+    Check if a bet hit and calculate the actual value.
+
+    Args:
+        row (pd.Series): Bet details.
+        player_stats (dict): Player stats.
+
+    Returns:
+        Tuple[bool, float]: Whether the bet hit and the actual stat value.
+    """
+    market = row["Market"]
+    stat_name = extract_stat_name(market)
+    if not stat_name or stat_name not in stat_map:
+        return None, None
+
+    threshold = float(market.split()[1])  # Extract threshold (e.g., 0.5, 1.5)
+    over_under = market.split()[0]  # Extract "Over" or "Under"
+
+    # Calculate the actual value
+    if stat_name == "Double Double":
+        actual_value = 1 if calculate_double_double(player_stats) else 0
+    elif callable(stat_map[stat_name]):
+        actual_value = stat_map[stat_name](player_stats)
     else:
-        hit = None
-    return hit, total_score
+        actual_value = player_stats.get(stat_map[stat_name], 0)
 
-def evaluate_spread(bet, game_data):
-    """
-    Evaluate a spread bet based on the final score and spread.
-    """
-    point_diff = game_data['PTS_home'] - game_data['PTS_away']
-    if bet['Team'] == game_data['HOME_TEAM']:
-        hit = point_diff > bet['Bet Value']
-    else:
-        hit = -point_diff > bet['Bet Value']
-    return hit, point_diff
+    # Ensure actual_value is numeric
+    try:
+        actual_value = float(actual_value)
+    except ValueError:
+        print(f"Invalid actual value for {row['Player Name']} in market {market}: {actual_value}")
+        return None, None
 
-def evaluate_moneyline(bet, game_data):
-    """
-    Evaluate a moneyline bet based on the winning team.
-    """
-    winning_team = game_data['HOME_TEAM'] if game_data['PTS_home'] > game_data['PTS_away'] else game_data['AWAY_TEAM']
-    hit = winning_team == bet['Team']
-    return hit, winning_team
+    # Determine if the bet hit
+    bet_hit = (actual_value > threshold if over_under == "Over" else actual_value < threshold)
+    return bet_hit, actual_value
 
-def analyze_bets(games_df, bets_df):
+def extract_stat_name(market):
     """
-    Analyze each bet in bets_df using data from games_df.
-    """
-    # Create lists to store results
-    bet_results = []
-    actual_data = []
+    Extract the statistic type from the market column.
 
-    print(bets_df.columns)
-    
-    for _, bet in bets_df.iterrows():
-        # Find the relevant game in games_df
-        game_data = games_df[
-            (games_df['HOME_TEAM_ID'] == bet['Home Team ID']) &
-            (games_df['VISITOR_TEAM_ID'] == bet['Away Team ID'])
-        ]
-        if game_data.empty:
-            bet_results.append(None)
-            actual_data.append(None)
-            continue
-        
-        # Only take the first matching row if duplicates exist
-        game_data = game_data.iloc[0]
-        
-        # Determine bet type and evaluate it
-        if bet['Bet Type'] in ['over', 'under']:
-            hit, actual = evaluate_over_under(bet, game_data)
-        elif bet['Bet Type'] == 'spread':
-            hit, actual = evaluate_spread(bet, game_data)
-        elif bet['Bet Type'] == 'moneyline':
-            hit, actual = evaluate_moneyline(bet, game_data)
+    Args:
+        market (str): The market description (e.g., "Points Over 30.5").
+
+    Returns:
+        str or None: The key corresponding to the statistic in `stat_map` or None if not found.
+    """
+    for key in stat_map.keys():
+        if key in market:
+            return key
+    return None
+
+
+def evaluate_bets(betting_data, game_logs_df):
+    """
+    Evaluate bets against fetched game logs.
+
+    Args:
+        betting_data (pd.DataFrame): The original betting data.
+        game_logs_df (pd.DataFrame): DataFrame containing all game logs for the date.
+
+    Returns:
+        pd.DataFrame: Updated betting data with results.
+    """
+    results = []
+    current_teams = []
+    for _, row in betting_data.iterrows():
+        # Find the player stats
+        player_stats = game_logs_df[game_logs_df["name"] == row["Player Name"]]
+        if not player_stats.empty:
+            player_stats = player_stats.iloc[0].to_dict()
+            bet_hit, actual_value = check_bet_hit(row, player_stats)
+            results.append((bet_hit, actual_value))
+            current_teams.append(player_stats.get("team", "Unknown"))  # Add current team
         else:
-            hit, actual = None, None
-        
-        # Append results
-        bet_results.append(hit)
-        actual_data.append(actual)
-    
-    # Add results to bets_df
-    bets_df['Bet Hit'] = bet_results
-    bets_df['Actual Result'] = actual_data
-    
-    return bets_df
+            results.append((None, None))
+            current_teams.append("Unknown")
 
-# Load bets CSV and specify game date
-input_date = input("Enter the game date (MM_DD_YYYY): ")
-game_date = datetime.strptime(input_date, "%m_%d_%Y")
-bets_df = pd.read_csv(f'../nba_saved_csv/nba_betting_data_{input_date}.csv')
+    betting_data["Bet Hit"] = [result[0] for result in results]
+    betting_data["Actual Value"] = [result[1] for result in results]
+    return betting_data
 
-# Fetch game stats for the input date
-print("Retrieving game and player data from NBA API...")
-games_df, player_stats_df = get_games_and_players_data(input_date)
-print("Successfully retrieved game and player data")
+def process_betting_csv(file_path, date):
+    """
+    Process the betting CSV file and evaluate bets.
 
-# Save DataFrame to CSV
-# games_df.to_csv('games_df.csv', index=False)
-# player_stats_df.to_csv('games_df.csv', index=False)
+    Args:
+        file_path (str): Path to the betting CSV file.
+        date (str): The game date in "MM_DD_YYYY" format.
 
-# Analyze the bets and add hit results
-print("Analyzing bets...")
-analyzed_bets_df = analyze_bets(games_df, bets_df)
+    Returns:
+        pd.DataFrame: Updated betting data.
+        str: Path to the updated CSV file.
+    """
+    betting_data = pd.read_csv(file_path)
+    game_logs_df = fetch_game_logs_for_date(date)
 
-# Display results
-print(analyzed_bets_df.head())
+    if game_logs_df.empty:
+        print("No game logs fetched. Exiting.")
+        return None, None
 
-# # Save the updated CSV
-# output_path = f'../nba_saved_csv/verified_nba_data_{input_date}.csv'
-# updated_df.to_csv(output_path, index=False)
-# print(f"Updated CSV saved to {output_path}")
+    updated_data = evaluate_bets(betting_data, game_logs_df)
+
+    updated_data.to_csv(input_file, index=False)
+    return updated_data
+
+# Example Usage
+if __name__ == "__main__":  
+    # Load bets CSV
+    # Automatically set the date to yesterday
+    yesterday = datetime.now() - timedelta(days=1)
+    input_date = yesterday.strftime("%m_%d_%Y")
+    input_file = f'../nba_saved_csv/nba_betting_data_{input_date}.csv'
+
+    updated_betting_data = process_betting_csv(input_file, input_date)
+    if updated_betting_data is not None:
+        print(f"Updated data saved to: {input_file}")
