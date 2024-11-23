@@ -68,5 +68,3 @@ jobs:
           git add .
           git commit -m "📊 data: add NBA betting data for ${current_date}"
           git push
-          
-          fi
