@@ -1,5 +1,6 @@
 appdirs==1.4.4
 attrs==24.2.0
+basketball_reference_web_scraper==4.15.2
 beautifulsoup4==4.12.3
 bs4==0.0.2
 certifi==2024.8.30
