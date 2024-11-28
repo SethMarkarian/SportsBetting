@@ -2,6 +2,7 @@ from playwright.sync_api import sync_playwright
 import pandas as pd
 from datetime import date
 from nba_api.stats.static import players
+import os  # To check for file existence
 
 def fetch_nba_trends():
     try:
@@ -89,7 +90,16 @@ def clean():
     # Get current date
     current_date = date.today()
 
-    df = pd.read_csv(f'../nba_saved_csv/nba_betting_data_{current_date.strftime("%m_%d_%Y")}.csv')
+    # Define the file path
+    file_path = f'../nba_saved_csv/nba_betting_data_{current_date.strftime("%m_%d_%Y")}.csv'
+
+    # Check if the file exists
+    if not os.path.exists(file_path):
+        print(f"No data file found for {current_date.strftime('%m-%d-%Y')}. Skipping cleaning process.")
+        return
+
+    # Load the CSV file
+    df = pd.read_csv(file_path)
 
     # Extract player names (assuming column name is 'Player Name' - adjust as necessary)
     player_initials = df['Player Name'].tolist()
@@ -126,11 +136,9 @@ def clean():
     df = df.drop_duplicates()
 
     # Save the updated DataFrame back to the CSV file
-    output_path = f'../nba_saved_csv/nba_betting_data_{current_date.strftime("%m_%d_%Y")}.csv'
-    df.to_csv(output_path, index=False)
+    df.to_csv(file_path, index=False)
 
-    print(f"Updated CSV saved to {output_path}")
-
+    print(f"Updated CSV saved to {file_path}")
 
 # Run the function
 if __name__ == "__main__":
