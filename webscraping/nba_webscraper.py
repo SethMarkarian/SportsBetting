@@ -15,11 +15,21 @@ def fetch_nba_trends():
             page.goto(url)
 
             # Wait for dynamic content to load
-            page.wait_for_selector('.trend-content-header')  # Wait for the player data section
+            try:
+                page.wait_for_selector('.trend-content-header', timeout=5000)  # Wait for the player data section
+            except:
+                print("No NBA games or trends data available today.")
+                browser.close()
+                return  # Exit the function if no data is found
 
             # Extract player data
             players = []
             player_items = page.query_selector_all('.trend-content-header')
+
+            if not player_items:
+                print("No NBA games or trends data available today.")
+                browser.close()
+                return  # Exit the function if no games are found
 
             for item in player_items:
                 try:
@@ -35,6 +45,11 @@ def fetch_nba_trends():
             # Extract insight data
             insights = []
             insight_items = page.query_selector_all('.trend-content-insights')
+
+            if not insight_items:
+                print("No insights data available today.")
+                browser.close()
+                return  # Exit the function if no insights are found
 
             for item in insight_items:
                 try:
@@ -76,7 +91,7 @@ def clean():
 
     df = pd.read_csv(f'../nba_saved_csv/nba_betting_data_{current_date.strftime("%m_%d_%Y")}.csv')
 
-    # Extract player names (assuming column name is 'Player' - adjust as necessary)
+    # Extract player names (assuming column name is 'Player Name' - adjust as necessary)
     player_initials = df['Player Name'].tolist()
 
     # Get the list of NBA players
@@ -106,6 +121,9 @@ def clean():
 
     # Remove "vs." and "@" from the "Opponent" column
     df["Opponent"] = df["Opponent"].str.replace("VS ", "").str.replace("@", "").str.strip()
+
+    # Remove duplicate rows
+    df = df.drop_duplicates()
 
     # Save the updated DataFrame back to the CSV file
     output_path = f'../nba_saved_csv/nba_betting_data_{current_date.strftime("%m_%d_%Y")}.csv'
