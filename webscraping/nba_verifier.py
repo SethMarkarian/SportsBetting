@@ -118,7 +118,6 @@ def check_bet_hit(row, player_stats):
 
     return bet_hit, actual_value
 
-
 def evaluate_bets(betting_data, game_logs_df):
     """
     Evaluate bets against fetched game logs.
@@ -154,6 +153,20 @@ def evaluate_bets(betting_data, game_logs_df):
 
     return betting_data
 
+def remove_empty_bet_hit_rows(dataframe):
+    """
+    Remove rows where the 'Bet Hit' column is empty (NaN or None).
+    
+    Args:
+        dataframe (pd.DataFrame): The input DataFrame.
+
+    Returns:
+        pd.DataFrame: The cleaned DataFrame with non-empty 'Bet Hit' rows.
+    """
+    # Drop rows where 'Bet Hit' is NaN or None
+    cleaned_dataframe = dataframe.dropna(subset=["Bet Hit"])
+    return cleaned_dataframe
+
 def process_betting_csv(file_path, date):
     """
     Process the betting CSV file and evaluate bets.
@@ -178,6 +191,9 @@ def process_betting_csv(file_path, date):
 
     updated_data = evaluate_bets(betting_data, game_logs_df)
 
+    # Remove rows with empty 'Bet Hit' values
+    updated_data = remove_empty_bet_hit_rows(updated_data)
+
     # Save the cleaned and updated data
     updated_data.to_csv(file_path, index=False)
     return updated_data
@@ -191,4 +207,3 @@ if __name__ == "__main__":
     updated_betting_data = process_betting_csv(input_file, input_date)
     if updated_betting_data is not None:
         print(f"Updated data saved to: {input_file}")
-    
