@@ -137,7 +137,7 @@ def evaluate_bets(betting_data, game_logs_df):
             player_stats = player_stats.iloc[0].to_dict()
             bet_hit, actual_value = check_bet_hit(row, player_stats)
         else:
-            bet_hit, actual_value = False, 0  # Default values for missing players
+            bet_hit, actual_value = None, None  # Indicate no data
         
         # Append results
         results.append((bet_hit, actual_value))
@@ -145,6 +145,13 @@ def evaluate_bets(betting_data, game_logs_df):
     # Add results to the DataFrame
     betting_data["Bet Hit"] = [result[0] for result in results]
     betting_data["Actual Value"] = [result[1] for result in results]
+
+    # Drop columns that are entirely empty (all None or NaN)
+    for column in ["Bet Hit", "Actual Value"]:
+        if betting_data[column].isna().all():
+            print(f"Removing empty column: {column}")
+            betting_data.drop(columns=[column], inplace=True)
+
     return betting_data
 
 def process_betting_csv(file_path, date):
@@ -170,8 +177,11 @@ def process_betting_csv(file_path, date):
         return None
 
     updated_data = evaluate_bets(betting_data, game_logs_df)
+
+    # Save the cleaned and updated data
     updated_data.to_csv(file_path, index=False)
     return updated_data
+
 
 if __name__ == "__main__":
     yesterday = datetime.now() - timedelta(days=1)
