@@ -94,29 +94,30 @@ def check_bet_hit(row, player_stats):
     market = row["Market"]
     stat_name = extract_stat_name(market)
     if not stat_name or stat_name not in stat_map:
-        return None, None
+        return False, 0  # Default for missing or unmatched stat
 
-    threshold = float(market.split()[1])  # Extract threshold (e.g., 0.5, 1.5)
-    over_under = market.split()[0]  # Extract "Over" or "Under"
-
-    # Calculate the actual value
-    if stat_name == "Double Double":
-        actual_value = 1 if calculate_double_double(player_stats) else 0
-    elif callable(stat_map[stat_name]):
-        actual_value = stat_map[stat_name](player_stats)
-    else:
-        actual_value = player_stats.get(stat_map[stat_name], 0)
-
-    # Ensure actual_value is numeric
     try:
-        actual_value = float(actual_value)
-    except ValueError:
-        print(f"Invalid actual value for {row['Player Name']} in market {market}: {actual_value}")
-        return None, None
+        threshold = float(market.split()[1])  # Extract threshold (e.g., 0.5, 1.5)
+        over_under = market.split()[0]  # Extract "Over" or "Under"
 
-    # Determine if the bet hit
-    bet_hit = (actual_value > threshold if over_under == "Over" else actual_value < threshold)
+        # Calculate the actual value
+        if stat_name == "Double Double":
+            actual_value = 1 if calculate_double_double(player_stats) else 0
+        elif callable(stat_map[stat_name]):
+            actual_value = stat_map[stat_name](player_stats)
+        else:
+            actual_value = player_stats.get(stat_map[stat_name], 0)
+
+        actual_value = float(actual_value)  # Ensure numeric value
+
+        # Determine if the bet hit
+        bet_hit = (actual_value > threshold if over_under == "Over" else actual_value < threshold)
+    except Exception as e:
+        print(f"Error processing {row['Player Name']} for market {market}: {e}")
+        return False, 0  # Default in case of errors
+
     return bet_hit, actual_value
+
 
 def evaluate_bets(betting_data, game_logs_df):
     """
@@ -136,9 +137,12 @@ def evaluate_bets(betting_data, game_logs_df):
             player_stats = player_stats.iloc[0].to_dict()
             bet_hit, actual_value = check_bet_hit(row, player_stats)
         else:
-            bet_hit, actual_value = None, None
+            bet_hit, actual_value = False, 0  # Default values for missing players
+        
+        # Append results
         results.append((bet_hit, actual_value))
 
+    # Add results to the DataFrame
     betting_data["Bet Hit"] = [result[0] for result in results]
     betting_data["Actual Value"] = [result[1] for result in results]
     return betting_data
@@ -177,3 +181,4 @@ if __name__ == "__main__":
     updated_betting_data = process_betting_csv(input_file, input_date)
     if updated_betting_data is not None:
         print(f"Updated data saved to: {input_file}")
+    
