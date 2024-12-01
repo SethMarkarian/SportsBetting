@@ -1,9 +1,4 @@
 Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
-Jordan Poole,CHI,Over 20.5 Points,-120,Hit in 5 of his last 5 home games,100%,,
-Jordan Poole,CHI,Under 0.5 Blocks,-234,Hit in 8 of his last 8 games,100%,,
-Jordan Poole,CHI,Under 0.5 Blocks,-234,Hit in 4 of his last 4 games vs CHI,100%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Jordan Poole,CHI,Under 8.5 REB+AST,-102,Hit in 4 of his last 4 games vs CHI,100%,,
 Kyle Kuzma,CHI,Under 1.5 STL+BLK,-234,Hit in 9 of his last 9 games,100%,False,2.0
 Kyle Kuzma,CHI,Under 30.5 P+A+R,-111,Hit in 4 of his last 4 games,100%,False,35.0
 Kyle Kuzma,CHI,Under 30.5 P+A+R,-111,Hit in 4 of his last 4 games vs CHI,100%,False,35.0
@@ -17,7 +12,6 @@ Kyle Kuzma,CHI,Under 0.5 Blocks,-224,Hit in 4 of his last 4 games,100%,True,0.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Kyle Kuzma,CHI,Under 0.5 Blocks,-224,Hit in 5 of his last 5 games vs CHI,100%,True,0.0
 Malcolm Brogdon,CHI,Under 1.5 3PTM,-180,Hit in 5 of his last 5 games,100%,True,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Nikola Vučević,WAS,Over 1.5 3PTM,-125,Hit in 4 of his last 4 games,100%,False,1.0
 Coby White,WAS,Over 3.5 Rebounds,108,Hit in 4 of his last 4 games vs WAS,100%,True,8.0
 Coby White,WAS,Under 3.5 3PTM,-122,Hit in 6 of his last 6 games vs WAS,100%,False,5.0
@@ -30,11 +24,9 @@ Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,
 Ayo Dosunmu,WAS,Under 0.5 Blocks,-160,Hit in 6 of his last 6 games vs WAS,100%,False,1.0
 Ayo Dosunmu,WAS,Under 3.5 Rebounds,-104,Hit in 5 of his last 5 games,100%,True,3.0
 Zach LaVine,WAS,Over 27.5 PTS+AST,-113,Hit in 4 of his last 4 games,100%,True,30.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Zach LaVine,WAS,Over 28.5 PTS+REB,-106,Hit in 4 of his last 4 games,100%,False,27.0
 Zach LaVine,WAS,Over 23.5 Points,-104,Hit in 4 of his last 4 games,100%,True,26.0
 Bilal Coulibaly,CHI,Over 1.5 STL+BLK,-199,Hit in 4 of his last 4 games,100%,False,1.0
-Jackie Butler,MIL,Under 4.5 Assists,-115,Hit in 5 of his last 5 games vs MIL,100%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Bam Adebayo,MIL,Over 0.5 3PTM,-142,Hit in 5 of his last 5 games,100%,True,1.0
 Bam Adebayo,MIL,Over 1.5 STL+BLK,-194,Hit in 5 of his last 5 games vs MIL,100%,False,1.0
@@ -43,7 +35,6 @@ Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,
 Bam Adebayo,MIL,Over 1.5 Turnovers,-133,Hit in 8 of his last 8 games vs MIL,100%,False,1.0
 Tyler Herro,MIL,Under 5.5 Assists,-154,Hit in 4 of his last 4 games,100%,True,5.0
 Tyler Herro,MIL,Under 5.5 Assists,-154,Hit in 4 of his last 4 games vs MIL,100%,True,5.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Tyler Herro,MIL,Under 3.5 3PTM,-138,Hit in 5 of his last 5 games vs MIL,100%,True,3.0
 Terry Rozier,MIL,Under 19.5 P+A+R,-113,Hit in 4 of his last 4 games,100%,False,26.0
 Terry Rozier,MIL,Under 15.5 PTS+AST,-108,Hit in 4 of his last 4 games,100%,False,23.0
@@ -59,8 +50,6 @@ Damian Lillard,MIA,Over 3.5 Rebounds,-160,Hit in 7 of his last 7 games,100%,Fals
 Damian Lillard,MIA,Under 0.5 Blocks,-374,Hit in 8 of his last 8 games,100%,False,1.0
 Damian Lillard,MIA,Under 0.5 Blocks,-374,Hit in 5 of his last 5 games vs MIA,100%,False,1.0
 Damian Lillard,MIA,Under 3.5 3PTM,-166,Hit in 6 of his last 6 games,100%,False,8.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Aaron Jackson,MIA,Over 0.5 Turnovers,-184,Hit in 5 of his last 5 away games,100%,,
 Brook Lopez,MIA,Over 18.5 P+A+R,-125,Hit in 4 of his last 4 games,100%,True,24.0
 Brook Lopez,MIA,Over 6.5 REB+AST,-121,Hit in 4 of his last 4 games,100%,False,5.0
 Brook Lopez,MIA,Over 1.5 Turnovers,146,Hit in 9 of his last 9 games vs MIA,100%,False,1.0
@@ -69,14 +58,11 @@ Brook Lopez,MIA,Over 13.5 PTS+AST,-117,Hit in 4 of his last 4 games,100%,True,22
 Brook Lopez,MIA,Under 2.5 STL+BLK,120,Hit in 4 of his last 4 games vs MIA,100%,False,3.0
 Brook Lopez,MIA,Under 2.5 Blocks,-192,Hit in 4 of his last 4 games vs MIA,100%,False,3.0
 Brook Lopez,MIA,Over 0.5 Steals,-160,Hit in 7 of his last 7 games,100%,False,0.0
-Giannis Antetokounmpo,MIA,Over 0.5 Double Double,-300,Hit in 12 of his last 12 away games,100%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Jackie Butler,MIL,Under 1.5 Steals,-210,Hit in 4 of his last 4 games,100%,,
 Haywood Highsmith,MIL,Under 5.5 Points,-113,Hit in 6 of his last 6 games vs MIL,100%,True,2.0
 Julius Randle,HOU,Over 0.5 STL+BLK,-194,Hit in 4 of his last 4 home games,100%,True,1.0
 Julius Randle,HOU,Over 28.5 PTS+REB,-113,Hit in 5 of his last 5 games,100%,False,27.0
 Rudy Gobert,HOU,Over 1.5 Blocks,-162,Hit in 4 of his last 4 games vs HOU,100%,False,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Rudy Gobert,HOU,Over 0.5 Double Double,105,Hit in 5 of his last 5 games,100%,False,0.0
 Rudy Gobert,HOU,Over 0.5 Double Double,105,Hit in 5 of his last 5 games vs HOU,100%,False,0.0
 Rudy Gobert,HOU,Over 10.5 Points,-120,Hit in 5 of his last 5 games vs HOU,100%,False,5.0
@@ -84,27 +70,17 @@ Rudy Gobert,HOU,Under 1.5 Assists,-113,Hit in 5 of his last 5 games vs HOU,100%,
 Rudy Gobert,HOU,Over 11.5 Rebounds,-118,Hit in 4 of his last 4 games vs HOU,100%,True,16.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Rudy Gobert,HOU,Over 23.5 P+A+R,-121,Hit in 5 of his last 5 games vs HOU,100%,False,23.0
-Mike Conley,HOU,Over 1.5 STL+BLK,112,Hit in 4 of his last 4 games,100%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Mike Conley,HOU,Over 1.5 Steals,150,Hit in 4 of his last 4 games,100%,,
-Mike Conley,HOU,Over 2.5 Rebounds,-133,Hit in 4 of his last 4 games,100%,,
-Mike Conley,HOU,Over 4.5 Assists,-130,Hit in 6 of his last 6 games vs HOU,100%,,
 Jaden McDaniels,HOU,Over 1.5 STL+BLK,-184,Hit in 5 of his last 5 home games,100%,False,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Anthony Edwards,HOU,Over 0.5 Steals,-215,Hit in 7 of his last 7 games vs HOU,100%,True,1.0
 Anthony Edwards,HOU,Over 0.5 Steals,-215,Hit in 5 of his last 5 home games,100%,True,1.0
 Anthony Edwards,HOU,Over 1.5 STL+BLK,-129,Hit in 7 of his last 7 games vs HOU,100%,True,4.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Anthony Edwards,HOU,Over 2.5 Turnovers,-148,Hit in 7 of his last 7 games vs HOU,100%,True,3.0
-JR Smith,MIN,Under 0.5 Steals,-129,Hit in 5 of his last 5 games,100%,,
 Fred VanVleet,MIN,Over 1.5 3PTM,-172,Hit in 5 of his last 5 games vs MIN,100%,True,6.0
 Fred VanVleet,MIN,Over 1.5 STL+BLK,-148,Hit in 5 of his last 5 games vs MIN,100%,False,0.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-A. Şengün,MIN,Over 0.5 Steals,-234,Hit in 4 of his last 4 games,100%,,
-A. Şengün,MIN,Under 0.5 Blocks,139,Hit in 4 of his last 4 games,100%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Dillon Brooks,MIN,Over 3.5 REB+AST,-160,Hit in 5 of his last 5 games,100%,True,5.0
-JaMychal Green,MIN,Under 0.5 Blocks,-374,Hit in 8 of his last 8 games,100%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Julius Randle,HOU,Over 21.5 Points,-102,Hit in 4 of his last 4 games,100%,False,21.0
 Rudy Gobert,HOU,Over 22.5 PTS+REB,-120,Hit in 5 of his last 5 games vs HOU,100%,False,21.0
@@ -112,13 +88,7 @@ Dillon Brooks,MIN,Over 0.5 Assists,-244,Hit in 10 of his last 10 games,100%,True
 Dillon Brooks,MIN,Over 0.5 Assists,-244,Hit in 5 of his last 5 games vs MIN,100%,True,2.0
 Dillon Brooks,MIN,Over 0.5 Assists,-244,Hit in 5 of his last 5 away games,100%,True,2.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-A. Şengün,MIN,Under 2.5 STL+BLK,-194,Hit in 5 of his last 5 games,100%,,
 Anthony Edwards,HOU,Under 9.5 REB+AST,106,Hit in 4 of his last 4 games vs HOU,100%,False,11.0
-James Collins,SAS,Under 18.5 Points,-115,Hit in 4 of his last 4 games vs SAS,100%,,
-James Collins,SAS,Over 1.5 STL+BLK,-174,Hit in 5 of his last 5 games vs SAS,100%,,
-James Collins,SAS,Over 1.5 STL+BLK,-174,Hit in 10 of his last 10 home games,100%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-James Collins,SAS,Over 11.5 REB+AST,-113,Hit in 4 of his last 4 home games,100%,,
 Lauri Markkanen,SAS,Under 7.5 Rebounds,-154,Hit in 4 of his last 4 games vs SAS,100%,False,8.0
 Lauri Markkanen,SAS,Over 0.5 STL+BLK,-214,Hit in 6 of his last 6 games vs SAS,100%,True,2.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
@@ -129,10 +99,7 @@ Walker Kessler,SAS,Under 21.5 P+A+R,-117,Hit in 5 of his last 5 games vs SAS,100
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Collin Sexton,SAS,Under 1.5 STL+BLK,-234,Hit in 7 of his last 7 games,100%,True,0.0
 Collin Sexton,SAS,Over 0.5 Steals,-194,Hit in 7 of his last 7 games vs SAS,100%,False,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Collin Sexton,SAS,Over 0.5 Steals,-194,Hit in 4 of his last 4 home games,100%,False,0.0
-Kannard Johnson,UTA,Under 0.5 Blocks,-374,Hit in 4 of his last 4 games,100%,,
-Kannard Johnson,UTA,Under 1.5 3PTM,-192,Hit in 4 of his last 4 games vs UTA,100%,,
 Chris Paul,UTA,Over 9.5 Points,-128,Hit in 5 of his last 5 away games,100%,True,18.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Chris Paul,UTA,Over 1.5 3PTM,-128,Hit in 5 of his last 5 away games,100%,True,2.0
@@ -143,7 +110,6 @@ Victor Wembanyama,UTA,Under 26.5 Points,-122,Hit in 5 of his last 5 games vs UTA
 Victor Wembanyama,UTA,Under 1.5 Steals,-205,Hit in 5 of his last 5 games,100%,True,1.0
 Victor Wembanyama,UTA,Over 4.5 STL+BLK,-142,Hit in 5 of his last 5 games vs UTA,100%,False,4.0
 Harrison Barnes,UTA,Under 0.5 Steals,-103,Hit in 4 of his last 4 games vs UTA,100%,True,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Stephon Castle,UTA,Over 1.5 Turnovers,-166,Hit in 4 of his last 4 games,100%,False,1.0
 Stephon Castle,UTA,Over 2.5 Rebounds,-137,Hit in 4 of his last 4 games,100%,True,3.0
 Julian Champagnie,UTA,Over 1.5 STL+BLK,-109,Hit in 4 of his last 4 games,100%,True,3.0
@@ -152,14 +118,12 @@ Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,Fa
 Victor Wembanyama,UTA,Over 3.5 3PTM,128,Hit in 5 of his last 5 games,100%,True,6.0
 Walker Kessler,SAS,Under 20.5 PTS+REB,-115,Hit in 6 of his last 6 games vs SAS,100%,True,13.0
 Victor Wembanyama,UTA,Over 40.5 P+A+R,-108,Hit in 4 of his last 4 games,100%,True,55.0
-James Collins,SAS,Over 8.5 Rebounds,-146,Hit in 4 of his last 4 home games,100%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Keyonte George,SAS,Over 2.5 Turnovers,-213,Hit in 4 of his last 4 games vs SAS,100%,True,6.0
 Devin Booker,LAL,Under 1.5 Steals,-265,Hit in 4 of his last 4 games,100%,True,1.0
 Kevin Durant,LAL,Over 28.5 PTS+REB,-111,Hit in 4 of his last 4 games,100%,True,35.0
 Kevin Durant,LAL,Over 28.5 PTS+REB,-111,Hit in 7 of his last 7 home games,100%,True,35.0
 Kevin Durant,LAL,Under 2.5 3PTM,-188,Hit in 4 of his last 4 games vs LAL,100%,False,3.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Kevin Durant,LAL,Over 31.5 P+A+R,-115,Hit in 4 of his last 4 games,100%,True,37.0
 Kevin Durant,LAL,Over 31.5 P+A+R,-115,Hit in 7 of his last 7 home games,100%,True,37.0
 Kevin Durant,LAL,Over 0.5 Blocks,-172,Hit in 5 of his last 5 games vs LAL,100%,False,0.0
@@ -171,11 +135,8 @@ Kevin Durant,LAL,Over 8.5 REB+AST,-120,Hit in 7 of his last 7 home games,100%,Fa
 Jusuf Nurkić,LAL,Over 0.5 Steals,-244,Hit in 4 of his last 4 home games,100%,True,1.0
 Jusuf Nurkić,LAL,Over 1.5 Turnovers,-148,Hit in 10 of his last 10 games vs LAL,100%,False,0.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Terrence Jones,LAL,Over 0.5 Steals,-200,Hit in 5 of his last 5 games vs LAL,100%,,
-Terrence Jones,LAL,Over 0.5 Turnovers,-204,Hit in 5 of his last 5 games vs LAL,100%,,
 Bradley Beal,LAL,Over 1.5 STL+BLK,100,Hit in 5 of his last 5 home games,100%,False,1.0
 Bradley Beal,LAL,Over 18.5 PTS+AST,-113,Hit in 5 of his last 5 games vs LAL,100%,True,31.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Bradley Beal,LAL,Over 14.5 Points,-115,Hit in 5 of his last 5 games vs LAL,100%,True,29.0
 Bradley Beal,LAL,Over 0.5 Steals,-200,Hit in 4 of his last 4 games vs LAL,100%,False,0.0
 Bradley Beal,LAL,Over 0.5 Steals,-200,Hit in 5 of his last 5 home games,100%,False,0.0
@@ -189,7 +150,6 @@ Austin Reaves,PHX,Under 3.5 Rebounds,-150,Hit in 7 of his last 7 games,100%,True
 Anthony Davis,PHX,Over 2.5 STL+BLK,-154,Hit in 4 of his last 4 games vs PHX,100%,True,5.0
 Anthony Davis,PHX,Under 0.5 3PTM,-117,Hit in 6 of his last 6 games vs PHX,100%,True,0.0
 Anthony Davis,PHX,Over 1.5 Blocks,-128,Hit in 5 of his last 5 games vs PHX,100%,True,4.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Anthony Davis,PHX,Over 40.5 PTS+REB,-111,Hit in 4 of his last 4 away games,100%,False,40.0
 Anthony Davis,PHX,Over 31.5 PTS+AST,-115,Hit in 4 of his last 4 away games,100%,False,30.0
 Anthony Davis,PHX,Over 43.5 P+A+R,-113,Hit in 4 of his last 4 away games,100%,True,45.0
@@ -198,14 +158,10 @@ Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,Fa
 Anthony Davis,PHX,Over 0.5 Double Double,-240,Hit in 19 of his last 20 away games,95%,True,1.0
 Terry Rozier,MIL,Over 11.5 Points,-128,Hit in 17 of his last 18 home games,94%,True,23.0
 Nikola Vučević,WAS,Under 3.5 Assists,-184,Hit in 10 of his last 11 games,91%,False,4.0
-Terrence Jones,LAL,Under 1.5 3PTM,102,Hit in 10 of his last 11 games vs LAL,91%,,
 Malcolm Brogdon,CHI,Over 23.5 P+A+R,-113,Hit in 9 of his last 10 home games,90%,True,25.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Malcolm Brogdon,CHI,Over 18.5 PTS+REB,-104,Hit in 9 of his last 10 home games,90%,True,21.0
-Giannis Antetokounmpo,MIA,Over 1.5 STL+BLK,-154,Hit in 9 of his last 10 games,90%,,
-Giannis Antetokounmpo,MIA,Over 0.5 Blocks,-244,Hit in 9 of his last 10 games,90%,,
 Harrison Barnes,UTA,Under 0.5 Blocks,-354,Hit in 9 of his last 10 games vs UTA,90%,True,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Kevin Durant,LAL,Over 0.5 Blocks,-172,Hit in 9 of his last 10 games,90%,False,0.0
 Bilal Coulibaly,CHI,Under 1.5 3PTM,-224,Hit in 8 of his last 9 games,89%,True,0.0
 Malcolm Brogdon,CHI,Over 0.5 Steals,-109,Hit in 8 of his last 9 home games,89%,False,0.0
@@ -213,40 +169,28 @@ Malcolm Brogdon,CHI,Over 0.5 STL+BLK,-154,Hit in 8 of his last 9 home games,89%,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Bam Adebayo,MIL,Over 0.5 Steals,-224,Hit in 8 of his last 9 games vs MIL,89%,True,1.0
 Harrison Barnes,UTA,Over 1.5 3PTM,126,Hit in 8 of his last 9 games vs UTA,89%,False,0.0
-Terrence Jones,LAL,Under 10.5 Points,-120,Hit in 8 of his last 9 games vs LAL,89%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Bradley Beal,LAL,Over 1.5 STL+BLK,100,Hit in 8 of his last 9 games,89%,False,1.0
 Bradley Beal,LAL,Over 14.5 Points,-115,Hit in 8 of his last 9 games,89%,True,29.0
 Bradley Beal,LAL,Over 0.5 Steals,-200,Hit in 8 of his last 9 games,89%,False,0.0
 LeBron James,PHX,Under 1.5 Steals,-265,Hit in 8 of his last 9 games,89%,True,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 7 of his last 8 home games,88%,False,1.0
 Josh Giddey,WAS,Over 1.5 Turnovers,-142,Hit in 7 of his last 8 away games,88%,True,3.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Jackie Butler,MIL,Under 0.5 Blocks,-314,Hit in 7 of his last 8 games,88%,,
-Jackie Butler,MIL,Over 20.5 Points,-111,Hit in 7 of his last 8 games vs MIL,88%,,
-Giannis Antetokounmpo,MIA,Over 0.5 Double Double,-300,Hit in 14 of his last 16 games,88%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Jaden McDaniels,HOU,Over 1.5 STL+BLK,-184,Hit in 7 of his last 8 games,88%,False,1.0
 Anthony Edwards,HOU,Over 3.5 3PTM,-132,Hit in 7 of his last 8 home games,88%,False,3.0
 Fred VanVleet,MIN,Over 1.5 STL+BLK,-148,Hit in 7 of his last 8 games,88%,False,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Fred VanVleet,MIN,Over 9.5 REB+AST,-128,Hit in 7 of his last 8 games,88%,True,19.0
-James Collins,SAS,Over 1.5 STL+BLK,-174,Hit in 7 of his last 8 games,88%,,
-James Collins,SAS,Under 30.5 P+A+R,-113,Hit in 7 of his last 8 games vs SAS,88%,,
-James Collins,SAS,Under 28.5 PTS+REB,-120,Hit in 7 of his last 8 games vs SAS,88%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-James Collins,SAS,Over 0.5 Blocks,-125,Hit in 7 of his last 8 home games,88%,,
 Lauri Markkanen,SAS,Over 23.5 Points,-102,Hit in 7 of his last 8 games vs SAS,88%,False,14.0
 Lauri Markkanen,SAS,Over 30.5 PTS+REB,-111,Hit in 7 of his last 8 games vs SAS,88%,False,22.0
 Walker Kessler,SAS,Over 2.5 STL+BLK,-174,Hit in 7 of his last 8 games,88%,False,2.0
 Collin Sexton,SAS,Under 4.5 Assists,-172,Hit in 7 of his last 8 games,88%,True,4.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Kannard Johnson,UTA,Over 0.5 Turnovers,-154,Hit in 7 of his last 8 games vs UTA,88%,,
 Keyonte George,SAS,Under 6.5 Assists,-113,Hit in 7 of his last 8 games,88%,False,7.0
 Lauri Markkanen,SAS,Over 25.5 PTS+AST,-129,Hit in 7 of his last 8 games vs SAS,88%,False,16.0
 Lauri Markkanen,SAS,Over 32.5 P+A+R,-129,Hit in 7 of his last 8 games vs SAS,88%,False,24.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Kevin Durant,LAL,Over 31.5 P+A+R,-115,Hit in 7 of his last 8 games vs LAL,88%,True,37.0
 Kevin Durant,LAL,Over 25.5 PTS+AST,-118,Hit in 7 of his last 8 games vs LAL,88%,True,31.0
 Jusuf Nurkić,LAL,Over 1.5 Assists,108,Hit in 7 of his last 8 games vs LAL,88%,True,3.0
@@ -259,23 +203,17 @@ Malcolm Brogdon,CHI,Over 8.5 REB+AST,-115,Hit in 6 of his last 7 home games,86%,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Josh Giddey,WAS,Under 1.5 3PTM,-244,Hit in 6 of his last 7 games,86%,True,0.0
 Coby White,WAS,Over 1.5 Turnovers,-154,Hit in 6 of his last 7 away games,86%,False,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Terry Rozier,MIL,Over 0.5 Turnovers,-234,Hit in 6 of his last 7 games,86%,True,2.0
-Giannis Antetokounmpo,MIA,Over 5.5 Assists,-140,Hit in 6 of his last 7 games,86%,,
-Mike Conley,HOU,Under 1.5 Turnovers,-204,Hit in 6 of his last 7 games,86%,,
 Jaden McDaniels,HOU,Over 5.5 REB+AST,-113,Hit in 6 of his last 7 games,86%,True,7.0
 Jaden McDaniels,HOU,Over 3.5 Rebounds,-148,Hit in 6 of his last 7 games,86%,True,5.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Jaden McDaniels,HOU,Under 1.5 3PTM,-128,Hit in 6 of his last 7 games vs HOU,86%,True,1.0
 Anthony Edwards,HOU,Under 5.5 Rebounds,-130,Hit in 6 of his last 7 games,86%,False,10.0
-JR Smith,MIN,Over 0.5 Assists,-224,Hit in 6 of his last 7 games,86%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Collin Sexton,SAS,Under 23.5 PTS+AST,-118,Hit in 6 of his last 7 games,86%,False,28.0
 Collin Sexton,SAS,Over 1.5 3PTM,-142,Hit in 6 of his last 7 games,86%,True,2.0
 Collin Sexton,SAS,Under 21.5 PTS+REB,-117,Hit in 6 of his last 7 games,86%,False,26.0
 Collin Sexton,SAS,Under 25.5 P+A+R,-106,Hit in 6 of his last 7 games,86%,False,30.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Kannard Johnson,UTA,Under 1.5 3PTM,-192,Hit in 6 of his last 7 games,86%,,
 Chris Paul,UTA,Over 1.5 STL+BLK,-154,Hit in 6 of his last 7 games,86%,True,4.0
 Devin Booker,LAL,Under 1.5 Steals,-265,Hit in 6 of his last 7 games vs LAL,86%,True,1.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
@@ -287,9 +225,7 @@ LeBron James,PHX,Under 0.5 Blocks,-274,Hit in 6 of his last 7 games,86%,True,0.0
 LeBron James,PHX,Under 1.5 STL+BLK,-148,Hit in 6 of his last 7 games,86%,True,0.0
 Rui Hachimura,PHX,Under 16.5 P+A+R,-117,Hit in 6 of his last 7 games,86%,True,11.0
 Rui Hachimura,PHX,Under 15.5 PTS+REB,-111,Hit in 6 of his last 7 games,86%,True,10.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Rui Hachimura,PHX,Under 11.5 Points,-128,Hit in 6 of his last 7 games,86%,True,9.0
-Giannis Antetokounmpo,MIA,Under 0.5 3PTM,-264,Hit in 17 of his last 20 games,85%,,
 Jusuf Nurkić,LAL,Over 10.5 REB+AST,100,Hit in 17 of his last 20 home games,85%,True,15.0
 Bilal Coulibaly,CHI,Under 19.5 PTS+REB,-115,Hit in 5 of his last 6 games,83%,True,11.0
 Bilal Coulibaly,CHI,Under 15.5 PTS+AST,-108,Hit in 5 of his last 6 games,83%,True,13.0
@@ -302,7 +238,6 @@ Coby White,WAS,Under 24.5 PTS+AST,-115,Hit in 5 of his last 6 games vs WAS,83%,F
 Coby White,WAS,Over 0.5 Steals,-199,Hit in 5 of his last 6 games vs WAS,83%,True,1.0
 Coby White,WAS,Under 4.5 Assists,-111,Hit in 5 of his last 6 games vs WAS,83%,True,2.0
 Coby White,WAS,Under 8.5 REB+AST,-138,Hit in 5 of his last 6 games vs WAS,83%,False,10.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Coby White,WAS,Under 0.5 Blocks,-384,Hit in 5 of his last 6 games vs WAS,83%,True,0.0
 Ayo Dosunmu,WAS,Under 13.5 Points,-111,Hit in 5 of his last 6 games vs WAS,83%,False,14.0
 Ayo Dosunmu,WAS,Under 22.5 P+A+R,-120,Hit in 5 of his last 6 games vs WAS,83%,True,20.0
@@ -314,42 +249,22 @@ Ayo Dosunmu,WAS,Under 18.5 PTS+AST,-120,Hit in 5 of his last 6 games vs WAS,83%,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Ayo Dosunmu,WAS,Under 1.5 STL+BLK,-160,Hit in 15 of his last 18 games,83%,False,3.0
 Ayo Dosunmu,WAS,Under 1.5 STL+BLK,-160,Hit in 5 of his last 6 games vs WAS,83%,False,3.0
-Jackie Butler,MIL,Over 26.5 PTS+REB,-104,Hit in 5 of his last 6 games vs MIL,83%,,
-Jackie Butler,MIL,Over 25.5 PTS+AST,-113,Hit in 5 of his last 6 games vs MIL,83%,,
-Jackie Butler,MIL,Over 1.5 STL+BLK,108,Hit in 5 of his last 6 home games,83%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Bam Adebayo,MIL,Over 13.5 REB+AST,-138,Hit in 5 of his last 6 games,83%,False,10.0
 Tyler Herro,MIL,Over 0.5 STL+BLK,-154,Hit in 5 of his last 6 home games,83%,True,1.0
 Terry Rozier,MIL,Over 0.5 Steals,-160,Hit in 5 of his last 6 games,83%,False,0.0
 Taurean Prince,MIA,Over 0.5 Turnovers,-154,Hit in 5 of his last 6 away games,83%,True,1.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Giannis Antetokounmpo,MIA,Over 48.5 P+A+R,-117,Hit in 5 of his last 6 games,83%,,
-Giannis Antetokounmpo,MIA,Over 0.5 Blocks,-244,Hit in 5 of his last 6 away games,83%,,
-Aaron Jackson,MIA,Under 0.5 Blocks,-354,Hit in 5 of his last 6 games,83%,,
 Rudy Gobert,HOU,Over 1.5 Turnovers,116,Hit in 5 of his last 6 home games,83%,False,1.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Rudy Gobert,HOU,Under 13.5 REB+AST,-137,Hit in 5 of his last 6 games,83%,False,18.0
-Mike Conley,HOU,Over 7.5 REB+AST,-121,Hit in 5 of his last 6 games vs HOU,83%,,
-Mike Conley,HOU,Over 13.5 PTS+AST,-125,Hit in 5 of his last 6 games vs HOU,83%,,
 Fred VanVleet,MIN,Under 0.5 Blocks,-304,Hit in 5 of his last 6 games,83%,True,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-A. Şengün,MIN,Under 28.5 PTS+REB,-117,Hit in 5 of his last 6 games vs MIN,83%,,
 Dillon Brooks,MIN,Under 1.5 3PTM,-113,Hit in 5 of his last 6 games vs MIN,83%,False,4.0
 Dillon Brooks,MIN,Over 3.5 REB+AST,-160,Hit in 5 of his last 6 away games,83%,True,5.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-JaMychal Green,MIN,Under 23.5 PTS+REB,-108,Hit in 5 of his last 6 games,83%,,
-JaMychal Green,MIN,Under 2.5 Assists,-102,Hit in 5 of his last 6 games,83%,,
-JR Smith,MIN,Under 0.5 Turnovers,146,Hit in 5 of his last 6 games,83%,,
-A. Şengün,MIN,Under 2.5 STL+BLK,-194,Hit in 5 of his last 6 games vs MIN,83%,,
-James Collins,SAS,Under 1.5 3PTM,-174,Hit in 5 of his last 6 games,83%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Lauri Markkanen,SAS,Over 0.5 Steals,-154,Hit in 5 of his last 6 games vs SAS,83%,True,2.0
 Walker Kessler,SAS,Under 10.5 Rebounds,-122,Hit in 5 of his last 6 games vs SAS,83%,True,7.0
 Walker Kessler,SAS,Over 2.5 Blocks,112,Hit in 5 of his last 6 games,83%,False,2.0
-Kannard Johnson,UTA,Under 0.5 Blocks,-374,Hit in 5 of his last 6 games vs UTA,83%,,
-Kannard Johnson,UTA,Under 4.5 Rebounds,100,Hit in 5 of his last 6 games vs UTA,83%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Kannard Johnson,UTA,Under 13.5 Points,-128,Hit in 5 of his last 6 games,83%,,
 Chris Paul,UTA,Over 3.5 Rebounds,118,Hit in 5 of his last 6 away games,83%,False,1.0
 Harrison Barnes,UTA,Under 0.5 Turnovers,-103,Hit in 5 of his last 6 games,83%,True,0.0
 Harrison Barnes,UTA,Under 6.5 REB+AST,-154,Hit in 5 of his last 6 games vs UTA,83%,False,13.0
@@ -362,12 +277,10 @@ Julian Champagnie,UTA,Over 0.5 Steals,-199,Hit in 5 of his last 6 games vs UTA,8
 Devin Booker,LAL,Under 9.5 REB+AST,-102,Hit in 5 of his last 6 games,83%,False,12.0
 Devin Booker,LAL,Under 5.5 Assists,122,Hit in 5 of his last 6 games,83%,False,10.0
 Kevin Durant,LAL,Over 0.5 Blocks,-172,Hit in 5 of his last 6 home games,83%,False,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Kevin Durant,LAL,Over 5.5 Rebounds,-113,Hit in 5 of his last 6 home games,83%,True,6.0
 Kevin Durant,LAL,Over 2.5 Assists,-142,Hit in 5 of his last 6 games,83%,False,2.0
 Kevin Durant,LAL,Under 0.5 Steals,164,Hit in 5 of his last 6 games vs LAL,83%,True,0.0
 Jusuf Nurkić,LAL,Under 0.5 Blocks,-121,Hit in 5 of his last 6 games,83%,False,1.0
-Terrence Jones,LAL,Over 6.5 Assists,-108,Hit in 5 of his last 6 games,83%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Bradley Beal,LAL,Over 18.5 PTS+AST,-113,Hit in 15 of his last 18 games,83%,True,31.0
 Bradley Beal,LAL,Over 0.5 Blocks,108,Hit in 5 of his last 6 home games,83%,True,1.0
@@ -380,32 +293,24 @@ Dalton Knecht,PHX,Over 10.5 Points,-113,Hit in 5 of his last 6 games,83%,False,9
 Cam Reddish,PHX,Over 3.5 Points,-120,Hit in 5 of his last 6 games,83%,False,0.0
 Austin Reaves,PHX,Over 1.5 Turnovers,-166,Hit in 5 of his last 6 games vs PHX,83%,False,1.0
 Anthony Davis,PHX,Over 0.5 Double Double,-240,Hit in 5 of his last 6 games,83%,True,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Anthony Davis,PHX,Under 1.5 Steals,-235,Hit in 5 of his last 6 games vs PHX,83%,True,1.0
 Bradley Beal,LAL,Over 18.5 PTS+REB,-106,Hit in 5 of his last 6 games,83%,True,31.0
-Mike Conley,HOU,Over 2.5 Rebounds,-133,Hit in 14 of his last 17 home games,82%,,
 Anthony Edwards,HOU,Over 3.5 3PTM,-132,Hit in 14 of his last 17 games,82%,False,3.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Terrence Jones,LAL,Over 0.5 Turnovers,-204,Hit in 14 of his last 17 home games,82%,,
 Nikola Vučević,WAS,Over 1.5 Turnovers,-142,Hit in 9 of his last 11 games,82%,False,1.0
 Nikola Vučević,WAS,Under 14.5 REB+AST,-129,Hit in 9 of his last 11 games,82%,False,16.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Jaden McDaniels,HOU,Under 1.5 Turnovers,-224,Hit in 9 of his last 11 games,82%,True,0.0
 Fred VanVleet,MIN,Over 1.5 3PTM,-172,Hit in 9 of his last 11 away games,82%,True,6.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Kevin Durant,LAL,Over 22.5 Points,-113,Hit in 9 of his last 11 games,82%,True,29.0
-JR Smith,MIN,Under 1.5 STL+BLK,-234,Hit in 13 of his last 16 games,81%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Bilal Coulibaly,CHI,Over 8.5 REB+AST,-125,Hit in 4 of his last 5 games,80%,False,8.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Jordan Poole,CHI,Over 20.5 Points,-120,Hit in 4 of his last 5 games,80%,,
 Kyle Kuzma,CHI,Under 1.5 STL+BLK,-234,Hit in 4 of his last 5 games vs CHI,80%,False,2.0
 Malcolm Brogdon,CHI,Under 1.5 Turnovers,-204,Hit in 4 of his last 5 games,80%,False,2.0
 Malcolm Brogdon,CHI,Over 19.5 PTS+AST,-118,Hit in 8 of his last 10 home games,80%,False,19.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Malcolm Brogdon,CHI,Over 4.5 Assists,-130,Hit in 8 of his last 10 home games,80%,False,4.0
 Malcolm Brogdon,CHI,Over 14.5 Points,-108,Hit in 8 of his last 10 home games,80%,True,15.0
 Malcolm Brogdon,CHI,Over 0.5 STL+BLK,-154,Hit in 4 of his last 5 games vs CHI,80%,False,0.0
@@ -419,24 +324,18 @@ Nikola Vučević,WAS,Over 0.5 Double Double,-300,Hit in 4 of his last 5 games vs
 Coby White,WAS,Under 3.5 3PTM,-122,Hit in 4 of his last 5 games,80%,False,5.0
 Ayo Dosunmu,WAS,Under 0.5 Blocks,-160,Hit in 4 of his last 5 games,80%,False,1.0
 Ayo Dosunmu,WAS,Under 13.5 Points,-111,Hit in 4 of his last 5 games,80%,False,14.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Ayo Dosunmu,WAS,Under 22.5 P+A+R,-120,Hit in 4 of his last 5 games,80%,True,20.0
 Ayo Dosunmu,WAS,Under 17.5 PTS+REB,-113,Hit in 4 of his last 5 games,80%,True,17.0
 Ayo Dosunmu,WAS,Under 8.5 REB+AST,-140,Hit in 4 of his last 5 games,80%,True,6.0
 Ayo Dosunmu,WAS,Under 18.5 PTS+AST,-120,Hit in 4 of his last 5 games,80%,True,17.0
 Ayo Dosunmu,WAS,Under 3.5 Rebounds,-104,Hit in 4 of his last 5 games vs WAS,80%,True,3.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Jordan Poole,CHI,Under 27.5 PTS+AST,-122,Hit in 8 of his last 10 games,80%,,
-Jackie Butler,MIL,Over 26.5 PTS+REB,-104,Hit in 4 of his last 5 home games,80%,,
-Jackie Butler,MIL,Over 25.5 PTS+AST,-113,Hit in 4 of his last 5 home games,80%,,
-Jackie Butler,MIL,Over 20.5 Points,-111,Hit in 4 of his last 5 home games,80%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Bam Adebayo,MIL,Over 10.5 Rebounds,-104,Hit in 4 of his last 5 games,80%,False,5.0
 Bam Adebayo,MIL,Over 0.5 Double Double,-140,Hit in 4 of his last 5 games vs MIL,80%,False,0.0
 Bam Adebayo,MIL,Over 0.5 Steals,-224,Hit in 4 of his last 5 home games,80%,True,1.0
 Bam Adebayo,MIL,Over 20.5 PTS+AST,-122,Hit in 4 of his last 5 games,80%,True,23.0
 Bam Adebayo,MIL,Over 13.5 REB+AST,-138,Hit in 4 of his last 5 games vs MIL,80%,False,10.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Bam Adebayo,MIL,Over 3.5 Assists,102,Hit in 4 of his last 5 games vs MIL,80%,True,5.0
 Bam Adebayo,MIL,Over 3.5 Assists,102,Hit in 4 of his last 5 home games,80%,True,5.0
 Bam Adebayo,MIL,Over 31.5 P+A+R,-111,Hit in 4 of his last 5 games,80%,False,28.0
@@ -449,25 +348,14 @@ Taurean Prince,MIA,Over 0.5 Steals,-125,Hit in 4 of his last 5 games,80%,False,0
 Taurean Prince,MIA,Over 0.5 Turnovers,-154,Hit in 4 of his last 5 games,80%,True,1.0
 Taurean Prince,MIA,Over 0.5 STL+BLK,-184,Hit in 4 of his last 5 games,80%,False,0.0
 Damian Lillard,MIA,Over 2.5 Turnovers,-137,Hit in 4 of his last 5 games vs MIA,80%,True,4.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Giannis Antetokounmpo,MIA,Over 11.5 Rebounds,-118,Hit in 8 of his last 10 away games,80%,,
-Giannis Antetokounmpo,MIA,Over 1.5 STL+BLK,-154,Hit in 4 of his last 5 away games,80%,,
-Giannis Antetokounmpo,MIA,Over 3.5 Turnovers,-113,Hit in 4 of his last 5 games vs MIA,80%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Giannis Antetokounmpo,MIA,Over 0.5 Blocks,-244,Hit in 4 of his last 5 games vs MIA,80%,,
-Aaron Jackson,MIA,Under 1.5 Assists,-133,Hit in 4 of his last 5 games,80%,,
-Aaron Jackson,MIA,Under 0.5 STL+BLK,139,Hit in 4 of his last 5 games,80%,,
-Aaron Jackson,MIA,Under 0.5 Steals,-113,Hit in 4 of his last 5 games,80%,,
 Brook Lopez,MIA,Over 18.5 P+A+R,-125,Hit in 4 of his last 5 games vs MIA,80%,True,24.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Brook Lopez,MIA,Over 6.5 REB+AST,-121,Hit in 4 of his last 5 games vs MIA,80%,False,5.0
 Brook Lopez,MIA,Over 13.5 PTS+AST,-117,Hit in 4 of his last 5 games vs MIA,80%,True,22.0
 Damian Lillard,MIA,Under 11.5 REB+AST,-130,Hit in 4 of his last 5 games vs MIA,80%,False,15.0
 Damian Lillard,MIA,Under 30.5 PTS+AST,-115,Hit in 4 of his last 5 games vs MIA,80%,False,65.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Damian Lillard,MIA,Under 34.5 P+A+R,-108,Hit in 4 of his last 5 games vs MIA,80%,False,68.0
-Giannis Antetokounmpo,MIA,Over 0.5 Double Double,-300,Hit in 4 of his last 5 games vs MIA,80%,,
-Jackie Butler,MIL,Over 31.5 P+A+R,-104,Hit in 4 of his last 5 home games,80%,,
 Tyler Herro,MIL,Under 5.5 Rebounds,-166,Hit in 4 of his last 5 games,80%,True,5.0
 Tyler Herro,MIL,Under 5.5 Rebounds,-166,Hit in 4 of his last 5 games vs MIL,80%,True,5.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
@@ -476,10 +364,6 @@ Rudy Gobert,HOU,Over 10.5 Points,-120,Hit in 4 of his last 5 games,80%,False,5.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Rudy Gobert,HOU,Under 0.5 Steals,-109,Hit in 4 of his last 5 games,80%,True,0.0
 Rudy Gobert,HOU,Over 2.5 STL+BLK,-125,Hit in 4 of his last 5 home games,80%,False,1.0
-Mike Conley,HOU,Under 11.5 PTS+REB,-109,Hit in 4 of his last 5 games,80%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Mike Conley,HOU,Under 8.5 Points,-111,Hit in 4 of his last 5 games,80%,,
-Mike Conley,HOU,Under 16.5 P+A+R,-113,Hit in 4 of his last 5 games,80%,,
 Jaden McDaniels,HOU,Under 13.5 PTS+AST,-129,Hit in 4 of his last 5 games vs HOU,80%,True,13.0
 Jaden McDaniels,HOU,Under 17.5 P+A+R,-113,Hit in 4 of his last 5 games vs HOU,80%,False,18.0
 Jaden McDaniels,HOU,Under 15.5 PTS+REB,-122,Hit in 4 of his last 5 games vs HOU,80%,False,16.0
@@ -492,9 +376,6 @@ Fred VanVleet,MIN,Over 3.5 Rebounds,106,Hit in 4 of his last 5 away games,80%,Tr
 Fred VanVleet,MIN,Over 1.5 STL+BLK,-148,Hit in 12 of his last 15 away games,80%,False,0.0
 Fred VanVleet,MIN,Over 1.5 Steals,-106,Hit in 4 of his last 5 games vs MIN,80%,False,0.0
 Fred VanVleet,MIN,Under 1.5 Turnovers,-166,Hit in 4 of his last 5 games,80%,True,1.0
-A. Şengün,MIN,Under 0.5 3PTM,-234,Hit in 4 of his last 5 games,80%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-A. Şengün,MIN,Over 2.5 Turnovers,108,Hit in 4 of his last 5 games vs MIN,80%,,
 Dillon Brooks,MIN,Over 0.5 Steals,-125,Hit in 4 of his last 5 games vs MIN,80%,False,0.0
 Dillon Brooks,MIN,Over 11.5 Points,-106,Hit in 4 of his last 5 away games,80%,True,30.0
 Dillon Brooks,MIN,Over 14.5 PTS+REB,-113,Hit in 4 of his last 5 away games,80%,True,33.0
@@ -506,15 +387,10 @@ Dillon Brooks,MIN,Over 0.5 STL+BLK,-174,Hit in 4 of his last 5 games vs MIN,80%,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Dillon Brooks,MIN,Over 0.5 STL+BLK,-174,Hit in 8 of his last 10 away games,80%,False,0.0
 Dillon Brooks,MIN,Over 15.5 P+A+R,-113,Hit in 4 of his last 5 away games,80%,True,35.0
-JaMychal Green,MIN,Under 0.5 Steals,133,Hit in 4 of his last 5 games vs MIN,80%,,
-JaMychal Green,MIN,Under 1.5 STL+BLK,-199,Hit in 4 of his last 5 games vs MIN,80%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Jaden McDaniels,HOU,Under 10.5 Points,100,Hit in 4 of his last 5 games vs HOU,80%,False,11.0
 Rudy Gobert,HOU,Over 12.5 PTS+AST,-103,Hit in 4 of his last 5 games vs HOU,80%,False,7.0
 Dillon Brooks,MIN,Under 1.5 Turnovers,-244,Hit in 16 of his last 20 games,80%,False,2.0
-James Collins,SAS,Under 18.5 Points,-115,Hit in 4 of his last 5 games,80%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-James Collins,SAS,Under 2.5 Assists,-174,Hit in 4 of his last 5 games,80%,,
 Keyonte George,SAS,Under 15.5 Points,-115,Hit in 4 of his last 5 games vs SAS,80%,False,38.0
 Keyonte George,SAS,Under 22.5 PTS+AST,-113,Hit in 4 of his last 5 games vs SAS,80%,False,45.0
 Keyonte George,SAS,Under 2.5 3PTM,102,Hit in 4 of his last 5 games vs SAS,80%,False,6.0
@@ -524,22 +400,16 @@ Lauri Markkanen,SAS,Under 1.5 Turnovers,104,Hit in 4 of his last 5 games vs SAS,
 Lauri Markkanen,SAS,Over 23.5 Points,-102,Hit in 4 of his last 5 games,80%,False,14.0
 Walker Kessler,SAS,Over 2.5 STL+BLK,-174,Hit in 4 of his last 5 home games,80%,False,2.0
 Walker Kessler,SAS,Over 1.5 Turnovers,116,Hit in 4 of his last 5 games,80%,False,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Walker Kessler,SAS,Under 11.5 REB+AST,104,Hit in 4 of his last 5 games vs SAS,80%,True,8.0
 Walker Kessler,SAS,Under 1.5 Assists,-133,Hit in 4 of his last 5 games vs SAS,80%,True,1.0
 Collin Sexton,SAS,Under 2.5 Rebounds,-129,Hit in 4 of his last 5 games,80%,True,2.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Collin Sexton,SAS,Under 6.5 REB+AST,-103,Hit in 4 of his last 5 games,80%,True,6.0
 Collin Sexton,SAS,Over 2.5 Turnovers,-133,Hit in 4 of his last 5 games vs SAS,80%,False,0.0
-Kannard Johnson,UTA,Over 0.5 Steals,-142,Hit in 4 of his last 5 away games,80%,,
-Kannard Johnson,UTA,Over 1.5 Assists,-103,Hit in 4 of his last 5 games,80%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Kannard Johnson,UTA,Over 0.5 STL+BLK,-214,Hit in 4 of his last 5 away games,80%,,
-Kannard Johnson,UTA,Over 6.5 REB+AST,-103,Hit in 4 of his last 5 games,80%,,
 Chris Paul,UTA,Over 9.5 Points,-128,Hit in 4 of his last 5 games,80%,True,18.0
 Chris Paul,UTA,Over 1.5 STL+BLK,-154,Hit in 4 of his last 5 away games,80%,True,4.0
 Chris Paul,UTA,Over 13.5 PTS+REB,-111,Hit in 4 of his last 5 away games,80%,True,19.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Chris Paul,UTA,Over 1.5 3PTM,-128,Hit in 4 of his last 5 games,80%,True,2.0
 Victor Wembanyama,UTA,Over 13.5 REB+AST,-111,Hit in 4 of his last 5 games,80%,False,9.0
 Victor Wembanyama,UTA,Under 1.5 Steals,-205,Hit in 4 of his last 5 games vs UTA,80%,True,1.0
@@ -556,7 +426,6 @@ Julian Champagnie,UTA,Under 2.5 3PTM,-125,Hit in 4 of his last 5 games,80%,False
 Julian Champagnie,UTA,Under 2.5 3PTM,-125,Hit in 4 of his last 5 games vs UTA,80%,False,4.0
 Julian Champagnie,UTA,Over 1.5 Assists,-142,Hit in 4 of his last 5 games vs UTA,80%,True,2.0
 Julian Champagnie,UTA,Over 0.5 Turnovers,-166,Hit in 8 of his last 10 away games,80%,True,2.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Julian Champagnie,UTA,Over 6.5 REB+AST,-103,Hit in 4 of his last 5 games vs UTA,80%,False,5.0
 Julian Champagnie,UTA,Under 13.5 PTS+AST,-129,Hit in 4 of his last 5 games,80%,False,25.0
 Keyonte George,SAS,Under 6.5 Assists,-113,Hit in 4 of his last 5 games vs SAS,80%,False,7.0
@@ -571,11 +440,7 @@ Jusuf Nurkić,LAL,Under 9.5 PTS+AST,-125,Hit in 4 of his last 5 games,80%,False,
 Jusuf Nurkić,LAL,Under 16.5 PTS+REB,-106,Hit in 4 of his last 5 games,80%,False,26.0
 Jusuf Nurkić,LAL,Under 7.5 Points,100,Hit in 4 of his last 5 games,80%,False,14.0
 Jusuf Nurkić,LAL,Over 0.5 3PTM,-133,Hit in 4 of his last 5 home games,80%,True,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Jusuf Nurkić,LAL,Under 18.5 P+A+R,-125,Hit in 4 of his last 5 games,80%,False,29.0
-Terrence Jones,LAL,Over 9.5 REB+AST,106,Hit in 4 of his last 5 games,80%,,
-Terrence Jones,LAL,Over 1.5 STL+BLK,159,Hit in 4 of his last 5 games vs LAL,80%,,
-Terrence Jones,LAL,Over 17.5 PTS+AST,-108,Hit in 4 of his last 5 games,80%,,
 Bradley Beal,LAL,Over 22.5 P+A+R,-104,Hit in 4 of his last 5 games vs LAL,80%,True,33.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Bradley Beal,LAL,Under 3.5 Assists,-113,Hit in 4 of his last 5 games,80%,True,2.0
@@ -587,7 +452,6 @@ Bradley Beal,LAL,Over 0.5 Blocks,108,Hit in 8 of his last 10 games,80%,True,1.0
 LeBron James,PHX,Under 0.5 Blocks,-274,Hit in 4 of his last 5 games vs PHX,80%,True,0.0
 LeBron James,PHX,Under 3.5 Turnovers,116,Hit in 4 of his last 5 games vs PHX,80%,False,5.0
 Rui Hachimura,PHX,Over 0.5 STL+BLK,-194,Hit in 4 of his last 5 games,80%,False,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Rui Hachimura,PHX,Over 1.5 3PTM,102,Hit in 4 of his last 5 away games,80%,False,1.0
 Rui Hachimura,PHX,Under 5.5 REB+AST,-133,Hit in 4 of his last 5 games,80%,True,2.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
@@ -599,23 +463,11 @@ Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,
 Austin Reaves,PHX,Under 1.5 STL+BLK,-204,Hit in 8 of his last 10 games vs PHX,80%,False,2.0
 Austin Reaves,PHX,Over 0.5 Steals,-200,Hit in 4 of his last 5 away games,80%,True,2.0
 Anthony Davis,PHX,Over 31.5 PTS+AST,-115,Hit in 4 of his last 5 games,80%,False,30.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Anthony Davis,PHX,Over 43.5 P+A+R,-113,Hit in 4 of his last 5 games,80%,True,45.0
-Terrence Jones,LAL,Over 19.5 P+A+R,-125,Hit in 4 of his last 5 games,80%,,
-Aaron Jackson,MIA,Over 0.5 Turnovers,-184,Hit in 11 of his last 14 games,79%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 7 of his last 9 home games,78%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Alexandre Sarr,CHI,Under 18.5 PTS+REB,-110,Hit in 7 of his last 9 games,78%,,
-Alexandre Sarr,CHI,Under 20.5 P+A+R,-105,Hit in 7 of his last 9 games,78%,,
-Alexandre Sarr,CHI,Under 7.5 Rebounds,-110,Hit in 7 of his last 9 games,78%,,
-Aaron Jackson,MIA,Under 5.5 REB+AST,-148,Hit in 7 of his last 9 games,78%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Aaron Jackson,MIA,Under 4.5 Points,-133,Hit in 14 of his last 18 games,78%,,
-Aaron Jackson,MIA,Under 9.5 P+A+R,-117,Hit in 14 of his last 18 games,78%,,
-Aaron Jackson,MIA,Under 7.5 PTS+REB,100,Hit in 14 of his last 18 games,78%,,
 Tyler Herro,MIL,Over 32.5 P+A+R,-104,Hit in 7 of his last 9 games,78%,True,34.0
 Tyler Herro,MIL,Over 26.5 PTS+REB,-113,Hit in 7 of his last 9 games,78%,True,29.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Fred VanVleet,MIN,Over 9.5 REB+AST,-128,Hit in 14 of his last 18 away games,78%,True,19.0
 Harrison Barnes,UTA,Over 16.5 PTS+REB,-115,Hit in 7 of his last 9 games vs UTA,78%,False,16.0
 Harrison Barnes,UTA,Over 13.5 PTS+AST,-121,Hit in 7 of his last 9 games vs UTA,78%,False,13.0
@@ -629,7 +481,6 @@ Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,
 Harrison Barnes,UTA,Over 12.5 Points,-104,Hit in 7 of his last 9 games vs UTA,78%,False,8.0
 Jusuf Nurkić,LAL,Over 0.5 Steals,-244,Hit in 7 of his last 9 games vs LAL,78%,True,1.0
 Bradley Beal,LAL,Over 22.5 P+A+R,-104,Hit in 14 of his last 18 games,78%,True,33.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Cam Reddish,PHX,Over 1.5 Rebounds,-137,Hit in 7 of his last 9 games,78%,True,2.0
 Cam Reddish,PHX,Over 0.5 Steals,-166,Hit in 7 of his last 9 games,78%,True,2.0
 Cam Reddish,PHX,Over 0.5 STL+BLK,-234,Hit in 7 of his last 9 games,78%,True,2.0
@@ -643,26 +494,17 @@ Malcolm Brogdon,CHI,Over 18.5 PTS+REB,-104,Hit in 10 of his last 13 games,77%,Tr
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Bam Adebayo,MIL,Over 0.5 Steals,-224,Hit in 10 of his last 13 games,77%,True,1.0
 Julius Randle,HOU,Under 7.5 Rebounds,-148,Hit in 10 of his last 13 games,77%,True,6.0
-JR Smith,MIN,Over 0.5 Assists,-224,Hit in 10 of his last 13 away games,77%,,
 Coby White,WAS,Under 0.5 Blocks,-384,Hit in 13 of his last 17 games,76%,True,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Tyler Herro,MIL,Under 10.5 REB+AST,-122,Hit in 13 of his last 17 games,76%,True,10.0
 Jusuf Nurkić,LAL,Over 1.5 Turnovers,-148,Hit in 13 of his last 17 home games,76%,False,0.0
 Anthony Davis,PHX,Over 11.5 Rebounds,-111,Hit in 13 of his last 17 away games,76%,True,15.0
 Bilal Coulibaly,CHI,Over 1.5 Steals,140,Hit in 3 of his last 4 games,75%,False,1.0
 Bilal Coulibaly,CHI,Over 0.5 Blocks,-142,Hit in 6 of his last 8 games,75%,False,0.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 3 of his last 4 games vs CHI,75%,,
-Jordan Poole,CHI,Under 1.5 STL+BLK,-113,Hit in 3 of his last 4 games vs CHI,75%,,
-Jordan Poole,CHI,Under 2.5 Rebounds,120,Hit in 3 of his last 4 games vs CHI,75%,,
-Jordan Poole,CHI,Over 2.5 Turnovers,100,Hit in 3 of his last 4 games vs CHI,75%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Jordan Poole,CHI,Under 5.5 Assists,-108,Hit in 3 of his last 4 games,75%,,
-Jordan Poole,CHI,Under 5.5 Assists,-108,Hit in 3 of his last 4 games vs CHI,75%,,
 Kyle Kuzma,CHI,Under 9.5 REB+AST,100,Hit in 3 of his last 4 games,75%,False,10.0
 Kyle Kuzma,CHI,Under 23.5 PTS+AST,-111,Hit in 3 of his last 4 games vs CHI,75%,False,28.0
 Kyle Kuzma,CHI,Under 6.5 Rebounds,-106,Hit in 3 of his last 4 games,75%,False,7.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Kyle Kuzma,CHI,Over 2.5 Turnovers,-117,Hit in 6 of his last 8 games,75%,False,0.0
 Kyle Kuzma,CHI,Over 2.5 Turnovers,-117,Hit in 3 of his last 4 games vs CHI,75%,False,0.0
 Malcolm Brogdon,CHI,Under 1.5 3PTM,-180,Hit in 3 of his last 4 games vs CHI,75%,True,0.0
@@ -670,16 +512,8 @@ Malcolm Brogdon,CHI,Over 19.5 PTS+AST,-118,Hit in 3 of his last 4 games vs CHI,7
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Malcolm Brogdon,CHI,Over 14.5 Points,-108,Hit in 3 of his last 4 games vs CHI,75%,True,15.0
 Malcolm Brogdon,CHI,Over 23.5 P+A+R,-113,Hit in 3 of his last 4 games vs CHI,75%,True,25.0
-Alexandre Sarr,CHI,Under 9.5 REB+AST,105,Hit in 6 of his last 8 games,75%,,
-Alexandre Sarr,CHI,Under 13.5 PTS+AST,-135,Hit in 3 of his last 4 games,75%,,
-Alexandre Sarr,CHI,Over 2.5 Assists,125,Hit in 3 of his last 4 games,75%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Alexandre Sarr,CHI,Under 10.5 Points,100,Hit in 3 of his last 4 games,75%,,
-Alexandre Sarr,CHI,Under 1.5 Blocks,115,Hit in 3 of his last 4 games,75%,,
-Alexandre Sarr,CHI,Under 0.5 Steals,115,Hit in 3 of his last 4 games,75%,,
-Alexandre Sarr,CHI,Under 2.5 STL+BLK,-110,Hit in 3 of his last 4 games,75%,,
 Josh Giddey,WAS,Over 0.5 Steals,-113,Hit in 6 of his last 8 away games,75%,True,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Josh Giddey,WAS,Under 6.5 Rebounds,-130,Hit in 3 of his last 4 games vs WAS,75%,True,4.0
 Josh Giddey,WAS,Over 0.5 STL+BLK,-244,Hit in 6 of his last 8 away games,75%,True,1.0
 Josh Giddey,WAS,Under 1.5 3PTM,-244,Hit in 3 of his last 4 games vs WAS,75%,True,0.0
@@ -695,7 +529,6 @@ Nikola Vučević,WAS,Under 31.5 PTS+REB,-125,Hit in 3 of his last 4 games vs WAS
 Nikola Vučević,WAS,Under 23.5 PTS+AST,-121,Hit in 3 of his last 4 games vs WAS,75%,False,25.0
 Nikola Vučević,WAS,Over 1.5 Turnovers,-142,Hit in 3 of his last 4 games vs WAS,75%,False,1.0
 Nikola Vučević,WAS,Under 34.5 P+A+R,-121,Hit in 3 of his last 4 games vs WAS,75%,False,37.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Nikola Vučević,WAS,Over 0.5 Blocks,-204,Hit in 3 of his last 4 games,75%,False,0.0
 Nikola Vučević,WAS,Over 0.5 Blocks,-204,Hit in 3 of his last 4 away games,75%,False,0.0
 Coby White,WAS,Over 3.5 Rebounds,108,Hit in 3 of his last 4 games,75%,True,8.0
@@ -712,7 +545,6 @@ Josh Giddey,WAS,Over 18.5 PTS+AST,-115,Hit in 3 of his last 4 games,75%,True,19.
 Coby White,WAS,Over 22.5 PTS+REB,-125,Hit in 3 of his last 4 away games,75%,True,39.0
 Zach LaVine,WAS,Over 27.5 PTS+AST,-113,Hit in 3 of his last 4 away games,75%,True,30.0
 Zach LaVine,WAS,Over 28.5 PTS+REB,-106,Hit in 3 of his last 4 away games,75%,False,27.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Zach LaVine,WAS,Over 32.5 P+A+R,-113,Hit in 3 of his last 4 games,75%,False,31.0
 Zach LaVine,WAS,Over 32.5 P+A+R,-113,Hit in 3 of his last 4 away games,75%,False,31.0
 Josh Giddey,WAS,Over 25.5 P+A+R,-113,Hit in 3 of his last 4 games,75%,False,23.0
@@ -721,14 +553,11 @@ Malcolm Brogdon,CHI,Over 18.5 PTS+REB,-104,Hit in 3 of his last 4 games vs CHI,7
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Josh Giddey,WAS,Over 6.5 Assists,110,Hit in 3 of his last 4 games,75%,True,8.0
 Nikola Vučević,WAS,Under 20.5 Points,-117,Hit in 3 of his last 4 games vs WAS,75%,False,21.0
-Jackie Butler,MIL,Over 5.5 Rebounds,102,Hit in 3 of his last 4 games,75%,,
-Jackie Butler,MIL,Under 0.5 3PTM,108,Hit in 6 of his last 8 games,75%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Bam Adebayo,MIL,Under 0.5 Blocks,139,Hit in 3 of his last 4 games,75%,True,0.0
 Tyler Herro,MIL,Under 10.5 REB+AST,-122,Hit in 3 of his last 4 games vs MIL,75%,True,10.0
 Tyler Herro,MIL,Under 0.5 Steals,-117,Hit in 3 of his last 4 games vs MIL,75%,False,1.0
 Tyler Herro,MIL,Under 3.5 3PTM,-138,Hit in 3 of his last 4 games,75%,True,3.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Terry Rozier,MIL,Under 3.5 Assists,-136,Hit in 3 of his last 4 games,75%,True,0.0
 Terry Rozier,MIL,Over 6.5 REB+AST,-142,Hit in 9 of his last 12 games,75%,False,3.0
 Terry Rozier,MIL,Over 1.5 STL+BLK,152,Hit in 3 of his last 4 games,75%,False,1.0
@@ -743,24 +572,14 @@ Damian Lillard,MIA,Over 0.5 Double Double,290,Hit in 3 of his last 4 games,75%,T
 Damian Lillard,MIA,Over 7.5 Assists,122,Hit in 3 of his last 4 games,75%,True,12.0
 Damian Lillard,MIA,Under 0.5 Steals,108,Hit in 3 of his last 4 games vs MIA,75%,False,1.0
 Damian Lillard,MIA,Under 3.5 3PTM,-166,Hit in 3 of his last 4 games vs MIA,75%,False,8.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Giannis Antetokounmpo,MIA,Over 3.5 Turnovers,-113,Hit in 3 of his last 4 games,75%,,
-Giannis Antetokounmpo,MIA,Over 30.5 Points,-108,Hit in 3 of his last 4 games vs MIA,75%,,
-Giannis Antetokounmpo,MIA,Over 5.5 Assists,-140,Hit in 6 of his last 8 away games,75%,,
-Giannis Antetokounmpo,MIA,Under 0.5 Steals,-113,Hit in 3 of his last 4 games vs MIA,75%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Aaron Jackson,MIA,Under 5.5 PTS+AST,-103,Hit in 3 of his last 4 games,75%,,
-Aaron Jackson,MIA,Under 0.5 3PTM,-137,Hit in 6 of his last 8 games,75%,,
 Brook Lopez,MIA,Over 11.5 Points,-113,Hit in 3 of his last 4 games,75%,True,19.0
 Brook Lopez,MIA,Over 1.5 3PTM,-136,Hit in 6 of his last 8 games,75%,True,3.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Brook Lopez,MIA,Over 17.5 PTS+REB,100,Hit in 3 of his last 4 games,75%,True,21.0
 Brook Lopez,MIA,Over 0.5 Steals,-160,Hit in 6 of his last 8 games vs MIA,75%,False,0.0
 Taurean Prince,MIA,Over 12.5 P+A+R,-129,Hit in 6 of his last 8 games,75%,True,17.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Taurean Prince,MIA,Under 8.5 PTS+AST,-103,Hit in 3 of his last 4 games,75%,False,14.0
-Jackie Butler,MIL,Over 31.5 P+A+R,-104,Hit in 3 of his last 4 games vs MIL,75%,,
-Giannis Antetokounmpo,MIA,Under 17.5 REB+AST,100,Hit in 3 of his last 4 games,75%,,
 Tyler Herro,MIL,Over 32.5 P+A+R,-104,Hit in 3 of his last 4 home games,75%,True,34.0
 Tyler Herro,MIL,Under 26.5 PTS+AST,-106,Hit in 3 of his last 4 games,75%,False,29.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
@@ -774,7 +593,6 @@ Julius Randle,HOU,Over 2.5 Turnovers,-174,Hit in 15 of his last 20 home games,75
 Julius Randle,HOU,Over 0.5 Steals,-125,Hit in 3 of his last 4 games,75%,True,1.0
 Julius Randle,HOU,Over 0.5 Steals,-125,Hit in 3 of his last 4 home games,75%,True,1.0
 Julius Randle,HOU,Over 0.5 STL+BLK,-194,Hit in 3 of his last 4 games,75%,True,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Julius Randle,HOU,Over 33.5 P+A+R,-108,Hit in 3 of his last 4 games,75%,False,30.0
 Julius Randle,HOU,Over 25.5 PTS+AST,-118,Hit in 3 of his last 4 games,75%,False,24.0
 Julius Randle,HOU,Over 25.5 PTS+AST,-118,Hit in 15 of his last 20 home games,75%,False,24.0
@@ -783,48 +601,22 @@ Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,Fa
 Rudy Gobert,HOU,Over 2.5 STL+BLK,-125,Hit in 3 of his last 4 games,75%,False,1.0
 Rudy Gobert,HOU,Over 2.5 STL+BLK,-125,Hit in 3 of his last 4 games vs HOU,75%,False,1.0
 Rudy Gobert,HOU,Over 23.5 P+A+R,-121,Hit in 3 of his last 4 games,75%,False,23.0
-Mike Conley,HOU,Over 7.5 REB+AST,-121,Hit in 3 of his last 4 games,75%,,
 Jaden McDaniels,HOU,Under 17.5 P+A+R,-113,Hit in 15 of his last 20 games,75%,False,18.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Anthony Edwards,HOU,Under 5.5 Rebounds,-130,Hit in 3 of his last 4 games vs HOU,75%,False,10.0
 Anthony Edwards,HOU,Over 0.5 Steals,-215,Hit in 9 of his last 12 games,75%,True,1.0
 Anthony Edwards,HOU,Under 0.5 Blocks,-121,Hit in 3 of his last 4 games,75%,False,3.0
-JR Smith,MIN,Over 7.5 REB+AST,-117,Hit in 3 of his last 4 games vs MIN,75%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-JR Smith,MIN,Under 1.5 3PTM,-164,Hit in 9 of his last 12 games,75%,,
-JR Smith,MIN,Over 0.5 Assists,-224,Hit in 3 of his last 4 games vs MIN,75%,,
-JR Smith,MIN,Under 12.5 PTS+AST,-129,Hit in 9 of his last 12 games,75%,,
 Fred VanVleet,MIN,Under 6.5 Assists,-136,Hit in 3 of his last 4 games,75%,False,11.0
 Fred VanVleet,MIN,Over 3.5 Rebounds,106,Hit in 6 of his last 8 games,75%,True,8.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Fred VanVleet,MIN,Over 1.5 Steals,-106,Hit in 6 of his last 8 games,75%,False,0.0
-A. Şengün,MIN,Over 4.5 Assists,108,Hit in 3 of his last 4 away games,75%,,
-A. Şengün,MIN,Under 13.5 REB+AST,100,Hit in 3 of his last 4 games,75%,,
-A. Şengün,MIN,Under 28.5 PTS+REB,-117,Hit in 3 of his last 4 games,75%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-A. Şengün,MIN,Over 18.5 Points,-129,Hit in 3 of his last 4 games vs MIN,75%,,
-A. Şengün,MIN,Under 9.5 Rebounds,-117,Hit in 3 of his last 4 games,75%,,
-A. Şengün,MIN,Under 33.5 P+A+R,-125,Hit in 3 of his last 4 games,75%,,
-JaMychal Green,MIN,Over 4.5 Rebounds,-118,Hit in 12 of his last 16 away games,75%,,
-JaMychal Green,MIN,Over 26.5 P+A+R,-120,Hit in 3 of his last 4 games vs MIN,75%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-JaMychal Green,MIN,Under 2.5 Turnovers,-125,Hit in 3 of his last 4 games vs MIN,75%,,
-JaMychal Green,MIN,Over 18.5 Points,-120,Hit in 3 of his last 4 games vs MIN,75%,,
-JaMychal Green,MIN,Under 1.5 STL+BLK,-199,Hit in 3 of his last 4 games,75%,,
-JaMychal Green,MIN,Over 21.5 PTS+AST,-120,Hit in 3 of his last 4 games vs MIN,75%,,
-JaMychal Green,MIN,Over 7.5 REB+AST,-111,Hit in 3 of his last 4 games vs MIN,75%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-JaMychal Green,MIN,Over 7.5 REB+AST,-111,Hit in 12 of his last 16 away games,75%,,
 Dillon Brooks,MIN,Over 3.5 Rebounds,144,Hit in 3 of his last 4 games,75%,False,3.0
 Julius Randle,HOU,Under 11.5 REB+AST,-108,Hit in 3 of his last 4 games,75%,True,9.0
 Rudy Gobert,HOU,Over 12.5 PTS+AST,-103,Hit in 3 of his last 4 games,75%,False,7.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-James Collins,SAS,Under 2.5 Assists,-174,Hit in 6 of his last 8 games vs SAS,75%,,
-James Collins,SAS,Under 1.5 3PTM,-174,Hit in 6 of his last 8 games vs SAS,75%,,
-James Collins,SAS,Over 0.5 Double Double,105,Hit in 3 of his last 4 home games,75%,,
-James Collins,SAS,Over 1.5 Steals,140,Hit in 6 of his last 8 games,75%,,
 Keyonte George,SAS,Under 22.5 PTS+AST,-113,Hit in 6 of his last 8 games,75%,False,45.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Lauri Markkanen,SAS,Under 1.5 Turnovers,104,Hit in 6 of his last 8 games,75%,False,3.0
 Lauri Markkanen,SAS,Over 0.5 STL+BLK,-214,Hit in 3 of his last 4 games,75%,True,2.0
 Lauri Markkanen,SAS,Under 3.5 3PTM,-186,Hit in 9 of his last 12 games,75%,True,0.0
@@ -834,12 +626,6 @@ Walker Kessler,SAS,Over 1.5 Turnovers,116,Hit in 3 of his last 4 games vs SAS,75
 Collin Sexton,SAS,Over 2.5 Turnovers,-133,Hit in 3 of his last 4 games,75%,False,0.0
 Collin Sexton,SAS,Over 0.5 Steals,-194,Hit in 9 of his last 12 games,75%,False,0.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Kannard Johnson,UTA,Under 13.5 Points,-128,Hit in 3 of his last 4 games vs UTA,75%,,
-Kannard Johnson,UTA,Over 1.5 Assists,-103,Hit in 6 of his last 8 games vs UTA,75%,,
-Kannard Johnson,UTA,Over 14.5 PTS+AST,-125,Hit in 6 of his last 8 games vs UTA,75%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Kannard Johnson,UTA,Over 6.5 REB+AST,-103,Hit in 6 of his last 8 games vs UTA,75%,,
-Kannard Johnson,UTA,Over 19.5 P+A+R,-125,Hit in 6 of his last 8 games vs UTA,75%,,
 Chris Paul,UTA,Over 13.5 PTS+REB,-111,Hit in 3 of his last 4 games,75%,True,19.0
 Chris Paul,UTA,Over 1.5 Steals,-113,Hit in 3 of his last 4 away games,75%,True,3.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
@@ -852,20 +638,16 @@ Victor Wembanyama,UTA,Over 3.5 Assists,112,Hit in 3 of his last 4 games,75%,Fals
 Harrison Barnes,UTA,Under 0.5 STL+BLK,152,Hit in 3 of his last 4 games vs UTA,75%,True,0.0
 Stephon Castle,UTA,Over 0.5 Steals,-234,Hit in 3 of his last 4 games,75%,False,0.0
 Stephon Castle,UTA,Over 0.5 Steals,-234,Hit in 3 of his last 4 away games,75%,False,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Stephon Castle,UTA,Over 2.5 Rebounds,-137,Hit in 3 of his last 4 away games,75%,True,3.0
 Julian Champagnie,UTA,Over 1.5 Assists,-142,Hit in 3 of his last 4 away games,75%,True,2.0
 Julian Champagnie,UTA,Over 0.5 Turnovers,-166,Hit in 3 of his last 4 games,75%,True,2.0
 Julian Champagnie,UTA,Over 11.5 Points,-111,Hit in 3 of his last 4 games,75%,True,23.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Kannard Johnson,UTA,Under 18.5 PTS+REB,-122,Hit in 3 of his last 4 games vs UTA,75%,,
-James Collins,SAS,Under 20.5 PTS+AST,-106,Hit in 6 of his last 8 games vs SAS,75%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Keyonte George,SAS,Under 24.5 P+A+R,-120,Hit in 6 of his last 8 games,75%,False,48.0
 Keyonte George,SAS,Over 2.5 Turnovers,-213,Hit in 3 of his last 4 games,75%,True,6.0
 Devin Booker,LAL,Under 0.5 Blocks,-204,Hit in 3 of his last 4 games vs LAL,75%,False,1.0
 Devin Booker,LAL,Under 5.5 Assists,122,Hit in 3 of his last 4 games vs LAL,75%,False,10.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Kevin Durant,LAL,Over 28.5 PTS+REB,-111,Hit in 6 of his last 8 games vs LAL,75%,True,35.0
 Kevin Durant,LAL,Over 1.5 STL+BLK,-174,Hit in 3 of his last 4 games vs LAL,75%,False,0.0
 Kevin Durant,LAL,Over 2.5 Turnovers,-117,Hit in 6 of his last 8 games vs LAL,75%,False,0.0
@@ -877,9 +659,6 @@ Jusuf Nurkić,LAL,Over 0.5 Double Double,320,Hit in 3 of his last 4 home games,7
 Jusuf Nurkić,LAL,Over 0.5 Steals,-244,Hit in 6 of his last 8 games,75%,True,1.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Jusuf Nurkić,LAL,Over 1.5 STL+BLK,-137,Hit in 15 of his last 20 home games,75%,True,2.0
-Terrence Jones,LAL,Over 2.5 Rebounds,-102,Hit in 3 of his last 4 games,75%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Terrence Jones,LAL,Over 6.5 Assists,-108,Hit in 3 of his last 4 home games,75%,,
 Bradley Beal,LAL,Over 22.5 P+A+R,-104,Hit in 3 of his last 4 home games,75%,True,33.0
 Bradley Beal,LAL,Over 1.5 STL+BLK,100,Hit in 3 of his last 4 games vs LAL,75%,False,1.0
 Bradley Beal,LAL,Under 7.5 REB+AST,-146,Hit in 3 of his last 4 games,75%,True,4.0
@@ -892,7 +671,6 @@ Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,
 LeBron James,PHX,Over 0.5 Double Double,-140,Hit in 6 of his last 8 games,75%,True,1.0
 LeBron James,PHX,Under 29.5 PTS+REB,-106,Hit in 3 of his last 4 games,75%,False,30.0
 LeBron James,PHX,Under 29.5 PTS+REB,-106,Hit in 3 of his last 4 games vs PHX,75%,False,30.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 LeBron James,PHX,Under 16.5 REB+AST,-111,Hit in 3 of his last 4 games,75%,False,18.0
 LeBron James,PHX,Under 16.5 REB+AST,-111,Hit in 3 of his last 4 games vs PHX,75%,False,18.0
 LeBron James,PHX,Under 1.5 Steals,-265,Hit in 3 of his last 4 games vs PHX,75%,True,0.0
@@ -908,7 +686,6 @@ Rui Hachimura,PHX,Under 0.5 Turnovers,-117,Hit in 3 of his last 4 games vs PHX,7
 Rui Hachimura,PHX,Over 4.5 Rebounds,104,Hit in 9 of his last 12 games,75%,False,1.0
 Rui Hachimura,PHX,Under 0.5 Blocks,-374,Hit in 3 of his last 4 games vs PHX,75%,True,0.0
 Cam Reddish,PHX,Under 0.5 Assists,-148,Hit in 3 of his last 4 games vs PHX,75%,False,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Cam Reddish,PHX,Over 0.5 3PTM,112,Hit in 6 of his last 8 games,75%,False,0.0
 Cam Reddish,PHX,Over 3.5 Points,-120,Hit in 3 of his last 4 games vs PHX,75%,False,0.0
 Austin Reaves,PHX,Over 2.5 3PTM,106,Hit in 6 of his last 8 games,75%,False,2.0
@@ -924,16 +701,13 @@ Anthony Davis,PHX,Under 14.5 REB+AST,-120,Hit in 3 of his last 4 games vs PHX,75
 Anthony Davis,PHX,Over 1.5 Blocks,-128,Hit in 12 of his last 16 games,75%,True,4.0
 Bradley Beal,LAL,Over 18.5 PTS+REB,-106,Hit in 3 of his last 4 home games,75%,True,31.0
 Austin Reaves,PHX,Under 26.5 P+A+R,-122,Hit in 3 of his last 4 games,75%,True,24.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Austin Reaves,PHX,Under 17.5 Points,-128,Hit in 3 of his last 4 games,75%,False,19.0
 Austin Reaves,PHX,Under 22.5 PTS+AST,-104,Hit in 3 of his last 4 games,75%,True,21.0
-Terrence Jones,LAL,Over 12.5 PTS+REB,-128,Hit in 6 of his last 8 home games,75%,,
 Coby White,WAS,Over 1.5 Turnovers,-154,Hit in 14 of his last 19 games,74%,False,0.0
 Rui Hachimura,PHX,Under 0.5 Blocks,-374,Hit in 14 of his last 19 games,74%,True,0.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Rui Hachimura,PHX,Over 12.5 PTS+AST,-103,Hit in 14 of his last 19 away games,74%,False,10.0
 Austin Reaves,PHX,Over 20.5 PTS+REB,-113,Hit in 14 of his last 19 games,74%,True,22.0
-Jordan Poole,CHI,Over 2.5 Turnovers,100,Hit in 11 of his last 15 home games,73%,,
 Terry Rozier,MIL,Under 0.5 Blocks,-274,Hit in 11 of his last 15 games,73%,False,1.0
 Fred VanVleet,MIN,Over 1.5 Steals,-106,Hit in 11 of his last 15 away games,73%,False,0.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
@@ -942,22 +716,18 @@ Nikola Vučević,WAS,Under 31.5 PTS+REB,-125,Hit in 8 of his last 11 games,73%,F
 Nikola Vučević,WAS,Under 34.5 P+A+R,-121,Hit in 8 of his last 11 games,73%,False,37.0
 Julius Randle,HOU,Under 1.5 3PTM,-104,Hit in 8 of his last 11 games,73%,True,0.0
 Julius Randle,HOU,Under 4.5 Assists,-132,Hit in 8 of his last 11 games,73%,True,3.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Harrison Barnes,UTA,Under 0.5 Steals,-103,Hit in 8 of his last 11 games,73%,True,0.0
 Julian Champagnie,UTA,Over 17.5 P+A+R,-125,Hit in 8 of his last 11 games,73%,True,28.0
 Julian Champagnie,UTA,Over 0.5 Steals,-199,Hit in 8 of his last 11 away games,73%,True,3.0
-Aaron Jackson,MIA,Under 3.5 Rebounds,-113,Hit in 13 of his last 18 games,72%,,
 Jaden McDaniels,HOU,Under 13.5 PTS+AST,-129,Hit in 13 of his last 18 games,72%,True,13.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Jaden McDaniels,HOU,Under 15.5 PTS+REB,-122,Hit in 13 of his last 18 games,72%,False,16.0
 Walker Kessler,SAS,Under 10.5 Rebounds,-122,Hit in 13 of his last 18 games,72%,True,7.0
 Collin Sexton,SAS,Under 18.5 Points,-104,Hit in 13 of his last 18 games,72%,False,24.0
-Jordan Poole,CHI,Over 1.5 Steals,150,Hit in 5 of his last 7 home games,71%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Kyle Kuzma,CHI,Under 27.5 PTS+REB,-115,Hit in 5 of his last 7 games,71%,False,32.0
 Josh Giddey,WAS,Under 11.5 Points,-102,Hit in 5 of his last 7 games,71%,True,11.0
 Nikola Vučević,WAS,Over 0.5 Steals,-154,Hit in 10 of his last 14 games,71%,False,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Nikola Vučević,WAS,Over 0.5 Steals,-154,Hit in 5 of his last 7 away games,71%,False,0.0
 Coby White,WAS,Under 4.5 Assists,-111,Hit in 5 of his last 7 games,71%,True,2.0
 Coby White,WAS,Under 8.5 REB+AST,-138,Hit in 5 of his last 7 games,71%,False,10.0
@@ -965,28 +735,21 @@ Zach LaVine,WAS,Over 0.5 Steals,-194,Hit in 5 of his last 7 away games,71%,False
 Ayo Dosunmu,WAS,Over 1.5 Turnovers,133,Hit in 5 of his last 7 away games,71%,True,2.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Damian Lillard,MIA,Over 3.5 Rebounds,-160,Hit in 10 of his last 14 away games,71%,False,3.0
-Giannis Antetokounmpo,MIA,Under 42.5 PTS+REB,-115,Hit in 5 of his last 7 games vs MIA,71%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Anthony Edwards,HOU,Under 33.5 PTS+REB,-115,Hit in 5 of his last 7 games,71%,False,45.0
 Anthony Edwards,HOU,Under 32.5 PTS+AST,-113,Hit in 5 of his last 7 games,71%,False,36.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Anthony Edwards,HOU,Under 38.5 P+A+R,-120,Hit in 5 of his last 7 games,71%,False,46.0
 Anthony Edwards,HOU,Under 4.5 Assists,-128,Hit in 5 of his last 7 games vs HOU,71%,True,1.0
-JR Smith,MIN,Under 0.5 Blocks,-166,Hit in 5 of his last 7 games,71%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Fred VanVleet,MIN,Over 17.5 PTS+REB,-125,Hit in 5 of his last 7 games,71%,True,47.0
 Fred VanVleet,MIN,Over 24.5 P+A+R,-120,Hit in 5 of his last 7 games,71%,True,58.0
 Fred VanVleet,MIN,Over 1.5 3PTM,-172,Hit in 5 of his last 7 games,71%,True,6.0
 Fred VanVleet,MIN,Over 14.5 Points,-111,Hit in 5 of his last 7 games,71%,True,39.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-A. Şengün,MIN,Over 4.5 Assists,108,Hit in 5 of his last 7 games,71%,,
-A. Şengün,MIN,Over 0.5 Steals,-234,Hit in 10 of his last 14 away games,71%,,
 Dillon Brooks,MIN,Over 11.5 Points,-106,Hit in 5 of his last 7 games,71%,True,30.0
 Dillon Brooks,MIN,Over 14.5 PTS+REB,-113,Hit in 5 of his last 7 games,71%,True,33.0
 Dillon Brooks,MIN,Over 12.5 PTS+AST,-125,Hit in 5 of his last 7 games,71%,True,32.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Dillon Brooks,MIN,Over 15.5 P+A+R,-113,Hit in 5 of his last 7 games,71%,True,35.0
-JaMychal Green,MIN,Under 0.5 Blocks,-374,Hit in 5 of his last 7 games vs MIN,71%,,
 Anthony Edwards,HOU,Under 27.5 Points,-108,Hit in 5 of his last 7 games,71%,False,35.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Lauri Markkanen,SAS,Under 9.5 REB+AST,-113,Hit in 5 of his last 7 games,71%,False,10.0
@@ -997,9 +760,7 @@ Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,
 Victor Wembanyama,UTA,Over 3.5 Turnovers,100,Hit in 5 of his last 7 games,71%,False,2.0
 Victor Wembanyama,UTA,Over 4.5 STL+BLK,-142,Hit in 10 of his last 14 away games,71%,False,4.0
 Stephon Castle,UTA,Over 3.5 Assists,-117,Hit in 5 of his last 7 games,71%,True,5.0
-Kannard Johnson,UTA,Under 18.5 PTS+REB,-122,Hit in 10 of his last 14 games,71%,,
 Chris Paul,UTA,Over 12.5 REB+AST,-104,Hit in 5 of his last 7 games,71%,False,5.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Chris Paul,UTA,Over 9.5 Assists,116,Hit in 5 of his last 7 games,71%,False,4.0
 Chris Paul,UTA,Over 19.5 PTS+AST,-108,Hit in 5 of his last 7 games,71%,True,22.0
 Julian Champagnie,UTA,Over 16.5 PTS+REB,-106,Hit in 5 of his last 7 games,71%,True,26.0
@@ -1013,11 +774,9 @@ Kevin Durant,LAL,Under 2.5 3PTM,-188,Hit in 10 of his last 14 games,71%,False,3.
 Kevin Durant,LAL,Over 1.5 STL+BLK,-174,Hit in 10 of his last 14 games,71%,False,0.0
 Jusuf Nurkić,LAL,Over 1.5 Turnovers,-148,Hit in 10 of his last 14 games,71%,False,0.0
 LeBron James,PHX,Over 39.5 P+A+R,-115,Hit in 10 of his last 14 away games,71%,True,40.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Austin Reaves,PHX,Under 22.5 PTS+AST,-104,Hit in 5 of his last 7 games vs PHX,71%,True,21.0
 Taurean Prince,MIA,Over 3.5 Rebounds,-146,Hit in 12 of his last 17 games,71%,False,3.0
 Anthony Edwards,HOU,Over 1.5 STL+BLK,-129,Hit in 12 of his last 17 home games,71%,True,4.0
-James Collins,SAS,Over 0.5 Blocks,-125,Hit in 12 of his last 17 games,71%,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Stephon Castle,UTA,Under 16.5 PTS+REB,-106,Hit in 12 of his last 17 games,71%,False,32.0
 Stephon Castle,UTA,Under 1.5 3PTM,-170,Hit in 12 of his last 17 games,71%,False,3.0
@@ -1026,35 +785,21 @@ Anthony Davis,PHX,Over 2.5 Turnovers,-103,Hit in 12 of his last 17 away games,71
 Bilal Coulibaly,CHI,Under 6.5 Rebounds,-150,Hit in 14 of his last 20 games,70%,True,3.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Coby White,WAS,Over 0.5 Steals,-199,Hit in 14 of his last 20 games,70%,True,1.0
-Jordan Poole,CHI,Under 30.5 P+A+R,-118,Hit in 7 of his last 10 games,70%,,
-Jackie Butler,MIL,Under 0.5 Blocks,-314,Hit in 7 of his last 10 games vs MIL,70%,,
 Bam Adebayo,MIL,Over 1.5 STL+BLK,-194,Hit in 7 of his last 10 games,70%,False,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Tyler Herro,MIL,Under 0.5 Steals,-117,Hit in 7 of his last 10 games,70%,False,1.0
 Brook Lopez,MIA,Over 18.5 P+A+R,-125,Hit in 7 of his last 10 away games,70%,True,24.0
 Brook Lopez,MIA,Over 11.5 Points,-113,Hit in 7 of his last 10 away games,70%,True,19.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Brook Lopez,MIA,Over 17.5 PTS+REB,100,Hit in 7 of his last 10 away games,70%,True,21.0
 Julius Randle,HOU,Over 33.5 P+A+R,-108,Hit in 14 of his last 20 home games,70%,False,30.0
-Mike Conley,HOU,Over 13.5 PTS+AST,-125,Hit in 14 of his last 20 home games,70%,,
 Jaden McDaniels,HOU,Under 1.5 Steals,-194,Hit in 14 of his last 20 games,70%,True,1.0
-JR Smith,MIN,Over 18.5 P+A+R,-125,Hit in 14 of his last 20 away games,70%,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-JR Smith,MIN,Over 17.5 PTS+REB,-125,Hit in 14 of his last 20 away games,70%,,
-JR Smith,MIN,Under 11.5 Points,-122,Hit in 7 of his last 10 games,70%,,
-JaMychal Green,MIN,Over 26.5 P+A+R,-120,Hit in 14 of his last 20 away games,70%,,
-JaMychal Green,MIN,Under 2.5 3PTM,-140,Hit in 7 of his last 10 games,70%,,
-JaMychal Green,MIN,Over 18.5 Points,-120,Hit in 14 of his last 20 away games,70%,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-JaMychal Green,MIN,Over 21.5 PTS+AST,-120,Hit in 14 of his last 20 away games,70%,,
 Lauri Markkanen,SAS,Under 7.5 Rebounds,-154,Hit in 7 of his last 10 games,70%,False,8.0
-Kannard Johnson,UTA,Over 0.5 Turnovers,-154,Hit in 7 of his last 10 away games,70%,,
 Julian Champagnie,UTA,Over 1.5 STL+BLK,-109,Hit in 7 of his last 10 away games,70%,True,3.0
 Devin Booker,LAL,Under 25.5 Points,-113,Hit in 7 of his last 10 games,70%,False,32.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Jusuf Nurkić,LAL,Over 0.5 3PTM,-133,Hit in 7 of his last 10 games,70%,True,1.0
 Jusuf Nurkić,LAL,Over 1.5 Assists,108,Hit in 14 of his last 20 home games,70%,True,3.0
-Terrence Jones,LAL,Over 0.5 Turnovers,-204,Hit in 14 of his last 20 games,70%,,
 LeBron James,PHX,Over 1.5 3PTM,-142,Hit in 7 of his last 10 away games,70%,True,2.0
 Anthony Davis,PHX,Under 1.5 Steals,-235,Hit in 14 of his last 20 games,70%,True,1.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
@@ -1062,25 +807,17 @@ Anthony Davis,PHX,Under 14.5 REB+AST,-120,Hit in 7 of his last 10 games,70%,Fals
 Devin Booker,LAL,Under 29.5 PTS+REB,-118,Hit in 7 of his last 10 games,70%,False,34.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,CHI rank 30th in AST against,30th,True,5.0
 Bilal Coulibaly,CHI,Under 12.5 Points,-102,CHI rank 3rd in PTS versus SF,3rd,True,8.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Bilal Coulibaly,CHI,Under 1.5 3PTM,-224,CHI rank 1st in 3PTM versus SF,1st,True,0.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,CHI rank 4th in TO versus SF,4th,False,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,CHI rank 30th in 3PTM versus SG,30th,,
-Jordan Poole,CHI,Over 20.5 Points,-120,CHI rank 30th in PTS versus SG,30th,,
-Jordan Poole,CHI,Over 2.5 Turnovers,100,CHI rank 4th in TO versus SG,4th,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Jordan Poole,CHI,Over 1.5 Steals,150,CHI rank 29th in STL versus SG,29th,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Kyle Kuzma,CHI,Over 2.5 Assists,-150,CHI rank 26th in AST versus PF,26th,True,3.0
 Kyle Kuzma,CHI,Over 20.5 Points,-111,CHI rank 26th in PTS versus PF,26th,True,25.0
 Malcolm Brogdon,CHI,Over 3.5 Rebounds,-108,CHI rank 27th in REB against,27th,True,6.0
 Malcolm Brogdon,CHI,Under 1.5 Turnovers,-204,CHI rank 1st in TO against,1st,False,2.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Malcolm Brogdon,CHI,Over 4.5 Assists,-130,CHI rank 30th in AST versus PG,30th,False,4.0
 Malcolm Brogdon,CHI,Over 14.5 Points,-108,CHI rank 30th in PTS against,30th,True,15.0
 Malcolm Brogdon,CHI,Over 0.5 Blocks,323,CHI rank 26th in BLK versus PG,26th,False,0.0
-Alexandre Sarr,CHI,Over 2.5 Assists,125,CHI rank 26th in AST versus PF,26th,,
-Alexandre Sarr,CHI,Under 1.5 Turnovers,-175,CHI rank 1st in TO against,1st,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Josh Giddey,WAS,Over 0.5 Steals,-113,WAS rank 28th in STL versus SG,28th,True,1.0
 Nikola Vučević,WAS,Over 1.5 3PTM,-125,WAS rank 26th in 3PTM versus C,26th,False,1.0
@@ -1089,7 +826,6 @@ Nikola Vučević,WAS,Over 1.5 Turnovers,-142,WAS rank 4th in TO versus C,4th,Fal
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Coby White,WAS,Over 3.5 Rebounds,108,WAS rank 29th in REB against,29th,True,8.0
 Coby White,WAS,Over 19.5 Points,-111,WAS rank 29th in PTS against,29th,True,31.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Zach LaVine,WAS,Over 3.5 Assists,-142,WAS rank 26th in AST versus SG,26th,True,4.0
 Zach LaVine,WAS,Over 0.5 Steals,-194,WAS rank 28th in STL versus SG,28th,False,0.0
 Zach LaVine,WAS,Over 4.5 Rebounds,-138,WAS rank 29th in REB against,29th,False,1.0
@@ -1097,13 +833,10 @@ Ayo Dosunmu,WAS,Over 0.5 Steals,-184,WAS rank 28th in STL versus SG,28th,True,2.
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Zach LaVine,WAS,Over 23.5 Points,-104,WAS rank 29th in PTS against,29th,True,26.0
 Josh Giddey,WAS,Over 6.5 Assists,110,WAS rank 26th in AST versus SG,26th,True,8.0
-Jackie Butler,MIL,Under 0.5 3PTM,108,MIL rank 3rd in 3PTM versus SF,3rd,,
-Jackie Butler,MIL,Under 0.5 Blocks,-314,MIL rank 3rd in BLK against,3rd,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Bam Adebayo,MIL,Over 0.5 3PTM,-142,MIL rank 28th in 3PTM against,28th,True,1.0
 Bam Adebayo,MIL,Under 0.5 Blocks,139,MIL rank 3rd in BLK against,3rd,True,0.0
 Tyler Herro,MIL,Under 0.5 Steals,-117,MIL rank 4th in STL versus SG,4th,False,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Terry Rozier,MIL,Under 0.5 Blocks,-274,MIL rank 3rd in BLK against,3rd,False,1.0
 Terry Rozier,MIL,Over 1.5 3PTM,-113,MIL rank 28th in 3PTM against,28th,True,3.0
 Terry Rozier,MIL,Over 0.5 Turnovers,-234,MIL rank 2nd in TO versus PG,2nd,True,2.0
@@ -1112,17 +845,11 @@ Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,Fa
 Taurean Prince,MIA,Over 3.5 Rebounds,-146,MIA rank 28th in REB against,28th,False,3.0
 Damian Lillard,MIA,Over 3.5 Rebounds,-160,MIA rank 27th in REB versus PG,27th,False,3.0
 Damian Lillard,MIA,Over 7.5 Assists,122,MIA rank 29th in AST versus PG,29th,True,12.0
-Giannis Antetokounmpo,MIA,Over 11.5 Rebounds,-118,MIA rank 28th in REB against,28th,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
-Aaron Jackson,MIA,Under 1.5 Assists,-133,MIA rank 3rd in AST versus SG,3rd,,
-Aaron Jackson,MIA,Under 3.5 Rebounds,-113,MIA rank 3rd in REB versus SG,3rd,,
-Aaron Jackson,MIA,Under 4.5 Points,-133,MIA rank 2nd in PTS versus SG,2nd,,
 Brook Lopez,MIA,Over 1.5 Assists,116,MIA rank 30th in AST versus C,30th,True,3.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Brook Lopez,MIA,Over 1.5 3PTM,-136,MIA rank 30th in 3PTM versus C,30th,True,3.0
 Brook Lopez,MIA,Over 5.5 Rebounds,122,MIA rank 30th in REB versus C,30th,False,2.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-Jackie Butler,MIL,Under 1.5 Steals,-210,MIL rank 3rd in STL against,3rd,,
 Julius Randle,HOU,Under 1.5 3PTM,-104,HOU rank 1st in 3PTM versus PF,1st,True,0.0
 Julius Randle,HOU,Over 0.5 Blocks,287,HOU rank 26th in BLK versus PF,26th,False,0.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
@@ -1130,10 +857,6 @@ Julius Randle,HOU,Under 4.5 Assists,-132,HOU rank 1st in AST against,1st,True,3.
 Rudy Gobert,HOU,Over 1.5 Blocks,-162,HOU rank 27th in BLK versus C,27th,False,1.0
 Rudy Gobert,HOU,Under 1.5 Assists,-113,HOU rank 1st in AST versus C,1st,False,2.0
 Rudy Gobert,HOU,Under 0.5 Steals,-109,HOU rank 1st in STL versus C,1st,True,0.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Mike Conley,HOU,Under 1.5 3PTM,-108,HOU rank 4th in 3PTM against,4th,,
-Mike Conley,HOU,Under 8.5 Points,-111,HOU rank 3rd in PTS against,3rd,,
-Mike Conley,HOU,Over 0.5 Blocks,275,HOU rank 29th in BLK against,29th,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Jaden McDaniels,HOU,Under 1.5 3PTM,-128,HOU rank 1st in 3PTM versus PF,1st,True,1.0
 Jaden McDaniels,HOU,Under 1.5 Turnovers,-224,HOU rank 30th in TO versus PF,30th,True,0.0
@@ -1141,40 +864,20 @@ Jaden McDaniels,HOU,Over 0.5 Blocks,-166,HOU rank 26th in BLK versus PF,26th,Fal
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Jaden McDaniels,HOU,Under 1.5 Assists,-129,HOU rank 1st in AST against,1st,False,2.0
 Anthony Edwards,HOU,Under 4.5 Assists,-128,HOU rank 1st in AST against,1st,True,1.0
-JR Smith,MIN,Under 1.5 3PTM,-164,MIN rank 3rd in 3PTM against,3rd,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-JR Smith,MIN,Under 0.5 Blocks,-166,MIN rank 1st in BLK versus PF,1st,,
-JR Smith,MIN,Under 6.5 Rebounds,-122,MIN rank 4th in REB against,4th,,
 Fred VanVleet,MIN,Under 6.5 Assists,-136,MIN rank 3rd in AST against,3rd,False,11.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Fred VanVleet,MIN,Under 0.5 Blocks,-304,MIN rank 2nd in BLK versus PG,2nd,True,0.0
-A. Şengün,MIN,Under 0.5 3PTM,-234,MIN rank 3rd in 3PTM against,3rd,,
-A. Şengün,MIN,Over 0.5 Steals,-234,MIN rank 27th in STL versus C,27th,,
-A. Şengün,MIN,Under 9.5 Rebounds,-117,MIN rank 3rd in REB versus C,3rd,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Dillon Brooks,MIN,Under 1.5 3PTM,-113,MIN rank 3rd in 3PTM versus SG,3rd,False,4.0
-JaMychal Green,MIN,Under 2.5 3PTM,-140,MIN rank 3rd in 3PTM versus SG,3rd,,
-JaMychal Green,MIN,Under 0.5 Steals,133,MIN rank 1st in STL versus SG,1st,,
-JaMychal Green,MIN,Under 0.5 Blocks,-374,MIN rank 5th in BLK versus SG,5th,,
-JaMychal Green,MIN,Under 2.5 Assists,-102,MIN rank 1st in AST versus SG,1st,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Jaden McDaniels,HOU,Under 10.5 Points,100,HOU rank 4th in PTS versus PF,4th,False,11.0
 Anthony Edwards,HOU,Under 27.5 Points,-108,HOU rank 3rd in PTS against,3rd,False,35.0
-A. Şengün,MIN,Over 2.5 Turnovers,108,MIN rank 5th in TO versus C,5th,,
-James Collins,SAS,Under 18.5 Points,-115,SAS rank 2nd in PTS versus PF,2nd,,
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
-James Collins,SAS,Under 2.5 Assists,-174,SAS rank 4th in AST versus PF,4th,,
-James Collins,SAS,Under 1.5 3PTM,-174,SAS rank 2nd in 3PTM versus PF,2nd,,
 Lauri Markkanen,SAS,Under 7.5 Rebounds,-154,SAS rank 4th in REB versus PF,4th,False,8.0
 Lauri Markkanen,SAS,Under 3.5 3PTM,-186,SAS rank 2nd in 3PTM versus PF,2nd,True,0.0
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Lauri Markkanen,SAS,Under 2.5 Assists,-160,SAS rank 4th in AST versus PF,4th,True,2.0
 Walker Kessler,SAS,Under 1.5 Assists,-133,SAS rank 4th in AST against,4th,True,1.0
 Collin Sexton,SAS,Under 4.5 Assists,-172,SAS rank 4th in AST against,4th,True,4.0
-Kannard Johnson,UTA,Under 4.5 Rebounds,100,UTA rank 1st in REB versus SF,1st,,
-Kannard Johnson,UTA,Over 0.5 Steals,-142,UTA rank 29th in STL against,29th,,
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
-Kannard Johnson,UTA,Over 1.5 Assists,-103,UTA rank 27th in AST against,27th,,
 Chris Paul,UTA,Over 0.5 Blocks,355,UTA rank 30th in BLK against,30th,True,1.0
 Chris Paul,UTA,Over 9.5 Points,-128,UTA rank 27th in PTS against,27th,True,18.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
@@ -1188,7 +891,6 @@ Harrison Barnes,UTA,Over 1.5 3PTM,126,UTA rank 26th in 3PTM against,26th,False,0
 Harrison Barnes,UTA,Under 0.5 Turnovers,-103,UTA rank 5th in TO against,5th,True,0.0
 Harrison Barnes,UTA,Under 4.5 Rebounds,-146,UTA rank 1st in REB versus SF,1st,False,8.0
 Harrison Barnes,UTA,Over 1.5 Assists,-129,UTA rank 27th in AST against,27th,True,5.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Stephon Castle,UTA,Over 0.5 Steals,-234,UTA rank 29th in STL versus PG,29th,False,0.0
 Stephon Castle,UTA,Over 3.5 Assists,-117,UTA rank 27th in AST versus PG,27th,True,5.0
 Stephon Castle,UTA,Over 0.5 Blocks,133,UTA rank 30th in BLK against,30th,True,1.0
@@ -1203,7 +905,6 @@ Chris Paul,UTA,Over 9.5 Assists,116,UTA rank 27th in AST versus PG,27th,False,4.
 Victor Wembanyama,UTA,Over 3.5 3PTM,128,UTA rank 26th in 3PTM against,26th,True,6.0
 Harrison Barnes,UTA,Over 12.5 Points,-104,UTA rank 27th in PTS against,27th,False,8.0
 Keyonte George,SAS,Under 15.5 Points,-115,SAS rank 5th in PTS against,5th,False,38.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Walker Kessler,SAS,Under 9.5 Points,-108,SAS rank 5th in PTS against,5th,True,6.0
 Collin Sexton,SAS,Under 18.5 Points,-104,SAS rank 5th in PTS against,5th,False,24.0
 Victor Wembanyama,UTA,Under 10.5 Rebounds,-146,UTA rank 5th in REB versus PF,5th,True,7.0
@@ -1214,17 +915,13 @@ Devin Booker,LAL,Over 2.5 Turnovers,143,LAL rank 2nd in TO versus SG,2nd,True,3.
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Devin Booker,LAL,Under 3.5 Rebounds,-125,LAL rank 4th in REB versus SG,4th,True,2.0
 Devin Booker,LAL,Under 1.5 Steals,-265,LAL rank 2nd in STL versus SG,2nd,True,1.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 Kevin Durant,LAL,Over 2.5 Assists,-142,LAL rank 30th in AST versus SF,30th,False,2.0
 Jusuf Nurkić,LAL,Over 8.5 Rebounds,-129,LAL rank 28th in REB versus C,28th,True,12.0
 Jusuf Nurkić,LAL,Under 0.5 Blocks,-121,LAL rank 5th in BLK against,5th,False,1.0
 Bilal Coulibaly,CHI,Over 1.5 Turnovers,120,Hit in 12 of his last 15 games,80%,False,1.0
 Jusuf Nurkić,LAL,Over 1.5 Assists,108,LAL rank 27th in AST versus C,27th,True,3.0
-Terrence Jones,LAL,Under 10.5 Points,-120,LAL rank 5th in PTS versus PG,5th,,
-Terrence Jones,LAL,Over 6.5 Assists,-108,LAL rank 28th in AST against,28th,,
 Bilal Coulibaly,CHI,Over 2.5 Assists,-111,Hit in 4 of his last 5 games,80%,True,5.0
 Bradley Beal,LAL,Over 1.5 Turnovers,-117,LAL rank 2nd in TO versus SG,2nd,True,3.0
-Jordan Poole,CHI,Over 2.5 3PTM,-120,Hit in 4 of his last 5 games,80%,,
 LeBron James,PHX,Under 3.5 Turnovers,116,PHX rank 4th in TO against,4th,False,5.0
 LeBron James,PHX,Under 22.5 Points,-122,PHX rank 4th in PTS versus SF,4th,True,22.0
 Rui Hachimura,PHX,Under 0.5 Steals,-125,PHX rank 1st in STL versus PF,1st,True,0.0
