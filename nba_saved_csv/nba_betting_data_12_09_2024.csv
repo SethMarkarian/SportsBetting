@@ -1,209 +1,173 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Scottie Barnes,NYK,Over 7.5 Assists,-142,Hit in 5 of his last 5 games,100%
-Scottie Barnes,NYK,Over 7.5 Assists,-142,Hit in 4 of his last 4 home games,100%
-Scottie Barnes,NYK,Over 1.5 3PTM,-164,Hit in 7 of his last 7 games,100%
-Scottie Barnes,NYK,Over 1.5 3PTM,-164,Hit in 5 of his last 5 home games,100%
-Gradey Dick,NYK,Under 1.5 Assists,108,Hit in 4 of his last 4 games,100%
-Ochai Agbaji,NYK,Under 1.5 3PTM,-194,Hit in 4 of his last 4 games vs NYK,100%
-Ochai Agbaji,NYK,Under 13.5 P+A+R,-148,Hit in 4 of his last 4 games vs NYK,100%
-Ochai Agbaji,NYK,Under 11.5 PTS+REB,-120,Hit in 4 of his last 4 games vs NYK,100%
-J. Poeltl,NYK,Over 17.5 PTS+AST,-118,Hit in 4 of his last 4 games,100%
-J. Poeltl,NYK,Under 2.5 Assists,-118,Hit in 4 of his last 4 games vs NYK,100%
-J. Poeltl,NYK,Over 13.5 REB+AST,-104,Hit in 6 of his last 6 home games,100%
-J. Poeltl,NYK,Over 15.5 Points,100,Hit in 4 of his last 4 games,100%
-J. Poeltl,NYK,Over 28.5 P+A+R,-115,Hit in 4 of his last 4 games,100%
-J. Poeltl,NYK,Over 28.5 P+A+R,-115,Hit in 6 of his last 6 home games,100%
-Mikal Bridges,TOR,Over 24.5 P+A+R,-113,Hit in 4 of his last 4 games,100%
-Mikal Bridges,TOR,Over 16.5 Points,-120,Hit in 4 of his last 4 games,100%
-Jalen Brunson,TOR,Over 10.5 REB+AST,-104,Hit in 4 of his last 4 games vs TOR,100%
-OG Anunoby,TOR,Over 1.5 Assists,-194,Hit in 4 of his last 4 games,100%
-Karl-Anthony Towns,TOR,Under 2.5 3PTM,-180,Hit in 7 of his last 7 games,100%
-Karl-Anthony Towns,TOR,Over 0.5 Double Double,-350,Hit in 12 of his last 12 games,100%
-Karl-Anthony Towns,TOR,Over 0.5 Double Double,-350,Hit in 6 of his last 6 away games,100%
-Karl-Anthony Towns,TOR,Over 2.5 Assists,-162,Hit in 4 of his last 4 away games,100%
-Mikal Bridges,TOR,Over 20.5 PTS+AST,-106,Hit in 4 of his last 4 games,100%
-Karl-Anthony Towns,TOR,Over 15.5 REB+AST,-111,Hit in 4 of his last 4 away games,100%
-Scottie Barnes,NYK,Under 3.5 Turnovers,-135,Hit in 7 of his last 7 games vs NYK,100%
-Mikal Bridges,TOR,Under 0.5 Blocks,-135,Hit in 4 of his last 4 games vs TOR,100%
-Mikal Bridges,TOR,Under 1.5 Steals,-194,Hit in 4 of his last 4 games vs TOR,100%
-RJ Barrett,NYK,Under 5.5 Assists,-166,Hit in 4 of his last 4 games,100%
-Scottie Barnes,NYK,Over 1.5 STL+BLK,-165,Hit in 6 of his last 6 games vs NYK,100%
-Davion Mitchell,NYK,Under 1.5 Turnovers,-250,Hit in 4 of his last 4 games,100%
-Davion Mitchell,NYK,Over 0.5 Steals,-105,Hit in 5 of his last 5 games,100%
-Davion Mitchell,NYK,Over 0.5 Steals,-105,Hit in 4 of his last 4 home games,100%
-Davion Mitchell,NYK,Over 0.5 STL+BLK,-135,Hit in 5 of his last 5 games,100%
-Davion Mitchell,NYK,Over 0.5 STL+BLK,-135,Hit in 4 of his last 4 home games,100%
-Ochai Agbaji,NYK,Under 0.5 Blocks,-190,Hit in 4 of his last 4 games vs NYK,100%
-Ochai Agbaji,NYK,Under 1.5 STL+BLK,-225,Hit in 4 of his last 4 games vs NYK,100%
-J. Poeltl,NYK,Under 2.5 STL+BLK,-165,Hit in 4 of his last 4 games vs NYK,100%
-Mikal Bridges,TOR,Under 1.5 STL+BLK,110,Hit in 4 of his last 4 games vs TOR,100%
-OG Anunoby,TOR,Over 1.5 Blocks,120,Hit in 5 of his last 5 games,100%
-Karl-Anthony Towns,TOR,Over 0.5 Blocks,-190,Hit in 5 of his last 5 games,100%
-Karl-Anthony Towns,TOR,Over 1.5 STL+BLK,-175,Hit in 4 of his last 4 games,100%
-Jason Hart,TOR,Over 1.5 STL+BLK,-190,Hit in 8 of his last 8 away games,100%
-J. Poeltl,NYK,Over 25.5 PTS+REB,-120,Hit in 4 of his last 4 games,100%
-J. Poeltl,NYK,Over 25.5 PTS+REB,-120,Hit in 6 of his last 6 home games,100%
-Ochai Agbaji,NYK,Under 7.5 Points,102,Hit in 4 of his last 4 games vs NYK,100%
-Gradey Dick,NYK,Over 4.5 REB+AST,-117,Hit in 7 of his last 8 games,88%
-Gradey Dick,NYK,Over 4.5 REB+AST,-117,Hit in 7 of his last 8 home games,88%
-Scottie Barnes,NYK,Over 0.5 Blocks,-190,Hit in 7 of his last 8 games,88%
-Davion Mitchell,NYK,Under 10.5 P+A+R,-109,Hit in 7 of his last 8 games,88%
-Scottie Barnes,NYK,Over 0.5 Double Double,-125,Hit in 6 of his last 7 games,86%
-Scottie Barnes,NYK,Over 7.5 Rebounds,-140,Hit in 6 of his last 7 games,86%
-Gradey Dick,NYK,Over 2.5 Rebounds,-130,Hit in 6 of his last 7 home games,86%
-Karl-Anthony Towns,TOR,Over 12.5 Rebounds,-102,Hit in 6 of his last 7 games,86%
-Scottie Barnes,NYK,Over 16.5 REB+AST,-111,Hit in 6 of his last 7 games,86%
-Karl-Anthony Towns,TOR,Over 15.5 REB+AST,-111,Hit in 6 of his last 7 games,86%
-J. Poeltl,NYK,Over 0.5 Steals,-165,Hit in 6 of his last 7 home games,86%
-Jalen Brunson,TOR,Over 0.5 STL+BLK,-250,Hit in 6 of his last 7 games vs TOR,86%
-Ja'Kobe Walter,NYK,Over 7.5 PTS+AST,-117,Hit in 5 of his last 6 games,83%
-Ja'Kobe Walter,NYK,Over 9.5 P+A+R,-125,Hit in 5 of his last 6 games,83%
-RJ Barrett,NYK,Over 6.5 Rebounds,126,Hit in 5 of his last 6 home games,83%
-RJ Barrett,NYK,Over 1.5 3PTM,-136,Hit in 5 of his last 6 games,83%
-RJ Barrett,NYK,Over 11.5 REB+AST,102,Hit in 5 of his last 6 games,83%
-Ochai Agbaji,NYK,Over 1.5 Assists,108,Hit in 5 of his last 6 games,83%
-J. Poeltl,NYK,Over 17.5 PTS+AST,-118,Hit in 5 of his last 6 home games,83%
-J. Poeltl,NYK,Over 0.5 Double Double,-125,Hit in 5 of his last 6 home games,83%
-J. Poeltl,NYK,Over 15.5 Points,100,Hit in 5 of his last 6 home games,83%
-Mikal Bridges,TOR,Under 7.5 REB+AST,-125,Hit in 5 of his last 6 games,83%
-OG Anunoby,TOR,Under 26.5 P+A+R,-129,Hit in 5 of his last 6 games,83%
-Jalen Brunson,TOR,Under 33.5 PTS+AST,-106,Hit in 5 of his last 6 games vs TOR,83%
-OG Anunoby,TOR,Under 24.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%
-Scottie Barnes,NYK,Over 0.5 Steals,-210,Hit in 5 of his last 6 games vs NYK,83%
-Jalen Brunson,TOR,Over 0.5 Steals,-200,Hit in 5 of his last 6 away games,83%
-Scottie Barnes,NYK,Over 0.5 Blocks,-190,Hit in 5 of his last 6 games vs NYK,83%
-Davion Mitchell,NYK,Over 8.5 PTS+AST,-125,Hit in 10 of his last 12 home games,83%
-RJ Barrett,NYK,Under 0.5 Steals,-110,Hit in 5 of his last 6 games,83%
-Jalen Brunson,TOR,Over 0.5 STL+BLK,-250,Hit in 5 of his last 6 away games,83%
-OG Anunoby,TOR,Under 20.5 PTS+AST,-106,Hit in 5 of his last 6 games,83%
-OG Anunoby,TOR,Under 18.5 Points,-104,Hit in 5 of his last 6 games,83%
-Jason Hart,TOR,Under 0.5 Blocks,-200,Hit in 5 of his last 6 games,83%
-Davion Mitchell,NYK,Over 1.5 Rebounds,-174,Hit in 9 of his last 11 home games,82%
-Davion Mitchell,NYK,Over 5.5 REB+AST,-113,Hit in 9 of his last 11 home games,82%
-Scottie Barnes,NYK,Over 0.5 Steals,-210,Hit in 13 of his last 16 home games,81%
-Scottie Barnes,NYK,Over 28.5 PTS+AST,-118,Hit in 4 of his last 5 games,80%
-Davion Mitchell,NYK,Over 3.5 Assists,-129,Hit in 8 of his last 10 home games,80%
-Ja'Kobe Walter,NYK,Under 0.5 3PTM,-109,Hit in 4 of his last 5 games,80%
-RJ Barrett,NYK,Over 1.5 3PTM,-136,Hit in 8 of his last 10 home games,80%
-Gradey Dick,NYK,Over 2.5 3PTM,102,Hit in 4 of his last 5 games,80%
-Gradey Dick,NYK,Over 2.5 Rebounds,-130,Hit in 4 of his last 5 games,80%
-J. Poeltl,NYK,Under 10.5 Rebounds,-113,Hit in 4 of his last 5 games,80%
-Mikal Bridges,TOR,Under 3.5 Rebounds,124,Hit in 8 of his last 10 games,80%
-Mikal Bridges,TOR,Over 2.5 3PTM,108,Hit in 4 of his last 5 games vs TOR,80%
-Jalen Brunson,TOR,Over 2.5 3PTM,-106,Hit in 4 of his last 5 games,80%
-Jalen Brunson,TOR,Over 2.5 3PTM,-106,Hit in 4 of his last 5 games vs TOR,80%
-OG Anunoby,TOR,Under 4.5 Rebounds,112,Hit in 4 of his last 5 games,80%
-Scottie Barnes,NYK,Over 37.5 P+A+R,-111,Hit in 4 of his last 5 games,80%
-Jalen Brunson,TOR,Over 36.5 P+A+R,-120,Hit in 4 of his last 5 away games,80%
-Jason Hart,TOR,Under 8.5 Rebounds,106,Hit in 4 of his last 5 games vs TOR,80%
-Jason Hart,TOR,Over 22.5 PTS+REB,-111,Hit in 4 of his last 5 games,80%
-J. Poeltl,NYK,Under 1.5 Blocks,-194,Hit in 4 of his last 5 games,80%
-Jalen Brunson,TOR,Over 0.5 Steals,-200,Hit in 4 of his last 5 games vs TOR,80%
-Jason Hart,TOR,Over 1.5 Steals,110,Hit in 4 of his last 5 away games,80%
-Jason Hart,TOR,Over 1.5 Turnovers,-135,Hit in 4 of his last 5 games vs TOR,80%
-Scottie Barnes,NYK,Over 1.5 STL+BLK,-165,Hit in 4 of his last 5 games,80%
-RJ Barrett,NYK,Over 0.5 STL+BLK,-200,Hit in 4 of his last 5 home games,80%
-Gradey Dick,NYK,Over 0.5 STL+BLK,-200,Hit in 8 of his last 10 home games,80%
-Ochai Agbaji,NYK,Under 0.5 Steals,-110,Hit in 4 of his last 5 games,80%
-Ochai Agbaji,NYK,Under 1.5 STL+BLK,-225,Hit in 4 of his last 5 games,80%
-J. Poeltl,NYK,Over 0.5 Steals,-165,Hit in 4 of his last 5 games,80%
-OG Anunoby,TOR,Under 6.5 REB+AST,112,Hit in 4 of his last 5 games,80%
-Karl-Anthony Towns,TOR,Over 0.5 Blocks,-190,Hit in 8 of his last 10 away games,80%
-Davion Mitchell,NYK,Over 6.5 PTS+REB,-137,Hit in 15 of his last 19 home games,79%
-RJ Barrett,NYK,Over 33.5 P+A+R,-122,Hit in 7 of his last 9 home games,78%
-RJ Barrett,NYK,Over 27.5 PTS+AST,-113,Hit in 7 of his last 9 home games,78%
-RJ Barrett,NYK,Over 21.5 Points,-128,Hit in 7 of his last 9 home games,78%
-RJ Barrett,NYK,Over 11.5 REB+AST,102,Hit in 7 of his last 9 home games,78%
-Jalen Brunson,TOR,Over 2.5 Rebounds,-154,Hit in 7 of his last 9 away games,78%
-Mikal Bridges,TOR,Under 1.5 Steals,-194,Hit in 14 of his last 18 games,78%
-Jason Hart,TOR,Over 1.5 STL+BLK,-190,Hit in 7 of his last 9 games,78%
-Scottie Barnes,NYK,Over 28.5 PTS+AST,-118,Hit in 3 of his last 4 home games,75%
-Scottie Barnes,NYK,Over 0.5 Double Double,-125,Hit in 3 of his last 4 home games,75%
-Scottie Barnes,NYK,Over 7.5 Rebounds,-140,Hit in 3 of his last 4 home games,75%
-Scottie Barnes,NYK,Under 28.5 PTS+REB,-113,Hit in 3 of his last 4 games vs NYK,75%
-Scottie Barnes,NYK,Under 20.5 Points,-125,Hit in 3 of his last 4 games vs NYK,75%
-Davion Mitchell,NYK,Over 3.5 Assists,-129,Hit in 15 of his last 20 games,75%
-Ja'Kobe Walter,NYK,Over 7.5 PTS+AST,-117,Hit in 3 of his last 4 home games,75%
-Ja'Kobe Walter,NYK,Under 3.5 REB+AST,-166,Hit in 3 of his last 4 games,75%
-Ja'Kobe Walter,NYK,Over 9.5 P+A+R,-125,Hit in 3 of his last 4 home games,75%
-RJ Barrett,NYK,Over 6.5 Rebounds,126,Hit in 3 of his last 4 games,75%
-Gradey Dick,NYK,Over 2.5 3PTM,102,Hit in 3 of his last 4 home games,75%
-Ochai Agbaji,NYK,Over 9.5 PTS+AST,-129,Hit in 15 of his last 20 games,75%
-Ochai Agbaji,NYK,Over 1.5 Assists,108,Hit in 3 of his last 4 home games,75%
-Ochai Agbaji,NYK,Under 1.5 3PTM,-194,Hit in 3 of his last 4 games,75%
-Ochai Agbaji,NYK,Under 3.5 Rebounds,-150,Hit in 3 of his last 4 games vs NYK,75%
-Ochai Agbaji,NYK,Under 4.5 REB+AST,-109,Hit in 3 of his last 4 games vs NYK,75%
-J. Poeltl,NYK,Over 0.5 Double Double,-125,Hit in 3 of his last 4 games,75%
-Jalen Brunson,TOR,Over 2.5 Rebounds,-154,Hit in 6 of his last 8 games vs TOR,75%
-Jalen Brunson,TOR,Over 7.5 Assists,104,Hit in 3 of his last 4 games vs TOR,75%
-Karl-Anthony Towns,TOR,Under 27.5 PTS+AST,-111,Hit in 3 of his last 4 games,75%
-Karl-Anthony Towns,TOR,Under 24.5 Points,-113,Hit in 3 of his last 4 games,75%
-Karl-Anthony Towns,TOR,Over 12.5 Rebounds,-102,Hit in 3 of his last 4 away games,75%
-Jason Hart,TOR,Under 28.5 P+A+R,-120,Hit in 3 of his last 4 games vs TOR,75%
-Jason Hart,TOR,Over 1.5 3PTM,116,Hit in 3 of his last 4 games vs TOR,75%
-Scottie Barnes,NYK,Over 16.5 REB+AST,-111,Hit in 3 of his last 4 home games,75%
-Scottie Barnes,NYK,Over 37.5 P+A+R,-111,Hit in 3 of his last 4 home games,75%
-Mikal Bridges,TOR,Over 21.5 PTS+REB,-102,Hit in 3 of his last 4 games,75%
-Jalen Brunson,TOR,Under 33.5 PTS+AST,-106,Hit in 3 of his last 4 games,75%
-Jalen Brunson,TOR,Under 28.5 PTS+REB,-104,Hit in 3 of his last 4 games,75%
-Karl-Anthony Towns,TOR,Under 40.5 P+A+R,-113,Hit in 3 of his last 4 games,75%
-Scottie Barnes,NYK,Over 0.5 Steals,-210,Hit in 15 of his last 20 games,75%
-Jalen Brunson,TOR,Over 2.5 Turnovers,115,Hit in 3 of his last 4 games,75%
-Jalen Brunson,TOR,Over 2.5 Turnovers,115,Hit in 6 of his last 8 games vs TOR,75%
-Mikal Bridges,TOR,Over 1.5 Turnovers,-110,Hit in 3 of his last 4 away games,75%
-Scottie Barnes,NYK,Over 1.5 STL+BLK,-165,Hit in 15 of his last 20 home games,75%
-RJ Barrett,NYK,Over 0.5 STL+BLK,-200,Hit in 3 of his last 4 games,75%
-Gradey Dick,NYK,Over 0.5 Steals,-145,Hit in 3 of his last 4 games,75%
-Gradey Dick,NYK,Over 0.5 STL+BLK,-200,Hit in 3 of his last 4 games,75%
-Ochai Agbaji,NYK,Over 0.5 Turnovers,-145,Hit in 6 of his last 8 home games,75%
-Ochai Agbaji,NYK,Under 0.5 Steals,-110,Hit in 3 of his last 4 games vs NYK,75%
-J. Poeltl,NYK,Over 1.5 Turnovers,-175,Hit in 3 of his last 4 games,75%
-Jalen Brunson,TOR,Under 25.5 Points,-106,Hit in 3 of his last 4 games,75%
-OG Anunoby,TOR,Over 1.5 Steals,-120,Hit in 3 of his last 4 games,75%
-OG Anunoby,TOR,Over 2.5 STL+BLK,-175,Hit in 3 of his last 4 games,75%
-Ochai Agbaji,NYK,Under 7.5 Points,102,Hit in 3 of his last 4 games,75%
-Scottie Barnes,NYK,Over 0.5 Blocks,-190,Hit in 14 of his last 19 home games,74%
-Ochai Agbaji,NYK,Over 9.5 PTS+AST,-129,Hit in 8 of his last 11 home games,73%
-Jalen Brunson,TOR,Over 0.5 Steals,-200,Hit in 8 of his last 11 games,73%
-J. Poeltl,NYK,Over 1.5 Turnovers,-175,Hit in 8 of his last 11 home games,73%
-Jalen Brunson,TOR,Over 0.5 STL+BLK,-250,Hit in 8 of his last 11 games,73%
-Davion Mitchell,NYK,Under 5.5 Points,-115,Hit in 5 of his last 7 games,71%
-Gradey Dick,NYK,Over 18.5 PTS+REB,-115,Hit in 5 of his last 7 home games,71%
-Gradey Dick,NYK,Over 20.5 P+A+R,-113,Hit in 5 of his last 7 home games,71%
-Jason Hart,TOR,Under 13.5 Points,-128,Hit in 5 of his last 7 games,71%
-Jason Hart,TOR,Under 5.5 Assists,-118,Hit in 5 of his last 7 games,71%
-Jason Hart,TOR,Over 22.5 PTS+REB,-111,Hit in 5 of his last 7 away games,71%
-Mikal Bridges,TOR,Under 0.5 Blocks,-135,Hit in 5 of his last 7 games,71%
-RJ Barrett,NYK,Over 2.5 Turnovers,-155,Hit in 5 of his last 7 games,71%
-RJ Barrett,NYK,Under 0.5 Blocks,-375,Hit in 5 of his last 7 games,71%
-Gradey Dick,NYK,Over 0.5 Steals,-145,Hit in 5 of his last 7 home games,71%
-Ochai Agbaji,NYK,Over 0.5 Turnovers,-145,Hit in 10 of his last 14 games,71%
-Davion Mitchell,NYK,Over 5.5 REB+AST,-113,Hit in 14 of his last 20 games,70%
-Ja'Kobe Walter,NYK,Over 0.5 Assists,-224,Hit in 7 of his last 10 games,70%
-Ja'Kobe Walter,NYK,Under 6.5 Points,-128,Hit in 7 of his last 10 games,70%
-J. Poeltl,NYK,Under 2.5 Assists,-118,Hit in 7 of his last 10 games,70%
-OG Anunoby,TOR,Over 1.5 Assists,-194,Hit in 7 of his last 10 away games,70%
-Davion Mitchell,NYK,Over 8.5 PTS+AST,-125,Hit in 14 of his last 20 games,70%
-Ja'Kobe Walter,NYK,Over 1.5 Rebounds,-184,Hit in 7 of his last 10 games,70%
-Davion Mitchell,NYK,Under 0.5 3PTM,100,NYK rank 5th in 3PTM versus PG,5th
-Ochai Agbaji,NYK,Under 3.5 Rebounds,-150,NYK rank 5th in REB versus SG,5th
-J. Poeltl,NYK,Under 10.5 Rebounds,-113,NYK rank 2nd in REB versus C,2nd
-Mikal Bridges,TOR,Under 3.5 Rebounds,124,TOR rank 5th in REB versus SF,5th
-Jalen Brunson,TOR,Over 2.5 3PTM,-106,TOR rank 26th in 3PTM versus PG,26th
-OG Anunoby,TOR,Under 4.5 Rebounds,112,TOR rank 5th in REB versus SF,5th
-Karl-Anthony Towns,TOR,Under 2.5 3PTM,-180,TOR rank 4th in 3PTM versus C,4th
-Karl-Anthony Towns,TOR,Over 2.5 Assists,-162,TOR rank 30th in AST versus C,30th
-Jason Hart,TOR,Under 8.5 Rebounds,106,TOR rank 3rd in REB versus SG,3rd
-Scottie Barnes,NYK,Under 3.5 Turnovers,-135,NYK rank 5th in TO against,5th
-Jalen Brunson,TOR,Over 0.5 Steals,-200,TOR rank 30th in STL versus PG,30th
-Mikal Bridges,TOR,Over 1.5 Turnovers,-110,TOR rank 2nd in TO versus SF,2nd
-Jason Hart,TOR,Over 1.5 Steals,110,TOR rank 26th in STL versus SG,26th
-RJ Barrett,NYK,Under 0.5 Steals,-110,NYK rank 1st in STL against,1st
-Gradey Dick,NYK,Under 1.5 Turnovers,-150,NYK rank 5th in TO against,5th
-Ochai Agbaji,NYK,Under 0.5 Steals,-110,NYK rank 1st in STL against,1st
-J. Poeltl,NYK,Over 1.5 Turnovers,-175,NYK rank 3rd in TO versus C,3rd
-OG Anunoby,TOR,Under 18.5 Points,-104,TOR rank 5th in PTS versus SF,5th
-OG Anunoby,TOR,Over 1.5 Turnovers,-135,TOR rank 2nd in TO versus SF,2nd
-OG Anunoby,TOR,Over 1.5 Steals,-120,TOR rank 27th in STL against,27th
-Karl-Anthony Towns,TOR,Over 0.5 Blocks,-190,TOR rank 29th in BLK versus C,29th
-Karl-Anthony Towns,TOR,Over 0.5 Steals,-210,TOR rank 27th in STL against,27th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Scottie Barnes,NYK,Over 7.5 Assists,-142,Hit in 5 of his last 5 games,100%,False,3.0
+Scottie Barnes,NYK,Over 7.5 Assists,-142,Hit in 4 of his last 4 home games,100%,False,3.0
+Scottie Barnes,NYK,Over 1.5 3PTM,-164,Hit in 7 of his last 7 games,100%,True,3.0
+Scottie Barnes,NYK,Over 1.5 3PTM,-164,Hit in 5 of his last 5 home games,100%,True,3.0
+Gradey Dick,NYK,Under 1.5 Assists,108,Hit in 4 of his last 4 games,100%,True,0.0
+Ochai Agbaji,NYK,Under 1.5 3PTM,-194,Hit in 4 of his last 4 games vs NYK,100%,True,1.0
+Ochai Agbaji,NYK,Under 13.5 P+A+R,-148,Hit in 4 of his last 4 games vs NYK,100%,False,18.0
+Ochai Agbaji,NYK,Under 11.5 PTS+REB,-120,Hit in 4 of his last 4 games vs NYK,100%,False,14.0
+Mikal Bridges,TOR,Over 24.5 P+A+R,-113,Hit in 4 of his last 4 games,100%,True,39.0
+Mikal Bridges,TOR,Over 16.5 Points,-120,Hit in 4 of his last 4 games,100%,True,33.0
+Jalen Brunson,TOR,Over 10.5 REB+AST,-104,Hit in 4 of his last 4 games vs TOR,100%,True,15.0
+OG Anunoby,TOR,Over 1.5 Assists,-194,Hit in 4 of his last 4 games,100%,True,3.0
+Karl-Anthony Towns,TOR,Under 2.5 3PTM,-180,Hit in 7 of his last 7 games,100%,True,2.0
+Karl-Anthony Towns,TOR,Over 0.5 Double Double,-350,Hit in 12 of his last 12 games,100%,True,1.0
+Karl-Anthony Towns,TOR,Over 0.5 Double Double,-350,Hit in 6 of his last 6 away games,100%,True,1.0
+Karl-Anthony Towns,TOR,Over 2.5 Assists,-162,Hit in 4 of his last 4 away games,100%,True,6.0
+Mikal Bridges,TOR,Over 20.5 PTS+AST,-106,Hit in 4 of his last 4 games,100%,True,36.0
+Karl-Anthony Towns,TOR,Over 15.5 REB+AST,-111,Hit in 4 of his last 4 away games,100%,True,21.0
+Scottie Barnes,NYK,Under 3.5 Turnovers,-135,Hit in 7 of his last 7 games vs NYK,100%,True,2.0
+Mikal Bridges,TOR,Under 0.5 Blocks,-135,Hit in 4 of his last 4 games vs TOR,100%,True,0.0
+Mikal Bridges,TOR,Under 1.5 Steals,-194,Hit in 4 of his last 4 games vs TOR,100%,True,1.0
+RJ Barrett,NYK,Under 5.5 Assists,-166,Hit in 4 of his last 4 games,100%,True,4.0
+Scottie Barnes,NYK,Over 1.5 STL+BLK,-165,Hit in 6 of his last 6 games vs NYK,100%,False,0.0
+Davion Mitchell,NYK,Under 1.5 Turnovers,-250,Hit in 4 of his last 4 games,100%,True,1.0
+Davion Mitchell,NYK,Over 0.5 Steals,-105,Hit in 5 of his last 5 games,100%,False,0.0
+Davion Mitchell,NYK,Over 0.5 Steals,-105,Hit in 4 of his last 4 home games,100%,False,0.0
+Davion Mitchell,NYK,Over 0.5 STL+BLK,-135,Hit in 5 of his last 5 games,100%,True,1.0
+Davion Mitchell,NYK,Over 0.5 STL+BLK,-135,Hit in 4 of his last 4 home games,100%,True,1.0
+Ochai Agbaji,NYK,Under 0.5 Blocks,-190,Hit in 4 of his last 4 games vs NYK,100%,True,0.0
+Ochai Agbaji,NYK,Under 1.5 STL+BLK,-225,Hit in 4 of his last 4 games vs NYK,100%,True,1.0
+Mikal Bridges,TOR,Under 1.5 STL+BLK,110,Hit in 4 of his last 4 games vs TOR,100%,True,1.0
+OG Anunoby,TOR,Over 1.5 Blocks,120,Hit in 5 of his last 5 games,100%,True,3.0
+Karl-Anthony Towns,TOR,Over 0.5 Blocks,-190,Hit in 5 of his last 5 games,100%,True,2.0
+Karl-Anthony Towns,TOR,Over 1.5 STL+BLK,-175,Hit in 4 of his last 4 games,100%,True,4.0
+Ochai Agbaji,NYK,Under 7.5 Points,102,Hit in 4 of his last 4 games vs NYK,100%,False,9.0
+Gradey Dick,NYK,Over 4.5 REB+AST,-117,Hit in 7 of his last 8 games,88%,True,6.0
+Gradey Dick,NYK,Over 4.5 REB+AST,-117,Hit in 7 of his last 8 home games,88%,True,6.0
+Scottie Barnes,NYK,Over 0.5 Blocks,-190,Hit in 7 of his last 8 games,88%,False,0.0
+Davion Mitchell,NYK,Under 10.5 P+A+R,-109,Hit in 7 of his last 8 games,88%,False,18.0
+Scottie Barnes,NYK,Over 0.5 Double Double,-125,Hit in 6 of his last 7 games,86%,False,0.0
+Scottie Barnes,NYK,Over 7.5 Rebounds,-140,Hit in 6 of his last 7 games,86%,False,5.0
+Gradey Dick,NYK,Over 2.5 Rebounds,-130,Hit in 6 of his last 7 home games,86%,True,6.0
+Karl-Anthony Towns,TOR,Over 12.5 Rebounds,-102,Hit in 6 of his last 7 games,86%,True,15.0
+Scottie Barnes,NYK,Over 16.5 REB+AST,-111,Hit in 6 of his last 7 games,86%,False,8.0
+Karl-Anthony Towns,TOR,Over 15.5 REB+AST,-111,Hit in 6 of his last 7 games,86%,True,21.0
+Jalen Brunson,TOR,Over 0.5 STL+BLK,-250,Hit in 6 of his last 7 games vs TOR,86%,False,0.0
+Ja'Kobe Walter,NYK,Over 7.5 PTS+AST,-117,Hit in 5 of his last 6 games,83%,True,27.0
+Ja'Kobe Walter,NYK,Over 9.5 P+A+R,-125,Hit in 5 of his last 6 games,83%,True,28.0
+RJ Barrett,NYK,Over 6.5 Rebounds,126,Hit in 5 of his last 6 home games,83%,True,8.0
+RJ Barrett,NYK,Over 1.5 3PTM,-136,Hit in 5 of his last 6 games,83%,True,3.0
+RJ Barrett,NYK,Over 11.5 REB+AST,102,Hit in 5 of his last 6 games,83%,True,12.0
+Ochai Agbaji,NYK,Over 1.5 Assists,108,Hit in 5 of his last 6 games,83%,True,4.0
+Mikal Bridges,TOR,Under 7.5 REB+AST,-125,Hit in 5 of his last 6 games,83%,True,6.0
+OG Anunoby,TOR,Under 26.5 P+A+R,-129,Hit in 5 of his last 6 games,83%,True,25.0
+Jalen Brunson,TOR,Under 33.5 PTS+AST,-106,Hit in 5 of his last 6 games vs TOR,83%,False,39.0
+OG Anunoby,TOR,Under 24.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%,True,22.0
+Scottie Barnes,NYK,Over 0.5 Steals,-210,Hit in 5 of his last 6 games vs NYK,83%,False,0.0
+Jalen Brunson,TOR,Over 0.5 Steals,-200,Hit in 5 of his last 6 away games,83%,False,0.0
+Scottie Barnes,NYK,Over 0.5 Blocks,-190,Hit in 5 of his last 6 games vs NYK,83%,False,0.0
+Davion Mitchell,NYK,Over 8.5 PTS+AST,-125,Hit in 10 of his last 12 home games,83%,True,15.0
+RJ Barrett,NYK,Under 0.5 Steals,-110,Hit in 5 of his last 6 games,83%,False,1.0
+Jalen Brunson,TOR,Over 0.5 STL+BLK,-250,Hit in 5 of his last 6 away games,83%,False,0.0
+OG Anunoby,TOR,Under 20.5 PTS+AST,-106,Hit in 5 of his last 6 games,83%,False,21.0
+OG Anunoby,TOR,Under 18.5 Points,-104,Hit in 5 of his last 6 games,83%,True,18.0
+Davion Mitchell,NYK,Over 1.5 Rebounds,-174,Hit in 9 of his last 11 home games,82%,True,3.0
+Davion Mitchell,NYK,Over 5.5 REB+AST,-113,Hit in 9 of his last 11 home games,82%,True,6.0
+Scottie Barnes,NYK,Over 0.5 Steals,-210,Hit in 13 of his last 16 home games,81%,False,0.0
+Scottie Barnes,NYK,Over 28.5 PTS+AST,-118,Hit in 4 of his last 5 games,80%,False,24.0
+Davion Mitchell,NYK,Over 3.5 Assists,-129,Hit in 8 of his last 10 home games,80%,False,3.0
+Ja'Kobe Walter,NYK,Under 0.5 3PTM,-109,Hit in 4 of his last 5 games,80%,False,3.0
+RJ Barrett,NYK,Over 1.5 3PTM,-136,Hit in 8 of his last 10 home games,80%,True,3.0
+Gradey Dick,NYK,Over 2.5 3PTM,102,Hit in 4 of his last 5 games,80%,False,1.0
+Gradey Dick,NYK,Over 2.5 Rebounds,-130,Hit in 4 of his last 5 games,80%,True,6.0
+Mikal Bridges,TOR,Under 3.5 Rebounds,124,Hit in 8 of his last 10 games,80%,True,3.0
+Mikal Bridges,TOR,Over 2.5 3PTM,108,Hit in 4 of his last 5 games vs TOR,80%,True,5.0
+Jalen Brunson,TOR,Over 2.5 3PTM,-106,Hit in 4 of his last 5 games,80%,True,4.0
+Jalen Brunson,TOR,Over 2.5 3PTM,-106,Hit in 4 of his last 5 games vs TOR,80%,True,4.0
+OG Anunoby,TOR,Under 4.5 Rebounds,112,Hit in 4 of his last 5 games,80%,True,4.0
+Scottie Barnes,NYK,Over 37.5 P+A+R,-111,Hit in 4 of his last 5 games,80%,False,29.0
+Jalen Brunson,TOR,Over 36.5 P+A+R,-120,Hit in 4 of his last 5 away games,80%,True,43.0
+Jalen Brunson,TOR,Over 0.5 Steals,-200,Hit in 4 of his last 5 games vs TOR,80%,False,0.0
+Scottie Barnes,NYK,Over 1.5 STL+BLK,-165,Hit in 4 of his last 5 games,80%,False,0.0
+RJ Barrett,NYK,Over 0.5 STL+BLK,-200,Hit in 4 of his last 5 home games,80%,True,1.0
+Gradey Dick,NYK,Over 0.5 STL+BLK,-200,Hit in 8 of his last 10 home games,80%,False,0.0
+Ochai Agbaji,NYK,Under 0.5 Steals,-110,Hit in 4 of his last 5 games,80%,False,1.0
+Ochai Agbaji,NYK,Under 1.5 STL+BLK,-225,Hit in 4 of his last 5 games,80%,True,1.0
+OG Anunoby,TOR,Under 6.5 REB+AST,112,Hit in 4 of his last 5 games,80%,False,7.0
+Karl-Anthony Towns,TOR,Over 0.5 Blocks,-190,Hit in 8 of his last 10 away games,80%,True,2.0
+Davion Mitchell,NYK,Over 6.5 PTS+REB,-137,Hit in 15 of his last 19 home games,79%,True,15.0
+RJ Barrett,NYK,Over 33.5 P+A+R,-122,Hit in 7 of his last 9 home games,78%,True,48.0
+RJ Barrett,NYK,Over 27.5 PTS+AST,-113,Hit in 7 of his last 9 home games,78%,True,40.0
+RJ Barrett,NYK,Over 21.5 Points,-128,Hit in 7 of his last 9 home games,78%,True,36.0
+RJ Barrett,NYK,Over 11.5 REB+AST,102,Hit in 7 of his last 9 home games,78%,True,12.0
+Jalen Brunson,TOR,Over 2.5 Rebounds,-154,Hit in 7 of his last 9 away games,78%,True,4.0
+Mikal Bridges,TOR,Under 1.5 Steals,-194,Hit in 14 of his last 18 games,78%,True,1.0
+Scottie Barnes,NYK,Over 28.5 PTS+AST,-118,Hit in 3 of his last 4 home games,75%,False,24.0
+Scottie Barnes,NYK,Over 0.5 Double Double,-125,Hit in 3 of his last 4 home games,75%,False,0.0
+Scottie Barnes,NYK,Over 7.5 Rebounds,-140,Hit in 3 of his last 4 home games,75%,False,5.0
+Scottie Barnes,NYK,Under 28.5 PTS+REB,-113,Hit in 3 of his last 4 games vs NYK,75%,True,26.0
+Scottie Barnes,NYK,Under 20.5 Points,-125,Hit in 3 of his last 4 games vs NYK,75%,False,21.0
+Davion Mitchell,NYK,Over 3.5 Assists,-129,Hit in 15 of his last 20 games,75%,False,3.0
+Ja'Kobe Walter,NYK,Over 7.5 PTS+AST,-117,Hit in 3 of his last 4 home games,75%,True,27.0
+Ja'Kobe Walter,NYK,Under 3.5 REB+AST,-166,Hit in 3 of his last 4 games,75%,True,3.0
+Ja'Kobe Walter,NYK,Over 9.5 P+A+R,-125,Hit in 3 of his last 4 home games,75%,True,28.0
+RJ Barrett,NYK,Over 6.5 Rebounds,126,Hit in 3 of his last 4 games,75%,True,8.0
+Gradey Dick,NYK,Over 2.5 3PTM,102,Hit in 3 of his last 4 home games,75%,False,1.0
+Ochai Agbaji,NYK,Over 9.5 PTS+AST,-129,Hit in 15 of his last 20 games,75%,True,13.0
+Ochai Agbaji,NYK,Over 1.5 Assists,108,Hit in 3 of his last 4 home games,75%,True,4.0
+Ochai Agbaji,NYK,Under 1.5 3PTM,-194,Hit in 3 of his last 4 games,75%,True,1.0
+Ochai Agbaji,NYK,Under 3.5 Rebounds,-150,Hit in 3 of his last 4 games vs NYK,75%,False,5.0
+Ochai Agbaji,NYK,Under 4.5 REB+AST,-109,Hit in 3 of his last 4 games vs NYK,75%,False,9.0
+Jalen Brunson,TOR,Over 2.5 Rebounds,-154,Hit in 6 of his last 8 games vs TOR,75%,True,4.0
+Jalen Brunson,TOR,Over 7.5 Assists,104,Hit in 3 of his last 4 games vs TOR,75%,True,11.0
+Karl-Anthony Towns,TOR,Under 27.5 PTS+AST,-111,Hit in 3 of his last 4 games,75%,False,34.0
+Karl-Anthony Towns,TOR,Under 24.5 Points,-113,Hit in 3 of his last 4 games,75%,False,28.0
+Karl-Anthony Towns,TOR,Over 12.5 Rebounds,-102,Hit in 3 of his last 4 away games,75%,True,15.0
+Scottie Barnes,NYK,Over 16.5 REB+AST,-111,Hit in 3 of his last 4 home games,75%,False,8.0
+Scottie Barnes,NYK,Over 37.5 P+A+R,-111,Hit in 3 of his last 4 home games,75%,False,29.0
+Mikal Bridges,TOR,Over 21.5 PTS+REB,-102,Hit in 3 of his last 4 games,75%,True,36.0
+Jalen Brunson,TOR,Under 33.5 PTS+AST,-106,Hit in 3 of his last 4 games,75%,False,39.0
+Jalen Brunson,TOR,Under 28.5 PTS+REB,-104,Hit in 3 of his last 4 games,75%,False,32.0
+Karl-Anthony Towns,TOR,Under 40.5 P+A+R,-113,Hit in 3 of his last 4 games,75%,False,49.0
+Scottie Barnes,NYK,Over 0.5 Steals,-210,Hit in 15 of his last 20 games,75%,False,0.0
+Jalen Brunson,TOR,Over 2.5 Turnovers,115,Hit in 3 of his last 4 games,75%,True,3.0
+Jalen Brunson,TOR,Over 2.5 Turnovers,115,Hit in 6 of his last 8 games vs TOR,75%,True,3.0
+Mikal Bridges,TOR,Over 1.5 Turnovers,-110,Hit in 3 of his last 4 away games,75%,False,1.0
+Scottie Barnes,NYK,Over 1.5 STL+BLK,-165,Hit in 15 of his last 20 home games,75%,False,0.0
+RJ Barrett,NYK,Over 0.5 STL+BLK,-200,Hit in 3 of his last 4 games,75%,True,1.0
+Gradey Dick,NYK,Over 0.5 Steals,-145,Hit in 3 of his last 4 games,75%,False,0.0
+Gradey Dick,NYK,Over 0.5 STL+BLK,-200,Hit in 3 of his last 4 games,75%,False,0.0
+Ochai Agbaji,NYK,Over 0.5 Turnovers,-145,Hit in 6 of his last 8 home games,75%,True,1.0
+Ochai Agbaji,NYK,Under 0.5 Steals,-110,Hit in 3 of his last 4 games vs NYK,75%,False,1.0
+Jalen Brunson,TOR,Under 25.5 Points,-106,Hit in 3 of his last 4 games,75%,False,28.0
+OG Anunoby,TOR,Over 1.5 Steals,-120,Hit in 3 of his last 4 games,75%,True,2.0
+OG Anunoby,TOR,Over 2.5 STL+BLK,-175,Hit in 3 of his last 4 games,75%,True,5.0
+Ochai Agbaji,NYK,Under 7.5 Points,102,Hit in 3 of his last 4 games,75%,False,9.0
+Scottie Barnes,NYK,Over 0.5 Blocks,-190,Hit in 14 of his last 19 home games,74%,False,0.0
+Ochai Agbaji,NYK,Over 9.5 PTS+AST,-129,Hit in 8 of his last 11 home games,73%,True,13.0
+Jalen Brunson,TOR,Over 0.5 Steals,-200,Hit in 8 of his last 11 games,73%,False,0.0
+Jalen Brunson,TOR,Over 0.5 STL+BLK,-250,Hit in 8 of his last 11 games,73%,False,0.0
+Davion Mitchell,NYK,Under 5.5 Points,-115,Hit in 5 of his last 7 games,71%,False,12.0
+Gradey Dick,NYK,Over 18.5 PTS+REB,-115,Hit in 5 of his last 7 home games,71%,False,15.0
+Gradey Dick,NYK,Over 20.5 P+A+R,-113,Hit in 5 of his last 7 home games,71%,False,15.0
+Mikal Bridges,TOR,Under 0.5 Blocks,-135,Hit in 5 of his last 7 games,71%,True,0.0
+RJ Barrett,NYK,Over 2.5 Turnovers,-155,Hit in 5 of his last 7 games,71%,True,3.0
+RJ Barrett,NYK,Under 0.5 Blocks,-375,Hit in 5 of his last 7 games,71%,True,0.0
+Gradey Dick,NYK,Over 0.5 Steals,-145,Hit in 5 of his last 7 home games,71%,False,0.0
+Ochai Agbaji,NYK,Over 0.5 Turnovers,-145,Hit in 10 of his last 14 games,71%,True,1.0
+Davion Mitchell,NYK,Over 5.5 REB+AST,-113,Hit in 14 of his last 20 games,70%,True,6.0
+Ja'Kobe Walter,NYK,Over 0.5 Assists,-224,Hit in 7 of his last 10 games,70%,True,2.0
+Ja'Kobe Walter,NYK,Under 6.5 Points,-128,Hit in 7 of his last 10 games,70%,False,25.0
+OG Anunoby,TOR,Over 1.5 Assists,-194,Hit in 7 of his last 10 away games,70%,True,3.0
+Davion Mitchell,NYK,Over 8.5 PTS+AST,-125,Hit in 14 of his last 20 games,70%,True,15.0
+Ja'Kobe Walter,NYK,Over 1.5 Rebounds,-184,Hit in 7 of his last 10 games,70%,False,1.0
+Davion Mitchell,NYK,Under 0.5 3PTM,100,NYK rank 5th in 3PTM versus PG,5th,False,2.0
+Ochai Agbaji,NYK,Under 3.5 Rebounds,-150,NYK rank 5th in REB versus SG,5th,False,5.0
+Mikal Bridges,TOR,Under 3.5 Rebounds,124,TOR rank 5th in REB versus SF,5th,True,3.0
+Jalen Brunson,TOR,Over 2.5 3PTM,-106,TOR rank 26th in 3PTM versus PG,26th,True,4.0
+OG Anunoby,TOR,Under 4.5 Rebounds,112,TOR rank 5th in REB versus SF,5th,True,4.0
+Karl-Anthony Towns,TOR,Under 2.5 3PTM,-180,TOR rank 4th in 3PTM versus C,4th,True,2.0
+Karl-Anthony Towns,TOR,Over 2.5 Assists,-162,TOR rank 30th in AST versus C,30th,True,6.0
+Scottie Barnes,NYK,Under 3.5 Turnovers,-135,NYK rank 5th in TO against,5th,True,2.0
+Jalen Brunson,TOR,Over 0.5 Steals,-200,TOR rank 30th in STL versus PG,30th,False,0.0
+Mikal Bridges,TOR,Over 1.5 Turnovers,-110,TOR rank 2nd in TO versus SF,2nd,False,1.0
+RJ Barrett,NYK,Under 0.5 Steals,-110,NYK rank 1st in STL against,1st,False,1.0
+Gradey Dick,NYK,Under 1.5 Turnovers,-150,NYK rank 5th in TO against,5th,True,0.0
+Ochai Agbaji,NYK,Under 0.5 Steals,-110,NYK rank 1st in STL against,1st,False,1.0
+OG Anunoby,TOR,Under 18.5 Points,-104,TOR rank 5th in PTS versus SF,5th,True,18.0
+OG Anunoby,TOR,Over 1.5 Turnovers,-135,TOR rank 2nd in TO versus SF,2nd,True,2.0
+OG Anunoby,TOR,Over 1.5 Steals,-120,TOR rank 27th in STL against,27th,True,2.0
+Karl-Anthony Towns,TOR,Over 0.5 Blocks,-190,TOR rank 29th in BLK versus C,29th,True,2.0
+Karl-Anthony Towns,TOR,Over 0.5 Steals,-210,TOR rank 27th in STL against,27th,True,2.0
