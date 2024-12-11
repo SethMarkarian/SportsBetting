@@ -1,603 +1,478 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Khris Middleton,ORL,Over 14.5 PTS+REB,-122,Hit in 4 of his last 4 home games,100%
-Khris Middleton,ORL,Over 7.5 REB+AST,100,Hit in 11 of his last 11 games,100%
-Khris Middleton,ORL,Over 7.5 REB+AST,100,Hit in 4 of his last 4 home games,100%
-Khris Middleton,ORL,Over 18.5 P+A+R,-118,Hit in 11 of his last 11 games,100%
-Khris Middleton,ORL,Over 18.5 P+A+R,-118,Hit in 4 of his last 4 home games,100%
-Khris Middleton,ORL,Over 3.5 Rebounds,-108,Hit in 8 of his last 8 home games,100%
-Khris Middleton,ORL,Over 3.5 Assists,-122,Hit in 4 of his last 4 home games,100%
-Taurean Prince,ORL,Over 8.5 P+A+R,100,Hit in 4 of his last 4 home games,100%
-Taurean Prince,ORL,Over 5.5 PTS+AST,-113,Hit in 4 of his last 4 home games,100%
-Taurean Prince,ORL,Over 0.5 Assists,-214,Hit in 5 of his last 5 games,100%
-Taurean Prince,ORL,Over 0.5 3PTM,-184,Hit in 4 of his last 4 home games,100%
-Taurean Prince,ORL,Over 4.5 Points,-130,Hit in 4 of his last 4 home games,100%
-Damian Lillard,ORL,Over 27.5 PTS+REB,-125,Hit in 4 of his last 4 home games,100%
-Damian Lillard,ORL,Over 3.5 Rebounds,-160,Hit in 5 of his last 5 games,100%
-Damian Lillard,ORL,Over 3.5 Rebounds,-160,Hit in 5 of his last 5 games vs ORL,100%
-Damian Lillard,ORL,Over 3.5 Rebounds,-160,Hit in 13 of his last 13 home games,100%
-Gary Trent,ORL,Over 0.5 Assists,-199,Hit in 4 of his last 4 home games,100%
-Gary Trent,ORL,Over 9.5 Points,-109,Hit in 4 of his last 4 games,100%
-Gary Trent,ORL,Over 10.5 PTS+AST,-113,Hit in 4 of his last 4 games,100%
-Gary Trent,ORL,Over 13.5 P+A+R,-106,Hit in 4 of his last 4 games,100%
-Gary Trent,ORL,Over 12.5 PTS+REB,-103,Hit in 4 of his last 4 games,100%
-Gary Trent,ORL,Over 1.5 3PTM,-174,Hit in 4 of his last 4 games,100%
-Bobby Portis,ORL,Over 6.5 Rebounds,-148,Hit in 5 of his last 5 games vs ORL,100%
-Giannis Antetokounmpo,ORL,Over 30.5 Points,-115,Hit in 4 of his last 4 games vs ORL,100%
-Giannis Antetokounmpo,ORL,Over 30.5 Points,-115,Hit in 5 of his last 5 home games,100%
-Giannis Antetokounmpo,ORL,Under 16.5 REB+AST,-111,Hit in 4 of his last 4 games,100%
-Giannis Antetokounmpo,ORL,Under 11.5 Rebounds,-136,Hit in 4 of his last 4 games,100%
-Giannis Antetokounmpo,ORL,Over 0.5 Double Double,-310,Hit in 4 of his last 4 home games,100%
-Aaron Jackson,ORL,Under 3.5 REB+AST,100,Hit in 4 of his last 4 games,100%
-Aaron Jackson,ORL,Under 3.5 REB+AST,100,Hit in 4 of his last 4 games vs ORL,100%
-Aaron Jackson,ORL,Under 2.5 Rebounds,100,Hit in 4 of his last 4 games,100%
-Brook Lopez,ORL,Under 9.5 Points,-113,Hit in 4 of his last 4 games,100%
-Brook Lopez,ORL,Under 15.5 P+A+R,-113,Hit in 4 of his last 4 games,100%
-Brook Lopez,ORL,Under 1.5 3PTM,-154,Hit in 4 of his last 4 games,100%
-Goga Bitadze,MIL,Under 2.5 Assists,-103,Hit in 5 of his last 5 games vs MIL,100%
-Jalen Suggs,MIL,Under 25.5 PTS+AST,-111,Hit in 5 of his last 5 games vs MIL,100%
-Jalen Suggs,MIL,Under 3.5 Rebounds,-104,Hit in 4 of his last 4 games vs MIL,100%
-Jalen Suggs,MIL,Under 29.5 P+A+R,-111,Hit in 5 of his last 5 games vs MIL,100%
-Jalen Suggs,MIL,Under 4.5 Assists,-113,Hit in 5 of his last 5 games vs MIL,100%
-Jalen Suggs,MIL,Under 8.5 REB+AST,-115,Hit in 5 of his last 5 games,100%
-Jalen Suggs,MIL,Under 8.5 REB+AST,-115,Hit in 5 of his last 5 games vs MIL,100%
-Jalen Suggs,MIL,Under 20.5 Points,-111,Hit in 5 of his last 5 games vs MIL,100%
-Jalen Suggs,MIL,Under 24.5 PTS+REB,-111,Hit in 5 of his last 5 games vs MIL,100%
-Jalen Suggs,MIL,Under 2.5 3PTM,110,Hit in 5 of his last 5 games vs MIL,100%
-W. Carter,MIL,Under 10.5 Points,-137,Hit in 4 of his last 4 games,100%
-W. Carter,MIL,Under 12.5 PTS+AST,-133,Hit in 4 of his last 4 games,100%
-Tristan da Silva,MIL,Under 9.5 PTS+AST,-117,Hit in 5 of his last 5 games,100%
-Tristan da Silva,MIL,Under 1.5 Assists,-129,Hit in 4 of his last 4 games,100%
-Tristan da Silva,MIL,Under 13.5 P+A+R,-129,Hit in 5 of his last 5 games,100%
-Kentavious Caldwell-Pope,MIL,Under 10.5 Points,-128,Hit in 4 of his last 4 games,100%
-Kentavious Caldwell-Pope,MIL,Under 2.5 Assists,-184,Hit in 5 of his last 5 games,100%
-Kentavious Caldwell-Pope,MIL,Under 12.5 PTS+AST,-129,Hit in 4 of his last 4 games,100%
-Milt Wagner,MIL,Over 6.5 REB+AST,-137,Hit in 5 of his last 5 games,100%
-Milt Wagner,MIL,Over 6.5 REB+AST,-137,Hit in 4 of his last 4 away games,100%
-Milt Wagner,MIL,Over 5.5 Rebounds,-111,Hit in 5 of his last 5 games,100%
-Milt Wagner,MIL,Over 5.5 Rebounds,-111,Hit in 4 of his last 4 away games,100%
-Khris Middleton,ORL,Over 11.5 Points,100,Hit in 4 of his last 4 home games,100%
-Brook Lopez,ORL,Under 14.5 PTS+REB,-106,Hit in 4 of his last 4 games,100%
-Brook Lopez,ORL,Over 1.5 Blocks,-142,Hit in 5 of his last 5 games vs ORL,100%
-Anthony Black,MIL,Under 7.5 Points,-113,Hit in 4 of his last 4 games vs MIL,100%
-Goga Bitadze,MIL,Under 1.5 Blocks,-154,Hit in 5 of his last 5 games vs MIL,100%
-Jalen Suggs,MIL,Over 1.5 Steals,128,Hit in 4 of his last 4 away games,100%
-Carmelo Anthony,MIL,Under 7.5 REB+AST,-125,Hit in 6 of his last 6 games,100%
-Carmelo Anthony,MIL,Under 17.5 PTS+AST,-102,Hit in 6 of his last 6 games,100%
-Carmelo Anthony,MIL,Under 17.5 PTS+REB,-118,Hit in 6 of his last 6 games,100%
-Carmelo Anthony,MIL,Under 21.5 P+A+R,-113,Hit in 6 of his last 6 games,100%
-Carmelo Anthony,MIL,Under 3.5 Rebounds,-136,Hit in 6 of his last 6 games,100%
-Kentavious Caldwell-Pope,MIL,Under 12.5 PTS+REB,-104,Hit in 4 of his last 4 games,100%
-Khris Middleton,ORL,Over 15.5 PTS+AST,-102,Hit in 11 of his last 11 games,100%
-Khris Middleton,ORL,Over 15.5 PTS+AST,-102,Hit in 4 of his last 4 games vs ORL,100%
-Khris Middleton,ORL,Over 15.5 PTS+AST,-102,Hit in 4 of his last 4 home games,100%
-Giannis Antetokounmpo,ORL,Over 0.5 Blocks,-215,Hit in 4 of his last 4 games vs ORL,100%
-Giannis Antetokounmpo,ORL,Over 36.5 PTS+AST,-111,Hit in 4 of his last 4 games vs ORL,100%
-W. Carter,MIL,Under 17.5 PTS+REB,-125,Hit in 4 of his last 4 games,100%
-Khris Middleton,ORL,Over 0.5 STL+BLK,-200,Hit in 5 of his last 5 games vs ORL,100%
-Taurean Prince,ORL,Over 0.5 Turnovers,100,Hit in 4 of his last 4 games,100%
-Damian Lillard,ORL,Over 0.5 Steals,-250,Hit in 4 of his last 4 home games,100%
-Damian Lillard,ORL,Under 1.5 STL+BLK,-185,Hit in 4 of his last 4 games,100%
-Bobby Portis,ORL,Over 0.5 Steals,-120,Hit in 4 of his last 4 games vs ORL,100%
-Bobby Portis,ORL,Over 0.5 Steals,-120,Hit in 4 of his last 4 home games,100%
-Giannis Antetokounmpo,ORL,Over 3.5 Turnovers,-145,Hit in 4 of his last 4 home games,100%
-Brook Lopez,ORL,Over 0.5 Turnovers,-225,Hit in 6 of his last 6 games vs ORL,100%
-Goga Bitadze,MIL,Under 1.5 Turnovers,-145,Hit in 5 of his last 5 games vs MIL,100%
-Goga Bitadze,MIL,Under 2.5 STL+BLK,-165,Hit in 5 of his last 5 games vs MIL,100%
-Jalen Suggs,MIL,Under 3.5 Turnovers,-160,Hit in 5 of his last 5 games vs MIL,100%
-Jalen Suggs,MIL,Over 1.5 STL+BLK,-175,Hit in 9 of his last 9 away games,100%
-Tristan da Silva,MIL,Under 0.5 Steals,-155,Hit in 4 of his last 4 games,100%
-Taurean Prince,ORL,Over 6.5 PTS+REB,-154,Hit in 4 of his last 4 home games,100%
-Bobby Portis,ORL,Over 1.5 STL+BLK,180,Hit in 4 of his last 4 games vs ORL,100%
-Giannis Antetokounmpo,ORL,Under 0.5 3PTM,-384,Hit in 5 of his last 5 games,100%
-Kentavious Caldwell-Pope,MIL,Under 14.5 P+A+R,-125,Hit in 4 of his last 4 games,100%
-Isaiah Hartenstein,DAL,Over 3.5 Assists,-148,Hit in 5 of his last 5 games,100%
-Luguentz Dort,DAL,Over 11.5 PTS+AST,-113,Hit in 4 of his last 4 games vs DAL,100%
-Luguentz Dort,DAL,Over 1.5 3PTM,-158,Hit in 7 of his last 7 games vs DAL,100%
-Luguentz Dort,DAL,Over 13.5 PTS+REB,-115,Hit in 4 of his last 4 games vs DAL,100%
-Luguentz Dort,DAL,Over 9.5 Points,-108,Hit in 4 of his last 4 games vs DAL,100%
-Alex Caruso,DAL,Under 7.5 Points,-106,Hit in 4 of his last 4 games vs DAL,100%
-Cason Wallace,DAL,Under 10.5 PTS+REB,-113,Hit in 7 of his last 7 games vs DAL,100%
-Cason Wallace,DAL,Under 3.5 Rebounds,-174,Hit in 10 of his last 10 games vs DAL,100%
-Cason Wallace,DAL,Under 7.5 Points,-125,Hit in 7 of his last 7 games vs DAL,100%
-Shai Gilgeous-Alexander,DAL,Over 41.5 P+A+R,-125,Hit in 7 of his last 7 games vs DAL,100%
-Kevin Thompson,OKL,Over 3.5 REB+AST,-154,Hit in 6 of his last 6 games,100%
-Kevin Thompson,OKL,Over 3.5 REB+AST,-154,Hit in 4 of his last 4 away games,100%
-Daniel Gafford,OKL,Over 7.5 REB+AST,-109,Hit in 11 of his last 11 games vs OKL,100%
-Daniel Gafford,OKL,Over 6.5 Rebounds,-106,Hit in 4 of his last 4 games vs OKL,100%
-P.J. Washington,OKL,Over 1.5 3PTM,114,Hit in 7 of his last 7 games vs OKL,100%
-Luka Dončić,OKL,Over 8.5 Rebounds,-125,Hit in 5 of his last 5 games vs OKL,100%
-Luka Dončić,OKL,Over 16.5 REB+AST,-129,Hit in 5 of his last 5 games vs OKL,100%
-Luka Dončić,OKL,Over 0.5 Double Double,-137,Hit in 4 of his last 4 games,100%
-Luka Dončić,OKL,Over 0.5 Double Double,-137,Hit in 5 of his last 5 games vs OKL,100%
-Luka Dončić,OKL,Over 7.5 Assists,-166,Hit in 4 of his last 4 away games,100%
-Kyrie Irving,OKL,Over 26.5 PTS+AST,-113,Hit in 5 of his last 5 away games,100%
-Kyrie Irving,OKL,Over 2.5 3PTM,-156,Hit in 5 of his last 5 away games,100%
-Kyrie Irving,OKL,Over 25.5 PTS+REB,-113,Hit in 5 of his last 5 away games,100%
-Kyrie Irving,OKL,Over 3.5 Rebounds,-140,Hit in 8 of his last 8 games,100%
-Kyrie Irving,OKL,Over 3.5 Rebounds,-140,Hit in 6 of his last 6 away games,100%
-Isaiah Joe,DAL,Over 0.5 Assists,-224,Hit in 4 of his last 4 games,100%
-Isaiah Hartenstein,DAL,Under 23.5 PTS+REB,-125,Hit in 4 of his last 4 games vs DAL,100%
-Isaiah Hartenstein,DAL,Under 15.5 PTS+AST,-125,Hit in 4 of his last 4 games vs DAL,100%
-Isaiah Hartenstein,DAL,Under 27.5 P+A+R,-120,Hit in 4 of his last 4 games vs DAL,100%
-Isaiah Hartenstein,DAL,Over 0.5 Blocks,-184,Hit in 5 of his last 5 home games,100%
-Alex Caruso,DAL,Under 10.5 PTS+AST,-103,Hit in 4 of his last 4 games vs DAL,100%
-Alex Caruso,DAL,Under 1.5 3PTM,-137,Hit in 4 of his last 4 games vs DAL,100%
-Alex Caruso,DAL,Over 1.5 Steals,128,Hit in 4 of his last 4 games,100%
-Cason Wallace,DAL,Under 5.5 REB+AST,-142,Hit in 6 of his last 6 games vs DAL,100%
-Cason Wallace,DAL,Over 0.5 3PTM,-224,Hit in 4 of his last 4 games,100%
-Cason Wallace,DAL,Under 9.5 PTS+AST,-121,Hit in 6 of his last 6 games vs DAL,100%
-Cason Wallace,DAL,Under 12.5 P+A+R,-113,Hit in 6 of his last 6 games vs DAL,100%
-Cason Wallace,DAL,Over 1.5 Assists,-194,Hit in 6 of his last 6 games,100%
-Aaron Wiggins,DAL,Under 1.5 Assists,-214,Hit in 6 of his last 6 games vs DAL,100%
-Aaron Wiggins,DAL,Over 2.5 Rebounds,-166,Hit in 5 of his last 5 games,100%
-Aaron Wiggins,DAL,Over 4.5 REB+AST,100,Hit in 5 of his last 5 games,100%
-Aaron Wiggins,DAL,Under 12.5 P+A+R,-113,Hit in 6 of his last 6 games vs DAL,100%
-Shai Gilgeous-Alexander,DAL,Under 37.5 PTS+AST,-111,Hit in 4 of his last 4 games,100%
-Kyrie Irving,OKL,Over 21.5 Points,-113,Hit in 5 of his last 5 away games,100%
-Alex Caruso,DAL,Under 10.5 PTS+REB,-102,Hit in 4 of his last 4 games vs DAL,100%
-Kyrie Irving,OKL,Over 30.5 P+A+R,-115,Hit in 6 of his last 6 away games,100%
-Isaiah Joe,DAL,Over 0.5 STL+BLK,-110,Hit in 5 of his last 5 home games,100%
-Isaiah Hartenstein,DAL,Over 0.5 Steals,-125,Hit in 5 of his last 5 games,100%
-Alex Caruso,DAL,Under 13.5 P+A+R,-106,Hit in 4 of his last 4 games vs DAL,100%
-Alex Caruso,DAL,Over 0.5 Turnovers,-175,Hit in 5 of his last 5 games,100%
-Alex Caruso,DAL,Over 1.5 STL+BLK,-165,Hit in 4 of his last 4 games,100%
-Shai Gilgeous-Alexander,DAL,Over 0.5 Blocks,-160,Hit in 7 of his last 7 games vs DAL,100%
-Kevin Thompson,OKL,Over 0.5 STL+BLK,-160,Hit in 4 of his last 4 games vs OKL,100%
-Daniel Gafford,OKL,Under 0.5 Steals,-185,Hit in 5 of his last 5 games vs OKL,100%
-Kyrie Irving,OKL,Over 0.5 Steals,-185,Hit in 4 of his last 4 games,100%
-Kyrie Irving,OKL,Under 1.5 STL+BLK,-225,Hit in 4 of his last 4 games vs OKL,100%
-Khris Middleton,ORL,Over 3.5 Assists,-122,Hit in 10 of his last 11 games,91%
-Milt Wagner,MIL,Over 0.5 STL+BLK,-210,Hit in 10 of his last 11 games,91%
-Isaiah Joe,DAL,Over 1.5 3PTM,-148,Hit in 10 of his last 11 home games,91%
-Daniel Gafford,OKL,Over 10.5 PTS+AST,-133,Hit in 10 of his last 11 games,91%
-Taurean Prince,ORL,Over 0.5 Assists,-214,Hit in 9 of his last 10 home games,90%
-Carmelo Anthony,MIL,Under 3.5 Assists,114,Hit in 18 of his last 20 games,90%
-Brook Lopez,ORL,Over 2.5 STL+BLK,-165,Hit in 9 of his last 10 home games,90%
-Isaiah Joe,DAL,Over 0.5 Assists,-224,Hit in 9 of his last 10 home games,90%
-P.J. Washington,OKL,Over 0.5 Steals,-140,Hit in 9 of his last 10 games,90%
-P.J. Washington,OKL,Over 1.5 STL+BLK,-130,Hit in 9 of his last 10 games,90%
-W. Carter,MIL,Over 1.5 Assists,-184,Hit in 8 of his last 9 away games,89%
-Kentavious Caldwell-Pope,MIL,Over 1.5 STL+BLK,-185,Hit in 8 of his last 9 games,89%
-P.J. Washington,OKL,Over 8.5 REB+AST,100,Hit in 8 of his last 9 games,89%
-P.J. Washington,OKL,Over 8.5 REB+AST,100,Hit in 8 of his last 9 away games,89%
-P.J. Washington,OKL,Over 13.5 PTS+AST,-105,Hit in 8 of his last 9 games,89%
-P.J. Washington,OKL,Over 13.5 PTS+AST,-105,Hit in 8 of his last 9 away games,89%
-Damian Lillard,ORL,Over 27.5 PTS+REB,-125,Hit in 7 of his last 8 games,88%
-Brook Lopez,ORL,Over 4.5 Rebounds,-142,Hit in 7 of his last 8 home games,88%
-Brook Lopez,ORL,Over 10.5 PTS+AST,-117,Hit in 7 of his last 8 home games,88%
-Brook Lopez,ORL,Over 6.5 REB+AST,-103,Hit in 7 of his last 8 home games,88%
-Jalen Suggs,MIL,Under 3.5 Rebounds,-104,Hit in 7 of his last 8 games,88%
-Damian Lillard,ORL,Over 0.5 Steals,-250,Hit in 7 of his last 8 games,88%
-Brook Lopez,ORL,Over 0.5 Steals,-190,Hit in 7 of his last 8 home games,88%
-Milt Wagner,MIL,Over 0.5 STL+BLK,-210,Hit in 7 of his last 8 away games,88%
-Kevin Thompson,OKL,Over 2.5 Rebounds,-125,Hit in 7 of his last 8 away games,88%
-Kevin Thompson,OKL,Over 3.5 REB+AST,-154,Hit in 7 of his last 8 games vs OKL,88%
-Daniel Gafford,OKL,Over 10.5 PTS+AST,-133,Hit in 7 of his last 8 away games,88%
-Daniel Gafford,OKL,Over 17.5 P+A+R,-125,Hit in 7 of his last 8 away games,88%
-Isaiah Joe,DAL,Over 10.5 P+A+R,-117,Hit in 7 of his last 8 home games,88%
-Isaiah Joe,DAL,Over 8.5 PTS+AST,-117,Hit in 7 of his last 8 home games,88%
-Isaiah Joe,DAL,Over 3.5 REB+AST,100,Hit in 7 of his last 8 home games,88%
-D. Lively,OKL,Over 1.5 Blocks,102,Hit in 7 of his last 8 away games,88%
-Jalen Williams,DAL,Under 22.5 Points,-122,Hit in 7 of his last 8 games vs DAL,88%
-Kyrie Irving,OKL,Over 30.5 P+A+R,-115,Hit in 7 of his last 8 games,88%
-Shai Gilgeous-Alexander,DAL,Over 0.5 Blocks,-160,Hit in 7 of his last 8 home games,88%
-Daniel Gafford,OKL,Over 16.5 PTS+REB,-118,Hit in 7 of his last 8 away games,88%
-Damian Lillard,ORL,Over 24.5 Points,102,Hit in 6 of his last 7 games,86%
-Gary Trent,ORL,Over 9.5 Points,-109,Hit in 6 of his last 7 home games,86%
-Gary Trent,ORL,Over 10.5 PTS+AST,-113,Hit in 6 of his last 7 home games,86%
-Gary Trent,ORL,Over 12.5 PTS+REB,-103,Hit in 6 of his last 7 home games,86%
-Gary Trent,ORL,Over 1.5 3PTM,-174,Hit in 6 of his last 7 home games,86%
-Bobby Portis,ORL,Under 1.5 Assists,-184,Hit in 6 of his last 7 games vs ORL,86%
-Giannis Antetokounmpo,ORL,Over 0.5 Double Double,-310,Hit in 6 of his last 7 games,86%
-Carmelo Anthony,MIL,Under 13.5 Points,-106,Hit in 12 of his last 14 games,86%
-Kentavious Caldwell-Pope,MIL,Over 1.5 Steals,-104,Hit in 6 of his last 7 games,86%
-Goga Bitadze,MIL,Over 0.5 Steals,-160,Hit in 6 of his last 7 away games,86%
-Milt Wagner,MIL,Over 0.5 Blocks,230,Hit in 6 of his last 7 games,86%
-Daniel Gafford,OKL,Over 0.5 Assists,-174,Hit in 6 of his last 7 away games,86%
-Kyrie Irving,OKL,Over 26.5 PTS+AST,-113,Hit in 6 of his last 7 games,86%
-Kyrie Irving,OKL,Over 2.5 3PTM,-156,Hit in 6 of his last 7 games,86%
-Kyrie Irving,OKL,Over 25.5 PTS+REB,-113,Hit in 6 of his last 7 games,86%
-Isaiah Joe,DAL,Over 0.5 Assists,-224,Hit in 12 of his last 14 games vs DAL,86%
-Shai Gilgeous-Alexander,DAL,Over 36.5 PTS+REB,-111,Hit in 6 of his last 7 games vs DAL,86%
-Kyrie Irving,OKL,Over 21.5 Points,-113,Hit in 6 of his last 7 games,86%
-Luguentz Dort,DAL,Under 0.5 Blocks,-135,Hit in 12 of his last 14 games vs DAL,86%
-Aaron Wiggins,DAL,Over 0.5 Turnovers,-135,Hit in 6 of his last 7 home games,86%
-Shai Gilgeous-Alexander,DAL,Over 2.5 STL+BLK,-105,Hit in 6 of his last 7 games vs DAL,86%
-Kevin Thompson,OKL,Over 0.5 STL+BLK,-160,Hit in 6 of his last 7 games,86%
-P.J. Washington,OKL,Over 0.5 Blocks,-190,Hit in 6 of his last 7 games,86%
-P.J. Washington,OKL,Over 0.5 Steals,-140,Hit in 6 of his last 7 away games,86%
-P.J. Washington,OKL,Over 1.5 STL+BLK,-130,Hit in 6 of his last 7 away games,86%
-Khris Middleton,ORL,Over 14.5 PTS+REB,-122,Hit in 17 of his last 20 games,85%
-Aaron Jackson,ORL,Over 0.5 Assists,-244,Hit in 17 of his last 20 games,85%
-Taurean Prince,ORL,Over 3.5 REB+AST,-113,Hit in 11 of his last 13 home games,85%
-Kyrie Irving,OKL,Over 4.5 Assists,-122,Hit in 11 of his last 13 away games,85%
-Khris Middleton,ORL,Over 3.5 Rebounds,-108,Hit in 16 of his last 19 games,84%
-Jalen Suggs,MIL,Under 25.5 PTS+AST,-111,Hit in 16 of his last 19 games,84%
-Brook Lopez,ORL,Over 1.5 Blocks,-142,Hit in 16 of his last 19 home games,84%
-Damian Lillard,ORL,Over 3.5 3PTM,108,Hit in 5 of his last 6 games,83%
-Gary Trent,ORL,Over 0.5 Assists,-199,Hit in 5 of his last 6 games vs ORL,83%
-Gary Trent,ORL,Over 3.5 REB+AST,-121,Hit in 5 of his last 6 games vs ORL,83%
-Bobby Portis,ORL,Under 8.5 REB+AST,-117,Hit in 5 of his last 6 games,83%
-Brook Lopez,ORL,Over 10.5 PTS+AST,-117,Hit in 5 of his last 6 games vs ORL,83%
-Jalen Suggs,MIL,Under 29.5 P+A+R,-111,Hit in 5 of his last 6 games,83%
-Jalen Suggs,MIL,Under 24.5 PTS+REB,-111,Hit in 5 of his last 6 games,83%
-Taurean Prince,ORL,Over 0.5 Steals,110,Hit in 5 of his last 6 home games,83%
-Taurean Prince,ORL,Over 0.5 STL+BLK,-125,Hit in 5 of his last 6 home games,83%
-Bobby Portis,ORL,Under 0.5 Blocks,-210,Hit in 5 of his last 6 games,83%
-Brook Lopez,ORL,Over 0.5 Steals,-190,Hit in 5 of his last 6 games vs ORL,83%
-Jalen Suggs,MIL,Over 1.5 STL+BLK,-175,Hit in 5 of his last 6 games,83%
-Kentavious Caldwell-Pope,MIL,Over 1.5 STL+BLK,-185,Hit in 5 of his last 6 away games,83%
-Milt Wagner,MIL,Over 0.5 Steals,-125,Hit in 5 of his last 6 games,83%
-Milt Wagner,MIL,Over 0.5 Steals,-125,Hit in 5 of his last 6 away games,83%
-Isaiah Hartenstein,DAL,Over 11.5 Rebounds,-122,Hit in 5 of his last 6 games,83%
-Isaiah Hartenstein,DAL,Over 15.5 REB+AST,-125,Hit in 5 of his last 6 games,83%
-Jalen Williams,DAL,Under 2.5 3PTM,-194,Hit in 5 of his last 6 games,83%
-Jalen Williams,DAL,Over 4.5 Assists,-138,Hit in 5 of his last 6 home games,83%
-Jalen Williams,DAL,Over 33.5 P+A+R,-106,Hit in 5 of his last 6 home games,83%
-Jalen Williams,DAL,Over 27.5 PTS+AST,-111,Hit in 5 of his last 6 home games,83%
-Jalen Williams,DAL,Over 1.5 Steals,-142,Hit in 5 of his last 6 home games,83%
-Shai Gilgeous-Alexander,DAL,Over 30.5 Points,-122,Hit in 5 of his last 6 games vs DAL,83%
-Shai Gilgeous-Alexander,DAL,Over 1.5 Steals,-128,Hit in 5 of his last 6 home games,83%
-Daniel Gafford,OKL,Over 7.5 REB+AST,-109,Hit in 5 of his last 6 away games,83%
-P.J. Washington,OKL,Over 18.5 PTS+REB,-111,Hit in 5 of his last 6 games vs OKL,83%
-P.J. Washington,OKL,Over 1.5 3PTM,114,Hit in 5 of his last 6 games,83%
-P.J. Washington,OKL,Over 11.5 Points,-111,Hit in 5 of his last 6 games,83%
-Kyrie Irving,OKL,Over 8.5 REB+AST,-125,Hit in 5 of his last 6 away games,83%
-Isaiah Hartenstein,DAL,Over 0.5 Blocks,-184,Hit in 5 of his last 6 games,83%
-Aaron Wiggins,DAL,Under 1.5 3PTM,-224,Hit in 5 of his last 6 games vs DAL,83%
-Aaron Wiggins,DAL,Under 11.5 PTS+REB,-117,Hit in 5 of his last 6 games vs DAL,83%
-Daniel Gafford,OKL,Under 1.5 Blocks,-164,Hit in 10 of his last 12 games vs OKL,83%
-Isaiah Hartenstein,DAL,Over 1.5 STL+BLK,100,Hit in 5 of his last 6 games,83%
-Jalen Williams,DAL,Over 27.5 PTS+REB,-118,Hit in 5 of his last 6 home games,83%
-Cason Wallace,DAL,Under 0.5 Turnovers,-110,Hit in 10 of his last 12 games,83%
-Cason Wallace,DAL,Over 1.5 Steals,-110,Hit in 5 of his last 6 games,83%
-Cason Wallace,DAL,Over 1.5 Steals,-110,Hit in 5 of his last 6 home games,83%
-Cason Wallace,DAL,Over 2.5 STL+BLK,145,Hit in 5 of his last 6 games,83%
-Shai Gilgeous-Alexander,DAL,Over 2.5 STL+BLK,-105,Hit in 5 of his last 6 home games,83%
-Kevin Thompson,OKL,Over 0.5 STL+BLK,-160,Hit in 5 of his last 6 away games,83%
-P.J. Washington,OKL,Over 13.5 PTS+AST,-105,Hit in 5 of his last 6 games vs OKL,83%
-P.J. Washington,OKL,Over 1.5 Assists,-145,Hit in 5 of his last 6 games vs OKL,83%
-P.J. Washington,OKL,Over 19.5 P+A+R,-125,Hit in 5 of his last 6 games vs OKL,83%
-Kyrie Irving,OKL,Over 2.5 Turnovers,-130,Hit in 5 of his last 6 away games,83%
-Khris Middleton,ORL,Over 0.5 STL+BLK,-200,Hit in 14 of his last 17 home games,82%
-W. Carter,MIL,Over 6.5 Rebounds,-160,Hit in 9 of his last 11 away games,82%
-Khris Middleton,ORL,Over 11.5 Points,100,Hit in 9 of his last 11 games,82%
-Luguentz Dort,DAL,Over 5.5 REB+AST,-109,Hit in 9 of his last 11 games,82%
-Daniel Gafford,OKL,Over 17.5 P+A+R,-125,Hit in 9 of his last 11 games vs OKL,82%
-Cason Wallace,DAL,Over 0.5 3PTM,-224,Hit in 9 of his last 11 games vs DAL,82%
-Daniel Gafford,OKL,Over 16.5 PTS+REB,-118,Hit in 9 of his last 11 games,82%
-Daniel Gafford,OKL,Over 16.5 PTS+REB,-118,Hit in 9 of his last 11 games vs OKL,82%
-Luguentz Dort,DAL,Over 1.5 3PTM,-158,Hit in 13 of his last 16 home games,81%
-Luka Dončić,OKL,Over 36.5 PTS+REB,-129,Hit in 13 of his last 16 away games,81%
-Khris Middleton,ORL,Over 3.5 Assists,-122,Hit in 4 of his last 5 games vs ORL,80%
-Khris Middleton,ORL,Under 1.5 3PTM,-194,Hit in 4 of his last 5 games,80%
-Taurean Prince,ORL,Over 3.5 REB+AST,-113,Hit in 16 of his last 20 games,80%
-Taurean Prince,ORL,Over 0.5 3PTM,-184,Hit in 16 of his last 20 games,80%
-Damian Lillard,ORL,Over 27.5 PTS+REB,-125,Hit in 4 of his last 5 games vs ORL,80%
-Damian Lillard,ORL,Over 35.5 P+A+R,-115,Hit in 4 of his last 5 games vs ORL,80%
-Damian Lillard,ORL,Over 31.5 PTS+AST,-111,Hit in 4 of his last 5 games vs ORL,80%
-Gary Trent,ORL,Over 0.5 Assists,-199,Hit in 4 of his last 5 games,80%
-Gary Trent,ORL,Over 9.5 Points,-109,Hit in 4 of his last 5 games vs ORL,80%
-Gary Trent,ORL,Over 10.5 PTS+AST,-113,Hit in 4 of his last 5 games vs ORL,80%
-Gary Trent,ORL,Over 13.5 P+A+R,-106,Hit in 4 of his last 5 games vs ORL,80%
-Gary Trent,ORL,Over 13.5 P+A+R,-106,Hit in 4 of his last 5 home games,80%
-Gary Trent,ORL,Over 12.5 PTS+REB,-103,Hit in 4 of his last 5 games vs ORL,80%
-Gary Trent,ORL,Over 3.5 REB+AST,-121,Hit in 4 of his last 5 games,80%
-Gary Trent,ORL,Over 3.5 REB+AST,-121,Hit in 4 of his last 5 home games,80%
-Gary Trent,ORL,Over 1.5 3PTM,-174,Hit in 4 of his last 5 games vs ORL,80%
-Gary Trent,ORL,Over 2.5 Rebounds,-121,Hit in 4 of his last 5 games,80%
-Gary Trent,ORL,Over 2.5 Rebounds,-121,Hit in 4 of his last 5 home games,80%
-Bobby Portis,ORL,Over 12.5 PTS+AST,-103,Hit in 4 of his last 5 games vs ORL,80%
-Bobby Portis,ORL,Over 19.5 P+A+R,-113,Hit in 4 of his last 5 games vs ORL,80%
-Bobby Portis,ORL,Over 19.5 P+A+R,-113,Hit in 16 of his last 20 home games,80%
-Bobby Portis,ORL,Under 1.5 3PTM,-215,Hit in 16 of his last 20 games,80%
-Bobby Portis,ORL,Over 10.5 Points,-128,Hit in 4 of his last 5 games vs ORL,80%
-Giannis Antetokounmpo,ORL,Over 5.5 Assists,112,Hit in 4 of his last 5 home games,80%
-Giannis Antetokounmpo,ORL,Over 47.5 P+A+R,-109,Hit in 4 of his last 5 home games,80%
-Brook Lopez,ORL,Under 1.5 Assists,-174,Hit in 4 of his last 5 games vs ORL,80%
-Goga Bitadze,MIL,Under 12.5 PTS+AST,-109,Hit in 4 of his last 5 games vs MIL,80%
-Goga Bitadze,MIL,Under 10.5 REB+AST,-113,Hit in 4 of his last 5 games vs MIL,80%
-Goga Bitadze,MIL,Under 20.5 P+A+R,-109,Hit in 4 of his last 5 games vs MIL,80%
-Goga Bitadze,MIL,Under 10.5 Points,-115,Hit in 4 of his last 5 games vs MIL,80%
-Tristan da Silva,MIL,Under 11.5 PTS+REB,-125,Hit in 4 of his last 5 games,80%
-Kentavious Caldwell-Pope,MIL,Under 2.5 3PTM,-186,Hit in 16 of his last 20 games,80%
-Kentavious Caldwell-Pope,MIL,Under 4.5 REB+AST,-125,Hit in 4 of his last 5 games,80%
-Milt Wagner,MIL,Over 18.5 P+A+R,-133,Hit in 8 of his last 10 games,80%
-Milt Wagner,MIL,Over 12.5 PTS+AST,-129,Hit in 8 of his last 10 games,80%
-Goga Bitadze,MIL,Under 18.5 PTS+REB,-104,Hit in 4 of his last 5 games vs MIL,80%
-Jalen Suggs,MIL,Over 1.5 Steals,128,Hit in 4 of his last 5 games,80%
-Tristan da Silva,MIL,Under 1.5 3PTM,-220,Hit in 4 of his last 5 games,80%
-Carmelo Anthony,MIL,Under 1.5 3PTM,-111,Hit in 16 of his last 20 games,80%
-Carmelo Anthony,MIL,Under 1.5 3PTM,-111,Hit in 4 of his last 5 games vs MIL,80%
-Kentavious Caldwell-Pope,MIL,Over 1.5 Steals,-104,Hit in 4 of his last 5 away games,80%
-Giannis Antetokounmpo,ORL,Over 0.5 Blocks,-215,Hit in 12 of his last 15 games,80%
-Giannis Antetokounmpo,ORL,Over 0.5 Blocks,-215,Hit in 8 of his last 10 home games,80%
-Goga Bitadze,MIL,Under 8.5 Rebounds,-142,Hit in 4 of his last 5 games vs MIL,80%
-Giannis Antetokounmpo,ORL,Over 42.5 PTS+REB,-104,Hit in 4 of his last 5 home games,80%
-Giannis Antetokounmpo,ORL,Over 36.5 PTS+AST,-111,Hit in 4 of his last 5 home games,80%
-Bobby Portis,ORL,Over 18.5 PTS+REB,-111,Hit in 4 of his last 5 games vs ORL,80%
-Taurean Prince,ORL,Over 0.5 STL+BLK,-125,Hit in 4 of his last 5 games,80%
-Damian Lillard,ORL,Under 1.5 STL+BLK,-185,Hit in 4 of his last 5 games vs ORL,80%
-Bobby Portis,ORL,Over 1.5 Turnovers,150,Hit in 4 of his last 5 games vs ORL,80%
-Bobby Portis,ORL,Over 0.5 Steals,-120,Hit in 4 of his last 5 games,80%
-Brook Lopez,ORL,Over 2.5 STL+BLK,-165,Hit in 4 of his last 5 games vs ORL,80%
-Goga Bitadze,MIL,Over 0.5 Steals,-160,Hit in 8 of his last 10 games,80%
-Jalen Suggs,MIL,Under 0.5 Blocks,-140,Hit in 4 of his last 5 games,80%
-Jalen Suggs,MIL,Under 0.5 Blocks,-140,Hit in 4 of his last 5 games vs MIL,80%
-Tristan da Silva,MIL,Over 0.5 Turnovers,-125,Hit in 4 of his last 5 games,80%
-Milt Wagner,MIL,Over 0.5 Blocks,230,Hit in 4 of his last 5 away games,80%
-Isaiah Joe,DAL,Over 1.5 3PTM,-148,Hit in 16 of his last 20 games,80%
-Isaiah Joe,DAL,Over 1.5 3PTM,-148,Hit in 4 of his last 5 games vs DAL,80%
-Jalen Williams,DAL,Over 4.5 Assists,-138,Hit in 8 of his last 10 games,80%
-Jalen Williams,DAL,Over 4.5 Assists,-138,Hit in 4 of his last 5 games vs DAL,80%
-Jalen Williams,DAL,Over 5.5 Rebounds,100,Hit in 4 of his last 5 games vs DAL,80%
-Shai Gilgeous-Alexander,DAL,Over 4.5 Rebounds,-148,Hit in 4 of his last 5 home games,80%
-Shai Gilgeous-Alexander,DAL,Over 1.5 Steals,-128,Hit in 4 of his last 5 games,80%
-Daniel Gafford,OKL,Over 10.5 Points,100,Hit in 4 of his last 5 games,80%
-Luka Dončić,OKL,Over 36.5 PTS+AST,-121,Hit in 4 of his last 5 away games,80%
-Luka Dončić,OKL,Over 28.5 Points,-117,Hit in 4 of his last 5 away games,80%
-Luka Dončić,OKL,Over 7.5 Assists,-166,Hit in 8 of his last 10 games vs OKL,80%
-Luka Dončić,OKL,Over 36.5 PTS+REB,-129,Hit in 8 of his last 10 games vs OKL,80%
-Isaiah Joe,DAL,Over 3.5 REB+AST,100,Hit in 4 of his last 5 games vs DAL,80%
-Alex Caruso,DAL,Under 2.5 Assists,-106,Hit in 4 of his last 5 games,80%
-Aaron Wiggins,DAL,Over 2.5 Rebounds,-166,Hit in 4 of his last 5 games vs DAL,80%
-Aaron Wiggins,DAL,Over 4.5 REB+AST,100,Hit in 16 of his last 20 home games,80%
-Isaiah Joe,DAL,Over 0.5 Steals,130,Hit in 4 of his last 5 home games,80%
-Luguentz Dort,DAL,Over 0.5 Turnovers,-145,Hit in 4 of his last 5 games vs DAL,80%
-Jalen Williams,DAL,Over 0.5 Blocks,115,Hit in 8 of his last 10 home games,80%
-Jalen Williams,DAL,Over 2.5 STL+BLK,110,Hit in 4 of his last 5 home games,80%
-Cason Wallace,DAL,Over 2.5 STL+BLK,145,Hit in 4 of his last 5 home games,80%
-Aaron Wiggins,DAL,Over 0.5 Turnovers,-135,Hit in 4 of his last 5 games vs DAL,80%
-Aaron Wiggins,DAL,Over 0.5 Steals,-115,Hit in 4 of his last 5 games,80%
-Aaron Wiggins,DAL,Over 0.5 STL+BLK,-165,Hit in 4 of his last 5 games,80%
-Aaron Wiggins,DAL,Over 0.5 STL+BLK,-165,Hit in 8 of his last 10 games vs DAL,80%
-Daniel Gafford,OKL,Under 1.5 Turnovers,-175,Hit in 4 of his last 5 games vs OKL,80%
-P.J. Washington,OKL,Over 0.5 Blocks,-190,Hit in 4 of his last 5 away games,80%
-Jalen Suggs,MIL,Under 20.5 Points,-111,Hit in 15 of his last 19 games,79%
-Goga Bitadze,MIL,Under 2.5 Assists,-103,Hit in 11 of his last 14 games,79%
-Jalen Williams,DAL,Under 10.5 REB+AST,-118,Hit in 11 of his last 14 games vs DAL,79%
-Kyrie Irving,OKL,Over 4.5 Assists,-122,Hit in 11 of his last 14 games,79%
-W. Carter,MIL,Over 1.5 Assists,-184,Hit in 7 of his last 9 games,78%
-Jalen Williams,DAL,Over 1.5 Steals,-142,Hit in 7 of his last 9 games,78%
-Aaron Wiggins,DAL,Over 7.5 Points,-115,Hit in 7 of his last 9 home games,78%
-Daniel Gafford,OKL,Over 10.5 PTS+AST,-133,Hit in 7 of his last 9 games vs OKL,78%
-P.J. Washington,OKL,Over 6.5 Rebounds,-113,Hit in 7 of his last 9 games,78%
-P.J. Washington,OKL,Over 6.5 Rebounds,-113,Hit in 7 of his last 9 away games,78%
-P.J. Washington,OKL,Over 11.5 Points,-111,Hit in 7 of his last 9 away games,78%
-Aaron Wiggins,DAL,Over 9.5 PTS+AST,-117,Hit in 7 of his last 9 home games,78%
-Shai Gilgeous-Alexander,DAL,Under 2.5 Turnovers,-105,Hit in 7 of his last 9 games vs DAL,78%
-P.J. Washington,OKL,Over 19.5 P+A+R,-125,Hit in 7 of his last 9 games,78%
-P.J. Washington,OKL,Over 19.5 P+A+R,-125,Hit in 7 of his last 9 away games,78%
-Taurean Prince,ORL,Over 2.5 Rebounds,-138,Hit in 10 of his last 13 home games,77%
-Aaron Jackson,ORL,Over 0.5 Assists,-244,Hit in 10 of his last 13 home games,77%
-Isaiah Hartenstein,DAL,Over 3.5 Assists,-148,Hit in 10 of his last 13 home games,77%
-Kevin Thompson,OKL,Over 2.5 Rebounds,-125,Hit in 10 of his last 13 games,77%
-Milt Wagner,MIL,Over 0.5 3PTM,-154,Hit in 13 of his last 17 games,76%
-Isaiah Joe,DAL,Over 10.5 P+A+R,-117,Hit in 13 of his last 17 games,76%
-Isaiah Joe,DAL,Over 8.5 PTS+AST,-117,Hit in 13 of his last 17 games,76%
-Alex Caruso,DAL,Under 10.5 PTS+AST,-103,Hit in 13 of his last 17 games,76%
-Daniel Gafford,OKL,Under 1.5 Turnovers,-175,Hit in 13 of his last 17 games,76%
-Khris Middleton,ORL,Over 14.5 PTS+REB,-122,Hit in 3 of his last 4 games vs ORL,75%
-Khris Middleton,ORL,Over 18.5 P+A+R,-118,Hit in 3 of his last 4 games vs ORL,75%
-Taurean Prince,ORL,Over 8.5 P+A+R,100,Hit in 12 of his last 16 games,75%
-Taurean Prince,ORL,Over 5.5 PTS+AST,-113,Hit in 6 of his last 8 games,75%
-Taurean Prince,ORL,Over 4.5 Points,-130,Hit in 6 of his last 8 games,75%
-Damian Lillard,ORL,Under 11.5 REB+AST,-125,Hit in 3 of his last 4 games,75%
-Damian Lillard,ORL,Under 7.5 Assists,-148,Hit in 3 of his last 4 games,75%
-Damian Lillard,ORL,Over 35.5 P+A+R,-115,Hit in 6 of his last 8 games,75%
-Damian Lillard,ORL,Over 35.5 P+A+R,-115,Hit in 3 of his last 4 home games,75%
-Damian Lillard,ORL,Over 31.5 PTS+AST,-111,Hit in 6 of his last 8 games,75%
-Damian Lillard,ORL,Over 31.5 PTS+AST,-111,Hit in 3 of his last 4 home games,75%
-Gary Trent,ORL,Over 2.5 Rebounds,-121,Hit in 3 of his last 4 games vs ORL,75%
-Gary Trent,ORL,Over 0.5 Turnovers,-130,Hit in 3 of his last 4 home games,75%
-Bobby Portis,ORL,Over 12.5 PTS+AST,-103,Hit in 15 of his last 20 home games,75%
-Bobby Portis,ORL,Over 19.5 P+A+R,-113,Hit in 3 of his last 4 games,75%
-Bobby Portis,ORL,Over 10.5 Points,-128,Hit in 15 of his last 20 home games,75%
-Giannis Antetokounmpo,ORL,Over 47.5 P+A+R,-109,Hit in 3 of his last 4 games vs ORL,75%
-Giannis Antetokounmpo,ORL,Over 30.5 Points,-115,Hit in 6 of his last 8 games,75%
-Giannis Antetokounmpo,ORL,Over 0.5 Double Double,-310,Hit in 3 of his last 4 games vs ORL,75%
-Aaron Jackson,ORL,Under 0.5 3PTM,-166,Hit in 3 of his last 4 games vs ORL,75%
-Aaron Jackson,ORL,Under 4.5 PTS+AST,-133,Hit in 3 of his last 4 games vs ORL,75%
-Aaron Jackson,ORL,Over 5.5 PTS+REB,-133,Hit in 6 of his last 8 games,75%
-Aaron Jackson,ORL,Over 5.5 PTS+REB,-133,Hit in 3 of his last 4 home games,75%
-Brook Lopez,ORL,Under 1.5 Assists,-174,Hit in 3 of his last 4 games,75%
-Brook Lopez,ORL,Over 4.5 Rebounds,-142,Hit in 3 of his last 4 games,75%
-Jalen Suggs,MIL,Under 4.5 Assists,-113,Hit in 3 of his last 4 games,75%
-W. Carter,MIL,Under 0.5 3PTM,139,Hit in 3 of his last 4 games,75%
-W. Carter,MIL,Over 6.5 Rebounds,-160,Hit in 12 of his last 16 games,75%
-Kentavious Caldwell-Pope,MIL,Under 2.5 Rebounds,-128,Hit in 9 of his last 12 games,75%
-Milt Wagner,MIL,Over 18.5 P+A+R,-133,Hit in 3 of his last 4 away games,75%
-Milt Wagner,MIL,Over 11.5 Points,-115,Hit in 3 of his last 4 away games,75%
-Milt Wagner,MIL,Over 12.5 PTS+AST,-129,Hit in 3 of his last 4 away games,75%
-Milt Wagner,MIL,Over 17.5 PTS+REB,-111,Hit in 3 of his last 4 away games,75%
-Milt Wagner,MIL,Under 1.5 Assists,-184,Hit in 3 of his last 4 games vs MIL,75%
-Milt Wagner,MIL,Under 1.5 Turnovers,-105,Hit in 3 of his last 4 games vs MIL,75%
-Khris Middleton,ORL,Over 11.5 Points,100,Hit in 3 of his last 4 games vs ORL,75%
-Brook Lopez,ORL,Under 14.5 PTS+REB,-106,Hit in 3 of his last 4 games vs ORL,75%
-Giannis Antetokounmpo,ORL,Over 42.5 PTS+REB,-104,Hit in 3 of his last 4 games vs ORL,75%
-W. Carter,MIL,Under 19.5 P+A+R,-125,Hit in 3 of his last 4 games,75%
-Khris Middleton,ORL,Over 0.5 STL+BLK,-200,Hit in 15 of his last 20 games,75%
-Giannis Antetokounmpo,ORL,Over 3.5 Turnovers,-145,Hit in 3 of his last 4 games vs ORL,75%
-Giannis Antetokounmpo,ORL,Over 1.5 STL+BLK,-160,Hit in 3 of his last 4 games vs ORL,75%
-Brook Lopez,ORL,Over 0.5 Turnovers,-225,Hit in 6 of his last 8 games,75%
-Brook Lopez,ORL,Over 0.5 Turnovers,-225,Hit in 3 of his last 4 home games,75%
-Goga Bitadze,MIL,Under 1.5 Turnovers,-145,Hit in 3 of his last 4 games,75%
-Tristan da Silva,MIL,Over 0.5 Turnovers,-125,Hit in 3 of his last 4 away games,75%
-Tristan da Silva,MIL,Under 0.5 STL+BLK,-105,Hit in 3 of his last 4 games,75%
-Kentavious Caldwell-Pope,MIL,Over 0.5 Turnovers,-210,Hit in 3 of his last 4 games,75%
-Kentavious Caldwell-Pope,MIL,Under 0.5 Blocks,-200,Hit in 3 of his last 4 games,75%
-Taurean Prince,ORL,Over 6.5 PTS+REB,-154,Hit in 15 of his last 20 games,75%
-Aaron Jackson,ORL,Over 6.5 P+A+R,-142,Hit in 6 of his last 8 games,75%
-Aaron Jackson,ORL,Over 6.5 P+A+R,-142,Hit in 3 of his last 4 home games,75%
-Isaiah Hartenstein,DAL,Over 10.5 Points,-128,Hit in 6 of his last 8 games,75%
-Isaiah Hartenstein,DAL,Over 0.5 Double Double,-105,Hit in 6 of his last 8 games,75%
-Luguentz Dort,DAL,Over 1.5 Assists,-117,Hit in 3 of his last 4 home games,75%
-Luguentz Dort,DAL,Over 3.5 Rebounds,-146,Hit in 3 of his last 4 games vs DAL,75%
-Luguentz Dort,DAL,Over 3.5 Rebounds,-146,Hit in 3 of his last 4 home games,75%
-Luguentz Dort,DAL,Under 15.5 P+A+R,-125,Hit in 6 of his last 8 games,75%
-Luguentz Dort,DAL,Over 5.5 REB+AST,-109,Hit in 3 of his last 4 games vs DAL,75%
-Luguentz Dort,DAL,Over 5.5 REB+AST,-109,Hit in 3 of his last 4 home games,75%
-Jalen Williams,DAL,Under 2.5 3PTM,-194,Hit in 6 of his last 8 games vs DAL,75%
-Jalen Williams,DAL,Over 33.5 P+A+R,-106,Hit in 3 of his last 4 games,75%
-Jalen Williams,DAL,Over 27.5 PTS+AST,-111,Hit in 3 of his last 4 games,75%
-Jalen Williams,DAL,Over 1.5 Steals,-142,Hit in 3 of his last 4 games vs DAL,75%
-Aaron Wiggins,DAL,Over 7.5 Points,-115,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,DAL,Over 1.5 Steals,-128,Hit in 3 of his last 4 games vs DAL,75%
-D. Lively,OKL,Under 8.5 Rebounds,-136,Hit in 6 of his last 8 games vs OKL,75%
-D. Lively,OKL,Under 7.5 Points,-106,Hit in 3 of his last 4 games,75%
-Kevin Thompson,OKL,Over 16.5 P+A+R,-160,Hit in 6 of his last 8 games vs OKL,75%
-Kevin Thompson,OKL,Over 12.5 Points,-128,Hit in 6 of his last 8 games vs OKL,75%
-Kevin Thompson,OKL,Over 2.5 Rebounds,-125,Hit in 6 of his last 8 games vs OKL,75%
-Kevin Thompson,OKL,Over 2.5 3PTM,-128,Hit in 3 of his last 4 games,75%
-Kevin Thompson,OKL,Over 2.5 3PTM,-128,Hit in 6 of his last 8 games vs OKL,75%
-Daniel Gafford,OKL,Over 0.5 Assists,-174,Hit in 6 of his last 8 games,75%
-Daniel Gafford,OKL,Over 0.5 Assists,-174,Hit in 6 of his last 8 games vs OKL,75%
-Daniel Gafford,OKL,Over 10.5 Points,100,Hit in 3 of his last 4 away games,75%
-Daniel Gafford,OKL,Over 17.5 P+A+R,-125,Hit in 12 of his last 16 games,75%
-P.J. Washington,OKL,Over 6.5 Rebounds,-113,Hit in 3 of his last 4 games vs OKL,75%
-P.J. Washington,OKL,Over 1.5 3PTM,114,Hit in 3 of his last 4 away games,75%
-P.J. Washington,OKL,Over 0.5 Double Double,460,Hit in 3 of his last 4 games vs OKL,75%
-Luka Dončić,OKL,Over 36.5 PTS+AST,-121,Hit in 3 of his last 4 games,75%
-Luka Dončić,OKL,Over 16.5 REB+AST,-129,Hit in 3 of his last 4 games,75%
-Luka Dončić,OKL,Over 28.5 Points,-117,Hit in 3 of his last 4 games,75%
-Luka Dončić,OKL,Over 7.5 Assists,-166,Hit in 3 of his last 4 games,75%
-Luka Dončić,OKL,Over 3.5 3PTM,-125,Hit in 3 of his last 4 games,75%
-Luka Dončić,OKL,Over 3.5 3PTM,-125,Hit in 3 of his last 4 away games,75%
-Luka Dončić,OKL,Over 36.5 PTS+REB,-129,Hit in 3 of his last 4 games,75%
-Kyrie Irving,OKL,Over 8.5 REB+AST,-125,Hit in 6 of his last 8 games,75%
-Isaiah Joe,DAL,Over 9.5 PTS+REB,-121,Hit in 6 of his last 8 home games,75%
-Isaiah Joe,DAL,Over 2.5 Rebounds,126,Hit in 3 of his last 4 games vs DAL,75%
-Isaiah Joe,DAL,Over 2.5 Rebounds,126,Hit in 6 of his last 8 home games,75%
-Isaiah Joe,DAL,Over 7.5 Points,-108,Hit in 6 of his last 8 home games,75%
-Alex Caruso,DAL,Under 2.5 Assists,-106,Hit in 3 of his last 4 games vs DAL,75%
-Alex Caruso,DAL,Under 5.5 REB+AST,-106,Hit in 3 of his last 4 games vs DAL,75%
-Cason Wallace,DAL,Over 1.5 Assists,-194,Hit in 3 of his last 4 home games,75%
-Aaron Wiggins,DAL,Under 1.5 3PTM,-224,Hit in 6 of his last 8 games,75%
-Aaron Wiggins,DAL,Over 9.5 PTS+AST,-117,Hit in 3 of his last 4 games,75%
-D. Lively,OKL,Over 1.5 Blocks,102,Hit in 9 of his last 12 games,75%
-Kevin Thompson,OKL,Over 16.5 PTS+REB,-104,Hit in 6 of his last 8 games vs OKL,75%
-Kevin Thompson,OKL,Over 13.5 PTS+AST,-129,Hit in 6 of his last 8 games vs OKL,75%
-Luka Dončić,OKL,Over 45.5 P+A+R,-133,Hit in 3 of his last 4 games,75%
-Luka Dončić,OKL,Over 45.5 P+A+R,-133,Hit in 3 of his last 4 away games,75%
-Shai Gilgeous-Alexander,DAL,Under 6.5 Assists,-132,Hit in 3 of his last 4 games,75%
-Isaiah Hartenstein,DAL,Under 1.5 Turnovers,-110,Hit in 3 of his last 4 games vs DAL,75%
-Isaiah Hartenstein,DAL,Over 0.5 Steals,-125,Hit in 3 of his last 4 games vs DAL,75%
-Luguentz Dort,DAL,Over 0.5 Turnovers,-145,Hit in 3 of his last 4 home games,75%
-Luguentz Dort,DAL,Over 0.5 Steals,-200,Hit in 3 of his last 4 games,75%
-Luguentz Dort,DAL,Over 1.5 STL+BLK,-110,Hit in 3 of his last 4 games,75%
-Jalen Williams,DAL,Under 1.5 Turnovers,140,Hit in 3 of his last 4 games,75%
-Jalen Williams,DAL,Under 1.5 Turnovers,140,Hit in 6 of his last 8 games vs DAL,75%
-Jalen Williams,DAL,Over 2.5 STL+BLK,110,Hit in 3 of his last 4 games vs DAL,75%
-Alex Caruso,DAL,Over 0.5 Turnovers,-175,Hit in 15 of his last 20 home games,75%
-Alex Caruso,DAL,Under 0.5 Blocks,-155,Hit in 9 of his last 12 games,75%
-Cason Wallace,DAL,Under 0.5 Turnovers,-110,Hit in 6 of his last 8 games vs DAL,75%
-Cason Wallace,DAL,Under 0.5 Blocks,-155,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,DAL,Under 2.5 Turnovers,-105,Hit in 3 of his last 4 games,75%
-Kevin Thompson,OKL,Under 0.5 Blocks,-350,Hit in 15 of his last 20 games,75%
-Kevin Thompson,OKL,Over 0.5 Steals,115,Hit in 3 of his last 4 games,75%
-Daniel Gafford,OKL,Over 1.5 STL+BLK,-145,Hit in 6 of his last 8 games,75%
-P.J. Washington,OKL,Over 8.5 REB+AST,100,Hit in 3 of his last 4 games vs OKL,75%
-P.J. Washington,OKL,Over 1.5 Assists,-145,Hit in 6 of his last 8 games,75%
-P.J. Washington,OKL,Over 1.5 Turnovers,-120,Hit in 3 of his last 4 games,75%
-Kyrie Irving,OKL,Over 2.5 Turnovers,-130,Hit in 6 of his last 8 games,75%
-Kevin Thompson,OKL,Over 16.5 P+A+R,-160,Hit in 14 of his last 19 away games,74%
-Kevin Thompson,OKL,Over 13.5 PTS+AST,-129,Hit in 14 of his last 19 away games,74%
-Isaiah Joe,DAL,Over 3.5 REB+AST,100,Hit in 11 of his last 15 games,73%
-Alex Caruso,DAL,Under 1.5 3PTM,-137,Hit in 11 of his last 15 games,73%
-Tristan da Silva,MIL,Over 7.5 Points,-113,Hit in 8 of his last 11 games,73%
-Jalen Suggs,MIL,Under 3.5 Turnovers,-160,Hit in 8 of his last 11 games,73%
-Luguentz Dort,DAL,Over 1.5 Assists,-117,Hit in 8 of his last 11 games,73%
-Luguentz Dort,DAL,Over 1.5 Assists,-117,Hit in 8 of his last 11 games vs DAL,73%
-Luguentz Dort,DAL,Over 3.5 Rebounds,-146,Hit in 8 of his last 11 games,73%
-Isaiah Joe,DAL,Over 0.5 STL+BLK,-110,Hit in 8 of his last 11 games,73%
-Isaiah Hartenstein,DAL,Over 1.5 STL+BLK,100,Hit in 8 of his last 11 home games,73%
-Aaron Wiggins,DAL,Over 2.5 Rebounds,-166,Hit in 13 of his last 18 home games,72%
-Khris Middleton,ORL,Over 1.5 Turnovers,-115,Hit in 10 of his last 14 games,71%
-Aaron Jackson,ORL,Under 0.5 3PTM,-166,Hit in 10 of his last 14 games,71%
-Brook Lopez,ORL,Over 1.5 Blocks,-142,Hit in 5 of his last 7 games,71%
-Anthony Black,MIL,Under 7.5 Points,-113,Hit in 5 of his last 7 games,71%
-Giannis Antetokounmpo,ORL,Over 3.5 Turnovers,-145,Hit in 5 of his last 7 games,71%
-Brook Lopez,ORL,Over 2.5 STL+BLK,-165,Hit in 10 of his last 14 games,71%
-Luguentz Dort,DAL,Over 11.5 PTS+AST,-113,Hit in 5 of his last 7 home games,71%
-Luguentz Dort,DAL,Over 13.5 PTS+REB,-115,Hit in 5 of his last 7 home games,71%
-Luguentz Dort,DAL,Over 9.5 Points,-108,Hit in 5 of his last 7 home games,71%
-Shai Gilgeous-Alexander,DAL,Over 1.5 3PTM,-192,Hit in 5 of his last 7 games,71%
-Shai Gilgeous-Alexander,DAL,Over 30.5 Points,-122,Hit in 5 of his last 7 games,71%
-Shai Gilgeous-Alexander,DAL,Over 4.5 Rebounds,-148,Hit in 5 of his last 7 games vs DAL,71%
-Kevin Thompson,OKL,Over 2.5 3PTM,-128,Hit in 5 of his last 7 away games,71%
-Daniel Gafford,OKL,Over 7.5 REB+AST,-109,Hit in 5 of his last 7 games,71%
-Alex Caruso,DAL,Under 5.5 REB+AST,-106,Hit in 10 of his last 14 games,71%
-Shai Gilgeous-Alexander,DAL,Over 11.5 REB+AST,-106,Hit in 5 of his last 7 games,71%
-Shai Gilgeous-Alexander,DAL,Over 11.5 REB+AST,-106,Hit in 5 of his last 7 games vs DAL,71%
-Luguentz Dort,DAL,Over 0.5 Steals,-200,Hit in 5 of his last 7 games vs DAL,71%
-Jalen Williams,DAL,Over 0.5 Blocks,115,Hit in 5 of his last 7 games vs DAL,71%
-Cason Wallace,DAL,Under 0.5 Blocks,-155,Hit in 5 of his last 7 games vs DAL,71%
-Aaron Wiggins,DAL,Over 0.5 Turnovers,-135,Hit in 10 of his last 14 games,71%
-Daniel Gafford,OKL,Over 1.5 STL+BLK,-145,Hit in 5 of his last 7 away games,71%
-Alex Caruso,DAL,Under 7.5 Points,-106,Hit in 12 of his last 17 games,71%
-Isaiah Joe,DAL,Over 9.5 PTS+REB,-121,Hit in 12 of his last 17 games,71%
-Isaiah Joe,DAL,Over 7.5 Points,-108,Hit in 12 of his last 17 games,71%
-Alex Caruso,DAL,Under 10.5 PTS+REB,-102,Hit in 12 of his last 17 games,71%
-Alex Caruso,DAL,Under 13.5 P+A+R,-106,Hit in 12 of his last 17 games,71%
-Khris Middleton,ORL,Over 1.5 Turnovers,-115,Hit in 7 of his last 10 home games,70%
-Bobby Portis,ORL,Over 6.5 Rebounds,-148,Hit in 14 of his last 20 home games,70%
-Goga Bitadze,MIL,Under 12.5 PTS+AST,-109,Hit in 7 of his last 10 games,70%
-Goga Bitadze,MIL,Under 10.5 Points,-115,Hit in 7 of his last 10 games,70%
-Jalen Suggs,MIL,Under 2.5 3PTM,110,Hit in 14 of his last 20 games,70%
-Milt Wagner,MIL,Over 11.5 Points,-115,Hit in 7 of his last 10 games,70%
-Milt Wagner,MIL,Over 17.5 PTS+REB,-111,Hit in 7 of his last 10 games,70%
-Bobby Portis,ORL,Over 18.5 PTS+REB,-111,Hit in 14 of his last 20 home games,70%
-Giannis Antetokounmpo,ORL,Over 1.5 STL+BLK,-160,Hit in 7 of his last 10 home games,70%
-Luka Dončić,OKL,Over 28.5 Points,-117,Hit in 7 of his last 10 games vs OKL,70%
-Kyrie Irving,OKL,Over 4.5 Assists,-122,Hit in 7 of his last 10 games vs OKL,70%
-Aaron Wiggins,DAL,Under 1.5 Assists,-214,Hit in 7 of his last 10 games,70%
-Luka Dončić,OKL,Over 45.5 P+A+R,-133,Hit in 7 of his last 10 games vs OKL,70%
-Shai Gilgeous-Alexander,DAL,Over 2.5 STL+BLK,-105,Hit in 7 of his last 10 games,70%
-Kevin Thompson,OKL,Under 1.5 Turnovers,-145,Hit in 14 of his last 20 games,70%
-Kyrie Irving,OKL,Over 0.5 Steals,-185,Hit in 7 of his last 10 games vs OKL,70%
-Khris Middleton,ORL,Under 1.5 3PTM,-194,ORL rank 2nd in 3PTM versus SF,2nd
-Damian Lillard,ORL,Under 7.5 Assists,-148,ORL rank 2nd in AST against,2nd
-Gary Trent,ORL,Over 0.5 Turnovers,-130,ORL rank 28th in TO against,28th
-Bobby Portis,ORL,Under 1.5 Assists,-184,ORL rank 5th in AST versus PF,5th
-Bobby Portis,ORL,Under 1.5 3PTM,-215,ORL rank 3rd in 3PTM against,3rd
-Giannis Antetokounmpo,ORL,Under 11.5 Rebounds,-136,ORL rank 2nd in REB against,2nd
-Aaron Jackson,ORL,Under 0.5 3PTM,-166,ORL rank 3rd in 3PTM against,3rd
-Aaron Jackson,ORL,Under 2.5 Rebounds,100,ORL rank 2nd in REB against,2nd
-Aaron Jackson,ORL,Under 2.5 Points,112,ORL rank 1st in PTS against,1st
-Brook Lopez,ORL,Under 1.5 Assists,-174,ORL rank 2nd in AST versus C,2nd
-Brook Lopez,ORL,Under 9.5 Points,-113,ORL rank 4th in PTS versus C,4th
-Brook Lopez,ORL,Under 1.5 3PTM,-154,ORL rank 3rd in 3PTM against,3rd
-Goga Bitadze,MIL,Under 10.5 Points,-115,MIL rank 5th in PTS versus C,5th
-W. Carter,MIL,Under 10.5 Points,-137,MIL rank 5th in PTS versus C,5th
-Milt Wagner,MIL,Under 1.5 Turnovers,-105,MIL rank 3rd in TO against,3rd
-Goga Bitadze,MIL,Under 1.5 Blocks,-154,MIL rank 4th in BLK against,4th
-Tristan da Silva,MIL,Under 1.5 3PTM,-220,MIL rank 5th in 3PTM versus SF,5th
-Giannis Antetokounmpo,ORL,Over 0.5 Steals,-175,ORL rank 26th in STL versus PF,26th
-Taurean Prince,ORL,Over 0.5 Turnovers,100,ORL rank 28th in TO against,28th
-Taurean Prince,ORL,Over 0.5 Steals,110,ORL rank 26th in STL versus PF,26th
-Damian Lillard,ORL,Over 3.5 Turnovers,100,ORL rank 28th in TO against,28th
-Bobby Portis,ORL,Over 1.5 Turnovers,150,ORL rank 28th in TO against,28th
-Bobby Portis,ORL,Under 0.5 Blocks,-210,ORL rank 5th in BLK versus PF,5th
-Bobby Portis,ORL,Over 0.5 Steals,-120,ORL rank 26th in STL versus PF,26th
-Giannis Antetokounmpo,ORL,Over 3.5 Turnovers,-145,ORL rank 28th in TO against,28th
-Goga Bitadze,MIL,Under 1.5 Turnovers,-145,MIL rank 3rd in TO against,3rd
-Jalen Suggs,MIL,Under 3.5 Turnovers,-160,MIL rank 3rd in TO against,3rd
-Jalen Suggs,MIL,Under 0.5 Blocks,-140,MIL rank 2nd in BLK versus SG,2nd
-Kentavious Caldwell-Pope,MIL,Under 0.5 Blocks,-200,MIL rank 2nd in BLK versus SG,2nd
-Giannis Antetokounmpo,ORL,Under 0.5 3PTM,-384,ORL rank 3rd in 3PTM against,3rd
-Isaiah Hartenstein,DAL,Over 10.5 Points,-128,DAL rank 26th in PTS versus C,26th
-Jalen Williams,DAL,Under 2.5 3PTM,-194,DAL rank 4th in 3PTM versus SG,4th
-D. Lively,OKL,Under 7.5 Points,-106,OKL rank 1st in PTS versus C,1st
-Kevin Thompson,OKL,Under 1.5 Assists,-184,OKL rank 2nd in AST versus SG,2nd
-Kevin Thompson,OKL,Over 2.5 Rebounds,-125,OKL rank 30th in REB against,30th
-Daniel Gafford,OKL,Over 6.5 Rebounds,-106,OKL rank 30th in REB against,30th
-P.J. Washington,OKL,Over 6.5 Rebounds,-113,OKL rank 30th in REB against,30th
-Luka Dončić,OKL,Over 8.5 Rebounds,-125,OKL rank 30th in REB versus PG,30th
-Kyrie Irving,OKL,Over 3.5 Rebounds,-140,OKL rank 30th in REB versus PG,30th
-Alex Caruso,DAL,Under 1.5 3PTM,-137,DAL rank 3rd in 3PTM versus PG,3rd
-Aaron Wiggins,DAL,Under 1.5 3PTM,-224,DAL rank 4th in 3PTM versus SG,4th
-Isaiah Hartenstein,DAL,Over 0.5 Steals,-125,DAL rank 30th in STL versus C,30th
-Kevin Thompson,OKL,Under 1.5 Turnovers,-145,OKL rank 29th in TO versus SG,29th
-Daniel Gafford,OKL,Under 1.5 Turnovers,-175,OKL rank 29th in TO versus PF,29th
-Daniel Gafford,OKL,Under 0.5 Steals,-185,OKL rank 1st in STL versus PF,1st
-Kyrie Irving,OKL,Over 0.5 Blocks,290,OKL rank 26th in BLK versus PG,26th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Khris Middleton,ORL,Over 14.5 PTS+REB,-122,Hit in 4 of his last 4 home games,100%,False,4.0
+Khris Middleton,ORL,Over 7.5 REB+AST,100,Hit in 11 of his last 11 games,100%,True,12.0
+Khris Middleton,ORL,Over 7.5 REB+AST,100,Hit in 4 of his last 4 home games,100%,True,12.0
+Khris Middleton,ORL,Over 18.5 P+A+R,-118,Hit in 11 of his last 11 games,100%,False,12.0
+Khris Middleton,ORL,Over 18.5 P+A+R,-118,Hit in 4 of his last 4 home games,100%,False,12.0
+Khris Middleton,ORL,Over 3.5 Rebounds,-108,Hit in 8 of his last 8 home games,100%,True,4.0
+Khris Middleton,ORL,Over 3.5 Assists,-122,Hit in 4 of his last 4 home games,100%,True,8.0
+Taurean Prince,ORL,Over 8.5 P+A+R,100,Hit in 4 of his last 4 home games,100%,False,3.0
+Taurean Prince,ORL,Over 5.5 PTS+AST,-113,Hit in 4 of his last 4 home games,100%,False,1.0
+Taurean Prince,ORL,Over 0.5 Assists,-214,Hit in 5 of his last 5 games,100%,True,1.0
+Taurean Prince,ORL,Over 0.5 3PTM,-184,Hit in 4 of his last 4 home games,100%,False,0.0
+Taurean Prince,ORL,Over 4.5 Points,-130,Hit in 4 of his last 4 home games,100%,False,0.0
+Damian Lillard,ORL,Over 27.5 PTS+REB,-125,Hit in 4 of his last 4 home games,100%,True,34.0
+Damian Lillard,ORL,Over 3.5 Rebounds,-160,Hit in 5 of his last 5 games,100%,False,2.0
+Damian Lillard,ORL,Over 3.5 Rebounds,-160,Hit in 5 of his last 5 games vs ORL,100%,False,2.0
+Damian Lillard,ORL,Over 3.5 Rebounds,-160,Hit in 13 of his last 13 home games,100%,False,2.0
+Gary Trent,ORL,Over 0.5 Assists,-199,Hit in 4 of his last 4 home games,100%,True,2.0
+Gary Trent,ORL,Over 9.5 Points,-109,Hit in 4 of his last 4 games,100%,True,10.0
+Gary Trent,ORL,Over 10.5 PTS+AST,-113,Hit in 4 of his last 4 games,100%,True,12.0
+Gary Trent,ORL,Over 13.5 P+A+R,-106,Hit in 4 of his last 4 games,100%,False,12.0
+Gary Trent,ORL,Over 12.5 PTS+REB,-103,Hit in 4 of his last 4 games,100%,False,10.0
+Gary Trent,ORL,Over 1.5 3PTM,-174,Hit in 4 of his last 4 games,100%,True,2.0
+Bobby Portis,ORL,Over 6.5 Rebounds,-148,Hit in 5 of his last 5 games vs ORL,100%,True,10.0
+Giannis Antetokounmpo,ORL,Over 30.5 Points,-115,Hit in 4 of his last 4 games vs ORL,100%,True,37.0
+Giannis Antetokounmpo,ORL,Over 30.5 Points,-115,Hit in 5 of his last 5 home games,100%,True,37.0
+Giannis Antetokounmpo,ORL,Under 16.5 REB+AST,-111,Hit in 4 of his last 4 games,100%,True,8.0
+Giannis Antetokounmpo,ORL,Under 11.5 Rebounds,-136,Hit in 4 of his last 4 games,100%,True,7.0
+Giannis Antetokounmpo,ORL,Over 0.5 Double Double,-310,Hit in 4 of his last 4 home games,100%,False,0.0
+Brook Lopez,ORL,Under 9.5 Points,-113,Hit in 4 of his last 4 games,100%,True,9.0
+Brook Lopez,ORL,Under 15.5 P+A+R,-113,Hit in 4 of his last 4 games,100%,True,15.0
+Brook Lopez,ORL,Under 1.5 3PTM,-154,Hit in 4 of his last 4 games,100%,True,1.0
+Goga Bitadze,MIL,Under 2.5 Assists,-103,Hit in 5 of his last 5 games vs MIL,100%,False,4.0
+Jalen Suggs,MIL,Under 25.5 PTS+AST,-111,Hit in 5 of his last 5 games vs MIL,100%,False,39.0
+Jalen Suggs,MIL,Under 3.5 Rebounds,-104,Hit in 4 of his last 4 games vs MIL,100%,False,9.0
+Jalen Suggs,MIL,Under 29.5 P+A+R,-111,Hit in 5 of his last 5 games vs MIL,100%,False,48.0
+Jalen Suggs,MIL,Under 4.5 Assists,-113,Hit in 5 of his last 5 games vs MIL,100%,True,1.0
+Jalen Suggs,MIL,Under 8.5 REB+AST,-115,Hit in 5 of his last 5 games,100%,False,10.0
+Jalen Suggs,MIL,Under 8.5 REB+AST,-115,Hit in 5 of his last 5 games vs MIL,100%,False,10.0
+Jalen Suggs,MIL,Under 20.5 Points,-111,Hit in 5 of his last 5 games vs MIL,100%,False,38.0
+Jalen Suggs,MIL,Under 24.5 PTS+REB,-111,Hit in 5 of his last 5 games vs MIL,100%,False,47.0
+Jalen Suggs,MIL,Under 2.5 3PTM,110,Hit in 5 of his last 5 games vs MIL,100%,False,3.0
+Kentavious Caldwell-Pope,MIL,Under 10.5 Points,-128,Hit in 4 of his last 4 games,100%,True,7.0
+Kentavious Caldwell-Pope,MIL,Under 2.5 Assists,-184,Hit in 5 of his last 5 games,100%,True,1.0
+Kentavious Caldwell-Pope,MIL,Under 12.5 PTS+AST,-129,Hit in 4 of his last 4 games,100%,True,8.0
+Khris Middleton,ORL,Over 11.5 Points,100,Hit in 4 of his last 4 home games,100%,False,0.0
+Brook Lopez,ORL,Under 14.5 PTS+REB,-106,Hit in 4 of his last 4 games,100%,False,15.0
+Brook Lopez,ORL,Over 1.5 Blocks,-142,Hit in 5 of his last 5 games vs ORL,100%,False,0.0
+Anthony Black,MIL,Under 7.5 Points,-113,Hit in 4 of his last 4 games vs MIL,100%,False,17.0
+Goga Bitadze,MIL,Under 1.5 Blocks,-154,Hit in 5 of his last 5 games vs MIL,100%,True,1.0
+Jalen Suggs,MIL,Over 1.5 Steals,128,Hit in 4 of his last 4 away games,100%,True,4.0
+Kentavious Caldwell-Pope,MIL,Under 12.5 PTS+REB,-104,Hit in 4 of his last 4 games,100%,True,8.0
+Khris Middleton,ORL,Over 15.5 PTS+AST,-102,Hit in 11 of his last 11 games,100%,False,8.0
+Khris Middleton,ORL,Over 15.5 PTS+AST,-102,Hit in 4 of his last 4 games vs ORL,100%,False,8.0
+Khris Middleton,ORL,Over 15.5 PTS+AST,-102,Hit in 4 of his last 4 home games,100%,False,8.0
+Giannis Antetokounmpo,ORL,Over 0.5 Blocks,-215,Hit in 4 of his last 4 games vs ORL,100%,True,4.0
+Giannis Antetokounmpo,ORL,Over 36.5 PTS+AST,-111,Hit in 4 of his last 4 games vs ORL,100%,True,38.0
+Khris Middleton,ORL,Over 0.5 STL+BLK,-200,Hit in 5 of his last 5 games vs ORL,100%,True,3.0
+Taurean Prince,ORL,Over 0.5 Turnovers,100,Hit in 4 of his last 4 games,100%,False,0.0
+Damian Lillard,ORL,Over 0.5 Steals,-250,Hit in 4 of his last 4 home games,100%,True,1.0
+Damian Lillard,ORL,Under 1.5 STL+BLK,-185,Hit in 4 of his last 4 games,100%,True,1.0
+Bobby Portis,ORL,Over 0.5 Steals,-120,Hit in 4 of his last 4 games vs ORL,100%,True,1.0
+Bobby Portis,ORL,Over 0.5 Steals,-120,Hit in 4 of his last 4 home games,100%,True,1.0
+Giannis Antetokounmpo,ORL,Over 3.5 Turnovers,-145,Hit in 4 of his last 4 home games,100%,True,6.0
+Brook Lopez,ORL,Over 0.5 Turnovers,-225,Hit in 6 of his last 6 games vs ORL,100%,True,2.0
+Goga Bitadze,MIL,Under 1.5 Turnovers,-145,Hit in 5 of his last 5 games vs MIL,100%,True,0.0
+Goga Bitadze,MIL,Under 2.5 STL+BLK,-165,Hit in 5 of his last 5 games vs MIL,100%,True,2.0
+Jalen Suggs,MIL,Under 3.5 Turnovers,-160,Hit in 5 of his last 5 games vs MIL,100%,False,4.0
+Jalen Suggs,MIL,Over 1.5 STL+BLK,-175,Hit in 9 of his last 9 away games,100%,True,5.0
+Taurean Prince,ORL,Over 6.5 PTS+REB,-154,Hit in 4 of his last 4 home games,100%,False,2.0
+Bobby Portis,ORL,Over 1.5 STL+BLK,180,Hit in 4 of his last 4 games vs ORL,100%,True,2.0
+Giannis Antetokounmpo,ORL,Under 0.5 3PTM,-384,Hit in 5 of his last 5 games,100%,True,0.0
+Kentavious Caldwell-Pope,MIL,Under 14.5 P+A+R,-125,Hit in 4 of his last 4 games,100%,True,9.0
+Isaiah Hartenstein,DAL,Over 3.5 Assists,-148,Hit in 5 of his last 5 games,100%,False,3.0
+Luguentz Dort,DAL,Over 11.5 PTS+AST,-113,Hit in 4 of his last 4 games vs DAL,100%,True,19.0
+Luguentz Dort,DAL,Over 1.5 3PTM,-158,Hit in 7 of his last 7 games vs DAL,100%,True,3.0
+Luguentz Dort,DAL,Over 13.5 PTS+REB,-115,Hit in 4 of his last 4 games vs DAL,100%,True,23.0
+Luguentz Dort,DAL,Over 9.5 Points,-108,Hit in 4 of his last 4 games vs DAL,100%,True,17.0
+Alex Caruso,DAL,Under 7.5 Points,-106,Hit in 4 of his last 4 games vs DAL,100%,False,10.0
+Cason Wallace,DAL,Under 10.5 PTS+REB,-113,Hit in 7 of his last 7 games vs DAL,100%,False,25.0
+Cason Wallace,DAL,Under 3.5 Rebounds,-174,Hit in 10 of his last 10 games vs DAL,100%,False,8.0
+Cason Wallace,DAL,Under 7.5 Points,-125,Hit in 7 of his last 7 games vs DAL,100%,False,17.0
+Shai Gilgeous-Alexander,DAL,Over 41.5 P+A+R,-125,Hit in 7 of his last 7 games vs DAL,100%,True,62.0
+Daniel Gafford,OKL,Over 7.5 REB+AST,-109,Hit in 11 of his last 11 games vs OKL,100%,False,3.0
+Daniel Gafford,OKL,Over 6.5 Rebounds,-106,Hit in 4 of his last 4 games vs OKL,100%,False,2.0
+Luka Dončić,OKL,Over 8.5 Rebounds,-125,Hit in 5 of his last 5 games vs OKL,100%,True,11.0
+Luka Dončić,OKL,Over 16.5 REB+AST,-129,Hit in 5 of his last 5 games vs OKL,100%,False,16.0
+Luka Dončić,OKL,Over 0.5 Double Double,-137,Hit in 4 of his last 4 games,100%,True,1.0
+Luka Dončić,OKL,Over 0.5 Double Double,-137,Hit in 5 of his last 5 games vs OKL,100%,True,1.0
+Luka Dončić,OKL,Over 7.5 Assists,-166,Hit in 4 of his last 4 away games,100%,False,5.0
+Kyrie Irving,OKL,Over 26.5 PTS+AST,-113,Hit in 5 of his last 5 away games,100%,True,28.0
+Kyrie Irving,OKL,Over 2.5 3PTM,-156,Hit in 5 of his last 5 away games,100%,True,3.0
+Kyrie Irving,OKL,Over 25.5 PTS+REB,-113,Hit in 5 of his last 5 away games,100%,False,25.0
+Kyrie Irving,OKL,Over 3.5 Rebounds,-140,Hit in 8 of his last 8 games,100%,False,2.0
+Kyrie Irving,OKL,Over 3.5 Rebounds,-140,Hit in 6 of his last 6 away games,100%,False,2.0
+Isaiah Joe,DAL,Over 0.5 Assists,-224,Hit in 4 of his last 4 games,100%,True,3.0
+Isaiah Hartenstein,DAL,Under 23.5 PTS+REB,-125,Hit in 4 of his last 4 games vs DAL,100%,True,23.0
+Isaiah Hartenstein,DAL,Under 15.5 PTS+AST,-125,Hit in 4 of his last 4 games vs DAL,100%,True,13.0
+Isaiah Hartenstein,DAL,Under 27.5 P+A+R,-120,Hit in 4 of his last 4 games vs DAL,100%,True,26.0
+Isaiah Hartenstein,DAL,Over 0.5 Blocks,-184,Hit in 5 of his last 5 home games,100%,True,1.0
+Alex Caruso,DAL,Under 10.5 PTS+AST,-103,Hit in 4 of his last 4 games vs DAL,100%,False,14.0
+Alex Caruso,DAL,Under 1.5 3PTM,-137,Hit in 4 of his last 4 games vs DAL,100%,False,2.0
+Alex Caruso,DAL,Over 1.5 Steals,128,Hit in 4 of his last 4 games,100%,True,2.0
+Cason Wallace,DAL,Under 5.5 REB+AST,-142,Hit in 6 of his last 6 games vs DAL,100%,False,12.0
+Cason Wallace,DAL,Over 0.5 3PTM,-224,Hit in 4 of his last 4 games,100%,True,3.0
+Cason Wallace,DAL,Under 9.5 PTS+AST,-121,Hit in 6 of his last 6 games vs DAL,100%,False,21.0
+Cason Wallace,DAL,Under 12.5 P+A+R,-113,Hit in 6 of his last 6 games vs DAL,100%,False,29.0
+Cason Wallace,DAL,Over 1.5 Assists,-194,Hit in 6 of his last 6 games,100%,True,4.0
+Aaron Wiggins,DAL,Under 1.5 Assists,-214,Hit in 6 of his last 6 games vs DAL,100%,True,0.0
+Aaron Wiggins,DAL,Over 2.5 Rebounds,-166,Hit in 5 of his last 5 games,100%,False,0.0
+Aaron Wiggins,DAL,Over 4.5 REB+AST,100,Hit in 5 of his last 5 games,100%,False,0.0
+Aaron Wiggins,DAL,Under 12.5 P+A+R,-113,Hit in 6 of his last 6 games vs DAL,100%,True,5.0
+Shai Gilgeous-Alexander,DAL,Under 37.5 PTS+AST,-111,Hit in 4 of his last 4 games,100%,False,54.0
+Kyrie Irving,OKL,Over 21.5 Points,-113,Hit in 5 of his last 5 away games,100%,True,23.0
+Alex Caruso,DAL,Under 10.5 PTS+REB,-102,Hit in 4 of his last 4 games vs DAL,100%,False,14.0
+Kyrie Irving,OKL,Over 30.5 P+A+R,-115,Hit in 6 of his last 6 away games,100%,False,30.0
+Isaiah Joe,DAL,Over 0.5 STL+BLK,-110,Hit in 5 of his last 5 home games,100%,False,0.0
+Isaiah Hartenstein,DAL,Over 0.5 Steals,-125,Hit in 5 of his last 5 games,100%,True,1.0
+Alex Caruso,DAL,Under 13.5 P+A+R,-106,Hit in 4 of his last 4 games vs DAL,100%,False,18.0
+Alex Caruso,DAL,Over 0.5 Turnovers,-175,Hit in 5 of his last 5 games,100%,True,1.0
+Alex Caruso,DAL,Over 1.5 STL+BLK,-165,Hit in 4 of his last 4 games,100%,True,2.0
+Shai Gilgeous-Alexander,DAL,Over 0.5 Blocks,-160,Hit in 7 of his last 7 games vs DAL,100%,True,1.0
+Daniel Gafford,OKL,Under 0.5 Steals,-185,Hit in 5 of his last 5 games vs OKL,100%,True,0.0
+Kyrie Irving,OKL,Over 0.5 Steals,-185,Hit in 4 of his last 4 games,100%,True,1.0
+Kyrie Irving,OKL,Under 1.5 STL+BLK,-225,Hit in 4 of his last 4 games vs OKL,100%,False,2.0
+Khris Middleton,ORL,Over 3.5 Assists,-122,Hit in 10 of his last 11 games,91%,True,8.0
+Isaiah Joe,DAL,Over 1.5 3PTM,-148,Hit in 10 of his last 11 home games,91%,True,3.0
+Daniel Gafford,OKL,Over 10.5 PTS+AST,-133,Hit in 10 of his last 11 games,91%,False,10.0
+Taurean Prince,ORL,Over 0.5 Assists,-214,Hit in 9 of his last 10 home games,90%,True,1.0
+Brook Lopez,ORL,Over 2.5 STL+BLK,-165,Hit in 9 of his last 10 home games,90%,False,0.0
+Isaiah Joe,DAL,Over 0.5 Assists,-224,Hit in 9 of his last 10 home games,90%,True,3.0
+Kentavious Caldwell-Pope,MIL,Over 1.5 STL+BLK,-185,Hit in 8 of his last 9 games,89%,False,1.0
+Damian Lillard,ORL,Over 27.5 PTS+REB,-125,Hit in 7 of his last 8 games,88%,True,34.0
+Brook Lopez,ORL,Over 4.5 Rebounds,-142,Hit in 7 of his last 8 home games,88%,True,6.0
+Brook Lopez,ORL,Over 10.5 PTS+AST,-117,Hit in 7 of his last 8 home games,88%,False,9.0
+Brook Lopez,ORL,Over 6.5 REB+AST,-103,Hit in 7 of his last 8 home games,88%,False,6.0
+Jalen Suggs,MIL,Under 3.5 Rebounds,-104,Hit in 7 of his last 8 games,88%,False,9.0
+Damian Lillard,ORL,Over 0.5 Steals,-250,Hit in 7 of his last 8 games,88%,True,1.0
+Brook Lopez,ORL,Over 0.5 Steals,-190,Hit in 7 of his last 8 home games,88%,False,0.0
+Daniel Gafford,OKL,Over 10.5 PTS+AST,-133,Hit in 7 of his last 8 away games,88%,False,10.0
+Daniel Gafford,OKL,Over 17.5 P+A+R,-125,Hit in 7 of his last 8 away games,88%,False,12.0
+Isaiah Joe,DAL,Over 10.5 P+A+R,-117,Hit in 7 of his last 8 home games,88%,True,21.0
+Isaiah Joe,DAL,Over 8.5 PTS+AST,-117,Hit in 7 of his last 8 home games,88%,True,18.0
+Isaiah Joe,DAL,Over 3.5 REB+AST,100,Hit in 7 of his last 8 home games,88%,True,6.0
+Jalen Williams,DAL,Under 22.5 Points,-122,Hit in 7 of his last 8 games vs DAL,88%,True,18.0
+Kyrie Irving,OKL,Over 30.5 P+A+R,-115,Hit in 7 of his last 8 games,88%,False,30.0
+Shai Gilgeous-Alexander,DAL,Over 0.5 Blocks,-160,Hit in 7 of his last 8 home games,88%,True,1.0
+Daniel Gafford,OKL,Over 16.5 PTS+REB,-118,Hit in 7 of his last 8 away games,88%,False,11.0
+Damian Lillard,ORL,Over 24.5 Points,102,Hit in 6 of his last 7 games,86%,True,32.0
+Gary Trent,ORL,Over 9.5 Points,-109,Hit in 6 of his last 7 home games,86%,True,10.0
+Gary Trent,ORL,Over 10.5 PTS+AST,-113,Hit in 6 of his last 7 home games,86%,True,12.0
+Gary Trent,ORL,Over 12.5 PTS+REB,-103,Hit in 6 of his last 7 home games,86%,False,10.0
+Gary Trent,ORL,Over 1.5 3PTM,-174,Hit in 6 of his last 7 home games,86%,True,2.0
+Bobby Portis,ORL,Under 1.5 Assists,-184,Hit in 6 of his last 7 games vs ORL,86%,False,4.0
+Giannis Antetokounmpo,ORL,Over 0.5 Double Double,-310,Hit in 6 of his last 7 games,86%,False,0.0
+Kentavious Caldwell-Pope,MIL,Over 1.5 Steals,-104,Hit in 6 of his last 7 games,86%,False,1.0
+Goga Bitadze,MIL,Over 0.5 Steals,-160,Hit in 6 of his last 7 away games,86%,True,1.0
+Daniel Gafford,OKL,Over 0.5 Assists,-174,Hit in 6 of his last 7 away games,86%,True,1.0
+Kyrie Irving,OKL,Over 26.5 PTS+AST,-113,Hit in 6 of his last 7 games,86%,True,28.0
+Kyrie Irving,OKL,Over 2.5 3PTM,-156,Hit in 6 of his last 7 games,86%,True,3.0
+Kyrie Irving,OKL,Over 25.5 PTS+REB,-113,Hit in 6 of his last 7 games,86%,False,25.0
+Isaiah Joe,DAL,Over 0.5 Assists,-224,Hit in 12 of his last 14 games vs DAL,86%,True,3.0
+Shai Gilgeous-Alexander,DAL,Over 36.5 PTS+REB,-111,Hit in 6 of his last 7 games vs DAL,86%,True,57.0
+Kyrie Irving,OKL,Over 21.5 Points,-113,Hit in 6 of his last 7 games,86%,True,23.0
+Luguentz Dort,DAL,Under 0.5 Blocks,-135,Hit in 12 of his last 14 games vs DAL,86%,False,1.0
+Aaron Wiggins,DAL,Over 0.5 Turnovers,-135,Hit in 6 of his last 7 home games,86%,True,1.0
+Shai Gilgeous-Alexander,DAL,Over 2.5 STL+BLK,-105,Hit in 6 of his last 7 games vs DAL,86%,True,4.0
+Khris Middleton,ORL,Over 14.5 PTS+REB,-122,Hit in 17 of his last 20 games,85%,False,4.0
+Taurean Prince,ORL,Over 3.5 REB+AST,-113,Hit in 11 of his last 13 home games,85%,False,3.0
+Kyrie Irving,OKL,Over 4.5 Assists,-122,Hit in 11 of his last 13 away games,85%,True,5.0
+Khris Middleton,ORL,Over 3.5 Rebounds,-108,Hit in 16 of his last 19 games,84%,True,4.0
+Jalen Suggs,MIL,Under 25.5 PTS+AST,-111,Hit in 16 of his last 19 games,84%,False,39.0
+Brook Lopez,ORL,Over 1.5 Blocks,-142,Hit in 16 of his last 19 home games,84%,False,0.0
+Damian Lillard,ORL,Over 3.5 3PTM,108,Hit in 5 of his last 6 games,83%,False,2.0
+Gary Trent,ORL,Over 0.5 Assists,-199,Hit in 5 of his last 6 games vs ORL,83%,True,2.0
+Gary Trent,ORL,Over 3.5 REB+AST,-121,Hit in 5 of his last 6 games vs ORL,83%,False,2.0
+Bobby Portis,ORL,Under 8.5 REB+AST,-117,Hit in 5 of his last 6 games,83%,False,14.0
+Brook Lopez,ORL,Over 10.5 PTS+AST,-117,Hit in 5 of his last 6 games vs ORL,83%,False,9.0
+Jalen Suggs,MIL,Under 29.5 P+A+R,-111,Hit in 5 of his last 6 games,83%,False,48.0
+Jalen Suggs,MIL,Under 24.5 PTS+REB,-111,Hit in 5 of his last 6 games,83%,False,47.0
+Taurean Prince,ORL,Over 0.5 Steals,110,Hit in 5 of his last 6 home games,83%,True,1.0
+Taurean Prince,ORL,Over 0.5 STL+BLK,-125,Hit in 5 of his last 6 home games,83%,True,1.0
+Bobby Portis,ORL,Under 0.5 Blocks,-210,Hit in 5 of his last 6 games,83%,False,1.0
+Brook Lopez,ORL,Over 0.5 Steals,-190,Hit in 5 of his last 6 games vs ORL,83%,False,0.0
+Jalen Suggs,MIL,Over 1.5 STL+BLK,-175,Hit in 5 of his last 6 games,83%,True,5.0
+Kentavious Caldwell-Pope,MIL,Over 1.5 STL+BLK,-185,Hit in 5 of his last 6 away games,83%,False,1.0
+Isaiah Hartenstein,DAL,Over 11.5 Rebounds,-122,Hit in 5 of his last 6 games,83%,True,13.0
+Isaiah Hartenstein,DAL,Over 15.5 REB+AST,-125,Hit in 5 of his last 6 games,83%,True,16.0
+Jalen Williams,DAL,Under 2.5 3PTM,-194,Hit in 5 of his last 6 games,83%,True,0.0
+Jalen Williams,DAL,Over 4.5 Assists,-138,Hit in 5 of his last 6 home games,83%,False,4.0
+Jalen Williams,DAL,Over 33.5 P+A+R,-106,Hit in 5 of his last 6 home games,83%,False,29.0
+Jalen Williams,DAL,Over 27.5 PTS+AST,-111,Hit in 5 of his last 6 home games,83%,False,22.0
+Jalen Williams,DAL,Over 1.5 Steals,-142,Hit in 5 of his last 6 home games,83%,False,0.0
+Shai Gilgeous-Alexander,DAL,Over 30.5 Points,-122,Hit in 5 of his last 6 games vs DAL,83%,True,49.0
+Shai Gilgeous-Alexander,DAL,Over 1.5 Steals,-128,Hit in 5 of his last 6 home games,83%,True,3.0
+Daniel Gafford,OKL,Over 7.5 REB+AST,-109,Hit in 5 of his last 6 away games,83%,False,3.0
+Kyrie Irving,OKL,Over 8.5 REB+AST,-125,Hit in 5 of his last 6 away games,83%,False,7.0
+Isaiah Hartenstein,DAL,Over 0.5 Blocks,-184,Hit in 5 of his last 6 games,83%,True,1.0
+Aaron Wiggins,DAL,Under 1.5 3PTM,-224,Hit in 5 of his last 6 games vs DAL,83%,True,1.0
+Aaron Wiggins,DAL,Under 11.5 PTS+REB,-117,Hit in 5 of his last 6 games vs DAL,83%,True,5.0
+Daniel Gafford,OKL,Under 1.5 Blocks,-164,Hit in 10 of his last 12 games vs OKL,83%,True,0.0
+Isaiah Hartenstein,DAL,Over 1.5 STL+BLK,100,Hit in 5 of his last 6 games,83%,True,2.0
+Jalen Williams,DAL,Over 27.5 PTS+REB,-118,Hit in 5 of his last 6 home games,83%,False,25.0
+Cason Wallace,DAL,Under 0.5 Turnovers,-110,Hit in 10 of his last 12 games,83%,False,1.0
+Cason Wallace,DAL,Over 1.5 Steals,-110,Hit in 5 of his last 6 games,83%,True,2.0
+Cason Wallace,DAL,Over 1.5 Steals,-110,Hit in 5 of his last 6 home games,83%,True,2.0
+Cason Wallace,DAL,Over 2.5 STL+BLK,145,Hit in 5 of his last 6 games,83%,True,3.0
+Shai Gilgeous-Alexander,DAL,Over 2.5 STL+BLK,-105,Hit in 5 of his last 6 home games,83%,True,4.0
+Kyrie Irving,OKL,Over 2.5 Turnovers,-130,Hit in 5 of his last 6 away games,83%,False,2.0
+Khris Middleton,ORL,Over 0.5 STL+BLK,-200,Hit in 14 of his last 17 home games,82%,True,3.0
+Khris Middleton,ORL,Over 11.5 Points,100,Hit in 9 of his last 11 games,82%,False,0.0
+Luguentz Dort,DAL,Over 5.5 REB+AST,-109,Hit in 9 of his last 11 games,82%,True,8.0
+Daniel Gafford,OKL,Over 17.5 P+A+R,-125,Hit in 9 of his last 11 games vs OKL,82%,False,12.0
+Cason Wallace,DAL,Over 0.5 3PTM,-224,Hit in 9 of his last 11 games vs DAL,82%,True,3.0
+Daniel Gafford,OKL,Over 16.5 PTS+REB,-118,Hit in 9 of his last 11 games,82%,False,11.0
+Daniel Gafford,OKL,Over 16.5 PTS+REB,-118,Hit in 9 of his last 11 games vs OKL,82%,False,11.0
+Luguentz Dort,DAL,Over 1.5 3PTM,-158,Hit in 13 of his last 16 home games,81%,True,3.0
+Luka Dončić,OKL,Over 36.5 PTS+REB,-129,Hit in 13 of his last 16 away games,81%,False,31.0
+Khris Middleton,ORL,Over 3.5 Assists,-122,Hit in 4 of his last 5 games vs ORL,80%,True,8.0
+Khris Middleton,ORL,Under 1.5 3PTM,-194,Hit in 4 of his last 5 games,80%,True,0.0
+Taurean Prince,ORL,Over 3.5 REB+AST,-113,Hit in 16 of his last 20 games,80%,False,3.0
+Taurean Prince,ORL,Over 0.5 3PTM,-184,Hit in 16 of his last 20 games,80%,False,0.0
+Damian Lillard,ORL,Over 27.5 PTS+REB,-125,Hit in 4 of his last 5 games vs ORL,80%,True,34.0
+Damian Lillard,ORL,Over 35.5 P+A+R,-115,Hit in 4 of his last 5 games vs ORL,80%,True,43.0
+Damian Lillard,ORL,Over 31.5 PTS+AST,-111,Hit in 4 of his last 5 games vs ORL,80%,True,41.0
+Gary Trent,ORL,Over 0.5 Assists,-199,Hit in 4 of his last 5 games,80%,True,2.0
+Gary Trent,ORL,Over 9.5 Points,-109,Hit in 4 of his last 5 games vs ORL,80%,True,10.0
+Gary Trent,ORL,Over 10.5 PTS+AST,-113,Hit in 4 of his last 5 games vs ORL,80%,True,12.0
+Gary Trent,ORL,Over 13.5 P+A+R,-106,Hit in 4 of his last 5 games vs ORL,80%,False,12.0
+Gary Trent,ORL,Over 13.5 P+A+R,-106,Hit in 4 of his last 5 home games,80%,False,12.0
+Gary Trent,ORL,Over 12.5 PTS+REB,-103,Hit in 4 of his last 5 games vs ORL,80%,False,10.0
+Gary Trent,ORL,Over 3.5 REB+AST,-121,Hit in 4 of his last 5 games,80%,False,2.0
+Gary Trent,ORL,Over 3.5 REB+AST,-121,Hit in 4 of his last 5 home games,80%,False,2.0
+Gary Trent,ORL,Over 1.5 3PTM,-174,Hit in 4 of his last 5 games vs ORL,80%,True,2.0
+Gary Trent,ORL,Over 2.5 Rebounds,-121,Hit in 4 of his last 5 games,80%,False,0.0
+Gary Trent,ORL,Over 2.5 Rebounds,-121,Hit in 4 of his last 5 home games,80%,False,0.0
+Bobby Portis,ORL,Over 12.5 PTS+AST,-103,Hit in 4 of his last 5 games vs ORL,80%,True,30.0
+Bobby Portis,ORL,Over 19.5 P+A+R,-113,Hit in 4 of his last 5 games vs ORL,80%,True,40.0
+Bobby Portis,ORL,Over 19.5 P+A+R,-113,Hit in 16 of his last 20 home games,80%,True,40.0
+Bobby Portis,ORL,Under 1.5 3PTM,-215,Hit in 16 of his last 20 games,80%,False,2.0
+Bobby Portis,ORL,Over 10.5 Points,-128,Hit in 4 of his last 5 games vs ORL,80%,True,26.0
+Giannis Antetokounmpo,ORL,Over 5.5 Assists,112,Hit in 4 of his last 5 home games,80%,False,1.0
+Giannis Antetokounmpo,ORL,Over 47.5 P+A+R,-109,Hit in 4 of his last 5 home games,80%,False,45.0
+Brook Lopez,ORL,Under 1.5 Assists,-174,Hit in 4 of his last 5 games vs ORL,80%,True,0.0
+Goga Bitadze,MIL,Under 12.5 PTS+AST,-109,Hit in 4 of his last 5 games vs MIL,80%,False,16.0
+Goga Bitadze,MIL,Under 10.5 REB+AST,-113,Hit in 4 of his last 5 games vs MIL,80%,False,18.0
+Goga Bitadze,MIL,Under 20.5 P+A+R,-109,Hit in 4 of his last 5 games vs MIL,80%,False,30.0
+Goga Bitadze,MIL,Under 10.5 Points,-115,Hit in 4 of his last 5 games vs MIL,80%,False,12.0
+Kentavious Caldwell-Pope,MIL,Under 2.5 3PTM,-186,Hit in 16 of his last 20 games,80%,True,0.0
+Kentavious Caldwell-Pope,MIL,Under 4.5 REB+AST,-125,Hit in 4 of his last 5 games,80%,True,2.0
+Goga Bitadze,MIL,Under 18.5 PTS+REB,-104,Hit in 4 of his last 5 games vs MIL,80%,False,26.0
+Jalen Suggs,MIL,Over 1.5 Steals,128,Hit in 4 of his last 5 games,80%,True,4.0
+Kentavious Caldwell-Pope,MIL,Over 1.5 Steals,-104,Hit in 4 of his last 5 away games,80%,False,1.0
+Giannis Antetokounmpo,ORL,Over 0.5 Blocks,-215,Hit in 12 of his last 15 games,80%,True,4.0
+Giannis Antetokounmpo,ORL,Over 0.5 Blocks,-215,Hit in 8 of his last 10 home games,80%,True,4.0
+Goga Bitadze,MIL,Under 8.5 Rebounds,-142,Hit in 4 of his last 5 games vs MIL,80%,False,14.0
+Giannis Antetokounmpo,ORL,Over 42.5 PTS+REB,-104,Hit in 4 of his last 5 home games,80%,True,44.0
+Giannis Antetokounmpo,ORL,Over 36.5 PTS+AST,-111,Hit in 4 of his last 5 home games,80%,True,38.0
+Bobby Portis,ORL,Over 18.5 PTS+REB,-111,Hit in 4 of his last 5 games vs ORL,80%,True,36.0
+Taurean Prince,ORL,Over 0.5 STL+BLK,-125,Hit in 4 of his last 5 games,80%,True,1.0
+Damian Lillard,ORL,Under 1.5 STL+BLK,-185,Hit in 4 of his last 5 games vs ORL,80%,True,1.0
+Bobby Portis,ORL,Over 1.5 Turnovers,150,Hit in 4 of his last 5 games vs ORL,80%,False,0.0
+Bobby Portis,ORL,Over 0.5 Steals,-120,Hit in 4 of his last 5 games,80%,True,1.0
+Brook Lopez,ORL,Over 2.5 STL+BLK,-165,Hit in 4 of his last 5 games vs ORL,80%,False,0.0
+Goga Bitadze,MIL,Over 0.5 Steals,-160,Hit in 8 of his last 10 games,80%,True,1.0
+Jalen Suggs,MIL,Under 0.5 Blocks,-140,Hit in 4 of his last 5 games,80%,False,1.0
+Jalen Suggs,MIL,Under 0.5 Blocks,-140,Hit in 4 of his last 5 games vs MIL,80%,False,1.0
+Isaiah Joe,DAL,Over 1.5 3PTM,-148,Hit in 16 of his last 20 games,80%,True,3.0
+Isaiah Joe,DAL,Over 1.5 3PTM,-148,Hit in 4 of his last 5 games vs DAL,80%,True,3.0
+Jalen Williams,DAL,Over 4.5 Assists,-138,Hit in 8 of his last 10 games,80%,False,4.0
+Jalen Williams,DAL,Over 4.5 Assists,-138,Hit in 4 of his last 5 games vs DAL,80%,False,4.0
+Jalen Williams,DAL,Over 5.5 Rebounds,100,Hit in 4 of his last 5 games vs DAL,80%,True,7.0
+Shai Gilgeous-Alexander,DAL,Over 4.5 Rebounds,-148,Hit in 4 of his last 5 home games,80%,True,8.0
+Shai Gilgeous-Alexander,DAL,Over 1.5 Steals,-128,Hit in 4 of his last 5 games,80%,True,3.0
+Daniel Gafford,OKL,Over 10.5 Points,100,Hit in 4 of his last 5 games,80%,False,9.0
+Luka Dončić,OKL,Over 36.5 PTS+AST,-121,Hit in 4 of his last 5 away games,80%,False,25.0
+Luka Dončić,OKL,Over 28.5 Points,-117,Hit in 4 of his last 5 away games,80%,False,20.0
+Luka Dončić,OKL,Over 7.5 Assists,-166,Hit in 8 of his last 10 games vs OKL,80%,False,5.0
+Luka Dončić,OKL,Over 36.5 PTS+REB,-129,Hit in 8 of his last 10 games vs OKL,80%,False,31.0
+Isaiah Joe,DAL,Over 3.5 REB+AST,100,Hit in 4 of his last 5 games vs DAL,80%,True,6.0
+Alex Caruso,DAL,Under 2.5 Assists,-106,Hit in 4 of his last 5 games,80%,False,4.0
+Aaron Wiggins,DAL,Over 2.5 Rebounds,-166,Hit in 4 of his last 5 games vs DAL,80%,False,0.0
+Aaron Wiggins,DAL,Over 4.5 REB+AST,100,Hit in 16 of his last 20 home games,80%,False,0.0
+Isaiah Joe,DAL,Over 0.5 Steals,130,Hit in 4 of his last 5 home games,80%,False,0.0
+Luguentz Dort,DAL,Over 0.5 Turnovers,-145,Hit in 4 of his last 5 games vs DAL,80%,False,0.0
+Jalen Williams,DAL,Over 0.5 Blocks,115,Hit in 8 of his last 10 home games,80%,True,1.0
+Jalen Williams,DAL,Over 2.5 STL+BLK,110,Hit in 4 of his last 5 home games,80%,False,1.0
+Cason Wallace,DAL,Over 2.5 STL+BLK,145,Hit in 4 of his last 5 home games,80%,True,3.0
+Aaron Wiggins,DAL,Over 0.5 Turnovers,-135,Hit in 4 of his last 5 games vs DAL,80%,True,1.0
+Aaron Wiggins,DAL,Over 0.5 Steals,-115,Hit in 4 of his last 5 games,80%,True,1.0
+Aaron Wiggins,DAL,Over 0.5 STL+BLK,-165,Hit in 4 of his last 5 games,80%,True,1.0
+Aaron Wiggins,DAL,Over 0.5 STL+BLK,-165,Hit in 8 of his last 10 games vs DAL,80%,True,1.0
+Daniel Gafford,OKL,Under 1.5 Turnovers,-175,Hit in 4 of his last 5 games vs OKL,80%,True,0.0
+Jalen Suggs,MIL,Under 20.5 Points,-111,Hit in 15 of his last 19 games,79%,False,38.0
+Goga Bitadze,MIL,Under 2.5 Assists,-103,Hit in 11 of his last 14 games,79%,False,4.0
+Jalen Williams,DAL,Under 10.5 REB+AST,-118,Hit in 11 of his last 14 games vs DAL,79%,False,11.0
+Kyrie Irving,OKL,Over 4.5 Assists,-122,Hit in 11 of his last 14 games,79%,True,5.0
+Jalen Williams,DAL,Over 1.5 Steals,-142,Hit in 7 of his last 9 games,78%,False,0.0
+Aaron Wiggins,DAL,Over 7.5 Points,-115,Hit in 7 of his last 9 home games,78%,False,5.0
+Daniel Gafford,OKL,Over 10.5 PTS+AST,-133,Hit in 7 of his last 9 games vs OKL,78%,False,10.0
+Aaron Wiggins,DAL,Over 9.5 PTS+AST,-117,Hit in 7 of his last 9 home games,78%,False,5.0
+Shai Gilgeous-Alexander,DAL,Under 2.5 Turnovers,-105,Hit in 7 of his last 9 games vs DAL,78%,True,2.0
+Taurean Prince,ORL,Over 2.5 Rebounds,-138,Hit in 10 of his last 13 home games,77%,False,2.0
+Isaiah Hartenstein,DAL,Over 3.5 Assists,-148,Hit in 10 of his last 13 home games,77%,False,3.0
+Isaiah Joe,DAL,Over 10.5 P+A+R,-117,Hit in 13 of his last 17 games,76%,True,21.0
+Isaiah Joe,DAL,Over 8.5 PTS+AST,-117,Hit in 13 of his last 17 games,76%,True,18.0
+Alex Caruso,DAL,Under 10.5 PTS+AST,-103,Hit in 13 of his last 17 games,76%,False,14.0
+Daniel Gafford,OKL,Under 1.5 Turnovers,-175,Hit in 13 of his last 17 games,76%,True,0.0
+Khris Middleton,ORL,Over 14.5 PTS+REB,-122,Hit in 3 of his last 4 games vs ORL,75%,False,4.0
+Khris Middleton,ORL,Over 18.5 P+A+R,-118,Hit in 3 of his last 4 games vs ORL,75%,False,12.0
+Taurean Prince,ORL,Over 8.5 P+A+R,100,Hit in 12 of his last 16 games,75%,False,3.0
+Taurean Prince,ORL,Over 5.5 PTS+AST,-113,Hit in 6 of his last 8 games,75%,False,1.0
+Taurean Prince,ORL,Over 4.5 Points,-130,Hit in 6 of his last 8 games,75%,False,0.0
+Damian Lillard,ORL,Under 11.5 REB+AST,-125,Hit in 3 of his last 4 games,75%,True,11.0
+Damian Lillard,ORL,Under 7.5 Assists,-148,Hit in 3 of his last 4 games,75%,False,9.0
+Damian Lillard,ORL,Over 35.5 P+A+R,-115,Hit in 6 of his last 8 games,75%,True,43.0
+Damian Lillard,ORL,Over 35.5 P+A+R,-115,Hit in 3 of his last 4 home games,75%,True,43.0
+Damian Lillard,ORL,Over 31.5 PTS+AST,-111,Hit in 6 of his last 8 games,75%,True,41.0
+Damian Lillard,ORL,Over 31.5 PTS+AST,-111,Hit in 3 of his last 4 home games,75%,True,41.0
+Gary Trent,ORL,Over 2.5 Rebounds,-121,Hit in 3 of his last 4 games vs ORL,75%,False,0.0
+Gary Trent,ORL,Over 0.5 Turnovers,-130,Hit in 3 of his last 4 home games,75%,False,0.0
+Bobby Portis,ORL,Over 12.5 PTS+AST,-103,Hit in 15 of his last 20 home games,75%,True,30.0
+Bobby Portis,ORL,Over 19.5 P+A+R,-113,Hit in 3 of his last 4 games,75%,True,40.0
+Bobby Portis,ORL,Over 10.5 Points,-128,Hit in 15 of his last 20 home games,75%,True,26.0
+Giannis Antetokounmpo,ORL,Over 47.5 P+A+R,-109,Hit in 3 of his last 4 games vs ORL,75%,False,45.0
+Giannis Antetokounmpo,ORL,Over 30.5 Points,-115,Hit in 6 of his last 8 games,75%,True,37.0
+Giannis Antetokounmpo,ORL,Over 0.5 Double Double,-310,Hit in 3 of his last 4 games vs ORL,75%,False,0.0
+Brook Lopez,ORL,Under 1.5 Assists,-174,Hit in 3 of his last 4 games,75%,True,0.0
+Brook Lopez,ORL,Over 4.5 Rebounds,-142,Hit in 3 of his last 4 games,75%,True,6.0
+Jalen Suggs,MIL,Under 4.5 Assists,-113,Hit in 3 of his last 4 games,75%,True,1.0
+Kentavious Caldwell-Pope,MIL,Under 2.5 Rebounds,-128,Hit in 9 of his last 12 games,75%,True,1.0
+Khris Middleton,ORL,Over 11.5 Points,100,Hit in 3 of his last 4 games vs ORL,75%,False,0.0
+Brook Lopez,ORL,Under 14.5 PTS+REB,-106,Hit in 3 of his last 4 games vs ORL,75%,False,15.0
+Giannis Antetokounmpo,ORL,Over 42.5 PTS+REB,-104,Hit in 3 of his last 4 games vs ORL,75%,True,44.0
+Khris Middleton,ORL,Over 0.5 STL+BLK,-200,Hit in 15 of his last 20 games,75%,True,3.0
+Giannis Antetokounmpo,ORL,Over 3.5 Turnovers,-145,Hit in 3 of his last 4 games vs ORL,75%,True,6.0
+Giannis Antetokounmpo,ORL,Over 1.5 STL+BLK,-160,Hit in 3 of his last 4 games vs ORL,75%,True,6.0
+Brook Lopez,ORL,Over 0.5 Turnovers,-225,Hit in 6 of his last 8 games,75%,True,2.0
+Brook Lopez,ORL,Over 0.5 Turnovers,-225,Hit in 3 of his last 4 home games,75%,True,2.0
+Goga Bitadze,MIL,Under 1.5 Turnovers,-145,Hit in 3 of his last 4 games,75%,True,0.0
+Kentavious Caldwell-Pope,MIL,Over 0.5 Turnovers,-210,Hit in 3 of his last 4 games,75%,False,0.0
+Kentavious Caldwell-Pope,MIL,Under 0.5 Blocks,-200,Hit in 3 of his last 4 games,75%,True,0.0
+Taurean Prince,ORL,Over 6.5 PTS+REB,-154,Hit in 15 of his last 20 games,75%,False,2.0
+Isaiah Hartenstein,DAL,Over 10.5 Points,-128,Hit in 6 of his last 8 games,75%,False,10.0
+Isaiah Hartenstein,DAL,Over 0.5 Double Double,-105,Hit in 6 of his last 8 games,75%,True,1.0
+Luguentz Dort,DAL,Over 1.5 Assists,-117,Hit in 3 of his last 4 home games,75%,True,2.0
+Luguentz Dort,DAL,Over 3.5 Rebounds,-146,Hit in 3 of his last 4 games vs DAL,75%,True,6.0
+Luguentz Dort,DAL,Over 3.5 Rebounds,-146,Hit in 3 of his last 4 home games,75%,True,6.0
+Luguentz Dort,DAL,Under 15.5 P+A+R,-125,Hit in 6 of his last 8 games,75%,False,25.0
+Luguentz Dort,DAL,Over 5.5 REB+AST,-109,Hit in 3 of his last 4 games vs DAL,75%,True,8.0
+Luguentz Dort,DAL,Over 5.5 REB+AST,-109,Hit in 3 of his last 4 home games,75%,True,8.0
+Jalen Williams,DAL,Under 2.5 3PTM,-194,Hit in 6 of his last 8 games vs DAL,75%,True,0.0
+Jalen Williams,DAL,Over 33.5 P+A+R,-106,Hit in 3 of his last 4 games,75%,False,29.0
+Jalen Williams,DAL,Over 27.5 PTS+AST,-111,Hit in 3 of his last 4 games,75%,False,22.0
+Jalen Williams,DAL,Over 1.5 Steals,-142,Hit in 3 of his last 4 games vs DAL,75%,False,0.0
+Aaron Wiggins,DAL,Over 7.5 Points,-115,Hit in 3 of his last 4 games,75%,False,5.0
+Shai Gilgeous-Alexander,DAL,Over 1.5 Steals,-128,Hit in 3 of his last 4 games vs DAL,75%,True,3.0
+Daniel Gafford,OKL,Over 0.5 Assists,-174,Hit in 6 of his last 8 games,75%,True,1.0
+Daniel Gafford,OKL,Over 0.5 Assists,-174,Hit in 6 of his last 8 games vs OKL,75%,True,1.0
+Daniel Gafford,OKL,Over 10.5 Points,100,Hit in 3 of his last 4 away games,75%,False,9.0
+Daniel Gafford,OKL,Over 17.5 P+A+R,-125,Hit in 12 of his last 16 games,75%,False,12.0
+Luka Dončić,OKL,Over 36.5 PTS+AST,-121,Hit in 3 of his last 4 games,75%,False,25.0
+Luka Dončić,OKL,Over 16.5 REB+AST,-129,Hit in 3 of his last 4 games,75%,False,16.0
+Luka Dončić,OKL,Over 28.5 Points,-117,Hit in 3 of his last 4 games,75%,False,20.0
+Luka Dončić,OKL,Over 7.5 Assists,-166,Hit in 3 of his last 4 games,75%,False,5.0
+Luka Dončić,OKL,Over 3.5 3PTM,-125,Hit in 3 of his last 4 games,75%,False,2.0
+Luka Dončić,OKL,Over 3.5 3PTM,-125,Hit in 3 of his last 4 away games,75%,False,2.0
+Luka Dončić,OKL,Over 36.5 PTS+REB,-129,Hit in 3 of his last 4 games,75%,False,31.0
+Kyrie Irving,OKL,Over 8.5 REB+AST,-125,Hit in 6 of his last 8 games,75%,False,7.0
+Isaiah Joe,DAL,Over 9.5 PTS+REB,-121,Hit in 6 of his last 8 home games,75%,True,18.0
+Isaiah Joe,DAL,Over 2.5 Rebounds,126,Hit in 3 of his last 4 games vs DAL,75%,True,3.0
+Isaiah Joe,DAL,Over 2.5 Rebounds,126,Hit in 6 of his last 8 home games,75%,True,3.0
+Isaiah Joe,DAL,Over 7.5 Points,-108,Hit in 6 of his last 8 home games,75%,True,15.0
+Alex Caruso,DAL,Under 2.5 Assists,-106,Hit in 3 of his last 4 games vs DAL,75%,False,4.0
+Alex Caruso,DAL,Under 5.5 REB+AST,-106,Hit in 3 of his last 4 games vs DAL,75%,False,8.0
+Cason Wallace,DAL,Over 1.5 Assists,-194,Hit in 3 of his last 4 home games,75%,True,4.0
+Aaron Wiggins,DAL,Under 1.5 3PTM,-224,Hit in 6 of his last 8 games,75%,True,1.0
+Aaron Wiggins,DAL,Over 9.5 PTS+AST,-117,Hit in 3 of his last 4 games,75%,False,5.0
+Luka Dončić,OKL,Over 45.5 P+A+R,-133,Hit in 3 of his last 4 games,75%,False,36.0
+Luka Dončić,OKL,Over 45.5 P+A+R,-133,Hit in 3 of his last 4 away games,75%,False,36.0
+Shai Gilgeous-Alexander,DAL,Under 6.5 Assists,-132,Hit in 3 of his last 4 games,75%,True,5.0
+Isaiah Hartenstein,DAL,Under 1.5 Turnovers,-110,Hit in 3 of his last 4 games vs DAL,75%,False,3.0
+Isaiah Hartenstein,DAL,Over 0.5 Steals,-125,Hit in 3 of his last 4 games vs DAL,75%,True,1.0
+Luguentz Dort,DAL,Over 0.5 Turnovers,-145,Hit in 3 of his last 4 home games,75%,False,0.0
+Luguentz Dort,DAL,Over 0.5 Steals,-200,Hit in 3 of his last 4 games,75%,True,1.0
+Luguentz Dort,DAL,Over 1.5 STL+BLK,-110,Hit in 3 of his last 4 games,75%,True,2.0
+Jalen Williams,DAL,Under 1.5 Turnovers,140,Hit in 3 of his last 4 games,75%,False,4.0
+Jalen Williams,DAL,Under 1.5 Turnovers,140,Hit in 6 of his last 8 games vs DAL,75%,False,4.0
+Jalen Williams,DAL,Over 2.5 STL+BLK,110,Hit in 3 of his last 4 games vs DAL,75%,False,1.0
+Alex Caruso,DAL,Over 0.5 Turnovers,-175,Hit in 15 of his last 20 home games,75%,True,1.0
+Alex Caruso,DAL,Under 0.5 Blocks,-155,Hit in 9 of his last 12 games,75%,True,0.0
+Cason Wallace,DAL,Under 0.5 Turnovers,-110,Hit in 6 of his last 8 games vs DAL,75%,False,1.0
+Cason Wallace,DAL,Under 0.5 Blocks,-155,Hit in 3 of his last 4 games,75%,False,1.0
+Shai Gilgeous-Alexander,DAL,Under 2.5 Turnovers,-105,Hit in 3 of his last 4 games,75%,True,2.0
+Daniel Gafford,OKL,Over 1.5 STL+BLK,-145,Hit in 6 of his last 8 games,75%,False,0.0
+Kyrie Irving,OKL,Over 2.5 Turnovers,-130,Hit in 6 of his last 8 games,75%,False,2.0
+Isaiah Joe,DAL,Over 3.5 REB+AST,100,Hit in 11 of his last 15 games,73%,True,6.0
+Alex Caruso,DAL,Under 1.5 3PTM,-137,Hit in 11 of his last 15 games,73%,False,2.0
+Jalen Suggs,MIL,Under 3.5 Turnovers,-160,Hit in 8 of his last 11 games,73%,False,4.0
+Luguentz Dort,DAL,Over 1.5 Assists,-117,Hit in 8 of his last 11 games,73%,True,2.0
+Luguentz Dort,DAL,Over 1.5 Assists,-117,Hit in 8 of his last 11 games vs DAL,73%,True,2.0
+Luguentz Dort,DAL,Over 3.5 Rebounds,-146,Hit in 8 of his last 11 games,73%,True,6.0
+Isaiah Joe,DAL,Over 0.5 STL+BLK,-110,Hit in 8 of his last 11 games,73%,False,0.0
+Isaiah Hartenstein,DAL,Over 1.5 STL+BLK,100,Hit in 8 of his last 11 home games,73%,True,2.0
+Aaron Wiggins,DAL,Over 2.5 Rebounds,-166,Hit in 13 of his last 18 home games,72%,False,0.0
+Khris Middleton,ORL,Over 1.5 Turnovers,-115,Hit in 10 of his last 14 games,71%,True,2.0
+Brook Lopez,ORL,Over 1.5 Blocks,-142,Hit in 5 of his last 7 games,71%,False,0.0
+Anthony Black,MIL,Under 7.5 Points,-113,Hit in 5 of his last 7 games,71%,False,17.0
+Giannis Antetokounmpo,ORL,Over 3.5 Turnovers,-145,Hit in 5 of his last 7 games,71%,True,6.0
+Brook Lopez,ORL,Over 2.5 STL+BLK,-165,Hit in 10 of his last 14 games,71%,False,0.0
+Luguentz Dort,DAL,Over 11.5 PTS+AST,-113,Hit in 5 of his last 7 home games,71%,True,19.0
+Luguentz Dort,DAL,Over 13.5 PTS+REB,-115,Hit in 5 of his last 7 home games,71%,True,23.0
+Luguentz Dort,DAL,Over 9.5 Points,-108,Hit in 5 of his last 7 home games,71%,True,17.0
+Shai Gilgeous-Alexander,DAL,Over 1.5 3PTM,-192,Hit in 5 of his last 7 games,71%,True,5.0
+Shai Gilgeous-Alexander,DAL,Over 30.5 Points,-122,Hit in 5 of his last 7 games,71%,True,49.0
+Shai Gilgeous-Alexander,DAL,Over 4.5 Rebounds,-148,Hit in 5 of his last 7 games vs DAL,71%,True,8.0
+Daniel Gafford,OKL,Over 7.5 REB+AST,-109,Hit in 5 of his last 7 games,71%,False,3.0
+Alex Caruso,DAL,Under 5.5 REB+AST,-106,Hit in 10 of his last 14 games,71%,False,8.0
+Shai Gilgeous-Alexander,DAL,Over 11.5 REB+AST,-106,Hit in 5 of his last 7 games,71%,True,13.0
+Shai Gilgeous-Alexander,DAL,Over 11.5 REB+AST,-106,Hit in 5 of his last 7 games vs DAL,71%,True,13.0
+Luguentz Dort,DAL,Over 0.5 Steals,-200,Hit in 5 of his last 7 games vs DAL,71%,True,1.0
+Jalen Williams,DAL,Over 0.5 Blocks,115,Hit in 5 of his last 7 games vs DAL,71%,True,1.0
+Cason Wallace,DAL,Under 0.5 Blocks,-155,Hit in 5 of his last 7 games vs DAL,71%,False,1.0
+Aaron Wiggins,DAL,Over 0.5 Turnovers,-135,Hit in 10 of his last 14 games,71%,True,1.0
+Daniel Gafford,OKL,Over 1.5 STL+BLK,-145,Hit in 5 of his last 7 away games,71%,False,0.0
+Alex Caruso,DAL,Under 7.5 Points,-106,Hit in 12 of his last 17 games,71%,False,10.0
+Isaiah Joe,DAL,Over 9.5 PTS+REB,-121,Hit in 12 of his last 17 games,71%,True,18.0
+Isaiah Joe,DAL,Over 7.5 Points,-108,Hit in 12 of his last 17 games,71%,True,15.0
+Alex Caruso,DAL,Under 10.5 PTS+REB,-102,Hit in 12 of his last 17 games,71%,False,14.0
+Alex Caruso,DAL,Under 13.5 P+A+R,-106,Hit in 12 of his last 17 games,71%,False,18.0
+Khris Middleton,ORL,Over 1.5 Turnovers,-115,Hit in 7 of his last 10 home games,70%,True,2.0
+Bobby Portis,ORL,Over 6.5 Rebounds,-148,Hit in 14 of his last 20 home games,70%,True,10.0
+Goga Bitadze,MIL,Under 12.5 PTS+AST,-109,Hit in 7 of his last 10 games,70%,False,16.0
+Goga Bitadze,MIL,Under 10.5 Points,-115,Hit in 7 of his last 10 games,70%,False,12.0
+Jalen Suggs,MIL,Under 2.5 3PTM,110,Hit in 14 of his last 20 games,70%,False,3.0
+Bobby Portis,ORL,Over 18.5 PTS+REB,-111,Hit in 14 of his last 20 home games,70%,True,36.0
+Giannis Antetokounmpo,ORL,Over 1.5 STL+BLK,-160,Hit in 7 of his last 10 home games,70%,True,6.0
+Luka Dončić,OKL,Over 28.5 Points,-117,Hit in 7 of his last 10 games vs OKL,70%,False,20.0
+Kyrie Irving,OKL,Over 4.5 Assists,-122,Hit in 7 of his last 10 games vs OKL,70%,True,5.0
+Aaron Wiggins,DAL,Under 1.5 Assists,-214,Hit in 7 of his last 10 games,70%,True,0.0
+Luka Dončić,OKL,Over 45.5 P+A+R,-133,Hit in 7 of his last 10 games vs OKL,70%,False,36.0
+Shai Gilgeous-Alexander,DAL,Over 2.5 STL+BLK,-105,Hit in 7 of his last 10 games,70%,True,4.0
+Kyrie Irving,OKL,Over 0.5 Steals,-185,Hit in 7 of his last 10 games vs OKL,70%,True,1.0
+Khris Middleton,ORL,Under 1.5 3PTM,-194,ORL rank 2nd in 3PTM versus SF,2nd,True,0.0
+Damian Lillard,ORL,Under 7.5 Assists,-148,ORL rank 2nd in AST against,2nd,False,9.0
+Gary Trent,ORL,Over 0.5 Turnovers,-130,ORL rank 28th in TO against,28th,False,0.0
+Bobby Portis,ORL,Under 1.5 Assists,-184,ORL rank 5th in AST versus PF,5th,False,4.0
+Bobby Portis,ORL,Under 1.5 3PTM,-215,ORL rank 3rd in 3PTM against,3rd,False,2.0
+Giannis Antetokounmpo,ORL,Under 11.5 Rebounds,-136,ORL rank 2nd in REB against,2nd,True,7.0
+Brook Lopez,ORL,Under 1.5 Assists,-174,ORL rank 2nd in AST versus C,2nd,True,0.0
+Brook Lopez,ORL,Under 9.5 Points,-113,ORL rank 4th in PTS versus C,4th,True,9.0
+Brook Lopez,ORL,Under 1.5 3PTM,-154,ORL rank 3rd in 3PTM against,3rd,True,1.0
+Goga Bitadze,MIL,Under 10.5 Points,-115,MIL rank 5th in PTS versus C,5th,False,12.0
+Goga Bitadze,MIL,Under 1.5 Blocks,-154,MIL rank 4th in BLK against,4th,True,1.0
+Giannis Antetokounmpo,ORL,Over 0.5 Steals,-175,ORL rank 26th in STL versus PF,26th,True,2.0
+Taurean Prince,ORL,Over 0.5 Turnovers,100,ORL rank 28th in TO against,28th,False,0.0
+Taurean Prince,ORL,Over 0.5 Steals,110,ORL rank 26th in STL versus PF,26th,True,1.0
+Damian Lillard,ORL,Over 3.5 Turnovers,100,ORL rank 28th in TO against,28th,True,4.0
+Bobby Portis,ORL,Over 1.5 Turnovers,150,ORL rank 28th in TO against,28th,False,0.0
+Bobby Portis,ORL,Under 0.5 Blocks,-210,ORL rank 5th in BLK versus PF,5th,False,1.0
+Bobby Portis,ORL,Over 0.5 Steals,-120,ORL rank 26th in STL versus PF,26th,True,1.0
+Giannis Antetokounmpo,ORL,Over 3.5 Turnovers,-145,ORL rank 28th in TO against,28th,True,6.0
+Goga Bitadze,MIL,Under 1.5 Turnovers,-145,MIL rank 3rd in TO against,3rd,True,0.0
+Jalen Suggs,MIL,Under 3.5 Turnovers,-160,MIL rank 3rd in TO against,3rd,False,4.0
+Jalen Suggs,MIL,Under 0.5 Blocks,-140,MIL rank 2nd in BLK versus SG,2nd,False,1.0
+Kentavious Caldwell-Pope,MIL,Under 0.5 Blocks,-200,MIL rank 2nd in BLK versus SG,2nd,True,0.0
+Giannis Antetokounmpo,ORL,Under 0.5 3PTM,-384,ORL rank 3rd in 3PTM against,3rd,True,0.0
+Isaiah Hartenstein,DAL,Over 10.5 Points,-128,DAL rank 26th in PTS versus C,26th,False,10.0
+Jalen Williams,DAL,Under 2.5 3PTM,-194,DAL rank 4th in 3PTM versus SG,4th,True,0.0
+Daniel Gafford,OKL,Over 6.5 Rebounds,-106,OKL rank 30th in REB against,30th,False,2.0
+Luka Dončić,OKL,Over 8.5 Rebounds,-125,OKL rank 30th in REB versus PG,30th,True,11.0
+Kyrie Irving,OKL,Over 3.5 Rebounds,-140,OKL rank 30th in REB versus PG,30th,False,2.0
+Alex Caruso,DAL,Under 1.5 3PTM,-137,DAL rank 3rd in 3PTM versus PG,3rd,False,2.0
+Aaron Wiggins,DAL,Under 1.5 3PTM,-224,DAL rank 4th in 3PTM versus SG,4th,True,1.0
+Isaiah Hartenstein,DAL,Over 0.5 Steals,-125,DAL rank 30th in STL versus C,30th,True,1.0
+Daniel Gafford,OKL,Under 1.5 Turnovers,-175,OKL rank 29th in TO versus PF,29th,True,0.0
+Daniel Gafford,OKL,Under 0.5 Steals,-185,OKL rank 1st in STL versus PF,1st,True,0.0
+Kyrie Irving,OKL,Over 0.5 Blocks,290,OKL rank 26th in BLK versus PG,26th,True,1.0
