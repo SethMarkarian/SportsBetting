@@ -1,757 +1,532 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Kristaps Porziņģis,DET,Over 7.5 Rebounds,-106,Hit in 4 of his last 4 games,100%
-Jayson Tatum,DET,Over 26.5 Points,-111,Hit in 6 of his last 6 games vs DET,100%
-Jayson Tatum,DET,Over 35.5 PTS+REB,-106,Hit in 5 of his last 5 games vs DET,100%
-Jayson Tatum,DET,Over 8.5 Rebounds,100,Hit in 4 of his last 4 home games,100%
-DJ White,DET,Over 24.5 P+A+R,-113,Hit in 5 of his last 5 games vs DET,100%
-Jabari Brown,DET,Over 33.5 P+A+R,-115,Hit in 5 of his last 5 games vs DET,100%
-Jabari Brown,DET,Over 23.5 Points,-113,Hit in 5 of his last 5 games vs DET,100%
-Jalen Duren,BOS,Under 8.5 Rebounds,-106,Hit in 4 of his last 4 games,100%
-Jrue Holiday,DET,Over 7.5 REB+AST,-140,Hit in 4 of his last 5 games,80%
-Jalen Duren,BOS,Under 19.5 P+A+R,-117,Hit in 4 of his last 4 games,100%
-Jalen Duren,BOS,Under 10.5 REB+AST,-117,Hit in 4 of his last 4 games,100%
-Tim Hardaway,BOS,Under 1.5 Assists,-244,Hit in 5 of his last 5 games,100%
-Kristaps Porziņģis,DET,Over 21.5 PTS+AST,-129,Hit in 3 of his last 4 games,75%
-Tim Hardaway,BOS,Over 2.5 Rebounds,116,Hit in 4 of his last 4 away games,100%
-Cade Cunningham,BOS,Over 32.5 PTS+AST,-111,Hit in 4 of his last 4 away games,100%
-Cade Cunningham,BOS,Over 2.5 3PTM,122,Hit in 4 of his last 4 games,100%
-Cade Cunningham,BOS,Over 15.5 REB+AST,-111,Hit in 8 of his last 8 away games,100%
-Cade Cunningham,BOS,Over 8.5 Assists,-132,Hit in 8 of his last 8 away games,100%
-Cade Cunningham,BOS,Over 29.5 PTS+REB,-106,Hit in 5 of his last 5 away games,100%
-Cade Cunningham,BOS,Over 0.5 Double Double,-115,Hit in 8 of his last 8 away games,100%
-Jackie Butler,TOR,Under 5.5 Rebounds,-156,Hit in 7 of his last 7 games vs TOR,100%
-Bam Adebayo,TOR,Over 0.5 Double Double,-170,Hit in 4 of his last 4 home games,100%
-Bam Adebayo,TOR,Over 5.5 Assists,120,Hit in 4 of his last 4 home games,100%
-J. Jaquez,TOR,Over 1.5 Assists,-166,Hit in 5 of his last 5 games vs TOR,100%
-J. Jaquez,TOR,Over 5.5 REB+AST,-121,Hit in 4 of his last 4 games vs TOR,100%
-Haywood Highsmith,TOR,Under 11.5 P+A+R,-103,Hit in 7 of his last 7 games vs TOR,100%
-Haywood Highsmith,TOR,Under 1.5 Assists,-234,Hit in 7 of his last 7 games vs TOR,100%
-Terry Rozier,TOR,Over 10.5 Points,102,Hit in 6 of his last 6 games vs TOR,100%
-Terry Rozier,TOR,Over 12.5 PTS+AST,-117,Hit in 6 of his last 6 games vs TOR,100%
-Terry Rozier,TOR,Over 13.5 PTS+REB,104,Hit in 6 of his last 6 games vs TOR,100%
-Terry Rozier,TOR,Over 2.5 Assists,126,Hit in 6 of his last 6 games vs TOR,100%
-Terry Rozier,TOR,Over 1.5 3PTM,-113,Hit in 6 of his last 6 games vs TOR,100%
-Terry Rozier,TOR,Over 15.5 P+A+R,-106,Hit in 6 of his last 6 games vs TOR,100%
-Terry Rozier,TOR,Over 4.5 REB+AST,-142,Hit in 6 of his last 6 games vs TOR,100%
-RJ Barrett,MIA,Under 5.5 Assists,102,Hit in 5 of his last 5 games,100%
-RJ Barrett,MIA,Over 23.5 Points,-128,Hit in 4 of his last 4 games vs MIA,100%
-Gradey Dick,MIA,Under 1.5 Assists,112,Hit in 5 of his last 5 games,100%
-Gradey Dick,MIA,Under 1.5 Turnovers,-120,Hit in 4 of his last 4 games,100%
-Ochai Agbaji,MIA,Over 1.5 Assists,-142,Hit in 4 of his last 4 games vs MIA,100%
-J. Poeltl,MIA,Over 2.5 Assists,-130,Hit in 4 of his last 4 games,100%
-J. Poeltl,MIA,Under 11.5 Rebounds,-130,Hit in 5 of his last 5 games vs MIA,100%
-J. Poeltl,MIA,Under 14.5 REB+AST,-128,Hit in 5 of his last 5 games vs MIA,100%
-Davion Mitchell,MIA,Under 1.5 3PTM,-260,Hit in 6 of his last 6 games vs MIA,100%
-Jayson Tatum,DET,Under 1.5 Steals,-180,Hit in 6 of his last 6 games,100%
-DJ White,DET,Over 19.5 PTS+AST,-120,Hit in 5 of his last 5 games vs DET,100%
-DJ White,DET,Over 0.5 Blocks,-160,Hit in 6 of his last 6 games vs DET,100%
-Jabari Brown,DET,Over 28.5 PTS+REB,-122,Hit in 5 of his last 5 games vs DET,100%
-Jabari Brown,DET,Under 0.5 Blocks,-210,Hit in 5 of his last 5 games vs DET,100%
-Tim Hardaway,BOS,Over 0.5 Turnovers,-123,Hit in 4 of his last 4 away games,100%
-Jaden Ivey,BOS,Over 2.5 Turnovers,-135,Hit in 4 of his last 4 away games,100%
-Jackie Butler,TOR,Under 1.5 Turnovers,-135,Hit in 5 of his last 5 games,100%
-Jackie Butler,TOR,Under 1.5 Turnovers,-135,Hit in 6 of his last 6 games vs TOR,100%
-Jackie Butler,TOR,Under 0.5 Blocks,-200,Hit in 9 of his last 9 games vs TOR,100%
-Bam Adebayo,TOR,Under 1.5 Steals,-190,Hit in 5 of his last 5 games,100%
-Jabari Brown,DET,Over 28.5 PTS+AST,-104,Hit in 5 of his last 5 games vs DET,100%
-Jaden Ivey,BOS,Under 1.5 STL+BLK,-200,Hit in 9 of his last 9 games vs BOS,100%
-Bam Adebayo,TOR,Over 16.5 REB+AST,-102,Hit in 4 of his last 4 home games,100%
-Bam Adebayo,TOR,Under 2.5 STL+BLK,-185,Hit in 5 of his last 5 games,100%
-David Robinson,TOR,Under 0.5 Blocks,-300,Hit in 15 of his last 15 games,100%
-David Robinson,TOR,Under 0.5 Blocks,-300,Hit in 8 of his last 8 games vs TOR,100%
-David Robinson,TOR,Under 1.5 STL+BLK,-275,Hit in 12 of his last 12 games,100%
-David Robinson,TOR,Under 1.5 STL+BLK,-275,Hit in 8 of his last 8 games vs TOR,100%
-Terry Rozier,TOR,Over 0.5 Turnovers,-210,Hit in 6 of his last 6 games vs TOR,100%
-RJ Barrett,MIA,Under 0.5 Steals,-110,Hit in 7 of his last 7 games vs MIA,100%
-J. Poeltl,MIA,Over 0.5 Steals,-210,Hit in 4 of his last 4 games,100%
-Payton Pritchard,DET,Over 13.5 Points,-120,Hit in 4 of his last 4 games vs DET,100%
-Jayson Tatum,DET,Over 31.5 PTS+AST,-118,Hit in 6 of his last 6 games vs DET,100%
-Jayson Tatum,DET,Over 40.5 P+A+R,-115,Hit in 5 of his last 5 games vs DET,100%
-Kristaps Porziņģis,DET,Over 28.5 P+A+R,-125,Hit in 4 of his last 4 games,100%
-Kristaps Porziņģis,DET,Over 26.5 PTS+REB,-125,Hit in 4 of his last 4 games,100%
-Jalen Duren,BOS,Under 18.5 PTS+REB,-125,Hit in 4 of his last 4 games,100%
-Cade Cunningham,BOS,Over 38.5 P+A+R,-118,Hit in 5 of his last 5 away games,100%
-Cade Cunningham,BOS,Over 22.5 Points,-118,Hit in 6 of his last 6 games,100%
-Cade Cunningham,BOS,Over 22.5 Points,-118,Hit in 4 of his last 4 away games,100%
-R. Holland,BOS,Over 0.5 Assists,-190,Hit in 5 of his last 5 games,100%
-R. Holland,BOS,Over 8.5 P+A+R,-130,Hit in 4 of his last 4 away games,100%
-R. Holland,BOS,Over 0.5 Turnovers,-165,Hit in 6 of his last 6 games,100%
-R. Holland,BOS,Over 0.5 Turnovers,-165,Hit in 8 of his last 8 away games,100%
-Malik Beasley,BOS,Under 1.5 Assists,-199,Hit in 5 of his last 5 games vs BOS,100%
-Malik Beasley,BOS,Over 2.5 Rebounds,108,Hit in 4 of his last 4 games,100%
-Malik Beasley,BOS,Over 0.5 Steals,-120,Hit in 5 of his last 5 away games,100%
-Malik Beasley,BOS,Over 0.5 STL+BLK,-140,Hit in 5 of his last 5 away games,100%
-Davion Mitchell,MIA,Under 7.5 Points,-102,Hit in 4 of his last 4 games vs MIA,100%
-Davion Mitchell,MIA,Under 8.5 REB+AST,-133,Hit in 9 of his last 9 games,100%
-Davion Mitchell,MIA,Under 8.5 REB+AST,-133,Hit in 6 of his last 6 games vs MIA,100%
-Davion Mitchell,MIA,Under 13.5 PTS+AST,-111,Hit in 10 of his last 10 games,100%
-Davion Mitchell,MIA,Under 13.5 PTS+AST,-111,Hit in 6 of his last 6 games vs MIA,100%
-Davion Mitchell,MIA,Under 5.5 Assists,-128,Hit in 9 of his last 9 games,100%
-Davion Mitchell,MIA,Under 5.5 Assists,-128,Hit in 6 of his last 6 games vs MIA,100%
-Davion Mitchell,MIA,Over 2.5 Rebounds,-133,Hit in 4 of his last 4 games,100%
-Davion Mitchell,MIA,Under 10.5 PTS+REB,-125,Hit in 6 of his last 6 games vs MIA,100%
-Davion Mitchell,MIA,Under 15.5 P+A+R,-109,Hit in 11 of his last 11 games,100%
-Davion Mitchell,MIA,Under 15.5 P+A+R,-109,Hit in 6 of his last 6 games vs MIA,100%
-Davion Mitchell,MIA,Under 1.5 Turnovers,-105,Hit in 5 of his last 5 games,100%
-Davion Mitchell,MIA,Over 0.5 STL+BLK,-250,Hit in 6 of his last 6 games,100%
-Herbert Jones,SAC,Over 3.5 Rebounds,-132,Hit in 5 of his last 5 home games,100%
-Jeremiah Robinson-Earl,SAC,Under 11.5 P+A+R,-106,Hit in 6 of his last 6 games,100%
-Jeremiah Robinson-Earl,SAC,Under 11.5 P+A+R,-106,Hit in 5 of his last 5 games vs SAC,100%
-Jeremiah Robinson-Earl,SAC,Under 1.5 Assists,-194,Hit in 5 of his last 5 games vs SAC,100%
-Jeremiah Robinson-Earl,SAC,Under 10.5 PTS+REB,-113,Hit in 6 of his last 6 games,100%
-Jeremiah Robinson-Earl,SAC,Under 10.5 PTS+REB,-113,Hit in 5 of his last 5 games vs SAC,100%
-Jeremiah Robinson-Earl,SAC,Under 7.5 PTS+AST,-137,Hit in 4 of his last 4 games vs SAC,100%
-Dejounte Murray,SAC,Over 5.5 Rebounds,102,Hit in 4 of his last 4 games vs SAC,100%
-Dejounte Murray,SAC,Under 7.5 Assists,-142,Hit in 4 of his last 4 games vs SAC,100%
-Yves Missi,SAC,Under 1.5 Assists,-174,Hit in 9 of his last 9 games,100%
-CJ McCollum,SAC,Under 3.5 3PTM,-166,Hit in 6 of his last 6 games,100%
-Malik Monk,NOP,Over 17.5 Points,-115,Hit in 4 of his last 4 away games,100%
-Malik Monk,NOP,Over 22.5 PTS+AST,-125,Hit in 4 of his last 4 away games,100%
-Malik Monk,NOP,Over 2.5 3PTM,-125,Hit in 4 of his last 4 away games,100%
-Malik Monk,NOP,Over 21.5 PTS+REB,-113,Hit in 4 of his last 4 away games,100%
-DeMar DeRozan,NOP,Over 25.5 PTS+AST,-108,Hit in 4 of his last 4 games vs NOP,100%
-DeMar DeRozan,NOP,Over 29.5 P+A+R,-111,Hit in 4 of his last 4 games vs NOP,100%
-DeMar DeRozan,NOP,Over 21.5 Points,-104,Hit in 4 of his last 4 games vs NOP,100%
-DeMar DeRozan,NOP,Over 25.5 PTS+REB,-106,Hit in 4 of his last 4 games vs NOP,100%
-Keon Ellis,NOP,Under 2.5 Rebounds,-174,Hit in 6 of his last 6 games vs NOP,100%
-Kevin Huerter,NOP,Over 1.5 Assists,-154,Hit in 6 of his last 6 games vs NOP,100%
-Kevin Huerter,NOP,Over 1.5 3PTM,-158,Hit in 4 of his last 4 games vs NOP,100%
-De'Aaron Fox,NOP,Under 30.5 PTS+AST,-104,Hit in 4 of his last 4 games,100%
-Malik Monk,NOP,Over 26.5 P+A+R,-122,Hit in 4 of his last 4 away games,100%
-DeMar DeRozan,NOP,Under 1.5 Steals,-215,Hit in 4 of his last 4 games,100%
-DeMar DeRozan,NOP,Under 1.5 Steals,-215,Hit in 4 of his last 4 games vs NOP,100%
-De'Aaron Fox,NOP,Under 36.5 P+A+R,-122,Hit in 4 of his last 4 games,100%
-Herbert Jones,SAC,Under 2.5 STL+BLK,-150,Hit in 4 of his last 4 games vs SAC,100%
-Dejounte Murray,SAC,Over 1.5 STL+BLK,-160,Hit in 5 of his last 5 games,100%
-CJ McCollum,SAC,Under 2.5 Turnovers,-150,Hit in 8 of his last 8 games,100%
-CJ McCollum,SAC,Over 1.5 STL+BLK,100,Hit in 4 of his last 4 games vs SAC,100%
-Domantas Sabonis,NOP,Over 0.5 Steals,-175,Hit in 4 of his last 4 games vs NOP,100%
-Malik Monk,NOP,Over 4.5 Assists,-154,Hit in 4 of his last 4 games vs NOP,100%
-Malik Monk,NOP,Over 4.5 Assists,-154,Hit in 4 of his last 4 away games,100%
-Malik Monk,NOP,Under 0.5 Blocks,-145,Hit in 4 of his last 4 games,100%
-Malik Monk,NOP,Under 1.5 STL+BLK,-135,Hit in 4 of his last 4 games,100%
-Keegan Murray,NOP,Over 0.5 Turnovers,-210,Hit in 6 of his last 6 games,100%
-Keegan Murray,NOP,Over 1.5 STL+BLK,-185,Hit in 11 of his last 11 games,100%
-Keegan Murray,NOP,Over 1.5 STL+BLK,-185,Hit in 5 of his last 5 away games,100%
-De'Aaron Fox,NOP,Over 3.5 Turnovers,130,Hit in 4 of his last 4 games vs NOP,100%
-De'Aaron Fox,NOP,Under 0.5 Blocks,-350,Hit in 7 of his last 7 games vs NOP,100%
-Terry Rozier,TOR,Over 12.5 PTS+AST,-117,Hit in 19 of his last 20 home games,95%
-Terry Rozier,TOR,Over 13.5 PTS+REB,104,Hit in 19 of his last 20 home games,95%
-Terry Rozier,TOR,Over 15.5 P+A+R,-106,Hit in 19 of his last 20 home games,95%
-De'Aaron Fox,NOP,Over 4.5 Rebounds,-136,Hit in 14 of his last 15 away games,93%
-Cade Cunningham,BOS,Over 15.5 REB+AST,-111,Hit in 13 of his last 14 games,93%
-Cade Cunningham,BOS,Over 8.5 Assists,-132,Hit in 13 of his last 14 games,93%
-Terry Rozier,TOR,Over 1.5 3PTM,-113,Hit in 11 of his last 12 home games,92%
-Terrel Harris,BOS,Over 20.5 P+A+R,-133,Hit in 10 of his last 11 away games,91%
-Domantas Sabonis,NOP,Over 2.5 Turnovers,-165,Hit in 10 of his last 11 away games,91%
-Terrel Harris,BOS,Over 7.5 REB+AST,-137,Hit in 18 of his last 20 away games,90%
-Terry Rozier,TOR,Over 10.5 Points,102,Hit in 18 of his last 20 home games,90%
-RJ Barrett,MIA,Under 5.5 Assists,102,Hit in 9 of his last 10 games vs MIA,90%
-Keegan Murray,NOP,Over 0.5 Blocks,-225,Hit in 9 of his last 10 games,90%
-Davion Mitchell,MIA,Under 0.5 Blocks,-400,Hit in 17 of his last 19 games,89%
-Tim Hardaway,BOS,Under 1.5 Assists,-244,Hit in 8 of his last 9 games vs BOS,89%
-Cade Cunningham,BOS,Over 0.5 Double Double,-115,Hit in 8 of his last 9 games,89%
-Malik Beasley,BOS,Over 3.5 3PTM,134,Hit in 8 of his last 9 away games,89%
-Jaden Ivey,BOS,Over 0.5 Steals,-185,Hit in 8 of his last 9 games,89%
-DJ White,DET,Under 3.5 3PTM,-186,Hit in 8 of his last 9 games vs DET,89%
-Terry Rozier,TOR,Under 0.5 Steals,-125,Hit in 8 of his last 9 games,89%
-Malik Beasley,BOS,Over 15.5 PTS+REB,-106,Hit in 8 of his last 9 away games,89%
-Malik Beasley,BOS,Over 13.5 Points,-118,Hit in 8 of his last 9 away games,89%
-Malik Beasley,BOS,Over 14.5 PTS+AST,-109,Hit in 8 of his last 9 away games,89%
-Malik Beasley,BOS,Over 16.5 P+A+R,-117,Hit in 8 of his last 9 away games,89%
-Domantas Sabonis,NOP,Under 13.5 Rebounds,-138,Hit in 8 of his last 9 games vs NOP,89%
-Jackie Butler,TOR,Over 24.5 PTS+REB,-118,Hit in 7 of his last 8 home games,88%
-Jackie Butler,TOR,Over 4.5 Assists,-113,Hit in 7 of his last 8 home games,88%
-Jackie Butler,TOR,Over 29.5 P+A+R,-118,Hit in 7 of his last 8 home games,88%
-Bam Adebayo,TOR,Under 16.5 Points,102,Hit in 7 of his last 8 games,88%
-Ochai Agbaji,MIA,Over 5.5 REB+AST,-154,Hit in 7 of his last 8 away games,88%
-Ochai Agbaji,MIA,Over 4.5 Rebounds,114,Hit in 7 of his last 8 away games,88%
-Davion Mitchell,MIA,Under 1.5 3PTM,-260,Hit in 14 of his last 16 games,88%
-Jaden Ivey,BOS,Over 0.5 Steals,-185,Hit in 7 of his last 8 away games,88%
-Tyler Herro,TOR,Under 1.5 STL+BLK,-250,Hit in 7 of his last 8 games vs TOR,88%
-Malik Beasley,BOS,Over 15.5 PTS+REB,-106,Hit in 14 of his last 16 games,88%
-Malik Beasley,BOS,Over 13.5 Points,-118,Hit in 14 of his last 16 games,88%
-Malik Beasley,BOS,Over 14.5 PTS+AST,-109,Hit in 14 of his last 16 games,88%
-Malik Beasley,BOS,Over 16.5 P+A+R,-117,Hit in 14 of his last 16 games,88%
-Herbert Jones,SAC,Over 2.5 Assists,-102,Hit in 7 of his last 8 games vs SAC,88%
-Herbert Jones,SAC,Under 12.5 Points,-120,Hit in 7 of his last 8 games,88%
-Domantas Sabonis,NOP,Over 5.5 Assists,-111,Hit in 7 of his last 8 games vs NOP,88%
-DeMar DeRozan,NOP,Over 25.5 PTS+AST,-108,Hit in 14 of his last 16 away games,88%
-DeMar DeRozan,NOP,Over 25.5 PTS+REB,-106,Hit in 7 of his last 8 away games,88%
-Keon Ellis,NOP,Over 5.5 PTS+AST,-117,Hit in 7 of his last 8 games,88%
-Keon Ellis,NOP,Over 0.5 3PTM,-224,Hit in 7 of his last 8 games,88%
-Keegan Murray,NOP,Under 6.5 Rebounds,-104,Hit in 7 of his last 8 games vs NOP,88%
-Keegan Murray,NOP,Under 8.5 REB+AST,-148,Hit in 7 of his last 8 games vs NOP,88%
-CJ McCollum,SAC,Under 0.5 Blocks,-200,Hit in 7 of his last 8 games,88%
-Kevin Huerter,NOP,Over 0.5 Turnovers,-200,Hit in 7 of his last 8 away games,88%
-Tod Murphy,SAC,Under 3.5 3PTM,-160,Hit in 13 of his last 15 games,87%
-Jayson Tatum,DET,Under 5.5 Assists,-156,Hit in 6 of his last 7 games,86%
-DJ White,DET,Over 9.5 REB+AST,-102,Hit in 6 of his last 7 games,86%
-DJ White,DET,Over 9.5 REB+AST,-102,Hit in 6 of his last 7 home games,86%
-DJ White,DET,Over 4.5 Assists,-122,Hit in 6 of his last 7 games vs DET,86%
-DJ White,DET,Over 4.5 Assists,-122,Hit in 6 of his last 7 home games,86%
-Jalen Duren,BOS,Over 1.5 Assists,-109,Hit in 6 of his last 7 games,86%
-Cade Cunningham,BOS,Over 29.5 PTS+REB,-106,Hit in 6 of his last 7 games,86%
-Terrel Harris,BOS,Over 11.5 Points,-122,Hit in 6 of his last 7 games vs BOS,86%
-Terrel Harris,BOS,Over 18.5 PTS+REB,-104,Hit in 6 of his last 7 games vs BOS,86%
-Terrel Harris,BOS,Over 18.5 PTS+REB,-104,Hit in 6 of his last 7 away games,86%
-Jaden Ivey,BOS,Over 6.5 REB+AST,-138,Hit in 12 of his last 14 games,86%
-Jackie Butler,TOR,Under 19.5 Points,-120,Hit in 6 of his last 7 games vs TOR,86%
-Bam Adebayo,TOR,Over 0.5 Double Double,-170,Hit in 6 of his last 7 games,86%
-Bam Adebayo,TOR,Over 0.5 3PTM,-199,Hit in 6 of his last 7 home games,86%
-Bam Adebayo,TOR,Over 5.5 Assists,120,Hit in 6 of his last 7 games,86%
-Haywood Highsmith,TOR,Under 10.5 PTS+REB,-113,Hit in 6 of his last 7 games vs TOR,86%
-Haywood Highsmith,TOR,Under 8.5 PTS+AST,-125,Hit in 6 of his last 7 games vs TOR,86%
-RJ Barrett,MIA,Over 1.5 3PTM,-146,Hit in 6 of his last 7 games,86%
-Ochai Agbaji,MIA,Over 1.5 Assists,-142,Hit in 6 of his last 7 games,86%
-J. Poeltl,MIA,Under 11.5 Rebounds,-130,Hit in 6 of his last 7 games,86%
-J. Poeltl,MIA,Under 14.5 REB+AST,-128,Hit in 6 of his last 7 games,86%
-Jabari Brown,DET,Under 1.5 Steals,-180,Hit in 12 of his last 14 games,86%
-Cade Cunningham,BOS,Over 0.5 Steals,-175,Hit in 6 of his last 7 away games,86%
-Jalen Duren,BOS,Under 0.5 Blocks,110,Hit in 6 of his last 7 games vs BOS,86%
-Terrel Harris,BOS,Over 0.5 Turnovers,-225,Hit in 6 of his last 7 games vs BOS,86%
-Jaden Ivey,BOS,Under 0.5 Blocks,-350,Hit in 6 of his last 7 games,86%
-Jaden Ivey,BOS,Under 1.5 STL+BLK,-200,Hit in 6 of his last 7 games,86%
-Bam Adebayo,TOR,Over 16.5 REB+AST,-102,Hit in 6 of his last 7 games,86%
-Terry Rozier,TOR,Over 0.5 STL+BLK,-225,Hit in 12 of his last 14 home games,86%
-Payton Pritchard,DET,Over 13.5 Points,-120,Hit in 6 of his last 7 games,86%
-Kristaps Porziņģis,DET,Over 28.5 P+A+R,-125,Hit in 6 of his last 7 games vs DET,86%
-Cade Cunningham,BOS,Over 38.5 P+A+R,-118,Hit in 6 of his last 7 games,86%
-Terrel Harris,BOS,Over 20.5 P+A+R,-133,Hit in 6 of his last 7 games vs BOS,86%
-Isaiah Stewart,BOS,Under 0.5 3PTM,-244,Hit in 6 of his last 7 games,86%
-Isaiah Stewart,BOS,Under 1.5 STL+BLK,-210,Hit in 6 of his last 7 games vs BOS,86%
-Malik Beasley,BOS,Over 3.5 REB+AST,-117,Hit in 6 of his last 7 away games,86%
-Tod Murphy,SAC,Under 5.5 Rebounds,-121,Hit in 6 of his last 7 games vs SAC,86%
-Herbert Jones,SAC,Under 1.5 3PTM,-140,Hit in 6 of his last 7 games vs SAC,86%
-Jeremiah Robinson-Earl,SAC,Over 5.5 Points,-130,Hit in 6 of his last 7 home games,86%
-Domantas Sabonis,NOP,Over 19.5 Points,100,Hit in 6 of his last 7 away games,86%
-Malik Monk,NOP,Over 22.5 PTS+AST,-125,Hit in 6 of his last 7 games,86%
-Malik Monk,NOP,Over 2.5 3PTM,-125,Hit in 6 of his last 7 games,86%
-Malik Monk,NOP,Under 8.5 REB+AST,104,Hit in 6 of his last 7 games vs NOP,86%
-Keon Ellis,NOP,Over 2.5 REB+AST,-166,Hit in 6 of his last 7 games,86%
-Keegan Murray,NOP,Under 1.5 Assists,-199,Hit in 6 of his last 7 games,86%
-Kevin Huerter,NOP,Over 8.5 Points,-129,Hit in 6 of his last 7 games vs NOP,86%
-Malik Monk,NOP,Over 26.5 P+A+R,-122,Hit in 6 of his last 7 games,86%
-Keegan Murray,NOP,Under 8.5 REB+AST,-148,Hit in 6 of his last 7 games,86%
-CJ McCollum,SAC,Over 0.5 Steals,-250,Hit in 6 of his last 7 home games,86%
-CJ McCollum,SAC,Over 1.5 STL+BLK,100,Hit in 6 of his last 7 home games,86%
-Malik Monk,NOP,Over 4.5 Assists,-154,Hit in 6 of his last 7 games,86%
-Malik Monk,NOP,Under 0.5 Blocks,-145,Hit in 6 of his last 7 games vs NOP,86%
-Tyler Herro,TOR,Under 1.5 STL+BLK,-250,Hit in 17 of his last 20 games,85%
-Bam Adebayo,TOR,Over 0.5 3PTM,-199,Hit in 11 of his last 13 games,85%
-DJ White,DET,Over 19.5 PTS+AST,-120,Hit in 11 of his last 13 home games,85%
-Terry Rozier,TOR,Over 0.5 Turnovers,-210,Hit in 11 of his last 13 home games,85%
-Keegan Murray,NOP,Over 0.5 Turnovers,-210,Hit in 11 of his last 13 away games,85%
-Keegan Murray,NOP,Over 0.5 Steals,-190,Hit in 11 of his last 13 games,85%
-Keegan Murray,NOP,Over 12.5 PTS+AST,-137,Hit in 16 of his last 19 away games,84%
-Jayson Tatum,DET,Over 8.5 Rebounds,100,Hit in 5 of his last 6 games,83%
-Tim Hardaway,BOS,Under 1.5 3PTM,-109,Hit in 5 of his last 6 games vs BOS,83%
-Tim Hardaway,BOS,Over 2.5 Rebounds,116,Hit in 5 of his last 6 games,83%
-Cade Cunningham,BOS,Over 32.5 PTS+AST,-111,Hit in 5 of his last 6 games,83%
-Terrel Harris,BOS,Over 1.5 Assists,-184,Hit in 5 of his last 6 games,83%
-Terrel Harris,BOS,Over 1.5 Assists,-184,Hit in 5 of his last 6 games vs BOS,83%
-Terrel Harris,BOS,Over 11.5 Points,-122,Hit in 5 of his last 6 games,83%
-Terrel Harris,BOS,Over 11.5 Points,-122,Hit in 5 of his last 6 away games,83%
-Jaden Ivey,BOS,Over 15.5 Points,-113,Hit in 5 of his last 6 games vs BOS,83%
-Jaden Ivey,BOS,Over 3.5 Rebounds,118,Hit in 5 of his last 6 games vs BOS,83%
-Jaden Ivey,BOS,Over 18.5 PTS+REB,-122,Hit in 5 of his last 6 games vs BOS,83%
-David Robinson,TOR,Under 2.5 3PTM,-164,Hit in 5 of his last 6 games vs TOR,83%
-J. Jaquez,TOR,Under 0.5 3PTM,-142,Hit in 10 of his last 12 games,83%
-J. Jaquez,TOR,Over 1.5 Assists,-166,Hit in 5 of his last 6 games,83%
-Gradey Dick,MIA,Over 3.5 Rebounds,-108,Hit in 5 of his last 6 games,83%
-Ochai Agbaji,MIA,Under 1.5 3PTM,-164,Hit in 5 of his last 6 games vs MIA,83%
-Bam Adebayo,TOR,Under 0.5 Blocks,125,Hit in 5 of his last 6 games vs TOR,83%
-Tyler Herro,TOR,Over 0.5 Steals,-190,Hit in 5 of his last 6 home games,83%
-Jalen Duren,BOS,Under 0.5 Steals,-185,Hit in 5 of his last 6 games vs BOS,83%
-Jalen Duren,BOS,Under 1.5 STL+BLK,-190,Hit in 5 of his last 6 games vs BOS,83%
-Cade Cunningham,BOS,Under 1.5 STL+BLK,-175,Hit in 5 of his last 6 games,83%
-Haywood Highsmith,TOR,Under 1.5 Steals,-225,Hit in 10 of his last 12 games,83%
-Haywood Highsmith,TOR,Under 1.5 Steals,-225,Hit in 5 of his last 6 games vs TOR,83%
-Terry Rozier,TOR,Under 0.5 Blocks,-225,Hit in 5 of his last 6 games vs TOR,83%
-RJ Barrett,MIA,Under 0.5 Blocks,-300,Hit in 5 of his last 6 games vs MIA,83%
-Ochai Agbaji,MIA,Under 1.5 STL+BLK,-150,Hit in 5 of his last 6 games,83%
-Jrue Holiday,DET,Under 1.5 Steals,-215,Hit in 5 of his last 6 games,83%
-Isaiah Stewart,BOS,Under 5.5 Rebounds,-154,Hit in 5 of his last 6 games,83%
-Isaiah Stewart,BOS,Under 11.5 PTS+REB,-129,Hit in 5 of his last 6 games,83%
-R. Holland,BOS,Over 7.5 PTS+REB,-125,Hit in 5 of his last 6 away games,83%
-Malik Beasley,BOS,Over 2.5 Rebounds,108,Hit in 5 of his last 6 games vs BOS,83%
-Davion Mitchell,MIA,Under 0.5 Blocks,-400,Hit in 5 of his last 6 games vs MIA,83%
-Davion Mitchell,MIA,Over 0.5 Steals,-155,Hit in 5 of his last 6 games,83%
-Davion Mitchell,MIA,Over 0.5 Steals,-155,Hit in 5 of his last 6 away games,83%
-Davion Mitchell,MIA,Over 0.5 STL+BLK,-250,Hit in 5 of his last 6 away games,83%
-Tod Murphy,SAC,Under 18.5 Points,-117,Hit in 5 of his last 6 games vs SAC,83%
-Tod Murphy,SAC,Under 21.5 PTS+AST,-125,Hit in 5 of his last 6 games,83%
-Tod Murphy,SAC,Under 24.5 PTS+REB,-125,Hit in 5 of his last 6 games vs SAC,83%
-Jeremiah Robinson-Earl,SAC,Over 5.5 REB+AST,-137,Hit in 5 of his last 6 home games,83%
-Jeremiah Robinson-Earl,SAC,Over 4.5 Rebounds,-102,Hit in 5 of his last 6 home games,83%
-Domantas Sabonis,NOP,Over 25.5 PTS+AST,100,Hit in 5 of his last 6 away games,83%
-Domantas Sabonis,NOP,Over 0.5 3PTM,-166,Hit in 5 of his last 6 away games,83%
-Domantas Sabonis,NOP,Over 32.5 PTS+REB,-113,Hit in 5 of his last 6 away games,83%
-Domantas Sabonis,NOP,Over 38.5 P+A+R,-113,Hit in 5 of his last 6 away games,83%
-Malik Monk,NOP,Under 3.5 Rebounds,102,Hit in 5 of his last 6 games vs NOP,83%
-Keon Ellis,NOP,Under 7.5 P+A+R,-117,Hit in 5 of his last 6 games vs NOP,83%
-Keegan Murray,NOP,Under 1.5 Assists,-199,Hit in 5 of his last 6 games vs NOP,83%
-Kevin Huerter,NOP,Over 13.5 P+A+R,-129,Hit in 5 of his last 6 games vs NOP,83%
-Kevin Huerter,NOP,Over 10.5 PTS+AST,-113,Hit in 5 of his last 6 games vs NOP,83%
-Herbert Jones,SAC,Over 0.5 Blocks,105,Hit in 5 of his last 6 games vs SAC,83%
-Domantas Sabonis,NOP,Over 2.5 Turnovers,-165,Hit in 5 of his last 6 games vs NOP,83%
-Kevin Huerter,NOP,Over 13.5 PTS+REB,-104,Hit in 5 of his last 6 games vs NOP,83%
-Yves Missi,SAC,Over 0.5 Steals,-145,Hit in 5 of his last 6 home games,83%
-CJ McCollum,SAC,Over 0.5 Steals,-250,Hit in 5 of his last 6 games,83%
-Keon Ellis,NOP,Under 0.5 Blocks,-130,Hit in 5 of his last 6 games vs NOP,83%
-Keon Ellis,NOP,Under 1.5 STL+BLK,-155,Hit in 5 of his last 6 games vs NOP,83%
-Terry Rozier,TOR,Over 2.5 Rebounds,-106,Hit in 14 of his last 17 home games,82%
-Terrel Harris,BOS,Under 1.5 3PTM,-156,Hit in 9 of his last 11 games vs BOS,82%
-Malik Beasley,BOS,Over 3.5 REB+AST,-117,Hit in 9 of his last 11 games,82%
-DeMar DeRozan,NOP,Over 21.5 Points,-104,Hit in 13 of his last 16 away games,81%
-Kristaps Porziņģis,DET,Over 1.5 Assists,-184,Hit in 4 of his last 5 games,80%
-Jrue Holiday,DET,Over 15.5 PTS+REB,-115,Hit in 4 of his last 5 games vs DET,80%
-Jayson Tatum,DET,Over 0.5 Double Double,125,Hit in 4 of his last 5 games,80%
-Jayson Tatum,DET,Over 13.5 REB+AST,-125,Hit in 4 of his last 5 games,80%
-DJ White,DET,Over 4.5 Rebounds,-104,Hit in 4 of his last 5 games,80%
-DJ White,DET,Over 19.5 PTS+REB,-111,Hit in 4 of his last 5 games vs DET,80%
-Jabari Brown,DET,Over 9.5 REB+AST,-122,Hit in 4 of his last 5 games vs DET,80%
-Jabari Brown,DET,Over 5.5 Rebounds,112,Hit in 4 of his last 5 games vs DET,80%
-Cade Cunningham,BOS,Over 6.5 Rebounds,118,Hit in 4 of his last 5 away games,80%
-Terrel Harris,BOS,Over 7.5 REB+AST,-137,Hit in 16 of his last 20 games,80%
-Terrel Harris,BOS,Over 1.5 Assists,-184,Hit in 8 of his last 10 away games,80%
-Terrel Harris,BOS,Over 18.5 PTS+REB,-104,Hit in 4 of his last 5 games,80%
-Jaden Ivey,BOS,Over 15.5 Points,-113,Hit in 4 of his last 5 away games,80%
-Jaden Ivey,BOS,Over 6.5 REB+AST,-138,Hit in 8 of his last 10 away games,80%
-Jaden Ivey,BOS,Over 3.5 Assists,-113,Hit in 4 of his last 5 games,80%
-Jaden Ivey,BOS,Over 1.5 3PTM,-115,Hit in 4 of his last 5 away games,80%
-Jackie Butler,TOR,Under 24.5 PTS+AST,-118,Hit in 4 of his last 5 games vs TOR,80%
-Bam Adebayo,TOR,Under 28.5 PTS+REB,-118,Hit in 4 of his last 5 games vs TOR,80%
-Bam Adebayo,TOR,Under 22.5 PTS+AST,-108,Hit in 4 of his last 5 games,80%
-Bam Adebayo,TOR,Under 22.5 PTS+AST,-108,Hit in 4 of his last 5 games vs TOR,80%
-Bam Adebayo,TOR,Under 10.5 Rebounds,100,Hit in 4 of his last 5 games vs TOR,80%
-David Robinson,TOR,Under 2.5 Assists,-142,Hit in 4 of his last 5 games vs TOR,80%
-David Robinson,TOR,Under 5.5 REB+AST,-154,Hit in 4 of his last 5 games vs TOR,80%
-J. Jaquez,TOR,Over 1.5 Assists,-166,Hit in 4 of his last 5 home games,80%
-J. Jaquez,TOR,Over 8.5 Points,-121,Hit in 4 of his last 5 games vs TOR,80%
-J. Jaquez,TOR,Over 12.5 PTS+REB,-117,Hit in 4 of his last 5 games vs TOR,80%
-J. Jaquez,TOR,Under 14.5 P+A+R,-117,Hit in 4 of his last 5 games,80%
-J. Jaquez,TOR,Under 10.5 PTS+AST,-113,Hit in 4 of his last 5 games,80%
-Tyler Herro,TOR,Under 33.5 P+A+R,-108,Hit in 4 of his last 5 games vs TOR,80%
-Tyler Herro,TOR,Under 23.5 Points,-120,Hit in 4 of his last 5 games vs TOR,80%
-Tyler Herro,TOR,Under 28.5 PTS+REB,-113,Hit in 4 of his last 5 games vs TOR,80%
-Tyler Herro,TOR,Under 28.5 PTS+AST,-115,Hit in 4 of his last 5 games vs TOR,80%
-Terry Rozier,TOR,Over 4.5 REB+AST,-142,Hit in 16 of his last 20 home games,80%
-RJ Barrett,MIA,Over 6.5 Rebounds,-104,Hit in 4 of his last 5 games,80%
-RJ Barrett,MIA,Over 6.5 Rebounds,-104,Hit in 4 of his last 5 games vs MIA,80%
-RJ Barrett,MIA,Under 12.5 REB+AST,-111,Hit in 12 of his last 15 games vs MIA,80%
-Ochai Agbaji,MIA,Under 9.5 Points,-106,Hit in 4 of his last 5 games,80%
-Ochai Agbaji,MIA,Under 14.5 PTS+REB,-122,Hit in 4 of his last 5 games,80%
-Ochai Agbaji,MIA,Under 11.5 PTS+AST,-113,Hit in 4 of his last 5 games,80%
-Ochai Agbaji,MIA,Under 16.5 P+A+R,-129,Hit in 4 of his last 5 games,80%
-Ochai Agbaji,MIA,Under 1.5 3PTM,-164,Hit in 4 of his last 5 games,80%
-J. Poeltl,MIA,Over 0.5 Double Double,-145,Hit in 4 of his last 5 games,80%
-J. Poeltl,MIA,Over 17.5 PTS+AST,-111,Hit in 4 of his last 5 games,80%
-J. Poeltl,MIA,Over 14.5 Points,-106,Hit in 4 of his last 5 games,80%
-Jayson Tatum,DET,Over 2.5 Turnovers,-110,Hit in 4 of his last 5 games vs DET,80%
-DJ White,DET,Over 19.5 PTS+AST,-120,Hit in 16 of his last 20 games,80%
-Jabari Brown,DET,Under 0.5 Blocks,-210,Hit in 4 of his last 5 games,80%
-Cade Cunningham,BOS,Over 0.5 Steals,-175,Hit in 4 of his last 5 games,80%
-Malik Beasley,BOS,Over 3.5 3PTM,134,Hit in 12 of his last 15 games,80%
-Jackie Butler,TOR,Under 0.5 Blocks,-200,Hit in 12 of his last 15 games,80%
-J. Poeltl,MIA,Under 1.5 Blocks,-155,Hit in 4 of his last 5 games vs MIA,80%
-DJ White,DET,Over 15.5 Points,104,Hit in 4 of his last 5 games vs DET,80%
-Jabari Brown,DET,Under 1.5 STL+BLK,-115,Hit in 4 of his last 5 games,80%
-Cade Cunningham,BOS,Over 0.5 Blocks,155,Hit in 4 of his last 5 games vs BOS,80%
-Terrel Harris,BOS,Over 0.5 Turnovers,-225,Hit in 4 of his last 5 away games,80%
-Terrel Harris,BOS,Over 0.5 Steals,-135,Hit in 4 of his last 5 away games,80%
-David Robinson,TOR,Over 0.5 Steals,-165,Hit in 4 of his last 5 home games,80%
-Terry Rozier,TOR,Over 0.5 Turnovers,-210,Hit in 16 of his last 20 games,80%
-RJ Barrett,MIA,Over 0.5 STL+BLK,-225,Hit in 4 of his last 5 games,80%
-Ochai Agbaji,MIA,Over 0.5 Blocks,105,Hit in 4 of his last 5 games vs MIA,80%
-J. Poeltl,MIA,Under 1.5 Turnovers,140,Hit in 4 of his last 5 games vs MIA,80%
-Payton Pritchard,DET,Over 13.5 Points,-120,Hit in 4 of his last 5 home games,80%
-Jrue Holiday,DET,Over 8.5 REB+AST,-111,Hit in 4 of his last 5 games vs DET,80%
-Jrue Holiday,DET,Over 11.5 Points,-104,Hit in 4 of his last 5 games vs DET,80%
-Jrue Holiday,DET,Over 20.5 P+A+R,-104,Hit in 4 of his last 5 games vs DET,80%
-Jrue Holiday,DET,Under 1.5 Steals,-215,Hit in 4 of his last 5 games vs DET,80%
-Jrue Holiday,DET,Over 1.5 Turnovers,170,Hit in 4 of his last 5 games vs DET,80%
-Terrel Harris,BOS,Over 20.5 P+A+R,-133,Hit in 4 of his last 5 games,80%
-Isaiah Stewart,BOS,Under 1.5 Assists,-142,Hit in 4 of his last 5 games vs BOS,80%
-R. Holland,BOS,Over 3.5 REB+AST,-120,Hit in 4 of his last 5 games,80%
-R. Holland,BOS,Over 3.5 REB+AST,-120,Hit in 4 of his last 5 away games,80%
-R. Holland,BOS,Over 2.5 Rebounds,-120,Hit in 4 of his last 5 away games,80%
-R. Holland,BOS,Under 0.5 3PTM,-210,Hit in 4 of his last 5 games,80%
-Malik Beasley,BOS,Under 1.5 Assists,-199,Hit in 4 of his last 5 games,80%
-Malik Beasley,BOS,Under 0.5 Turnovers,140,Hit in 4 of his last 5 games vs BOS,80%
-Davion Mitchell,MIA,Under 7.5 Points,-102,Hit in 8 of his last 10 games,80%
-Davion Mitchell,MIA,Under 10.5 PTS+REB,-125,Hit in 8 of his last 10 games,80%
-Davion Mitchell,MIA,Under 1.5 Turnovers,-105,Hit in 4 of his last 5 games vs MIA,80%
-J. Poeltl,MIA,Over 25.5 PTS+REB,-118,Hit in 4 of his last 5 games,80%
-J. Poeltl,MIA,Over 28.5 P+A+R,-122,Hit in 4 of his last 5 games,80%
-Tod Murphy,SAC,Under 3.5 3PTM,-160,Hit in 4 of his last 5 games vs SAC,80%
-Tod Murphy,SAC,Under 8.5 REB+AST,-117,Hit in 4 of his last 5 games,80%
-Tod Murphy,SAC,Under 5.5 Rebounds,-121,Hit in 4 of his last 5 games,80%
-Tod Murphy,SAC,Under 24.5 PTS+REB,-125,Hit in 4 of his last 5 games,80%
-Herbert Jones,SAC,Over 6.5 REB+AST,-104,Hit in 4 of his last 5 home games,80%
-Herbert Jones,SAC,Under 12.5 Points,-120,Hit in 4 of his last 5 games vs SAC,80%
-Herbert Jones,SAC,Under 16.5 PTS+REB,-118,Hit in 4 of his last 5 games vs SAC,80%
-Jeremiah Robinson-Earl,SAC,Over 0.5 3PTM,104,Hit in 4 of his last 5 home games,80%
-Dejounte Murray,SAC,Under 2.5 3PTM,-170,Hit in 4 of his last 5 games,80%
-Dejounte Murray,SAC,Under 26.5 PTS+REB,-113,Hit in 4 of his last 5 games,80%
-Domantas Sabonis,NOP,Over 0.5 3PTM,-166,Hit in 8 of his last 10 games,80%
-Domantas Sabonis,NOP,Over 18.5 REB+AST,-122,Hit in 4 of his last 5 away games,80%
-Keon Ellis,NOP,Over 0.5 3PTM,-224,Hit in 8 of his last 10 away games,80%
-Keon Ellis,NOP,Over 0.5 Assists,-174,Hit in 8 of his last 10 games,80%
-Keon Ellis,NOP,Over 0.5 Assists,-174,Hit in 4 of his last 5 away games,80%
-Kevin Huerter,NOP,Over 1.5 Assists,-154,Hit in 4 of his last 5 games,80%
-De'Aaron Fox,NOP,Over 6.5 Assists,-102,Hit in 4 of his last 5 games,80%
-De'Aaron Fox,NOP,Over 23.5 Points,-128,Hit in 4 of his last 5 games vs NOP,80%
-Tod Murphy,SAC,Under 27.5 P+A+R,-125,Hit in 4 of his last 5 games,80%
-Dejounte Murray,SAC,Over 12.5 REB+AST,-122,Hit in 4 of his last 5 games,80%
-De'Aaron Fox,NOP,Over 11.5 REB+AST,-113,Hit in 4 of his last 5 games,80%
-Herbert Jones,SAC,Over 1.5 Steals,-132,Hit in 4 of his last 5 home games,80%
-Dejounte Murray,SAC,Over 1.5 Steals,102,Hit in 4 of his last 5 games,80%
-Dejounte Murray,SAC,Over 1.5 Steals,102,Hit in 4 of his last 5 home games,80%
-Domantas Sabonis,NOP,Under 0.5 Blocks,-225,Hit in 4 of his last 5 games,80%
-Dejounte Murray,SAC,Under 20.5 Points,-106,Hit in 4 of his last 5 games,80%
-Herbert Jones,SAC,Under 15.5 PTS+AST,-125,Hit in 4 of his last 5 games vs SAC,80%
-Herbert Jones,SAC,Under 19.5 P+A+R,-120,Hit in 4 of his last 5 games vs SAC,80%
-Jeremiah Robinson-Earl,SAC,Over 0.5 Turnovers,-140,Hit in 4 of his last 5 games,80%
-Dejounte Murray,SAC,Over 1.5 STL+BLK,-160,Hit in 4 of his last 5 home games,80%
-Domantas Sabonis,NOP,Under 13.5 Rebounds,-138,Hit in 4 of his last 5 games,80%
-Domantas Sabonis,NOP,Under 1.5 STL+BLK,-175,Hit in 4 of his last 5 games,80%
-Malik Monk,NOP,Over 0.5 Steals,-185,Hit in 4 of his last 5 games vs NOP,80%
-Keegan Murray,NOP,Under 19.5 PTS+REB,-122,Hit in 4 of his last 5 games vs NOP,80%
-Keegan Murray,NOP,Over 0.5 Blocks,-225,Hit in 4 of his last 5 away games,80%
-Keegan Murray,NOP,Over 0.5 Steals,-190,Hit in 4 of his last 5 games vs NOP,80%
-Keegan Murray,NOP,Over 0.5 Steals,-190,Hit in 4 of his last 5 away games,80%
-Kevin Huerter,NOP,Over 0.5 Steals,-155,Hit in 4 of his last 5 games,80%
-Haywood Highsmith,TOR,Under 1.5 Assists,-234,Hit in 15 of his last 19 games,79%
-DJ White,DET,Under 1.5 Steals,-180,Hit in 11 of his last 14 games,79%
-Jayson Tatum,DET,Over 13.5 REB+AST,-125,Hit in 7 of his last 9 home games,78%
-DJ White,DET,Over 4.5 Rebounds,-104,Hit in 7 of his last 9 home games,78%
-DJ White,DET,Over 24.5 P+A+R,-113,Hit in 7 of his last 9 home games,78%
-J. Jaquez,TOR,Over 5.5 REB+AST,-121,Hit in 14 of his last 18 games,78%
-Jackie Butler,TOR,Under 1.5 Steals,-160,Hit in 7 of his last 9 games vs TOR,78%
-Bam Adebayo,TOR,Under 0.5 Blocks,125,Hit in 7 of his last 9 games,78%
-Tyler Herro,TOR,Over 0.5 Steals,-190,Hit in 7 of his last 9 games,78%
-Jackie Butler,TOR,Under 1.5 STL+BLK,110,Hit in 7 of his last 9 games vs TOR,78%
-Isaiah Stewart,BOS,Over 5.5 Points,-133,Hit in 14 of his last 18 games,78%
-R. Holland,BOS,Under 0.5 Steals,-225,Hit in 7 of his last 9 games,78%
-Herbert Jones,SAC,Under 1.5 3PTM,-140,Hit in 7 of his last 9 games,78%
-Yves Missi,SAC,Over 10.5 Points,-111,Hit in 7 of his last 9 games,78%
-CJ McCollum,SAC,Under 30.5 P+A+R,-108,Hit in 14 of his last 18 games,78%
-DeMar DeRozan,NOP,Over 29.5 P+A+R,-111,Hit in 7 of his last 9 away games,78%
-DeMar DeRozan,NOP,Under 0.5 3PTM,112,Hit in 7 of his last 9 games,78%
-Kevin Huerter,NOP,Under 3.5 Rebounds,-130,Hit in 7 of his last 9 games,78%
-Herbert Jones,SAC,Over 1.5 Steals,-132,Hit in 7 of his last 9 games,78%
-Yves Missi,SAC,Over 11.5 PTS+AST,-133,Hit in 7 of his last 9 games,78%
-Herbert Jones,SAC,Under 2.5 STL+BLK,-150,Hit in 14 of his last 18 games,78%
-Keon Ellis,NOP,Over 0.5 Steals,-145,Hit in 7 of his last 9 away games,78%
-Dejounte Murray,SAC,Under 0.5 Blocks,-275,Hit in 13 of his last 17 games,76%
-Kristaps Porziņģis,DET,Over 21.5 PTS+AST,-121,Hit in 3 of his last 4 games,75%
-Kristaps Porziņģis,DET,Over 19.5 Points,-113,Hit in 3 of his last 4 games,75%
-Kristaps Porziņģis,DET,Over 19.5 Points,-113,Hit in 3 of his last 4 games vs DET,75%
-Kristaps Porziņģis,DET,Under 9.5 REB+AST,-129,Hit in 3 of his last 4 games vs DET,75%
-Kristaps Porziņģis,DET,Over 2.5 3PTM,116,Hit in 3 of his last 4 games vs DET,75%
-Kristaps Porziņģis,DET,Over 7.5 Rebounds,-106,Hit in 3 of his last 4 games vs DET,75%
-Jrue Holiday,DET,Over 15.5 PTS+REB,-115,Hit in 3 of his last 4 games,75%
-Jrue Holiday,DET,Over 15.5 PTS+REB,-115,Hit in 12 of his last 16 home games,75%
-Jayson Tatum,DET,Over 13.5 REB+AST,-125,Hit in 3 of his last 4 games vs DET,75%
-DJ White,DET,Over 9.5 REB+AST,-102,Hit in 3 of his last 4 games vs DET,75%
-DJ White,DET,Over 4.5 Assists,-122,Hit in 3 of his last 4 games,75%
-DJ White,DET,Over 4.5 Rebounds,-104,Hit in 3 of his last 4 games vs DET,75%
-DJ White,DET,Over 0.5 Double Double,1100,Hit in 3 of his last 4 games vs DET,75%
-Jabari Brown,DET,Over 23.5 Points,-113,Hit in 3 of his last 4 games,75%
-Jabari Brown,DET,Over 23.5 Points,-113,Hit in 3 of his last 4 home games,75%
-Jabari Brown,DET,Over 2.5 3PTM,100,Hit in 6 of his last 8 games,75%
-Jabari Brown,DET,Over 2.5 3PTM,100,Hit in 3 of his last 4 games vs DET,75%
-Jalen Duren,BOS,Over 1.5 Assists,-109,Hit in 3 of his last 4 games vs BOS,75%
-Jalen Duren,BOS,Over 1.5 Assists,-109,Hit in 3 of his last 4 away games,75%
-Tim Hardaway,BOS,Over 10.5 PTS+REB,-133,Hit in 3 of his last 4 away games,75%
-Tim Hardaway,BOS,Under 1.5 3PTM,-109,Hit in 3 of his last 4 games,75%
-Tim Hardaway,BOS,Over 8.5 Points,-113,Hit in 3 of his last 4 away games,75%
-Tim Hardaway,BOS,Over 9.5 PTS+AST,-125,Hit in 15 of his last 20 games,75%
-Tim Hardaway,BOS,Over 9.5 PTS+AST,-125,Hit in 3 of his last 4 away games,75%
-Tim Hardaway,BOS,Over 12.5 P+A+R,-103,Hit in 3 of his last 4 away games,75%
-Tim Hardaway,BOS,Under 3.5 REB+AST,-133,Hit in 3 of his last 4 games,75%
-Cade Cunningham,BOS,Over 8.5 Assists,-132,Hit in 3 of his last 4 games vs BOS,75%
-Terrel Harris,BOS,Under 5.5 Rebounds,118,Hit in 3 of his last 4 games vs BOS,75%
-Jaden Ivey,BOS,Over 1.5 3PTM,-115,Hit in 6 of his last 8 games,75%
-Jackie Butler,TOR,Under 19.5 Points,-120,Hit in 3 of his last 4 games,75%
-Jackie Butler,TOR,Over 0.5 3PTM,108,Hit in 3 of his last 4 home games,75%
-Jackie Butler,TOR,Under 24.5 PTS+AST,-118,Hit in 3 of his last 4 games,75%
-Bam Adebayo,TOR,Over 0.5 3PTM,-199,Hit in 3 of his last 4 games vs TOR,75%
-Bam Adebayo,TOR,Over 33.5 P+A+R,-120,Hit in 3 of his last 4 home games,75%
-David Robinson,TOR,Under 16.5 P+A+R,-121,Hit in 6 of his last 8 games vs TOR,75%
-David Robinson,TOR,Under 13.5 PTS+AST,-117,Hit in 6 of his last 8 games vs TOR,75%
-David Robinson,TOR,Under 13.5 PTS+REB,-106,Hit in 6 of his last 8 games vs TOR,75%
-David Robinson,TOR,Over 2.5 Rebounds,-113,Hit in 3 of his last 4 games,75%
-J. Jaquez,TOR,Over 3.5 Rebounds,-121,Hit in 3 of his last 4 games vs TOR,75%
-Tyler Herro,TOR,Under 5.5 Rebounds,-166,Hit in 3 of his last 4 games vs TOR,75%
-Tyler Herro,TOR,Over 3.5 3PTM,-125,Hit in 3 of his last 4 home games,75%
-Haywood Highsmith,TOR,Over 4.5 REB+AST,-133,Hit in 3 of his last 4 games,75%
-Haywood Highsmith,TOR,Over 4.5 REB+AST,-133,Hit in 3 of his last 4 home games,75%
-Haywood Highsmith,TOR,Over 1.5 3PTM,146,Hit in 3 of his last 4 games,75%
-Haywood Highsmith,TOR,Over 1.5 3PTM,146,Hit in 3 of his last 4 home games,75%
-Haywood Highsmith,TOR,Over 0.5 Turnovers,-120,Hit in 3 of his last 4 games,75%
-Haywood Highsmith,TOR,Over 0.5 Turnovers,-120,Hit in 3 of his last 4 games vs TOR,75%
-Haywood Highsmith,TOR,Over 0.5 Turnovers,-120,Hit in 3 of his last 4 home games,75%
-RJ Barrett,MIA,Over 1.5 3PTM,-146,Hit in 3 of his last 4 away games,75%
-RJ Barrett,MIA,Over 31.5 PTS+REB,-106,Hit in 3 of his last 4 games vs MIA,75%
-Gradey Dick,MIA,Over 2.5 3PTM,-108,Hit in 3 of his last 4 games,75%
-Gradey Dick,MIA,Under 5.5 REB+AST,-133,Hit in 3 of his last 4 games,75%
-Jaden Ivey,BOS,Under 22.5 P+A+R,-106,Hit in 3 of his last 4 games,75%
-Jabari Brown,DET,Over 2.5 Turnovers,-105,Hit in 3 of his last 4 games vs DET,75%
-Jalen Duren,BOS,Over 1.5 Turnovers,-120,Hit in 6 of his last 8 games,75%
-Cade Cunningham,BOS,Over 4.5 Turnovers,100,Hit in 3 of his last 4 games vs BOS,75%
-Cade Cunningham,BOS,Over 4.5 Turnovers,100,Hit in 3 of his last 4 away games,75%
-Cade Cunningham,BOS,Over 0.5 Steals,-175,Hit in 3 of his last 4 games vs BOS,75%
-Jaden Ivey,BOS,Over 2.5 Turnovers,-135,Hit in 15 of his last 20 games,75%
-Bam Adebayo,TOR,Under 1.5 Steals,-190,Hit in 6 of his last 8 games vs TOR,75%
-Jalen Duren,BOS,Under 0.5 Blocks,110,Hit in 3 of his last 4 games,75%
-DJ White,DET,Over 1.5 Turnovers,150,Hit in 3 of his last 4 games,75%
-DJ White,DET,Over 1.5 Turnovers,150,Hit in 3 of his last 4 home games,75%
-DJ White,DET,Over 2.5 STL+BLK,125,Hit in 3 of his last 4 games vs DET,75%
-Terrel Harris,BOS,Over 0.5 Steals,-135,Hit in 6 of his last 8 games,75%
-Terrel Harris,BOS,Over 0.5 Steals,-135,Hit in 3 of his last 4 games vs BOS,75%
-Terrel Harris,BOS,Over 1.5 STL+BLK,140,Hit in 3 of his last 4 games vs BOS,75%
-David Robinson,TOR,Under 0.5 Turnovers,175,Hit in 3 of his last 4 games,75%
-Tyler Herro,TOR,Under 2.5 Turnovers,-140,Hit in 3 of his last 4 games vs TOR,75%
-Haywood Highsmith,TOR,Under 1.5 STL+BLK,145,Hit in 3 of his last 4 games,75%
-Terry Rozier,TOR,Under 0.5 Steals,-125,Hit in 3 of his last 4 games vs TOR,75%
-RJ Barrett,MIA,Under 0.5 Blocks,-300,Hit in 6 of his last 8 games,75%
-Ochai Agbaji,MIA,Over 0.5 Turnovers,-210,Hit in 3 of his last 4 games,75%
-J. Poeltl,MIA,Over 0.5 Steals,-210,Hit in 9 of his last 12 away games,75%
-J. Poeltl,MIA,Over 2.5 STL+BLK,105,Hit in 3 of his last 4 games,75%
-Kristaps Porziņģis,DET,Over 26.5 PTS+REB,-125,Hit in 3 of his last 4 games vs DET,75%
-Jrue Holiday,DET,Under 4.5 Assists,-148,Hit in 3 of his last 4 games vs DET,75%
-Jrue Holiday,DET,Over 20.5 P+A+R,-104,Hit in 3 of his last 4 games,75%
-Jrue Holiday,DET,Over 0.5 Blocks,120,Hit in 3 of his last 4 games,75%
-Jrue Holiday,DET,Over 0.5 Blocks,120,Hit in 3 of his last 4 home games,75%
-Jrue Holiday,DET,Over 1.5 STL+BLK,-135,Hit in 3 of his last 4 games,75%
-Isaiah Stewart,BOS,Under 6.5 REB+AST,-113,Hit in 3 of his last 4 games vs BOS,75%
-Isaiah Stewart,BOS,Over 0.5 Blocks,-135,Hit in 9 of his last 12 away games,75%
-R. Holland,BOS,Under 6.5 PTS+AST,-140,Hit in 3 of his last 4 games,75%
-R. Holland,BOS,Under 4.5 Points,100,Hit in 3 of his last 4 games,75%
-Malik Beasley,BOS,Over 0.5 Steals,-120,Hit in 9 of his last 12 games,75%
-Malik Beasley,BOS,Over 0.5 STL+BLK,-140,Hit in 9 of his last 12 games,75%
-Tyler Herro,TOR,Under 9.5 REB+AST,104,Hit in 3 of his last 4 games vs TOR,75%
-Herbert Jones,SAC,Over 6.5 REB+AST,-104,Hit in 6 of his last 8 games vs SAC,75%
-Herbert Jones,SAC,Over 2.5 Assists,-102,Hit in 3 of his last 4 home games,75%
-Herbert Jones,SAC,Over 3.5 Rebounds,-132,Hit in 6 of his last 8 games vs SAC,75%
-Herbert Jones,SAC,Under 16.5 PTS+REB,-118,Hit in 6 of his last 8 games,75%
-Jeremiah Robinson-Earl,SAC,Over 0.5 3PTM,104,Hit in 9 of his last 12 games,75%
-Dejounte Murray,SAC,Under 34.5 P+A+R,-113,Hit in 6 of his last 8 games,75%
-Dejounte Murray,SAC,Under 34.5 P+A+R,-113,Hit in 3 of his last 4 games vs SAC,75%
-Dejounte Murray,SAC,Under 28.5 PTS+AST,-111,Hit in 6 of his last 8 games,75%
-Dejounte Murray,SAC,Under 28.5 PTS+AST,-111,Hit in 3 of his last 4 games vs SAC,75%
-Yves Missi,SAC,Over 20.5 PTS+REB,-106,Hit in 3 of his last 4 games,75%
-Yves Missi,SAC,Over 9.5 Rebounds,-113,Hit in 3 of his last 4 games,75%
-Yves Missi,SAC,Over 11.5 REB+AST,100,Hit in 3 of his last 4 games,75%
-CJ McCollum,SAC,Over 3.5 Rebounds,-132,Hit in 3 of his last 4 games,75%
-CJ McCollum,SAC,Over 4.5 Assists,-122,Hit in 3 of his last 4 home games,75%
-CJ McCollum,SAC,Over 8.5 REB+AST,-125,Hit in 3 of his last 4 games vs SAC,75%
-Domantas Sabonis,NOP,Over 19.5 Points,100,Hit in 6 of his last 8 games,75%
-Malik Monk,NOP,Under 3.5 Rebounds,102,Hit in 3 of his last 4 games,75%
-Keon Ellis,NOP,Over 6.5 PTS+REB,-125,Hit in 6 of his last 8 games,75%
-Keon Ellis,NOP,Over 5.5 PTS+AST,-117,Hit in 3 of his last 4 away games,75%
-Keon Ellis,NOP,Over 2.5 REB+AST,-166,Hit in 3 of his last 4 away games,75%
-Keon Ellis,NOP,Over 0.5 3PTM,-224,Hit in 3 of his last 4 games vs NOP,75%
-Keon Ellis,NOP,Over 4.5 Points,-120,Hit in 6 of his last 8 games,75%
-Keon Ellis,NOP,Over 4.5 Points,-120,Hit in 3 of his last 4 games vs NOP,75%
-Keon Ellis,NOP,Over 0.5 Turnovers,-115,Hit in 12 of his last 16 games,75%
-Keegan Murray,NOP,Over 12.5 PTS+AST,-137,Hit in 3 of his last 4 games,75%
-Keegan Murray,NOP,Over 12.5 PTS+AST,-137,Hit in 3 of his last 4 games vs NOP,75%
-Keegan Murray,NOP,Over 1.5 3PTM,-113,Hit in 3 of his last 4 games vs NOP,75%
-Kevin Huerter,NOP,Over 13.5 P+A+R,-129,Hit in 3 of his last 4 games,75%
-Kevin Huerter,NOP,Over 8.5 Points,-129,Hit in 3 of his last 4 games,75%
-Kevin Huerter,NOP,Over 1.5 3PTM,-158,Hit in 3 of his last 4 games,75%
-Kevin Huerter,NOP,Over 10.5 PTS+AST,-113,Hit in 3 of his last 4 games,75%
-De'Aaron Fox,NOP,Over 29.5 PTS+REB,-106,Hit in 3 of his last 4 games vs NOP,75%
-De'Aaron Fox,NOP,Over 4.5 Rebounds,-136,Hit in 3 of his last 4 games vs NOP,75%
-Dejounte Murray,SAC,Over 12.5 REB+AST,-122,Hit in 6 of his last 8 home games,75%
-Herbert Jones,SAC,Over 0.5 Blocks,105,Hit in 3 of his last 4 home games,75%
-Kevin Huerter,NOP,Over 13.5 PTS+REB,-104,Hit in 3 of his last 4 games,75%
-Herbert Jones,SAC,Under 15.5 PTS+AST,-125,Hit in 6 of his last 8 games,75%
-Herbert Jones,SAC,Under 19.5 P+A+R,-120,Hit in 6 of his last 8 games,75%
-Herbert Jones,SAC,Under 1.5 Turnovers,115,Hit in 3 of his last 4 games,75%
-Jeremiah Robinson-Earl,SAC,Over 0.5 Steals,-105,Hit in 3 of his last 4 games,75%
-Jeremiah Robinson-Earl,SAC,Over 0.5 Steals,-105,Hit in 3 of his last 4 home games,75%
-Jeremiah Robinson-Earl,SAC,Over 0.5 STL+BLK,-145,Hit in 3 of his last 4 games,75%
-Jeremiah Robinson-Earl,SAC,Over 0.5 STL+BLK,-145,Hit in 3 of his last 4 home games,75%
-Dejounte Murray,SAC,Under 3.5 Turnovers,-145,Hit in 3 of his last 4 games vs SAC,75%
-Dejounte Murray,SAC,Under 0.5 Blocks,-275,Hit in 3 of his last 4 games vs SAC,75%
-Yves Missi,SAC,Over 0.5 Steals,-145,Hit in 9 of his last 12 games,75%
-Yves Missi,SAC,Over 1.5 STL+BLK,-190,Hit in 6 of his last 8 games,75%
-Yves Missi,SAC,Over 1.5 STL+BLK,-190,Hit in 3 of his last 4 home games,75%
-CJ McCollum,SAC,Over 0.5 Steals,-250,Hit in 3 of his last 4 games vs SAC,75%
-Malik Monk,NOP,Over 1.5 Turnovers,-155,Hit in 3 of his last 4 away games,75%
-Keon Ellis,NOP,Over 0.5 Steals,-145,Hit in 6 of his last 8 games,75%
-Keegan Murray,NOP,Over 20.5 P+A+R,-113,Hit in 3 of his last 4 games,75%
-Kevin Huerter,NOP,Under 0.5 Blocks,-210,Hit in 3 of his last 4 games vs NOP,75%
-Kevin Huerter,NOP,Under 1.5 STL+BLK,-190,Hit in 3 of his last 4 games vs NOP,75%
-De'Aaron Fox,NOP,Over 3.5 Turnovers,130,Hit in 3 of his last 4 away games,75%
-De'Aaron Fox,NOP,Over 29.5 PTS+REB,-106,Hit in 14 of his last 19 away games,74%
-Jrue Holiday,DET,Over 20.5 P+A+R,-104,Hit in 11 of his last 15 home games,73%
-Kevin Huerter,NOP,Over 0.5 Turnovers,-200,Hit in 11 of his last 15 games,73%
-Haywood Highsmith,TOR,Under 11.5 P+A+R,-103,Hit in 8 of his last 11 games,73%
-Jayson Tatum,DET,Under 0.5 Blocks,-185,Hit in 8 of his last 11 games,73%
-Jackie Butler,TOR,Under 1.5 Steals,-160,Hit in 8 of his last 11 games,73%
-RJ Barrett,MIA,Over 0.5 STL+BLK,-225,Hit in 8 of his last 11 away games,73%
-Terrel Harris,BOS,Over 14.5 PTS+AST,-113,Hit in 8 of his last 11 away games,73%
-Dejounte Murray,SAC,Under 7.5 Assists,-142,Hit in 8 of his last 11 games,73%
-B. Boston,SAC,Over 16.5 P+A+R,-120,Hit in 8 of his last 11 home games,73%
-Dejounte Murray,SAC,Under 3.5 Turnovers,-145,Hit in 8 of his last 11 games,73%
-Malik Monk,NOP,Over 0.5 Steals,-185,Hit in 8 of his last 11 games,73%
-Kevin Huerter,NOP,Over 0.5 Steals,-155,Hit in 8 of his last 11 away games,73%
-Isaiah Stewart,BOS,Over 7.5 PTS+AST,-109,Hit in 13 of his last 18 games,72%
-CJ McCollum,SAC,Under 26.5 PTS+AST,-111,Hit in 13 of his last 18 games,72%
-Kristaps Porziņģis,DET,Over 21.5 PTS+AST,-121,Hit in 5 of his last 7 games vs DET,71%
-Jayson Tatum,DET,Over 0.5 Double Double,125,Hit in 5 of his last 7 home games,71%
-DJ White,DET,Over 24.5 P+A+R,-113,Hit in 5 of his last 7 games,71%
-Jalen Duren,BOS,Under 8.5 Points,-106,Hit in 5 of his last 7 games vs BOS,71%
-Jalen Duren,BOS,Under 10.5 PTS+AST,-121,Hit in 5 of his last 7 games vs BOS,71%
-Tim Hardaway,BOS,Over 10.5 PTS+REB,-133,Hit in 5 of his last 7 games,71%
-Tim Hardaway,BOS,Over 8.5 Points,-113,Hit in 5 of his last 7 games,71%
-Tim Hardaway,BOS,Over 12.5 P+A+R,-103,Hit in 5 of his last 7 games,71%
-Cade Cunningham,BOS,Over 6.5 Rebounds,118,Hit in 10 of his last 14 games,71%
-Terrel Harris,BOS,Under 5.5 Rebounds,118,Hit in 5 of his last 7 games,71%
-Jaden Ivey,BOS,Over 3.5 Rebounds,118,Hit in 5 of his last 7 away games,71%
-Jaden Ivey,BOS,Over 3.5 Assists,-113,Hit in 5 of his last 7 games vs BOS,71%
-Jackie Butler,TOR,Under 5.5 Rebounds,-156,Hit in 5 of his last 7 games,71%
-Jackie Butler,TOR,Under 9.5 REB+AST,102,Hit in 5 of his last 7 games,71%
-Jackie Butler,TOR,Over 4.5 Assists,-113,Hit in 5 of his last 7 games vs TOR,71%
-David Robinson,TOR,Under 2.5 3PTM,-164,Hit in 10 of his last 14 games,71%
-J. Jaquez,TOR,Over 3.5 Rebounds,-121,Hit in 10 of his last 14 home games,71%
-Tyler Herro,TOR,Over 4.5 Assists,-122,Hit in 5 of his last 7 home games,71%
-Tyler Herro,TOR,Over 3.5 3PTM,-125,Hit in 5 of his last 7 games,71%
-Haywood Highsmith,TOR,Under 6.5 Points,-102,Hit in 5 of his last 7 games vs TOR,71%
-Haywood Highsmith,TOR,Under 3.5 Rebounds,-118,Hit in 5 of his last 7 games vs TOR,71%
-RJ Barrett,MIA,Over 30.5 PTS+AST,-113,Hit in 5 of his last 7 games,71%
-RJ Barrett,MIA,Over 37.5 P+A+R,-113,Hit in 5 of his last 7 games,71%
-Ochai Agbaji,MIA,Over 1.5 Assists,-142,Hit in 10 of his last 14 away games,71%
-Gradey Dick,MIA,Under 19.5 PTS+REB,-111,Hit in 5 of his last 7 games,71%
-Jabari Brown,DET,Under 4.5 Assists,-132,Hit in 5 of his last 7 games,71%
-Tim Hardaway,BOS,Over 0.5 Turnovers,-123,Hit in 5 of his last 7 games,71%
-Terrel Harris,BOS,Under 0.5 Blocks,-155,Hit in 5 of his last 7 games vs BOS,71%
-Terry Rozier,TOR,Under 0.5 Blocks,-225,Hit in 5 of his last 7 games,71%
-RJ Barrett,MIA,Under 3.5 Turnovers,115,Hit in 10 of his last 14 games vs MIA,71%
-RJ Barrett,MIA,Under 0.5 Steals,-110,Hit in 5 of his last 7 games,71%
-Ochai Agbaji,MIA,Over 0.5 Turnovers,-210,Hit in 5 of his last 7 away games,71%
-Terrel Harris,BOS,Over 14.5 PTS+AST,-113,Hit in 5 of his last 7 games vs BOS,71%
-Isaiah Stewart,BOS,Over 12.5 P+A+R,-125,Hit in 5 of his last 7 games vs BOS,71%
-Isaiah Stewart,BOS,Over 5.5 Points,-133,Hit in 5 of his last 7 games vs BOS,71%
-Isaiah Stewart,BOS,Over 7.5 PTS+AST,-109,Hit in 5 of his last 7 games vs BOS,71%
-Isaiah Stewart,BOS,Over 0.5 Turnovers,-130,Hit in 5 of his last 7 games vs BOS,71%
-Gradey Dick,MIA,Under 15.5 Points,-106,Hit in 5 of his last 7 games,71%
-Jeremiah Robinson-Earl,SAC,Over 5.5 REB+AST,-137,Hit in 10 of his last 14 games,71%
-Jeremiah Robinson-Earl,SAC,Over 4.5 Rebounds,-102,Hit in 10 of his last 14 games,71%
-CJ McCollum,SAC,Under 30.5 P+A+R,-108,Hit in 5 of his last 7 games vs SAC,71%
-CJ McCollum,SAC,Under 3.5 3PTM,-166,Hit in 5 of his last 7 games vs SAC,71%
-Domantas Sabonis,NOP,Over 25.5 PTS+AST,100,Hit in 5 of his last 7 games,71%
-Domantas Sabonis,NOP,Over 32.5 PTS+REB,-113,Hit in 5 of his last 7 games,71%
-Malik Monk,NOP,Over 17.5 Points,-115,Hit in 5 of his last 7 games,71%
-Malik Monk,NOP,Over 21.5 PTS+REB,-113,Hit in 5 of his last 7 games,71%
-DeMar DeRozan,NOP,Over 3.5 Assists,-132,Hit in 5 of his last 7 games,71%
-Keegan Murray,NOP,Under 6.5 Rebounds,-104,Hit in 5 of his last 7 games,71%
-De'Aaron Fox,NOP,Under 2.5 3PTM,-150,Hit in 5 of his last 7 games vs NOP,71%
-De'Aaron Fox,NOP,Over 4.5 Rebounds,-136,Hit in 5 of his last 7 games,71%
-Domantas Sabonis,NOP,Over 2.5 Turnovers,-165,Hit in 10 of his last 14 games,71%
-De'Aaron Fox,NOP,Under 1.5 Steals,-113,Hit in 5 of his last 7 games vs NOP,71%
-B. Boston,SAC,Under 1.5 3PTM,-250,Hit in 5 of his last 7 games,71%
-Keegan Murray,NOP,Under 12.5 Points,-130,Hit in 5 of his last 7 games,71%
-Kevin Huerter,NOP,Under 0.5 Blocks,-210,Hit in 5 of his last 7 games,71%
-Kevin Huerter,NOP,Under 1.5 STL+BLK,-190,Hit in 5 of his last 7 games,71%
-De'Aaron Fox,NOP,Under 1.5 STL+BLK,125,Hit in 5 of his last 7 games vs NOP,71%
-CJ McCollum,SAC,Over 8.5 REB+AST,-125,Hit in 12 of his last 17 home games,71%
-Keon Ellis,NOP,Over 6.5 PTS+REB,-125,Hit in 12 of his last 17 away games,71%
-Kristaps Porziņģis,DET,Under 9.5 REB+AST,-129,Hit in 7 of his last 10 games,70%
-Terrel Harris,BOS,Over 7.5 REB+AST,-137,Hit in 7 of his last 10 games vs BOS,70%
-Jaden Ivey,BOS,Over 3.5 Assists,-113,Hit in 7 of his last 10 away games,70%
-Terry Rozier,TOR,Over 2.5 Rebounds,-106,Hit in 14 of his last 20 games,70%
-Terry Rozier,TOR,Over 13.5 PTS+REB,104,Hit in 14 of his last 20 games,70%
-Terry Rozier,TOR,Over 2.5 Assists,126,Hit in 14 of his last 20 home games,70%
-Terry Rozier,TOR,Over 15.5 P+A+R,-106,Hit in 14 of his last 20 games,70%
-Terry Rozier,TOR,Over 4.5 REB+AST,-142,Hit in 14 of his last 20 games,70%
-DJ White,DET,Over 0.5 Blocks,-160,Hit in 14 of his last 20 games,70%
-Jabari Brown,DET,Over 28.5 PTS+REB,-122,Hit in 14 of his last 20 games,70%
-Jabari Brown,DET,Over 2.5 Turnovers,-105,Hit in 7 of his last 10 games,70%
-Jabari Brown,DET,Over 2.5 Turnovers,-105,Hit in 7 of his last 10 home games,70%
-Terrel Harris,BOS,Over 0.5 Turnovers,-225,Hit in 14 of his last 20 games,70%
-Terrel Harris,BOS,Over 14.5 PTS+AST,-113,Hit in 14 of his last 20 games,70%
-Isaiah Stewart,BOS,Over 0.5 Blocks,-135,Hit in 14 of his last 20 games,70%
-Malik Monk,NOP,Under 8.5 REB+AST,104,Hit in 14 of his last 20 games,70%
-DeMar DeRozan,NOP,Over 7.5 REB+AST,-120,Hit in 7 of his last 10 games,70%
-Yves Missi,SAC,Under 21.5 P+A+R,-106,Hit in 14 of his last 20 games,70%
-B. Boston,SAC,Over 16.5 P+A+R,-120,Hit in 14 of his last 20 games,70%
-Yves Missi,SAC,Under 1.5 Turnovers,-185,Hit in 14 of his last 20 games,70%
-Yves Missi,SAC,Under 1.5 Blocks,-190,Hit in 14 of his last 20 games,70%
-Keegan Murray,NOP,Over 20.5 P+A+R,-113,Hit in 7 of his last 10 away games,70%
-De'Aaron Fox,NOP,Under 0.5 Blocks,-350,Hit in 14 of his last 20 games,70%
-Kristaps Porziņģis,DET,Over 2.5 3PTM,116,DET rank 26th in 3PTM versus PF,26th
-Jalen Duren,BOS,Under 8.5 Rebounds,-106,BOS rank 3rd in REB versus C,3rd
-Jalen Duren,BOS,Under 8.5 Points,-106,BOS rank 2nd in PTS versus C,2nd
-Tim Hardaway,BOS,Under 1.5 Assists,-244,BOS rank 5th in AST against,5th
-Tim Hardaway,BOS,Under 1.5 3PTM,-109,BOS rank 4th in 3PTM against,4th
-Terrel Harris,BOS,Under 1.5 3PTM,-156,BOS rank 4th in 3PTM against,4th
-Terrel Harris,BOS,Over 11.5 Points,-122,BOS rank 29th in PTS versus PF,29th
-Jackie Butler,TOR,Under 5.5 Rebounds,-156,TOR rank 4th in REB versus SF,4th
-Jackie Butler,TOR,Under 19.5 Points,-120,TOR rank 5th in PTS versus SF,5th
-Bam Adebayo,TOR,Over 5.5 Assists,120,TOR rank 30th in AST versus C,30th
-David Robinson,TOR,Under 10.5 Points,-102,TOR rank 5th in PTS versus SF,5th
-Tyler Herro,TOR,Under 5.5 Rebounds,-166,TOR rank 1st in REB versus SG,1st
-Haywood Highsmith,TOR,Under 6.5 Points,-102,TOR rank 5th in PTS versus SF,5th
-Haywood Highsmith,TOR,Under 3.5 Rebounds,-118,TOR rank 4th in REB versus SF,4th
-Haywood Highsmith,TOR,Over 0.5 Turnovers,-120,TOR rank 2nd in TO versus SF,2nd
-Terry Rozier,TOR,Over 10.5 Points,102,TOR rank 29th in PTS versus PG,29th
-Terry Rozier,TOR,Over 1.5 3PTM,-113,TOR rank 28th in 3PTM versus PG,28th
-Jalen Duren,BOS,Over 1.5 Turnovers,-120,BOS rank 1st in TO versus C,1st
-Tyler Herro,TOR,Over 0.5 Steals,-190,TOR rank 26th in STL versus SG,26th
-Jalen Duren,BOS,Under 0.5 Blocks,110,BOS rank 1st in BLK versus C,1st
-David Robinson,TOR,Under 2.5 Assists,-142,TOR rank 5th in AST versus SF,5th
-Haywood Highsmith,TOR,Under 1.5 Assists,-234,TOR rank 5th in AST versus SF,5th
-Jalen Duren,BOS,Under 0.5 Steals,-185,BOS rank 2nd in STL versus C,2nd
-Cade Cunningham,BOS,Over 0.5 Blocks,155,BOS rank 28th in BLK versus PG,28th
-Terrel Harris,BOS,Under 0.5 Blocks,-155,BOS rank 1st in BLK against,1st
-Jaden Ivey,BOS,Under 0.5 Blocks,-350,BOS rank 1st in BLK against,1st
-David Robinson,TOR,Over 0.5 Steals,-165,TOR rank 27th in STL against,27th
-Tyler Herro,TOR,Over 0.5 Blocks,425,TOR rank 26th in BLK against,26th
-Haywood Highsmith,TOR,Over 0.5 Blocks,-185,TOR rank 26th in BLK against,26th
-RJ Barrett,MIA,Under 0.5 Steals,-110,MIA rank 3rd in STL against,3rd
-Gradey Dick,MIA,Under 0.5 Steals,120,MIA rank 3rd in STL against,3rd
-Ochai Agbaji,MIA,Under 0.5 Steals,125,MIA rank 3rd in STL against,3rd
-Jrue Holiday,DET,Under 4.5 Rebounds,-160,DET rank 5th in REB versus PG,5th
-Isaiah Stewart,BOS,Under 5.5 Rebounds,-154,BOS rank 3rd in REB versus C,3rd
-Isaiah Stewart,BOS,Under 1.5 Assists,-142,BOS rank 3rd in AST versus C,3rd
-Isaiah Stewart,BOS,Under 0.5 3PTM,-244,BOS rank 3rd in 3PTM versus C,3rd
-Isaiah Stewart,BOS,Over 0.5 Turnovers,-130,BOS rank 1st in TO versus C,1st
-Isaiah Stewart,BOS,Under 0.5 Steals,-210,BOS rank 2nd in STL versus C,2nd
-R. Holland,BOS,Under 0.5 3PTM,-210,BOS rank 3rd in 3PTM versus SF,3rd
-R. Holland,BOS,Under 4.5 Points,100,BOS rank 1st in PTS versus SF,1st
-R. Holland,BOS,Over 0.5 Turnovers,-165,BOS rank 1st in TO versus SF,1st
-R. Holland,BOS,Under 0.5 Steals,-225,BOS rank 1st in STL versus SF,1st
-Malik Beasley,BOS,Under 1.5 Assists,-199,BOS rank 5th in AST against,5th
-Davion Mitchell,MIA,Over 2.5 Rebounds,-133,MIA rank 28th in REB versus PG,28th
-Tod Murphy,SAC,Under 5.5 Rebounds,-121,SAC rank 5th in REB against,5th
-Jeremiah Robinson-Earl,SAC,Under 1.5 Assists,-194,SAC rank 1st in AST versus PF,1st
-Jeremiah Robinson-Earl,SAC,Over 0.5 3PTM,104,SAC rank 28th in 3PTM versus PF,28th
-Yves Missi,SAC,Over 9.5 Rebounds,-113,SAC rank 28th in REB versus C,28th
-Domantas Sabonis,NOP,Over 5.5 Assists,-111,NOP rank 27th in AST against,27th
-Domantas Sabonis,NOP,Over 0.5 3PTM,-166,NOP rank 27th in 3PTM against,27th
-DeMar DeRozan,NOP,Over 3.5 Assists,-132,NOP rank 27th in AST against,27th
-DeMar DeRozan,NOP,Over 3.5 Rebounds,-128,NOP rank 29th in REB versus SG,29th
-DeMar DeRozan,NOP,Under 0.5 3PTM,112,NOP rank 4th in 3PTM versus SG,4th
-Keon Ellis,NOP,Over 0.5 Assists,-174,NOP rank 27th in AST against,27th
-Keon Ellis,NOP,Over 0.5 Turnovers,-115,NOP rank 3rd in TO versus SG,3rd
-Keegan Murray,NOP,Under 1.5 Assists,-199,NOP rank 4th in AST versus SF,4th
-Keegan Murray,NOP,Over 1.5 3PTM,-113,NOP rank 27th in 3PTM against,27th
-Keegan Murray,NOP,Under 6.5 Rebounds,-104,NOP rank 2nd in REB versus SF,2nd
-Kevin Huerter,NOP,Over 1.5 Assists,-154,NOP rank 27th in AST against,27th
-De'Aaron Fox,NOP,Over 6.5 Assists,-102,NOP rank 29th in AST versus PG,29th
-De'Aaron Fox,NOP,Over 23.5 Points,-128,NOP rank 27th in PTS versus PG,27th
-De'Aaron Fox,NOP,Over 4.5 Rebounds,-136,NOP rank 27th in REB against,27th
-Dejounte Murray,SAC,Under 20.5 Points,-106,SAC rank 2nd in PTS versus PG,2nd
-Dejounte Murray,SAC,Under 0.5 Blocks,-275,SAC rank 4th in BLK versus PG,4th
-Yves Missi,SAC,Under 1.5 Blocks,-190,SAC rank 4th in BLK against,4th
-CJ McCollum,SAC,Under 2.5 Turnovers,-150,SAC rank 28th in TO versus SG,28th
-CJ McCollum,SAC,Under 0.5 Blocks,-200,SAC rank 3rd in BLK versus SG,3rd
-Malik Monk,NOP,Over 4.5 Assists,-154,NOP rank 27th in AST against,27th
-Malik Monk,NOP,Over 1.5 Turnovers,-155,NOP rank 3rd in TO versus SG,3rd
-Kevin Huerter,NOP,Over 0.5 Turnovers,-200,NOP rank 3rd in TO versus SG,3rd
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Kristaps Porziņģis,DET,Over 7.5 Rebounds,-106,Hit in 4 of his last 4 games,100%,True,8.0
+Jrue Holiday,DET,Over 7.5 REB+AST,-140,Hit in 4 of his last 5 games,80%,True,13.0
+Tim Hardaway,BOS,Under 1.5 Assists,-244,Hit in 5 of his last 5 games,100%,True,1.0
+Kristaps Porziņģis,DET,Over 21.5 PTS+AST,-129,Hit in 3 of his last 4 games,75%,True,25.0
+Tim Hardaway,BOS,Over 2.5 Rebounds,116,Hit in 4 of his last 4 away games,100%,True,6.0
+Cade Cunningham,BOS,Over 32.5 PTS+AST,-111,Hit in 4 of his last 4 away games,100%,False,26.0
+Cade Cunningham,BOS,Over 2.5 3PTM,122,Hit in 4 of his last 4 games,100%,False,0.0
+Cade Cunningham,BOS,Over 15.5 REB+AST,-111,Hit in 8 of his last 8 away games,100%,True,16.0
+Cade Cunningham,BOS,Over 8.5 Assists,-132,Hit in 8 of his last 8 away games,100%,False,8.0
+Cade Cunningham,BOS,Over 29.5 PTS+REB,-106,Hit in 5 of his last 5 away games,100%,False,26.0
+Cade Cunningham,BOS,Over 0.5 Double Double,-115,Hit in 8 of his last 8 away games,100%,False,0.0
+Bam Adebayo,TOR,Over 0.5 Double Double,-170,Hit in 4 of his last 4 home games,100%,True,1.0
+Bam Adebayo,TOR,Over 5.5 Assists,120,Hit in 4 of his last 4 home games,100%,False,5.0
+Haywood Highsmith,TOR,Under 11.5 P+A+R,-103,Hit in 7 of his last 7 games vs TOR,100%,False,18.0
+Haywood Highsmith,TOR,Under 1.5 Assists,-234,Hit in 7 of his last 7 games vs TOR,100%,True,0.0
+Terry Rozier,TOR,Over 10.5 Points,102,Hit in 6 of his last 6 games vs TOR,100%,False,7.0
+Terry Rozier,TOR,Over 12.5 PTS+AST,-117,Hit in 6 of his last 6 games vs TOR,100%,False,7.0
+Terry Rozier,TOR,Over 13.5 PTS+REB,104,Hit in 6 of his last 6 games vs TOR,100%,True,15.0
+Terry Rozier,TOR,Over 2.5 Assists,126,Hit in 6 of his last 6 games vs TOR,100%,False,0.0
+Terry Rozier,TOR,Over 1.5 3PTM,-113,Hit in 6 of his last 6 games vs TOR,100%,False,1.0
+Terry Rozier,TOR,Over 15.5 P+A+R,-106,Hit in 6 of his last 6 games vs TOR,100%,False,15.0
+Terry Rozier,TOR,Over 4.5 REB+AST,-142,Hit in 6 of his last 6 games vs TOR,100%,True,8.0
+RJ Barrett,MIA,Under 5.5 Assists,102,Hit in 5 of his last 5 games,100%,False,10.0
+RJ Barrett,MIA,Over 23.5 Points,-128,Hit in 4 of his last 4 games vs MIA,100%,False,15.0
+Gradey Dick,MIA,Under 1.5 Assists,112,Hit in 5 of his last 5 games,100%,False,2.0
+Gradey Dick,MIA,Under 1.5 Turnovers,-120,Hit in 4 of his last 4 games,100%,True,0.0
+Ochai Agbaji,MIA,Over 1.5 Assists,-142,Hit in 4 of his last 4 games vs MIA,100%,False,0.0
+Davion Mitchell,MIA,Under 1.5 3PTM,-260,Hit in 6 of his last 6 games vs MIA,100%,True,1.0
+Tim Hardaway,BOS,Over 0.5 Turnovers,-123,Hit in 4 of his last 4 away games,100%,True,1.0
+Jaden Ivey,BOS,Over 2.5 Turnovers,-135,Hit in 4 of his last 4 away games,100%,False,0.0
+Bam Adebayo,TOR,Under 1.5 Steals,-190,Hit in 5 of his last 5 games,100%,True,0.0
+Jaden Ivey,BOS,Under 1.5 STL+BLK,-200,Hit in 9 of his last 9 games vs BOS,100%,True,1.0
+Bam Adebayo,TOR,Over 16.5 REB+AST,-102,Hit in 4 of his last 4 home games,100%,True,21.0
+Bam Adebayo,TOR,Under 2.5 STL+BLK,-185,Hit in 5 of his last 5 games,100%,True,1.0
+Terry Rozier,TOR,Over 0.5 Turnovers,-210,Hit in 6 of his last 6 games vs TOR,100%,True,1.0
+RJ Barrett,MIA,Under 0.5 Steals,-110,Hit in 7 of his last 7 games vs MIA,100%,True,0.0
+Payton Pritchard,DET,Over 13.5 Points,-120,Hit in 4 of his last 4 games vs DET,100%,True,41.0
+Kristaps Porziņģis,DET,Over 28.5 P+A+R,-125,Hit in 4 of his last 4 games,100%,True,33.0
+Kristaps Porziņģis,DET,Over 26.5 PTS+REB,-125,Hit in 4 of his last 4 games,100%,True,31.0
+Cade Cunningham,BOS,Over 38.5 P+A+R,-118,Hit in 5 of his last 5 away games,100%,False,34.0
+Cade Cunningham,BOS,Over 22.5 Points,-118,Hit in 6 of his last 6 games,100%,False,18.0
+Cade Cunningham,BOS,Over 22.5 Points,-118,Hit in 4 of his last 4 away games,100%,False,18.0
+Malik Beasley,BOS,Under 1.5 Assists,-199,Hit in 5 of his last 5 games vs BOS,100%,False,3.0
+Malik Beasley,BOS,Over 2.5 Rebounds,108,Hit in 4 of his last 4 games,100%,True,4.0
+Malik Beasley,BOS,Over 0.5 Steals,-120,Hit in 5 of his last 5 away games,100%,False,0.0
+Malik Beasley,BOS,Over 0.5 STL+BLK,-140,Hit in 5 of his last 5 away games,100%,False,0.0
+Davion Mitchell,MIA,Under 7.5 Points,-102,Hit in 4 of his last 4 games vs MIA,100%,False,14.0
+Davion Mitchell,MIA,Under 8.5 REB+AST,-133,Hit in 9 of his last 9 games,100%,True,8.0
+Davion Mitchell,MIA,Under 8.5 REB+AST,-133,Hit in 6 of his last 6 games vs MIA,100%,True,8.0
+Davion Mitchell,MIA,Under 13.5 PTS+AST,-111,Hit in 10 of his last 10 games,100%,False,20.0
+Davion Mitchell,MIA,Under 13.5 PTS+AST,-111,Hit in 6 of his last 6 games vs MIA,100%,False,20.0
+Davion Mitchell,MIA,Under 5.5 Assists,-128,Hit in 9 of his last 9 games,100%,False,6.0
+Davion Mitchell,MIA,Under 5.5 Assists,-128,Hit in 6 of his last 6 games vs MIA,100%,False,6.0
+Davion Mitchell,MIA,Over 2.5 Rebounds,-133,Hit in 4 of his last 4 games,100%,False,2.0
+Davion Mitchell,MIA,Under 10.5 PTS+REB,-125,Hit in 6 of his last 6 games vs MIA,100%,False,16.0
+Davion Mitchell,MIA,Under 15.5 P+A+R,-109,Hit in 11 of his last 11 games,100%,False,22.0
+Davion Mitchell,MIA,Under 15.5 P+A+R,-109,Hit in 6 of his last 6 games vs MIA,100%,False,22.0
+Davion Mitchell,MIA,Under 1.5 Turnovers,-105,Hit in 5 of his last 5 games,100%,True,1.0
+Davion Mitchell,MIA,Over 0.5 STL+BLK,-250,Hit in 6 of his last 6 games,100%,False,0.0
+Herbert Jones,SAC,Over 3.5 Rebounds,-132,Hit in 5 of his last 5 home games,100%,True,7.0
+Dejounte Murray,SAC,Over 5.5 Rebounds,102,Hit in 4 of his last 4 games vs SAC,100%,True,7.0
+Dejounte Murray,SAC,Under 7.5 Assists,-142,Hit in 4 of his last 4 games vs SAC,100%,False,9.0
+Yves Missi,SAC,Under 1.5 Assists,-174,Hit in 9 of his last 9 games,100%,True,1.0
+CJ McCollum,SAC,Under 3.5 3PTM,-166,Hit in 6 of his last 6 games,100%,False,6.0
+Malik Monk,NOP,Over 17.5 Points,-115,Hit in 4 of his last 4 away games,100%,False,7.0
+Malik Monk,NOP,Over 22.5 PTS+AST,-125,Hit in 4 of his last 4 away games,100%,False,16.0
+Malik Monk,NOP,Over 2.5 3PTM,-125,Hit in 4 of his last 4 away games,100%,False,1.0
+Malik Monk,NOP,Over 21.5 PTS+REB,-113,Hit in 4 of his last 4 away games,100%,False,10.0
+DeMar DeRozan,NOP,Over 25.5 PTS+AST,-108,Hit in 4 of his last 4 games vs NOP,100%,True,37.0
+DeMar DeRozan,NOP,Over 29.5 P+A+R,-111,Hit in 4 of his last 4 games vs NOP,100%,True,40.0
+DeMar DeRozan,NOP,Over 21.5 Points,-104,Hit in 4 of his last 4 games vs NOP,100%,True,35.0
+DeMar DeRozan,NOP,Over 25.5 PTS+REB,-106,Hit in 4 of his last 4 games vs NOP,100%,True,38.0
+Keon Ellis,NOP,Under 2.5 Rebounds,-174,Hit in 6 of his last 6 games vs NOP,100%,False,4.0
+Kevin Huerter,NOP,Over 1.5 Assists,-154,Hit in 6 of his last 6 games vs NOP,100%,False,1.0
+Kevin Huerter,NOP,Over 1.5 3PTM,-158,Hit in 4 of his last 4 games vs NOP,100%,False,1.0
+De'Aaron Fox,NOP,Under 30.5 PTS+AST,-104,Hit in 4 of his last 4 games,100%,True,28.0
+Malik Monk,NOP,Over 26.5 P+A+R,-122,Hit in 4 of his last 4 away games,100%,False,19.0
+DeMar DeRozan,NOP,Under 1.5 Steals,-215,Hit in 4 of his last 4 games,100%,False,4.0
+DeMar DeRozan,NOP,Under 1.5 Steals,-215,Hit in 4 of his last 4 games vs NOP,100%,False,4.0
+De'Aaron Fox,NOP,Under 36.5 P+A+R,-122,Hit in 4 of his last 4 games,100%,True,35.0
+Herbert Jones,SAC,Under 2.5 STL+BLK,-150,Hit in 4 of his last 4 games vs SAC,100%,True,1.0
+Dejounte Murray,SAC,Over 1.5 STL+BLK,-160,Hit in 5 of his last 5 games,100%,True,3.0
+CJ McCollum,SAC,Under 2.5 Turnovers,-150,Hit in 8 of his last 8 games,100%,True,2.0
+CJ McCollum,SAC,Over 1.5 STL+BLK,100,Hit in 4 of his last 4 games vs SAC,100%,False,0.0
+Domantas Sabonis,NOP,Over 0.5 Steals,-175,Hit in 4 of his last 4 games vs NOP,100%,True,2.0
+Malik Monk,NOP,Over 4.5 Assists,-154,Hit in 4 of his last 4 games vs NOP,100%,True,9.0
+Malik Monk,NOP,Over 4.5 Assists,-154,Hit in 4 of his last 4 away games,100%,True,9.0
+Malik Monk,NOP,Under 0.5 Blocks,-145,Hit in 4 of his last 4 games,100%,False,1.0
+Malik Monk,NOP,Under 1.5 STL+BLK,-135,Hit in 4 of his last 4 games,100%,False,2.0
+Keegan Murray,NOP,Over 0.5 Turnovers,-210,Hit in 6 of his last 6 games,100%,False,0.0
+Keegan Murray,NOP,Over 1.5 STL+BLK,-185,Hit in 11 of his last 11 games,100%,False,0.0
+Keegan Murray,NOP,Over 1.5 STL+BLK,-185,Hit in 5 of his last 5 away games,100%,False,0.0
+De'Aaron Fox,NOP,Over 3.5 Turnovers,130,Hit in 4 of his last 4 games vs NOP,100%,True,5.0
+De'Aaron Fox,NOP,Under 0.5 Blocks,-350,Hit in 7 of his last 7 games vs NOP,100%,False,1.0
+Terry Rozier,TOR,Over 12.5 PTS+AST,-117,Hit in 19 of his last 20 home games,95%,False,7.0
+Terry Rozier,TOR,Over 13.5 PTS+REB,104,Hit in 19 of his last 20 home games,95%,True,15.0
+Terry Rozier,TOR,Over 15.5 P+A+R,-106,Hit in 19 of his last 20 home games,95%,False,15.0
+De'Aaron Fox,NOP,Over 4.5 Rebounds,-136,Hit in 14 of his last 15 away games,93%,True,7.0
+Cade Cunningham,BOS,Over 15.5 REB+AST,-111,Hit in 13 of his last 14 games,93%,True,16.0
+Cade Cunningham,BOS,Over 8.5 Assists,-132,Hit in 13 of his last 14 games,93%,False,8.0
+Terry Rozier,TOR,Over 1.5 3PTM,-113,Hit in 11 of his last 12 home games,92%,False,1.0
+Domantas Sabonis,NOP,Over 2.5 Turnovers,-165,Hit in 10 of his last 11 away games,91%,False,1.0
+Terry Rozier,TOR,Over 10.5 Points,102,Hit in 18 of his last 20 home games,90%,False,7.0
+RJ Barrett,MIA,Under 5.5 Assists,102,Hit in 9 of his last 10 games vs MIA,90%,False,10.0
+Keegan Murray,NOP,Over 0.5 Blocks,-225,Hit in 9 of his last 10 games,90%,False,0.0
+Davion Mitchell,MIA,Under 0.5 Blocks,-400,Hit in 17 of his last 19 games,89%,True,0.0
+Tim Hardaway,BOS,Under 1.5 Assists,-244,Hit in 8 of his last 9 games vs BOS,89%,True,1.0
+Cade Cunningham,BOS,Over 0.5 Double Double,-115,Hit in 8 of his last 9 games,89%,False,0.0
+Malik Beasley,BOS,Over 3.5 3PTM,134,Hit in 8 of his last 9 away games,89%,False,0.0
+Jaden Ivey,BOS,Over 0.5 Steals,-185,Hit in 8 of his last 9 games,89%,True,1.0
+Terry Rozier,TOR,Under 0.5 Steals,-125,Hit in 8 of his last 9 games,89%,False,2.0
+Malik Beasley,BOS,Over 15.5 PTS+REB,-106,Hit in 8 of his last 9 away games,89%,False,9.0
+Malik Beasley,BOS,Over 13.5 Points,-118,Hit in 8 of his last 9 away games,89%,False,5.0
+Malik Beasley,BOS,Over 14.5 PTS+AST,-109,Hit in 8 of his last 9 away games,89%,False,8.0
+Malik Beasley,BOS,Over 16.5 P+A+R,-117,Hit in 8 of his last 9 away games,89%,False,12.0
+Domantas Sabonis,NOP,Under 13.5 Rebounds,-138,Hit in 8 of his last 9 games vs NOP,89%,False,20.0
+Bam Adebayo,TOR,Under 16.5 Points,102,Hit in 7 of his last 8 games,88%,False,23.0
+Ochai Agbaji,MIA,Over 5.5 REB+AST,-154,Hit in 7 of his last 8 away games,88%,False,3.0
+Ochai Agbaji,MIA,Over 4.5 Rebounds,114,Hit in 7 of his last 8 away games,88%,False,3.0
+Davion Mitchell,MIA,Under 1.5 3PTM,-260,Hit in 14 of his last 16 games,88%,True,1.0
+Jaden Ivey,BOS,Over 0.5 Steals,-185,Hit in 7 of his last 8 away games,88%,True,1.0
+Tyler Herro,TOR,Under 1.5 STL+BLK,-250,Hit in 7 of his last 8 games vs TOR,88%,True,0.0
+Malik Beasley,BOS,Over 15.5 PTS+REB,-106,Hit in 14 of his last 16 games,88%,False,9.0
+Malik Beasley,BOS,Over 13.5 Points,-118,Hit in 14 of his last 16 games,88%,False,5.0
+Malik Beasley,BOS,Over 14.5 PTS+AST,-109,Hit in 14 of his last 16 games,88%,False,8.0
+Malik Beasley,BOS,Over 16.5 P+A+R,-117,Hit in 14 of his last 16 games,88%,False,12.0
+Herbert Jones,SAC,Over 2.5 Assists,-102,Hit in 7 of his last 8 games vs SAC,88%,True,4.0
+Herbert Jones,SAC,Under 12.5 Points,-120,Hit in 7 of his last 8 games,88%,True,9.0
+Domantas Sabonis,NOP,Over 5.5 Assists,-111,Hit in 7 of his last 8 games vs NOP,88%,False,3.0
+DeMar DeRozan,NOP,Over 25.5 PTS+AST,-108,Hit in 14 of his last 16 away games,88%,True,37.0
+DeMar DeRozan,NOP,Over 25.5 PTS+REB,-106,Hit in 7 of his last 8 away games,88%,True,38.0
+Keon Ellis,NOP,Over 5.5 PTS+AST,-117,Hit in 7 of his last 8 games,88%,False,2.0
+Keon Ellis,NOP,Over 0.5 3PTM,-224,Hit in 7 of his last 8 games,88%,False,0.0
+Keegan Murray,NOP,Under 6.5 Rebounds,-104,Hit in 7 of his last 8 games vs NOP,88%,False,9.0
+Keegan Murray,NOP,Under 8.5 REB+AST,-148,Hit in 7 of his last 8 games vs NOP,88%,False,9.0
+CJ McCollum,SAC,Under 0.5 Blocks,-200,Hit in 7 of his last 8 games,88%,True,0.0
+Kevin Huerter,NOP,Over 0.5 Turnovers,-200,Hit in 7 of his last 8 away games,88%,True,1.0
+Cade Cunningham,BOS,Over 29.5 PTS+REB,-106,Hit in 6 of his last 7 games,86%,False,26.0
+Jaden Ivey,BOS,Over 6.5 REB+AST,-138,Hit in 12 of his last 14 games,86%,False,5.0
+Bam Adebayo,TOR,Over 0.5 Double Double,-170,Hit in 6 of his last 7 games,86%,True,1.0
+Bam Adebayo,TOR,Over 0.5 3PTM,-199,Hit in 6 of his last 7 home games,86%,True,1.0
+Bam Adebayo,TOR,Over 5.5 Assists,120,Hit in 6 of his last 7 games,86%,False,5.0
+Haywood Highsmith,TOR,Under 10.5 PTS+REB,-113,Hit in 6 of his last 7 games vs TOR,86%,False,18.0
+Haywood Highsmith,TOR,Under 8.5 PTS+AST,-125,Hit in 6 of his last 7 games vs TOR,86%,False,15.0
+RJ Barrett,MIA,Over 1.5 3PTM,-146,Hit in 6 of his last 7 games,86%,False,1.0
+Ochai Agbaji,MIA,Over 1.5 Assists,-142,Hit in 6 of his last 7 games,86%,False,0.0
+Cade Cunningham,BOS,Over 0.5 Steals,-175,Hit in 6 of his last 7 away games,86%,False,0.0
+Jaden Ivey,BOS,Under 0.5 Blocks,-350,Hit in 6 of his last 7 games,86%,True,0.0
+Jaden Ivey,BOS,Under 1.5 STL+BLK,-200,Hit in 6 of his last 7 games,86%,True,1.0
+Bam Adebayo,TOR,Over 16.5 REB+AST,-102,Hit in 6 of his last 7 games,86%,True,21.0
+Terry Rozier,TOR,Over 0.5 STL+BLK,-225,Hit in 12 of his last 14 home games,86%,True,2.0
+Payton Pritchard,DET,Over 13.5 Points,-120,Hit in 6 of his last 7 games,86%,True,41.0
+Kristaps Porziņģis,DET,Over 28.5 P+A+R,-125,Hit in 6 of his last 7 games vs DET,86%,True,33.0
+Cade Cunningham,BOS,Over 38.5 P+A+R,-118,Hit in 6 of his last 7 games,86%,False,34.0
+Isaiah Stewart,BOS,Under 0.5 3PTM,-244,Hit in 6 of his last 7 games,86%,True,0.0
+Isaiah Stewart,BOS,Under 1.5 STL+BLK,-210,Hit in 6 of his last 7 games vs BOS,86%,True,1.0
+Malik Beasley,BOS,Over 3.5 REB+AST,-117,Hit in 6 of his last 7 away games,86%,True,7.0
+Herbert Jones,SAC,Under 1.5 3PTM,-140,Hit in 6 of his last 7 games vs SAC,86%,True,1.0
+Domantas Sabonis,NOP,Over 19.5 Points,100,Hit in 6 of his last 7 away games,86%,True,34.0
+Malik Monk,NOP,Over 22.5 PTS+AST,-125,Hit in 6 of his last 7 games,86%,False,16.0
+Malik Monk,NOP,Over 2.5 3PTM,-125,Hit in 6 of his last 7 games,86%,False,1.0
+Malik Monk,NOP,Under 8.5 REB+AST,104,Hit in 6 of his last 7 games vs NOP,86%,False,12.0
+Keon Ellis,NOP,Over 2.5 REB+AST,-166,Hit in 6 of his last 7 games,86%,True,4.0
+Keegan Murray,NOP,Under 1.5 Assists,-199,Hit in 6 of his last 7 games,86%,True,0.0
+Kevin Huerter,NOP,Over 8.5 Points,-129,Hit in 6 of his last 7 games vs NOP,86%,True,9.0
+Malik Monk,NOP,Over 26.5 P+A+R,-122,Hit in 6 of his last 7 games,86%,False,19.0
+Keegan Murray,NOP,Under 8.5 REB+AST,-148,Hit in 6 of his last 7 games,86%,False,9.0
+CJ McCollum,SAC,Over 0.5 Steals,-250,Hit in 6 of his last 7 home games,86%,False,0.0
+CJ McCollum,SAC,Over 1.5 STL+BLK,100,Hit in 6 of his last 7 home games,86%,False,0.0
+Malik Monk,NOP,Over 4.5 Assists,-154,Hit in 6 of his last 7 games,86%,True,9.0
+Malik Monk,NOP,Under 0.5 Blocks,-145,Hit in 6 of his last 7 games vs NOP,86%,False,1.0
+Tyler Herro,TOR,Under 1.5 STL+BLK,-250,Hit in 17 of his last 20 games,85%,True,0.0
+Bam Adebayo,TOR,Over 0.5 3PTM,-199,Hit in 11 of his last 13 games,85%,True,1.0
+Terry Rozier,TOR,Over 0.5 Turnovers,-210,Hit in 11 of his last 13 home games,85%,True,1.0
+Keegan Murray,NOP,Over 0.5 Turnovers,-210,Hit in 11 of his last 13 away games,85%,False,0.0
+Keegan Murray,NOP,Over 0.5 Steals,-190,Hit in 11 of his last 13 games,85%,False,0.0
+Keegan Murray,NOP,Over 12.5 PTS+AST,-137,Hit in 16 of his last 19 away games,84%,True,24.0
+Tim Hardaway,BOS,Under 1.5 3PTM,-109,Hit in 5 of his last 6 games vs BOS,83%,True,0.0
+Tim Hardaway,BOS,Over 2.5 Rebounds,116,Hit in 5 of his last 6 games,83%,True,6.0
+Cade Cunningham,BOS,Over 32.5 PTS+AST,-111,Hit in 5 of his last 6 games,83%,False,26.0
+Jaden Ivey,BOS,Over 15.5 Points,-113,Hit in 5 of his last 6 games vs BOS,83%,False,14.0
+Jaden Ivey,BOS,Over 3.5 Rebounds,118,Hit in 5 of his last 6 games vs BOS,83%,False,3.0
+Jaden Ivey,BOS,Over 18.5 PTS+REB,-122,Hit in 5 of his last 6 games vs BOS,83%,False,17.0
+Gradey Dick,MIA,Over 3.5 Rebounds,-108,Hit in 5 of his last 6 games,83%,True,4.0
+Ochai Agbaji,MIA,Under 1.5 3PTM,-164,Hit in 5 of his last 6 games vs MIA,83%,True,1.0
+Bam Adebayo,TOR,Under 0.5 Blocks,125,Hit in 5 of his last 6 games vs TOR,83%,False,1.0
+Tyler Herro,TOR,Over 0.5 Steals,-190,Hit in 5 of his last 6 home games,83%,False,0.0
+Cade Cunningham,BOS,Under 1.5 STL+BLK,-175,Hit in 5 of his last 6 games,83%,True,1.0
+Haywood Highsmith,TOR,Under 1.5 Steals,-225,Hit in 10 of his last 12 games,83%,True,0.0
+Haywood Highsmith,TOR,Under 1.5 Steals,-225,Hit in 5 of his last 6 games vs TOR,83%,True,0.0
+Terry Rozier,TOR,Under 0.5 Blocks,-225,Hit in 5 of his last 6 games vs TOR,83%,True,0.0
+RJ Barrett,MIA,Under 0.5 Blocks,-300,Hit in 5 of his last 6 games vs MIA,83%,False,3.0
+Ochai Agbaji,MIA,Under 1.5 STL+BLK,-150,Hit in 5 of his last 6 games,83%,True,1.0
+Jrue Holiday,DET,Under 1.5 Steals,-215,Hit in 5 of his last 6 games,83%,True,0.0
+Isaiah Stewart,BOS,Under 5.5 Rebounds,-154,Hit in 5 of his last 6 games,83%,True,5.0
+Isaiah Stewart,BOS,Under 11.5 PTS+REB,-129,Hit in 5 of his last 6 games,83%,True,7.0
+Malik Beasley,BOS,Over 2.5 Rebounds,108,Hit in 5 of his last 6 games vs BOS,83%,True,4.0
+Davion Mitchell,MIA,Under 0.5 Blocks,-400,Hit in 5 of his last 6 games vs MIA,83%,True,0.0
+Davion Mitchell,MIA,Over 0.5 Steals,-155,Hit in 5 of his last 6 games,83%,False,0.0
+Davion Mitchell,MIA,Over 0.5 Steals,-155,Hit in 5 of his last 6 away games,83%,False,0.0
+Davion Mitchell,MIA,Over 0.5 STL+BLK,-250,Hit in 5 of his last 6 away games,83%,False,0.0
+Domantas Sabonis,NOP,Over 25.5 PTS+AST,100,Hit in 5 of his last 6 away games,83%,True,37.0
+Domantas Sabonis,NOP,Over 0.5 3PTM,-166,Hit in 5 of his last 6 away games,83%,True,1.0
+Domantas Sabonis,NOP,Over 32.5 PTS+REB,-113,Hit in 5 of his last 6 away games,83%,True,54.0
+Domantas Sabonis,NOP,Over 38.5 P+A+R,-113,Hit in 5 of his last 6 away games,83%,True,57.0
+Malik Monk,NOP,Under 3.5 Rebounds,102,Hit in 5 of his last 6 games vs NOP,83%,True,3.0
+Keon Ellis,NOP,Under 7.5 P+A+R,-117,Hit in 5 of his last 6 games vs NOP,83%,True,6.0
+Keegan Murray,NOP,Under 1.5 Assists,-199,Hit in 5 of his last 6 games vs NOP,83%,True,0.0
+Kevin Huerter,NOP,Over 13.5 P+A+R,-129,Hit in 5 of his last 6 games vs NOP,83%,False,13.0
+Kevin Huerter,NOP,Over 10.5 PTS+AST,-113,Hit in 5 of his last 6 games vs NOP,83%,False,10.0
+Herbert Jones,SAC,Over 0.5 Blocks,105,Hit in 5 of his last 6 games vs SAC,83%,False,0.0
+Domantas Sabonis,NOP,Over 2.5 Turnovers,-165,Hit in 5 of his last 6 games vs NOP,83%,False,1.0
+Kevin Huerter,NOP,Over 13.5 PTS+REB,-104,Hit in 5 of his last 6 games vs NOP,83%,False,12.0
+Yves Missi,SAC,Over 0.5 Steals,-145,Hit in 5 of his last 6 home games,83%,False,0.0
+CJ McCollum,SAC,Over 0.5 Steals,-250,Hit in 5 of his last 6 games,83%,False,0.0
+Keon Ellis,NOP,Under 0.5 Blocks,-130,Hit in 5 of his last 6 games vs NOP,83%,True,0.0
+Keon Ellis,NOP,Under 1.5 STL+BLK,-155,Hit in 5 of his last 6 games vs NOP,83%,True,1.0
+Terry Rozier,TOR,Over 2.5 Rebounds,-106,Hit in 14 of his last 17 home games,82%,True,8.0
+Malik Beasley,BOS,Over 3.5 REB+AST,-117,Hit in 9 of his last 11 games,82%,True,7.0
+DeMar DeRozan,NOP,Over 21.5 Points,-104,Hit in 13 of his last 16 away games,81%,True,35.0
+Kristaps Porziņģis,DET,Over 1.5 Assists,-184,Hit in 4 of his last 5 games,80%,True,2.0
+Jrue Holiday,DET,Over 15.5 PTS+REB,-115,Hit in 4 of his last 5 games vs DET,80%,True,23.0
+Cade Cunningham,BOS,Over 6.5 Rebounds,118,Hit in 4 of his last 5 away games,80%,True,8.0
+Jaden Ivey,BOS,Over 15.5 Points,-113,Hit in 4 of his last 5 away games,80%,False,14.0
+Jaden Ivey,BOS,Over 6.5 REB+AST,-138,Hit in 8 of his last 10 away games,80%,False,5.0
+Jaden Ivey,BOS,Over 3.5 Assists,-113,Hit in 4 of his last 5 games,80%,False,2.0
+Jaden Ivey,BOS,Over 1.5 3PTM,-115,Hit in 4 of his last 5 away games,80%,True,2.0
+Bam Adebayo,TOR,Under 28.5 PTS+REB,-118,Hit in 4 of his last 5 games vs TOR,80%,False,39.0
+Bam Adebayo,TOR,Under 22.5 PTS+AST,-108,Hit in 4 of his last 5 games,80%,False,28.0
+Bam Adebayo,TOR,Under 22.5 PTS+AST,-108,Hit in 4 of his last 5 games vs TOR,80%,False,28.0
+Bam Adebayo,TOR,Under 10.5 Rebounds,100,Hit in 4 of his last 5 games vs TOR,80%,False,16.0
+Tyler Herro,TOR,Under 33.5 P+A+R,-108,Hit in 4 of his last 5 games vs TOR,80%,False,39.0
+Tyler Herro,TOR,Under 23.5 Points,-120,Hit in 4 of his last 5 games vs TOR,80%,False,31.0
+Tyler Herro,TOR,Under 28.5 PTS+REB,-113,Hit in 4 of his last 5 games vs TOR,80%,False,35.0
+Tyler Herro,TOR,Under 28.5 PTS+AST,-115,Hit in 4 of his last 5 games vs TOR,80%,False,35.0
+Terry Rozier,TOR,Over 4.5 REB+AST,-142,Hit in 16 of his last 20 home games,80%,True,8.0
+RJ Barrett,MIA,Over 6.5 Rebounds,-104,Hit in 4 of his last 5 games,80%,True,11.0
+RJ Barrett,MIA,Over 6.5 Rebounds,-104,Hit in 4 of his last 5 games vs MIA,80%,True,11.0
+RJ Barrett,MIA,Under 12.5 REB+AST,-111,Hit in 12 of his last 15 games vs MIA,80%,False,21.0
+Ochai Agbaji,MIA,Under 9.5 Points,-106,Hit in 4 of his last 5 games,80%,False,15.0
+Ochai Agbaji,MIA,Under 14.5 PTS+REB,-122,Hit in 4 of his last 5 games,80%,False,18.0
+Ochai Agbaji,MIA,Under 11.5 PTS+AST,-113,Hit in 4 of his last 5 games,80%,False,15.0
+Ochai Agbaji,MIA,Under 16.5 P+A+R,-129,Hit in 4 of his last 5 games,80%,False,18.0
+Ochai Agbaji,MIA,Under 1.5 3PTM,-164,Hit in 4 of his last 5 games,80%,True,1.0
+Cade Cunningham,BOS,Over 0.5 Steals,-175,Hit in 4 of his last 5 games,80%,False,0.0
+Malik Beasley,BOS,Over 3.5 3PTM,134,Hit in 12 of his last 15 games,80%,False,0.0
+Cade Cunningham,BOS,Over 0.5 Blocks,155,Hit in 4 of his last 5 games vs BOS,80%,True,1.0
+Terry Rozier,TOR,Over 0.5 Turnovers,-210,Hit in 16 of his last 20 games,80%,True,1.0
+RJ Barrett,MIA,Over 0.5 STL+BLK,-225,Hit in 4 of his last 5 games,80%,True,3.0
+Ochai Agbaji,MIA,Over 0.5 Blocks,105,Hit in 4 of his last 5 games vs MIA,80%,False,0.0
+Payton Pritchard,DET,Over 13.5 Points,-120,Hit in 4 of his last 5 home games,80%,True,41.0
+Jrue Holiday,DET,Over 8.5 REB+AST,-111,Hit in 4 of his last 5 games vs DET,80%,True,13.0
+Jrue Holiday,DET,Over 11.5 Points,-104,Hit in 4 of his last 5 games vs DET,80%,True,16.0
+Jrue Holiday,DET,Over 20.5 P+A+R,-104,Hit in 4 of his last 5 games vs DET,80%,True,29.0
+Jrue Holiday,DET,Under 1.5 Steals,-215,Hit in 4 of his last 5 games vs DET,80%,True,0.0
+Jrue Holiday,DET,Over 1.5 Turnovers,170,Hit in 4 of his last 5 games vs DET,80%,False,1.0
+Isaiah Stewart,BOS,Under 1.5 Assists,-142,Hit in 4 of his last 5 games vs BOS,80%,True,0.0
+Malik Beasley,BOS,Under 1.5 Assists,-199,Hit in 4 of his last 5 games,80%,False,3.0
+Malik Beasley,BOS,Under 0.5 Turnovers,140,Hit in 4 of his last 5 games vs BOS,80%,True,0.0
+Davion Mitchell,MIA,Under 7.5 Points,-102,Hit in 8 of his last 10 games,80%,False,14.0
+Davion Mitchell,MIA,Under 10.5 PTS+REB,-125,Hit in 8 of his last 10 games,80%,False,16.0
+Davion Mitchell,MIA,Under 1.5 Turnovers,-105,Hit in 4 of his last 5 games vs MIA,80%,True,1.0
+Herbert Jones,SAC,Over 6.5 REB+AST,-104,Hit in 4 of his last 5 home games,80%,True,11.0
+Herbert Jones,SAC,Under 12.5 Points,-120,Hit in 4 of his last 5 games vs SAC,80%,True,9.0
+Herbert Jones,SAC,Under 16.5 PTS+REB,-118,Hit in 4 of his last 5 games vs SAC,80%,True,16.0
+Dejounte Murray,SAC,Under 2.5 3PTM,-170,Hit in 4 of his last 5 games,80%,True,2.0
+Dejounte Murray,SAC,Under 26.5 PTS+REB,-113,Hit in 4 of his last 5 games,80%,False,31.0
+Domantas Sabonis,NOP,Over 0.5 3PTM,-166,Hit in 8 of his last 10 games,80%,True,1.0
+Domantas Sabonis,NOP,Over 18.5 REB+AST,-122,Hit in 4 of his last 5 away games,80%,True,23.0
+Keon Ellis,NOP,Over 0.5 3PTM,-224,Hit in 8 of his last 10 away games,80%,False,0.0
+Keon Ellis,NOP,Over 0.5 Assists,-174,Hit in 8 of his last 10 games,80%,False,0.0
+Keon Ellis,NOP,Over 0.5 Assists,-174,Hit in 4 of his last 5 away games,80%,False,0.0
+Kevin Huerter,NOP,Over 1.5 Assists,-154,Hit in 4 of his last 5 games,80%,False,1.0
+De'Aaron Fox,NOP,Over 6.5 Assists,-102,Hit in 4 of his last 5 games,80%,True,8.0
+De'Aaron Fox,NOP,Over 23.5 Points,-128,Hit in 4 of his last 5 games vs NOP,80%,False,20.0
+Dejounte Murray,SAC,Over 12.5 REB+AST,-122,Hit in 4 of his last 5 games,80%,True,16.0
+De'Aaron Fox,NOP,Over 11.5 REB+AST,-113,Hit in 4 of his last 5 games,80%,True,15.0
+Herbert Jones,SAC,Over 1.5 Steals,-132,Hit in 4 of his last 5 home games,80%,False,1.0
+Dejounte Murray,SAC,Over 1.5 Steals,102,Hit in 4 of his last 5 games,80%,False,1.0
+Dejounte Murray,SAC,Over 1.5 Steals,102,Hit in 4 of his last 5 home games,80%,False,1.0
+Domantas Sabonis,NOP,Under 0.5 Blocks,-225,Hit in 4 of his last 5 games,80%,True,0.0
+Dejounte Murray,SAC,Under 20.5 Points,-106,Hit in 4 of his last 5 games,80%,False,24.0
+Herbert Jones,SAC,Under 15.5 PTS+AST,-125,Hit in 4 of his last 5 games vs SAC,80%,True,13.0
+Herbert Jones,SAC,Under 19.5 P+A+R,-120,Hit in 4 of his last 5 games vs SAC,80%,False,20.0
+Dejounte Murray,SAC,Over 1.5 STL+BLK,-160,Hit in 4 of his last 5 home games,80%,True,3.0
+Domantas Sabonis,NOP,Under 13.5 Rebounds,-138,Hit in 4 of his last 5 games,80%,False,20.0
+Domantas Sabonis,NOP,Under 1.5 STL+BLK,-175,Hit in 4 of his last 5 games,80%,False,2.0
+Malik Monk,NOP,Over 0.5 Steals,-185,Hit in 4 of his last 5 games vs NOP,80%,True,1.0
+Keegan Murray,NOP,Under 19.5 PTS+REB,-122,Hit in 4 of his last 5 games vs NOP,80%,False,33.0
+Keegan Murray,NOP,Over 0.5 Blocks,-225,Hit in 4 of his last 5 away games,80%,False,0.0
+Keegan Murray,NOP,Over 0.5 Steals,-190,Hit in 4 of his last 5 games vs NOP,80%,False,0.0
+Keegan Murray,NOP,Over 0.5 Steals,-190,Hit in 4 of his last 5 away games,80%,False,0.0
+Kevin Huerter,NOP,Over 0.5 Steals,-155,Hit in 4 of his last 5 games,80%,True,3.0
+Haywood Highsmith,TOR,Under 1.5 Assists,-234,Hit in 15 of his last 19 games,79%,True,0.0
+Bam Adebayo,TOR,Under 0.5 Blocks,125,Hit in 7 of his last 9 games,78%,False,1.0
+Tyler Herro,TOR,Over 0.5 Steals,-190,Hit in 7 of his last 9 games,78%,False,0.0
+Isaiah Stewart,BOS,Over 5.5 Points,-133,Hit in 14 of his last 18 games,78%,False,2.0
+Herbert Jones,SAC,Under 1.5 3PTM,-140,Hit in 7 of his last 9 games,78%,True,1.0
+Yves Missi,SAC,Over 10.5 Points,-111,Hit in 7 of his last 9 games,78%,False,7.0
+CJ McCollum,SAC,Under 30.5 P+A+R,-108,Hit in 14 of his last 18 games,78%,False,54.0
+DeMar DeRozan,NOP,Over 29.5 P+A+R,-111,Hit in 7 of his last 9 away games,78%,True,40.0
+DeMar DeRozan,NOP,Under 0.5 3PTM,112,Hit in 7 of his last 9 games,78%,False,3.0
+Kevin Huerter,NOP,Under 3.5 Rebounds,-130,Hit in 7 of his last 9 games,78%,True,3.0
+Herbert Jones,SAC,Over 1.5 Steals,-132,Hit in 7 of his last 9 games,78%,False,1.0
+Yves Missi,SAC,Over 11.5 PTS+AST,-133,Hit in 7 of his last 9 games,78%,False,8.0
+Herbert Jones,SAC,Under 2.5 STL+BLK,-150,Hit in 14 of his last 18 games,78%,True,1.0
+Keon Ellis,NOP,Over 0.5 Steals,-145,Hit in 7 of his last 9 away games,78%,True,1.0
+Dejounte Murray,SAC,Under 0.5 Blocks,-275,Hit in 13 of his last 17 games,76%,False,2.0
+Kristaps Porziņģis,DET,Over 21.5 PTS+AST,-121,Hit in 3 of his last 4 games,75%,True,25.0
+Kristaps Porziņģis,DET,Over 19.5 Points,-113,Hit in 3 of his last 4 games,75%,True,23.0
+Kristaps Porziņģis,DET,Over 19.5 Points,-113,Hit in 3 of his last 4 games vs DET,75%,True,23.0
+Kristaps Porziņģis,DET,Under 9.5 REB+AST,-129,Hit in 3 of his last 4 games vs DET,75%,False,10.0
+Kristaps Porziņģis,DET,Over 2.5 3PTM,116,Hit in 3 of his last 4 games vs DET,75%,False,2.0
+Kristaps Porziņģis,DET,Over 7.5 Rebounds,-106,Hit in 3 of his last 4 games vs DET,75%,True,8.0
+Jrue Holiday,DET,Over 15.5 PTS+REB,-115,Hit in 3 of his last 4 games,75%,True,23.0
+Jrue Holiday,DET,Over 15.5 PTS+REB,-115,Hit in 12 of his last 16 home games,75%,True,23.0
+Tim Hardaway,BOS,Over 10.5 PTS+REB,-133,Hit in 3 of his last 4 away games,75%,True,12.0
+Tim Hardaway,BOS,Under 1.5 3PTM,-109,Hit in 3 of his last 4 games,75%,True,0.0
+Tim Hardaway,BOS,Over 8.5 Points,-113,Hit in 3 of his last 4 away games,75%,False,6.0
+Tim Hardaway,BOS,Over 9.5 PTS+AST,-125,Hit in 15 of his last 20 games,75%,False,7.0
+Tim Hardaway,BOS,Over 9.5 PTS+AST,-125,Hit in 3 of his last 4 away games,75%,False,7.0
+Tim Hardaway,BOS,Over 12.5 P+A+R,-103,Hit in 3 of his last 4 away games,75%,True,13.0
+Tim Hardaway,BOS,Under 3.5 REB+AST,-133,Hit in 3 of his last 4 games,75%,False,7.0
+Cade Cunningham,BOS,Over 8.5 Assists,-132,Hit in 3 of his last 4 games vs BOS,75%,False,8.0
+Jaden Ivey,BOS,Over 1.5 3PTM,-115,Hit in 6 of his last 8 games,75%,True,2.0
+Bam Adebayo,TOR,Over 0.5 3PTM,-199,Hit in 3 of his last 4 games vs TOR,75%,True,1.0
+Bam Adebayo,TOR,Over 33.5 P+A+R,-120,Hit in 3 of his last 4 home games,75%,True,44.0
+Tyler Herro,TOR,Under 5.5 Rebounds,-166,Hit in 3 of his last 4 games vs TOR,75%,True,4.0
+Tyler Herro,TOR,Over 3.5 3PTM,-125,Hit in 3 of his last 4 home games,75%,True,4.0
+Haywood Highsmith,TOR,Over 4.5 REB+AST,-133,Hit in 3 of his last 4 games,75%,False,3.0
+Haywood Highsmith,TOR,Over 4.5 REB+AST,-133,Hit in 3 of his last 4 home games,75%,False,3.0
+Haywood Highsmith,TOR,Over 1.5 3PTM,146,Hit in 3 of his last 4 games,75%,True,3.0
+Haywood Highsmith,TOR,Over 1.5 3PTM,146,Hit in 3 of his last 4 home games,75%,True,3.0
+Haywood Highsmith,TOR,Over 0.5 Turnovers,-120,Hit in 3 of his last 4 games,75%,True,2.0
+Haywood Highsmith,TOR,Over 0.5 Turnovers,-120,Hit in 3 of his last 4 games vs TOR,75%,True,2.0
+Haywood Highsmith,TOR,Over 0.5 Turnovers,-120,Hit in 3 of his last 4 home games,75%,True,2.0
+RJ Barrett,MIA,Over 1.5 3PTM,-146,Hit in 3 of his last 4 away games,75%,False,1.0
+RJ Barrett,MIA,Over 31.5 PTS+REB,-106,Hit in 3 of his last 4 games vs MIA,75%,False,26.0
+Gradey Dick,MIA,Over 2.5 3PTM,-108,Hit in 3 of his last 4 games,75%,True,3.0
+Gradey Dick,MIA,Under 5.5 REB+AST,-133,Hit in 3 of his last 4 games,75%,False,6.0
+Jaden Ivey,BOS,Under 22.5 P+A+R,-106,Hit in 3 of his last 4 games,75%,True,19.0
+Cade Cunningham,BOS,Over 4.5 Turnovers,100,Hit in 3 of his last 4 games vs BOS,75%,False,3.0
+Cade Cunningham,BOS,Over 4.5 Turnovers,100,Hit in 3 of his last 4 away games,75%,False,3.0
+Cade Cunningham,BOS,Over 0.5 Steals,-175,Hit in 3 of his last 4 games vs BOS,75%,False,0.0
+Jaden Ivey,BOS,Over 2.5 Turnovers,-135,Hit in 15 of his last 20 games,75%,False,0.0
+Bam Adebayo,TOR,Under 1.5 Steals,-190,Hit in 6 of his last 8 games vs TOR,75%,True,0.0
+Tyler Herro,TOR,Under 2.5 Turnovers,-140,Hit in 3 of his last 4 games vs TOR,75%,True,2.0
+Haywood Highsmith,TOR,Under 1.5 STL+BLK,145,Hit in 3 of his last 4 games,75%,True,0.0
+Terry Rozier,TOR,Under 0.5 Steals,-125,Hit in 3 of his last 4 games vs TOR,75%,False,2.0
+RJ Barrett,MIA,Under 0.5 Blocks,-300,Hit in 6 of his last 8 games,75%,False,3.0
+Ochai Agbaji,MIA,Over 0.5 Turnovers,-210,Hit in 3 of his last 4 games,75%,False,0.0
+Kristaps Porziņģis,DET,Over 26.5 PTS+REB,-125,Hit in 3 of his last 4 games vs DET,75%,True,31.0
+Jrue Holiday,DET,Under 4.5 Assists,-148,Hit in 3 of his last 4 games vs DET,75%,False,6.0
+Jrue Holiday,DET,Over 20.5 P+A+R,-104,Hit in 3 of his last 4 games,75%,True,29.0
+Jrue Holiday,DET,Over 0.5 Blocks,120,Hit in 3 of his last 4 games,75%,False,0.0
+Jrue Holiday,DET,Over 0.5 Blocks,120,Hit in 3 of his last 4 home games,75%,False,0.0
+Jrue Holiday,DET,Over 1.5 STL+BLK,-135,Hit in 3 of his last 4 games,75%,False,0.0
+Isaiah Stewart,BOS,Under 6.5 REB+AST,-113,Hit in 3 of his last 4 games vs BOS,75%,True,5.0
+Isaiah Stewart,BOS,Over 0.5 Blocks,-135,Hit in 9 of his last 12 away games,75%,True,1.0
+Malik Beasley,BOS,Over 0.5 Steals,-120,Hit in 9 of his last 12 games,75%,False,0.0
+Malik Beasley,BOS,Over 0.5 STL+BLK,-140,Hit in 9 of his last 12 games,75%,False,0.0
+Tyler Herro,TOR,Under 9.5 REB+AST,104,Hit in 3 of his last 4 games vs TOR,75%,True,8.0
+Herbert Jones,SAC,Over 6.5 REB+AST,-104,Hit in 6 of his last 8 games vs SAC,75%,True,11.0
+Herbert Jones,SAC,Over 2.5 Assists,-102,Hit in 3 of his last 4 home games,75%,True,4.0
+Herbert Jones,SAC,Over 3.5 Rebounds,-132,Hit in 6 of his last 8 games vs SAC,75%,True,7.0
+Herbert Jones,SAC,Under 16.5 PTS+REB,-118,Hit in 6 of his last 8 games,75%,True,16.0
+Dejounte Murray,SAC,Under 34.5 P+A+R,-113,Hit in 6 of his last 8 games,75%,False,40.0
+Dejounte Murray,SAC,Under 34.5 P+A+R,-113,Hit in 3 of his last 4 games vs SAC,75%,False,40.0
+Dejounte Murray,SAC,Under 28.5 PTS+AST,-111,Hit in 6 of his last 8 games,75%,False,33.0
+Dejounte Murray,SAC,Under 28.5 PTS+AST,-111,Hit in 3 of his last 4 games vs SAC,75%,False,33.0
+Yves Missi,SAC,Over 20.5 PTS+REB,-106,Hit in 3 of his last 4 games,75%,False,18.0
+Yves Missi,SAC,Over 9.5 Rebounds,-113,Hit in 3 of his last 4 games,75%,True,11.0
+Yves Missi,SAC,Over 11.5 REB+AST,100,Hit in 3 of his last 4 games,75%,True,12.0
+CJ McCollum,SAC,Over 3.5 Rebounds,-132,Hit in 3 of his last 4 games,75%,False,3.0
+CJ McCollum,SAC,Over 4.5 Assists,-122,Hit in 3 of his last 4 home games,75%,False,3.0
+CJ McCollum,SAC,Over 8.5 REB+AST,-125,Hit in 3 of his last 4 games vs SAC,75%,False,6.0
+Domantas Sabonis,NOP,Over 19.5 Points,100,Hit in 6 of his last 8 games,75%,True,34.0
+Malik Monk,NOP,Under 3.5 Rebounds,102,Hit in 3 of his last 4 games,75%,True,3.0
+Keon Ellis,NOP,Over 6.5 PTS+REB,-125,Hit in 6 of his last 8 games,75%,False,6.0
+Keon Ellis,NOP,Over 5.5 PTS+AST,-117,Hit in 3 of his last 4 away games,75%,False,2.0
+Keon Ellis,NOP,Over 2.5 REB+AST,-166,Hit in 3 of his last 4 away games,75%,True,4.0
+Keon Ellis,NOP,Over 0.5 3PTM,-224,Hit in 3 of his last 4 games vs NOP,75%,False,0.0
+Keon Ellis,NOP,Over 4.5 Points,-120,Hit in 6 of his last 8 games,75%,False,2.0
+Keon Ellis,NOP,Over 4.5 Points,-120,Hit in 3 of his last 4 games vs NOP,75%,False,2.0
+Keon Ellis,NOP,Over 0.5 Turnovers,-115,Hit in 12 of his last 16 games,75%,True,1.0
+Keegan Murray,NOP,Over 12.5 PTS+AST,-137,Hit in 3 of his last 4 games,75%,True,24.0
+Keegan Murray,NOP,Over 12.5 PTS+AST,-137,Hit in 3 of his last 4 games vs NOP,75%,True,24.0
+Keegan Murray,NOP,Over 1.5 3PTM,-113,Hit in 3 of his last 4 games vs NOP,75%,True,3.0
+Kevin Huerter,NOP,Over 13.5 P+A+R,-129,Hit in 3 of his last 4 games,75%,False,13.0
+Kevin Huerter,NOP,Over 8.5 Points,-129,Hit in 3 of his last 4 games,75%,True,9.0
+Kevin Huerter,NOP,Over 1.5 3PTM,-158,Hit in 3 of his last 4 games,75%,False,1.0
+Kevin Huerter,NOP,Over 10.5 PTS+AST,-113,Hit in 3 of his last 4 games,75%,False,10.0
+De'Aaron Fox,NOP,Over 29.5 PTS+REB,-106,Hit in 3 of his last 4 games vs NOP,75%,False,27.0
+De'Aaron Fox,NOP,Over 4.5 Rebounds,-136,Hit in 3 of his last 4 games vs NOP,75%,True,7.0
+Dejounte Murray,SAC,Over 12.5 REB+AST,-122,Hit in 6 of his last 8 home games,75%,True,16.0
+Herbert Jones,SAC,Over 0.5 Blocks,105,Hit in 3 of his last 4 home games,75%,False,0.0
+Kevin Huerter,NOP,Over 13.5 PTS+REB,-104,Hit in 3 of his last 4 games,75%,False,12.0
+Herbert Jones,SAC,Under 15.5 PTS+AST,-125,Hit in 6 of his last 8 games,75%,True,13.0
+Herbert Jones,SAC,Under 19.5 P+A+R,-120,Hit in 6 of his last 8 games,75%,False,20.0
+Herbert Jones,SAC,Under 1.5 Turnovers,115,Hit in 3 of his last 4 games,75%,False,2.0
+Dejounte Murray,SAC,Under 3.5 Turnovers,-145,Hit in 3 of his last 4 games vs SAC,75%,False,8.0
+Dejounte Murray,SAC,Under 0.5 Blocks,-275,Hit in 3 of his last 4 games vs SAC,75%,False,2.0
+Yves Missi,SAC,Over 0.5 Steals,-145,Hit in 9 of his last 12 games,75%,False,0.0
+Yves Missi,SAC,Over 1.5 STL+BLK,-190,Hit in 6 of his last 8 games,75%,False,1.0
+Yves Missi,SAC,Over 1.5 STL+BLK,-190,Hit in 3 of his last 4 home games,75%,False,1.0
+CJ McCollum,SAC,Over 0.5 Steals,-250,Hit in 3 of his last 4 games vs SAC,75%,False,0.0
+Malik Monk,NOP,Over 1.5 Turnovers,-155,Hit in 3 of his last 4 away games,75%,True,2.0
+Keon Ellis,NOP,Over 0.5 Steals,-145,Hit in 6 of his last 8 games,75%,True,1.0
+Keegan Murray,NOP,Over 20.5 P+A+R,-113,Hit in 3 of his last 4 games,75%,True,33.0
+Kevin Huerter,NOP,Under 0.5 Blocks,-210,Hit in 3 of his last 4 games vs NOP,75%,True,0.0
+Kevin Huerter,NOP,Under 1.5 STL+BLK,-190,Hit in 3 of his last 4 games vs NOP,75%,False,3.0
+De'Aaron Fox,NOP,Over 3.5 Turnovers,130,Hit in 3 of his last 4 away games,75%,True,5.0
+De'Aaron Fox,NOP,Over 29.5 PTS+REB,-106,Hit in 14 of his last 19 away games,74%,False,27.0
+Jrue Holiday,DET,Over 20.5 P+A+R,-104,Hit in 11 of his last 15 home games,73%,True,29.0
+Kevin Huerter,NOP,Over 0.5 Turnovers,-200,Hit in 11 of his last 15 games,73%,True,1.0
+Haywood Highsmith,TOR,Under 11.5 P+A+R,-103,Hit in 8 of his last 11 games,73%,False,18.0
+RJ Barrett,MIA,Over 0.5 STL+BLK,-225,Hit in 8 of his last 11 away games,73%,True,3.0
+Dejounte Murray,SAC,Under 7.5 Assists,-142,Hit in 8 of his last 11 games,73%,False,9.0
+Dejounte Murray,SAC,Under 3.5 Turnovers,-145,Hit in 8 of his last 11 games,73%,False,8.0
+Malik Monk,NOP,Over 0.5 Steals,-185,Hit in 8 of his last 11 games,73%,True,1.0
+Kevin Huerter,NOP,Over 0.5 Steals,-155,Hit in 8 of his last 11 away games,73%,True,3.0
+Isaiah Stewart,BOS,Over 7.5 PTS+AST,-109,Hit in 13 of his last 18 games,72%,False,2.0
+CJ McCollum,SAC,Under 26.5 PTS+AST,-111,Hit in 13 of his last 18 games,72%,False,51.0
+Kristaps Porziņģis,DET,Over 21.5 PTS+AST,-121,Hit in 5 of his last 7 games vs DET,71%,True,25.0
+Tim Hardaway,BOS,Over 10.5 PTS+REB,-133,Hit in 5 of his last 7 games,71%,True,12.0
+Tim Hardaway,BOS,Over 8.5 Points,-113,Hit in 5 of his last 7 games,71%,False,6.0
+Tim Hardaway,BOS,Over 12.5 P+A+R,-103,Hit in 5 of his last 7 games,71%,True,13.0
+Cade Cunningham,BOS,Over 6.5 Rebounds,118,Hit in 10 of his last 14 games,71%,True,8.0
+Jaden Ivey,BOS,Over 3.5 Rebounds,118,Hit in 5 of his last 7 away games,71%,False,3.0
+Jaden Ivey,BOS,Over 3.5 Assists,-113,Hit in 5 of his last 7 games vs BOS,71%,False,2.0
+Tyler Herro,TOR,Over 4.5 Assists,-122,Hit in 5 of his last 7 home games,71%,False,4.0
+Tyler Herro,TOR,Over 3.5 3PTM,-125,Hit in 5 of his last 7 games,71%,True,4.0
+Haywood Highsmith,TOR,Under 6.5 Points,-102,Hit in 5 of his last 7 games vs TOR,71%,False,15.0
+Haywood Highsmith,TOR,Under 3.5 Rebounds,-118,Hit in 5 of his last 7 games vs TOR,71%,True,3.0
+RJ Barrett,MIA,Over 30.5 PTS+AST,-113,Hit in 5 of his last 7 games,71%,False,25.0
+RJ Barrett,MIA,Over 37.5 P+A+R,-113,Hit in 5 of his last 7 games,71%,False,36.0
+Ochai Agbaji,MIA,Over 1.5 Assists,-142,Hit in 10 of his last 14 away games,71%,False,0.0
+Gradey Dick,MIA,Under 19.5 PTS+REB,-111,Hit in 5 of his last 7 games,71%,False,32.0
+Tim Hardaway,BOS,Over 0.5 Turnovers,-123,Hit in 5 of his last 7 games,71%,True,1.0
+Terry Rozier,TOR,Under 0.5 Blocks,-225,Hit in 5 of his last 7 games,71%,True,0.0
+RJ Barrett,MIA,Under 3.5 Turnovers,115,Hit in 10 of his last 14 games vs MIA,71%,False,6.0
+RJ Barrett,MIA,Under 0.5 Steals,-110,Hit in 5 of his last 7 games,71%,True,0.0
+Ochai Agbaji,MIA,Over 0.5 Turnovers,-210,Hit in 5 of his last 7 away games,71%,False,0.0
+Isaiah Stewart,BOS,Over 12.5 P+A+R,-125,Hit in 5 of his last 7 games vs BOS,71%,False,7.0
+Isaiah Stewart,BOS,Over 5.5 Points,-133,Hit in 5 of his last 7 games vs BOS,71%,False,2.0
+Isaiah Stewart,BOS,Over 7.5 PTS+AST,-109,Hit in 5 of his last 7 games vs BOS,71%,False,2.0
+Isaiah Stewart,BOS,Over 0.5 Turnovers,-130,Hit in 5 of his last 7 games vs BOS,71%,False,0.0
+Gradey Dick,MIA,Under 15.5 Points,-106,Hit in 5 of his last 7 games,71%,False,28.0
+CJ McCollum,SAC,Under 30.5 P+A+R,-108,Hit in 5 of his last 7 games vs SAC,71%,False,54.0
+CJ McCollum,SAC,Under 3.5 3PTM,-166,Hit in 5 of his last 7 games vs SAC,71%,False,6.0
+Domantas Sabonis,NOP,Over 25.5 PTS+AST,100,Hit in 5 of his last 7 games,71%,True,37.0
+Domantas Sabonis,NOP,Over 32.5 PTS+REB,-113,Hit in 5 of his last 7 games,71%,True,54.0
+Malik Monk,NOP,Over 17.5 Points,-115,Hit in 5 of his last 7 games,71%,False,7.0
+Malik Monk,NOP,Over 21.5 PTS+REB,-113,Hit in 5 of his last 7 games,71%,False,10.0
+DeMar DeRozan,NOP,Over 3.5 Assists,-132,Hit in 5 of his last 7 games,71%,False,2.0
+Keegan Murray,NOP,Under 6.5 Rebounds,-104,Hit in 5 of his last 7 games,71%,False,9.0
+De'Aaron Fox,NOP,Under 2.5 3PTM,-150,Hit in 5 of his last 7 games vs NOP,71%,True,1.0
+De'Aaron Fox,NOP,Over 4.5 Rebounds,-136,Hit in 5 of his last 7 games,71%,True,7.0
+Domantas Sabonis,NOP,Over 2.5 Turnovers,-165,Hit in 10 of his last 14 games,71%,False,1.0
+De'Aaron Fox,NOP,Under 1.5 Steals,-113,Hit in 5 of his last 7 games vs NOP,71%,True,1.0
+Keegan Murray,NOP,Under 12.5 Points,-130,Hit in 5 of his last 7 games,71%,False,24.0
+Kevin Huerter,NOP,Under 0.5 Blocks,-210,Hit in 5 of his last 7 games,71%,True,0.0
+Kevin Huerter,NOP,Under 1.5 STL+BLK,-190,Hit in 5 of his last 7 games,71%,False,3.0
+De'Aaron Fox,NOP,Under 1.5 STL+BLK,125,Hit in 5 of his last 7 games vs NOP,71%,False,2.0
+CJ McCollum,SAC,Over 8.5 REB+AST,-125,Hit in 12 of his last 17 home games,71%,False,6.0
+Keon Ellis,NOP,Over 6.5 PTS+REB,-125,Hit in 12 of his last 17 away games,71%,False,6.0
+Kristaps Porziņģis,DET,Under 9.5 REB+AST,-129,Hit in 7 of his last 10 games,70%,False,10.0
+Jaden Ivey,BOS,Over 3.5 Assists,-113,Hit in 7 of his last 10 away games,70%,False,2.0
+Terry Rozier,TOR,Over 2.5 Rebounds,-106,Hit in 14 of his last 20 games,70%,True,8.0
+Terry Rozier,TOR,Over 13.5 PTS+REB,104,Hit in 14 of his last 20 games,70%,True,15.0
+Terry Rozier,TOR,Over 2.5 Assists,126,Hit in 14 of his last 20 home games,70%,False,0.0
+Terry Rozier,TOR,Over 15.5 P+A+R,-106,Hit in 14 of his last 20 games,70%,False,15.0
+Terry Rozier,TOR,Over 4.5 REB+AST,-142,Hit in 14 of his last 20 games,70%,True,8.0
+Isaiah Stewart,BOS,Over 0.5 Blocks,-135,Hit in 14 of his last 20 games,70%,True,1.0
+Malik Monk,NOP,Under 8.5 REB+AST,104,Hit in 14 of his last 20 games,70%,False,12.0
+DeMar DeRozan,NOP,Over 7.5 REB+AST,-120,Hit in 7 of his last 10 games,70%,False,5.0
+Yves Missi,SAC,Under 21.5 P+A+R,-106,Hit in 14 of his last 20 games,70%,True,19.0
+Yves Missi,SAC,Under 1.5 Turnovers,-185,Hit in 14 of his last 20 games,70%,True,1.0
+Yves Missi,SAC,Under 1.5 Blocks,-190,Hit in 14 of his last 20 games,70%,True,1.0
+Keegan Murray,NOP,Over 20.5 P+A+R,-113,Hit in 7 of his last 10 away games,70%,True,33.0
+De'Aaron Fox,NOP,Under 0.5 Blocks,-350,Hit in 14 of his last 20 games,70%,False,1.0
+Kristaps Porziņģis,DET,Over 2.5 3PTM,116,DET rank 26th in 3PTM versus PF,26th,False,2.0
+Tim Hardaway,BOS,Under 1.5 Assists,-244,BOS rank 5th in AST against,5th,True,1.0
+Tim Hardaway,BOS,Under 1.5 3PTM,-109,BOS rank 4th in 3PTM against,4th,True,0.0
+Bam Adebayo,TOR,Over 5.5 Assists,120,TOR rank 30th in AST versus C,30th,False,5.0
+Tyler Herro,TOR,Under 5.5 Rebounds,-166,TOR rank 1st in REB versus SG,1st,True,4.0
+Haywood Highsmith,TOR,Under 6.5 Points,-102,TOR rank 5th in PTS versus SF,5th,False,15.0
+Haywood Highsmith,TOR,Under 3.5 Rebounds,-118,TOR rank 4th in REB versus SF,4th,True,3.0
+Haywood Highsmith,TOR,Over 0.5 Turnovers,-120,TOR rank 2nd in TO versus SF,2nd,True,2.0
+Terry Rozier,TOR,Over 10.5 Points,102,TOR rank 29th in PTS versus PG,29th,False,7.0
+Terry Rozier,TOR,Over 1.5 3PTM,-113,TOR rank 28th in 3PTM versus PG,28th,False,1.0
+Tyler Herro,TOR,Over 0.5 Steals,-190,TOR rank 26th in STL versus SG,26th,False,0.0
+Haywood Highsmith,TOR,Under 1.5 Assists,-234,TOR rank 5th in AST versus SF,5th,True,0.0
+Cade Cunningham,BOS,Over 0.5 Blocks,155,BOS rank 28th in BLK versus PG,28th,True,1.0
+Jaden Ivey,BOS,Under 0.5 Blocks,-350,BOS rank 1st in BLK against,1st,True,0.0
+Tyler Herro,TOR,Over 0.5 Blocks,425,TOR rank 26th in BLK against,26th,False,0.0
+Haywood Highsmith,TOR,Over 0.5 Blocks,-185,TOR rank 26th in BLK against,26th,False,0.0
+RJ Barrett,MIA,Under 0.5 Steals,-110,MIA rank 3rd in STL against,3rd,True,0.0
+Gradey Dick,MIA,Under 0.5 Steals,120,MIA rank 3rd in STL against,3rd,True,0.0
+Ochai Agbaji,MIA,Under 0.5 Steals,125,MIA rank 3rd in STL against,3rd,False,1.0
+Jrue Holiday,DET,Under 4.5 Rebounds,-160,DET rank 5th in REB versus PG,5th,False,7.0
+Isaiah Stewart,BOS,Under 5.5 Rebounds,-154,BOS rank 3rd in REB versus C,3rd,True,5.0
+Isaiah Stewart,BOS,Under 1.5 Assists,-142,BOS rank 3rd in AST versus C,3rd,True,0.0
+Isaiah Stewart,BOS,Under 0.5 3PTM,-244,BOS rank 3rd in 3PTM versus C,3rd,True,0.0
+Isaiah Stewart,BOS,Over 0.5 Turnovers,-130,BOS rank 1st in TO versus C,1st,False,0.0
+Isaiah Stewart,BOS,Under 0.5 Steals,-210,BOS rank 2nd in STL versus C,2nd,True,0.0
+Malik Beasley,BOS,Under 1.5 Assists,-199,BOS rank 5th in AST against,5th,False,3.0
+Davion Mitchell,MIA,Over 2.5 Rebounds,-133,MIA rank 28th in REB versus PG,28th,False,2.0
+Yves Missi,SAC,Over 9.5 Rebounds,-113,SAC rank 28th in REB versus C,28th,True,11.0
+Domantas Sabonis,NOP,Over 5.5 Assists,-111,NOP rank 27th in AST against,27th,False,3.0
+Domantas Sabonis,NOP,Over 0.5 3PTM,-166,NOP rank 27th in 3PTM against,27th,True,1.0
+DeMar DeRozan,NOP,Over 3.5 Assists,-132,NOP rank 27th in AST against,27th,False,2.0
+DeMar DeRozan,NOP,Over 3.5 Rebounds,-128,NOP rank 29th in REB versus SG,29th,False,3.0
+DeMar DeRozan,NOP,Under 0.5 3PTM,112,NOP rank 4th in 3PTM versus SG,4th,False,3.0
+Keon Ellis,NOP,Over 0.5 Assists,-174,NOP rank 27th in AST against,27th,False,0.0
+Keon Ellis,NOP,Over 0.5 Turnovers,-115,NOP rank 3rd in TO versus SG,3rd,True,1.0
+Keegan Murray,NOP,Under 1.5 Assists,-199,NOP rank 4th in AST versus SF,4th,True,0.0
+Keegan Murray,NOP,Over 1.5 3PTM,-113,NOP rank 27th in 3PTM against,27th,True,3.0
+Keegan Murray,NOP,Under 6.5 Rebounds,-104,NOP rank 2nd in REB versus SF,2nd,False,9.0
+Kevin Huerter,NOP,Over 1.5 Assists,-154,NOP rank 27th in AST against,27th,False,1.0
+De'Aaron Fox,NOP,Over 6.5 Assists,-102,NOP rank 29th in AST versus PG,29th,True,8.0
+De'Aaron Fox,NOP,Over 23.5 Points,-128,NOP rank 27th in PTS versus PG,27th,False,20.0
+De'Aaron Fox,NOP,Over 4.5 Rebounds,-136,NOP rank 27th in REB against,27th,True,7.0
+Dejounte Murray,SAC,Under 20.5 Points,-106,SAC rank 2nd in PTS versus PG,2nd,False,24.0
+Dejounte Murray,SAC,Under 0.5 Blocks,-275,SAC rank 4th in BLK versus PG,4th,False,2.0
+Yves Missi,SAC,Under 1.5 Blocks,-190,SAC rank 4th in BLK against,4th,True,1.0
+CJ McCollum,SAC,Under 2.5 Turnovers,-150,SAC rank 28th in TO versus SG,28th,True,2.0
+CJ McCollum,SAC,Under 0.5 Blocks,-200,SAC rank 3rd in BLK versus SG,3rd,True,0.0
+Malik Monk,NOP,Over 4.5 Assists,-154,NOP rank 27th in AST against,27th,True,9.0
+Malik Monk,NOP,Over 1.5 Turnovers,-155,NOP rank 3rd in TO versus SG,3rd,True,2.0
+Kevin Huerter,NOP,Over 0.5 Turnovers,-200,NOP rank 3rd in TO versus SG,3rd,True,1.0
