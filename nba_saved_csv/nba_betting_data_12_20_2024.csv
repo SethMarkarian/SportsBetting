@@ -1,631 +1,466 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-K. Oubre,CHA,Over 7.5 REB+AST,-129,Hit in 5 of his last 5 games,100%
-K. Oubre,CHA,Over 5.5 Rebounds,-154,Hit in 4 of his last 4 games,100%
-K. Oubre,CHA,Over 20.5 P+A+R,-125,Hit in 5 of his last 5 games,100%
-Joel Embiid,CHA,Over 8.5 Rebounds,-130,Hit in 4 of his last 4 games vs CHA,100%
-Joel Embiid,CHA,Over 30.5 PTS+AST,-104,Hit in 4 of his last 4 games vs CHA,100%
-Joel Embiid,CHA,Over 26.5 Points,102,Hit in 4 of his last 4 games vs CHA,100%
-Joel Embiid,CHA,Over 0.5 Double Double,110,Hit in 4 of his last 4 games vs CHA,100%
-Joel Embiid,CHA,Over 35.5 PTS+REB,-104,Hit in 4 of his last 4 games vs CHA,100%
-Joel Embiid,CHA,Under 1.5 3PTM,-154,Hit in 6 of his last 6 games,100%
-Mikal Bridges,PHI,Over 9.5 REB+AST,-120,Hit in 5 of his last 5 games vs PHI,100%
-LaMelo Ball,PHI,Over 12.5 REB+AST,-133,Hit in 6 of his last 6 games,100%
-Joel Embiid,CHA,Over 39.5 P+A+R,-108,Hit in 4 of his last 4 games vs CHA,100%
-K. Oubre,CHA,Over 18.5 PTS+REB,-133,Hit in 5 of his last 5 games,100%
-Tyrese Maxey,CHA,Over 1.5 STL+BLK,-150,Hit in 10 of his last 10 home games,100%
-Mikal Bridges,PHI,Under 0.5 Steals,-130,Hit in 4 of his last 4 games,100%
-Joel Embiid,CHA,Over 13.5 REB+AST,108,Hit in 4 of his last 4 games vs CHA,100%
-Mikal Bridges,PHI,Over 27.5 P+A+R,-115,Hit in 4 of his last 4 games vs PHI,100%
-Jarrett Allen,MIL,Over 22.5 PTS+REB,-120,Hit in 6 of his last 6 games vs MIL,100%
-Jarrett Allen,MIL,Over 10.5 Rebounds,-108,Hit in 6 of his last 6 games vs MIL,100%
-Jarrett Allen,MIL,Over 12.5 Points,-104,Hit in 6 of his last 6 games vs MIL,100%
-Jarrett Allen,MIL,Over 0.5 Double Double,115,Hit in 6 of his last 6 games vs MIL,100%
-Davion Mitchell,MIL,Under 29.5 PTS+AST,-125,Hit in 4 of his last 4 games,100%
-Davion Mitchell,MIL,Under 28.5 PTS+REB,-113,Hit in 4 of his last 4 games,100%
-Davion Mitchell,MIL,Over 3.5 3PTM,100,Hit in 6 of his last 6 home games,100%
-Davion Mitchell,MIL,Under 23.5 Points,-102,Hit in 4 of his last 4 games,100%
-Dean Wade,MIL,Under 5.5 Rebounds,-154,Hit in 6 of his last 6 games vs MIL,100%
-Eric Mobley,MIL,Over 8.5 Rebounds,-120,Hit in 5 of his last 5 home games,100%
-Delon Wright,CLE,Under 4.5 Assists,-146,Hit in 8 of his last 8 games,100%
-Delon Wright,CLE,Under 4.5 Assists,-146,Hit in 9 of his last 9 games vs CLE,100%
-Jarrett Allen,MIL,Over 24.5 P+A+R,-121,Hit in 6 of his last 6 games vs MIL,100%
-Jarrett Allen,MIL,Over 13.5 PTS+AST,-133,Hit in 8 of his last 8 games vs MIL,100%
-Jarrett Allen,MIL,Over 12.5 REB+AST,-103,Hit in 6 of his last 6 games vs MIL,100%
-Caris LeVert,MIL,Under 1.5 3PTM,-148,Hit in 4 of his last 4 games vs MIL,100%
-Eric Mobley,MIL,Over 11.5 REB+AST,-103,Hit in 5 of his last 5 home games,100%
-Georges Niang,MIL,Over 1.5 Assists,165,Hit in 5 of his last 5 games vs MIL,100%
-Georges Niang,MIL,Over 3.5 Rebounds,112,Hit in 6 of his last 6 games,100%
-Georges Niang,MIL,Over 3.5 Rebounds,112,Hit in 5 of his last 5 games vs MIL,100%
-Georges Niang,MIL,Over 4.5 REB+AST,-121,Hit in 4 of his last 4 games,100%
-Georges Niang,MIL,Over 4.5 REB+AST,-121,Hit in 5 of his last 5 games vs MIL,100%
-Taurean Prince,CLE,Under 11.5 P+A+R,-117,Hit in 5 of his last 5 games,100%
-Taurean Prince,CLE,Under 8.5 PTS+AST,-103,Hit in 5 of his last 5 games,100%
-Giannis Antetokounmpo,CLE,Over 18.5 REB+AST,-113,Hit in 4 of his last 4 games vs CLE,100%
-Giannis Antetokounmpo,CLE,Under 0.5 3PTM,-339,Hit in 8 of his last 8 games,100%
-Giannis Antetokounmpo,CLE,Over 1.5 Blocks,-125,Hit in 4 of his last 4 games,100%
-Aaron Jackson,CLE,Under 0.5 Steals,-118,Hit in 5 of his last 5 games vs CLE,100%
-Brook Lopez,CLE,Over 4.5 Rebounds,-130,Hit in 4 of his last 4 games vs CLE,100%
-Brook Lopez,CLE,Over 5.5 REB+AST,-154,Hit in 4 of his last 4 games vs CLE,100%
-Brook Lopez,CLE,Under 13.5 PTS+AST,-133,Hit in 7 of his last 7 games vs CLE,100%
-Brook Lopez,CLE,Under 1.5 Assists,-154,Hit in 5 of his last 5 games,100%
-Davion Mitchell,MIL,Over 4.5 Assists,-132,Hit in 6 of his last 6 games,100%
-Taurean Prince,CLE,Under 7.5 Points,-122,Hit in 5 of his last 5 games,100%
-Taurean Prince,CLE,Under 10.5 PTS+REB,-133,Hit in 5 of his last 5 games,100%
-Giannis Antetokounmpo,CLE,Over 43.5 PTS+REB,-118,Hit in 4 of his last 4 games,100%
-Giannis Antetokounmpo,CLE,Over 0.5 Double Double,-390,Hit in 5 of his last 5 games vs CLE,100%
-Jarrett Allen,MIL,Over 0.5 Turnovers,-210,Hit in 5 of his last 5 home games,100%
-Jarrett Allen,MIL,Over 0.5 Steals,-175,Hit in 6 of his last 6 home games,100%
-Davion Mitchell,MIL,Under 0.5 Blocks,-350,Hit in 4 of his last 4 games,100%
-Davion Mitchell,MIL,Under 2.5 STL+BLK,-185,Hit in 4 of his last 4 games vs MIL,100%
-Caris LeVert,MIL,Over 0.5 Steals,-160,Hit in 4 of his last 4 home games,100%
-Eric Mobley,MIL,Over 0.5 Steals,-160,Hit in 4 of his last 4 games,100%
-Eric Mobley,MIL,Over 1.5 STL+BLK,-190,Hit in 6 of his last 6 home games,100%
-Delon Wright,CLE,Under 10.5 PTS+AST,-128,Hit in 8 of his last 8 games,100%
-Delon Wright,CLE,Under 10.5 PTS+AST,-128,Hit in 9 of his last 9 games vs CLE,100%
-Giannis Antetokounmpo,CLE,Over 0.5 Steals,-160,Hit in 4 of his last 4 games,100%
-Giannis Antetokounmpo,CLE,Over 2.5 STL+BLK,-105,Hit in 4 of his last 4 games,100%
-Brook Lopez,CLE,Under 2.5 STL+BLK,-140,Hit in 5 of his last 5 games,100%
-Bam Adebayo,OKL,Over 15.5 REB+AST,-125,Hit in 5 of his last 5 home games,100%
-Bam Adebayo,OKL,Over 4.5 Assists,-140,Hit in 7 of his last 7 home games,100%
-Bam Adebayo,OKL,Over 0.5 Double Double,-170,Hit in 5 of his last 5 home games,100%
-Isaiah Hartenstein,MIA,Over 22.5 PTS+REB,-118,Hit in 5 of his last 5 games,100%
-Isaiah Hartenstein,MIA,Under 3.5 Assists,-138,Hit in 13 of his last 13 games vs MIA,100%
-Isaiah Hartenstein,MIA,Over 11.5 Rebounds,-104,Hit in 6 of his last 6 away games,100%
-Jalen Williams,MIA,Under 25.5 PTS+AST,-128,Hit in 4 of his last 4 games,100%
-Jalen Williams,MIA,Under 30.5 P+A+R,-111,Hit in 4 of his last 4 games,100%
-Jalen Williams,MIA,Under 20.5 Points,-120,Hit in 4 of his last 4 games,100%
-Jalen Williams,MIA,Under 20.5 Points,-120,Hit in 4 of his last 4 games vs MIA,100%
-Bam Adebayo,OKL,Over 0.5 3PTM,-184,Hit in 4 of his last 4 games,100%
-J. Jaquez,OKL,Under 0.5 3PTM,-160,Hit in 4 of his last 4 games,100%
-Luguentz Dort,MIA,Over 10.5 PTS+AST,-117,Hit in 4 of his last 4 games vs MIA,100%
-Alex Caruso,MIA,Over 5.5 Points,-113,Hit in 5 of his last 5 games vs MIA,100%
-Cason Wallace,MIA,Over 0.5 3PTM,-224,Hit in 4 of his last 4 away games,100%
-Isaiah Hartenstein,MIA,Over 14.5 REB+AST,-128,Hit in 6 of his last 6 away games,100%
-Luguentz Dort,MIA,Over 14.5 P+A+R,-129,Hit in 4 of his last 4 games vs MIA,100%
-Luguentz Dort,MIA,Over 13.5 PTS+REB,-130,Hit in 4 of his last 4 games vs MIA,100%
-Jalen Williams,MIA,Under 25.5 PTS+REB,-106,Hit in 4 of his last 4 games,100%
-Alex Caruso,MIA,Over 0.5 3PTM,-234,Hit in 8 of his last 8 games vs MIA,100%
-Bam Adebayo,OKL,Under 1.5 STL+BLK,100,Hit in 4 of his last 4 games,100%
-Tyler Herro,OKL,Under 3.5 Turnovers,-175,Hit in 4 of his last 4 games,100%
-Haywood Highsmith,OKL,Under 0.5 Blocks,-135,Hit in 4 of his last 4 games vs OKL,100%
-Terry Rozier,OKL,Over 0.5 STL+BLK,-225,Hit in 5 of his last 5 games,100%
-Terry Rozier,OKL,Over 0.5 STL+BLK,-225,Hit in 4 of his last 4 home games,100%
-Isaiah Joe,MIA,Under 0.5 Steals,-225,Hit in 4 of his last 4 games vs MIA,100%
-Isaiah Joe,MIA,Under 0.5 STL+BLK,-135,Hit in 4 of his last 4 games vs MIA,100%
-Isaiah Hartenstein,MIA,Under 1.5 Turnovers,100,Hit in 10 of his last 10 games vs MIA,100%
-Isaiah Hartenstein,MIA,Over 0.5 Steals,-120,Hit in 5 of his last 5 away games,100%
-Luguentz Dort,MIA,Over 0.5 Blocks,100,Hit in 4 of his last 4 away games,100%
-Luguentz Dort,MIA,Over 0.5 Steals,-200,Hit in 4 of his last 4 away games,100%
-Luguentz Dort,MIA,Over 1.5 STL+BLK,-110,Hit in 4 of his last 4 away games,100%
-Alex Caruso,MIA,Under 0.5 Blocks,-160,Hit in 5 of his last 5 games,100%
-Alex Caruso,MIA,Over 1.5 Steals,135,Hit in 6 of his last 6 away games,100%
-Alex Caruso,MIA,Over 1.5 STL+BLK,-145,Hit in 6 of his last 6 away games,100%
-Cason Wallace,MIA,Over 0.5 Blocks,115,Hit in 4 of his last 4 games,100%
-Shai Gilgeous-Alexander,MIA,Over 1.5 Steals,-140,Hit in 4 of his last 4 games,100%
-Giannis Antetokounmpo,CLE,Over 0.5 Double Double,-390,Hit in 15 of his last 16 away games,94%
-Dean Wade,MIL,Under 11.5 PTS+REB,-130,Hit in 11 of his last 12 games,92%
-Joel Embiid,CHA,Over 3.5 Assists,-160,Hit in 10 of his last 11 home games,91%
-LaMelo Ball,PHI,Under 0.5 Blocks,-375,Hit in 10 of his last 11 games,91%
-Bam Adebayo,OKL,Over 4.5 Assists,-140,Hit in 10 of his last 11 games,91%
-Isaiah Hartenstein,MIA,Over 0.5 Blocks,-210,Hit in 10 of his last 11 games vs MIA,91%
-Isaiah Hartenstein,MIA,Over 1.5 STL+BLK,-115,Hit in 10 of his last 11 games vs MIA,91%
-Malik Williams,PHI,Over 9.5 Points,-104,Hit in 9 of his last 10 away games,90%
-Tyrese Maxey,CHA,Over 1.5 STL+BLK,-150,Hit in 9 of his last 10 games,90%
-Georges Niang,MIL,Under 0.5 Steals,-190,Hit in 9 of his last 10 games,90%
-J. Jaquez,OKL,Over 2.5 Rebounds,-117,Hit in 18 of his last 20 games,90%
-J. Jaquez,OKL,Over 2.5 Rebounds,-117,Hit in 9 of his last 10 home games,90%
-Terry Rozier,OKL,Over 14.5 PTS+REB,-106,Hit in 18 of his last 20 home games,90%
-Terry Rozier,OKL,Over 13.5 PTS+AST,-117,Hit in 18 of his last 20 home games,90%
-Terry Rozier,OKL,Over 16.5 P+A+R,-125,Hit in 18 of his last 20 home games,90%
-Jarrett Allen,MIL,Over 0.5 Turnovers,-210,Hit in 8 of his last 9 games,89%
-Isaiah Hartenstein,MIA,Over 0.5 Steals,-120,Hit in 8 of his last 9 games,89%
-Tyrese Maxey,CHA,Over 1.5 Steals,100,Hit in 7 of his last 8 home games,88%
-Bobby Portis,CLE,Over 1.5 Assists,-137,Hit in 7 of his last 8 games,88%
-Bobby Portis,CLE,Under 1.5 Turnovers,-155,Hit in 7 of his last 8 games vs CLE,88%
-Bobby Portis,CLE,Under 0.5 Blocks,-250,Hit in 7 of his last 8 games vs CLE,88%
-Bam Adebayo,OKL,Over 0.5 3PTM,-184,Hit in 7 of his last 8 home games,88%
-Cason Wallace,MIA,Over 0.5 3PTM,-224,Hit in 7 of his last 8 games,88%
-Alex Caruso,MIA,Over 1.5 Steals,135,Hit in 7 of his last 8 games,88%
-Alex Caruso,MIA,Over 1.5 STL+BLK,-145,Hit in 7 of his last 8 games,88%
-Shai Gilgeous-Alexander,MIA,Over 30.5 Points,100,Hit in 7 of his last 8 away games,88%
-Isaiah Joe,MIA,Over 0.5 Assists,-194,Hit in 13 of his last 15 away games,87%
-Paul George,CHA,Over 25.5 PTS+AST,-104,Hit in 6 of his last 7 games vs CHA,86%
-Joel Embiid,CHA,Under 1.5 Blocks,-190,Hit in 6 of his last 7 games,86%
-Davion Mitchell,MIL,Over 33.5 P+A+R,-115,Hit in 6 of his last 7 games vs MIL,86%
-Brook Lopez,CLE,Under 1.5 3PTM,-113,Hit in 6 of his last 7 games vs CLE,86%
-Brook Lopez,CLE,Under 11.5 Points,-128,Hit in 6 of his last 7 games vs CLE,86%
-Georges Niang,MIL,Over 3.5 Rebounds,112,Hit in 6 of his last 7 home games,86%
-Giannis Antetokounmpo,CLE,Under 39.5 PTS+AST,-122,Hit in 6 of his last 7 games,86%
-Aaron Jackson,CLE,Under 4.5 REB+AST,-129,Hit in 6 of his last 7 games,86%
-Aaron Jackson,CLE,Under 9.5 P+A+R,-133,Hit in 6 of his last 7 games,86%
-Caris LeVert,MIL,Over 0.5 Steals,-160,Hit in 6 of his last 7 games,86%
-Delon Wright,CLE,Under 5.5 Points,-102,Hit in 6 of his last 7 games,86%
-Taurean Prince,CLE,Over 0.5 Turnovers,-165,Hit in 6 of his last 7 away games,86%
-Isaiah Hartenstein,MIA,Over 14.5 PTS+AST,-120,Hit in 6 of his last 7 away games,86%
-Isaiah Hartenstein,MIA,Over 22.5 PTS+REB,-118,Hit in 6 of his last 7 away games,86%
-Isaiah Hartenstein,MIA,Over 0.5 Double Double,100,Hit in 6 of his last 7 away games,86%
-Jalen Williams,MIA,Over 1.5 3PTM,-142,Hit in 6 of his last 7 away games,86%
-Isaiah Hartenstein,MIA,Over 26.5 P+A+R,-104,Hit in 6 of his last 7 away games,86%
-Jackie Butler,OKL,Under 1.5 Turnovers,125,Hit in 6 of his last 7 games,86%
-Cason Wallace,MIA,Over 1.5 STL+BLK,-135,Hit in 6 of his last 7 games,86%
-Joel Embiid,CHA,Over 30.5 PTS+AST,-104,Hit in 17 of his last 20 home games,85%
-Joel Embiid,CHA,Over 35.5 PTS+REB,-104,Hit in 17 of his last 20 home games,85%
-Joel Embiid,CHA,Over 39.5 P+A+R,-108,Hit in 17 of his last 20 home games,85%
-J. Jaquez,OKL,Over 4.5 REB+AST,108,Hit in 17 of his last 20 games,85%
-Terry Rozier,OKL,Over 10.5 Points,-133,Hit in 17 of his last 20 home games,85%
-Alex Caruso,MIA,Over 4.5 REB+AST,-148,Hit in 17 of his last 20 away games,85%
-Tyrese Maxey,CHA,Under 3.5 3PTM,-136,Hit in 5 of his last 6 games,83%
-K. Oubre,CHA,Over 7.5 REB+AST,-129,Hit in 5 of his last 6 home games,83%
-Paul George,CHA,Over 2.5 3PTM,-154,Hit in 5 of his last 6 games vs CHA,83%
-Paul George,CHA,Over 25.5 PTS+REB,-106,Hit in 5 of his last 6 games vs CHA,83%
-Malik Williams,PHI,Over 16.5 PTS+REB,-102,Hit in 5 of his last 6 away games,83%
-Mikal Bridges,PHI,Over 9.5 REB+AST,-120,Hit in 5 of his last 6 games,83%
-Mikal Bridges,PHI,Over 2.5 Assists,-174,Hit in 5 of his last 6 games,83%
-LaMelo Ball,PHI,Over 4.5 Rebounds,-154,Hit in 5 of his last 6 games,83%
-Paul George,CHA,Over 19.5 Points,-120,Hit in 5 of his last 6 games vs CHA,83%
-LaMelo Ball,PHI,Over 32.5 PTS+REB,-121,Hit in 5 of his last 6 games,83%
-LaMelo Ball,PHI,Over 27.5 Points,-109,Hit in 5 of his last 6 games,83%
-LaMelo Ball,PHI,Over 27.5 Points,-109,Hit in 5 of his last 6 away games,83%
-LaMelo Ball,PHI,Over 35.5 PTS+AST,-109,Hit in 5 of his last 6 games,83%
-LaMelo Ball,PHI,Over 35.5 PTS+AST,-109,Hit in 5 of his last 6 away games,83%
-LaMelo Ball,PHI,Over 40.5 P+A+R,-121,Hit in 10 of his last 12 games,83%
-LaMelo Ball,PHI,Over 40.5 P+A+R,-121,Hit in 5 of his last 6 away games,83%
-Tyrese Maxey,CHA,Under 0.5 Blocks,-300,Hit in 10 of his last 12 games,83%
-Paul George,CHA,Over 30.5 P+A+R,-118,Hit in 5 of his last 6 games vs CHA,83%
-Darius Garland,MIL,Under 6.5 Assists,-138,Hit in 5 of his last 6 games,83%
-Darius Garland,MIL,Over 19.5 Points,-115,Hit in 5 of his last 6 games vs MIL,83%
-Giannis Antetokounmpo,CLE,Over 32.5 Points,-102,Hit in 5 of his last 6 games vs CLE,83%
-Darius Garland,MIL,Over 2.5 Rebounds,104,Hit in 5 of his last 6 games vs MIL,83%
-Darius Garland,MIL,Over 22.5 PTS+REB,-115,Hit in 5 of his last 6 games vs MIL,83%
-Caris LeVert,MIL,Over 2.5 Rebounds,-170,Hit in 5 of his last 6 games vs MIL,83%
-Caris LeVert,MIL,Over 2.5 Rebounds,-170,Hit in 5 of his last 6 home games,83%
-Bobby Portis,CLE,Under 9.5 REB+AST,-129,Hit in 5 of his last 6 games vs CLE,83%
-Bobby Portis,CLE,Under 1.5 3PTM,-215,Hit in 5 of his last 6 games vs CLE,83%
-Giannis Antetokounmpo,CLE,Over 50.5 P+A+R,-121,Hit in 5 of his last 6 games vs CLE,83%
-Aaron Jackson,CLE,Under 7.5 PTS+REB,-113,Hit in 5 of his last 6 games,83%
-Giannis Antetokounmpo,CLE,Over 43.5 PTS+REB,-118,Hit in 5 of his last 6 games vs CLE,83%
-Giannis Antetokounmpo,CLE,Over 0.5 Double Double,-390,Hit in 5 of his last 6 games,83%
-Caris LeVert,MIL,Over 1.5 Turnovers,145,Hit in 5 of his last 6 home games,83%
-Caris LeVert,MIL,Over 0.5 Steals,-160,Hit in 5 of his last 6 games vs MIL,83%
-Darius Garland,MIL,Under 2.5 Turnovers,-200,Hit in 10 of his last 12 games,83%
-Darius Garland,MIL,Under 2.5 Turnovers,-200,Hit in 5 of his last 6 games vs MIL,83%
-Isaiah Hartenstein,MIA,Over 11.5 Rebounds,-104,Hit in 5 of his last 6 games,83%
-Luguentz Dort,MIA,Over 4.5 Rebounds,114,Hit in 5 of his last 6 games,83%
-David Robinson,OKL,Over 11.5 PTS+AST,-121,Hit in 5 of his last 6 home games,83%
-David Robinson,OKL,Over 1.5 Assists,-160,Hit in 5 of his last 6 home games,83%
-Luguentz Dort,MIA,Over 5.5 REB+AST,-133,Hit in 5 of his last 6 games,83%
-Cason Wallace,MIA,Over 1.5 Assists,-142,Hit in 5 of his last 6 away games,83%
-Haywood Highsmith,OKL,Over 0.5 Turnovers,-135,Hit in 5 of his last 6 games,83%
-Isaiah Joe,MIA,Under 0.5 Steals,-225,Hit in 5 of his last 6 games,83%
-Isaiah Hartenstein,MIA,Over 0.5 Blocks,-210,Hit in 5 of his last 6 away games,83%
-Isaiah Hartenstein,MIA,Over 1.5 STL+BLK,-115,Hit in 5 of his last 6 away games,83%
-Luguentz Dort,MIA,Over 0.5 Blocks,100,Hit in 5 of his last 6 games,83%
-Luguentz Dort,MIA,Over 0.5 Steals,-200,Hit in 5 of his last 6 games,83%
-Luguentz Dort,MIA,Over 1.5 STL+BLK,-110,Hit in 5 of his last 6 games,83%
-Cason Wallace,MIA,Over 0.5 Turnovers,-115,Hit in 5 of his last 6 games,83%
-Georges Niang,MIL,Over 0.5 Turnovers,-145,Hit in 9 of his last 11 games,82%
-Georges Niang,MIL,Over 0.5 Turnovers,-145,Hit in 9 of his last 11 home games,82%
-Luguentz Dort,MIA,Over 5.5 REB+AST,-133,Hit in 9 of his last 11 away games,82%
-Shai Gilgeous-Alexander,MIA,Over 2.5 Turnovers,-140,Hit in 9 of his last 11 away games,82%
-Tyrese Maxey,CHA,Over 9.5 REB+AST,-125,Hit in 4 of his last 5 games vs CHA,80%
-K. Oubre,CHA,Under 1.5 3PTM,-142,Hit in 4 of his last 5 games vs CHA,80%
-Joel Embiid,CHA,Over 26.5 Points,102,Hit in 16 of his last 20 home games,80%
-Joel Embiid,CHA,Over 0.5 Double Double,110,Hit in 16 of his last 20 home games,80%
-Joel Embiid,CHA,Over 3.5 Assists,-160,Hit in 12 of his last 15 games,80%
-Paul George,CHA,Under 5.5 Rebounds,-136,Hit in 4 of his last 5 games,80%
-Paul George,CHA,Under 5.5 Rebounds,-136,Hit in 4 of his last 5 games vs CHA,80%
-Paul George,CHA,Over 10.5 REB+AST,-120,Hit in 4 of his last 5 home games,80%
-Mikal Bridges,PHI,Over 6.5 Rebounds,-102,Hit in 4 of his last 5 games vs PHI,80%
-Mikal Bridges,PHI,Over 9.5 REB+AST,-120,Hit in 4 of his last 5 away games,80%
-Mikal Bridges,PHI,Over 2.5 Assists,-174,Hit in 4 of his last 5 away games,80%
-LaMelo Ball,PHI,Over 0.5 Double Double,188,Hit in 4 of his last 5 games,80%
-LaMelo Ball,PHI,Over 12.5 REB+AST,-133,Hit in 4 of his last 5 away games,80%
-Tyrese Maxey,CHA,Over 2.5 Turnovers,130,Hit in 4 of his last 5 games,80%
-Tyrese Maxey,CHA,Over 1.5 Steals,100,Hit in 8 of his last 10 games,80%
-Paul George,CHA,Under 2.5 Turnovers,-145,Hit in 4 of his last 5 games,80%
-Malik Williams,PHI,Over 6.5 Rebounds,-111,Hit in 4 of his last 5 away games,80%
-Paul George,CHA,Over 0.5 Blocks,-105,Hit in 4 of his last 5 games,80%
-Mikal Bridges,PHI,Under 0.5 Blocks,-200,Hit in 8 of his last 10 games,80%
-Mikal Bridges,PHI,Under 0.5 Blocks,-200,Hit in 4 of his last 5 games vs PHI,80%
-Mikal Bridges,PHI,Under 0.5 Steals,-130,Hit in 4 of his last 5 games vs PHI,80%
-LaMelo Ball,PHI,Under 1.5 Steals,-190,Hit in 8 of his last 10 games,80%
-K. Oubre,CHA,Over 1.5 Steals,118,Hit in 4 of his last 5 games,80%
-Davion Mitchell,MIL,Over 9.5 REB+AST,-111,Hit in 4 of his last 5 home games,80%
-Darius Garland,MIL,Under 2.5 3PTM,106,Hit in 4 of his last 5 games vs MIL,80%
-Eric Mobley,MIL,Over 25.5 PTS+REB,-113,Hit in 4 of his last 5 games,80%
-Eric Mobley,MIL,Over 16.5 Points,-115,Hit in 4 of his last 5 games,80%
-Giannis Antetokounmpo,CLE,Over 11.5 Rebounds,-120,Hit in 4 of his last 5 games vs CLE,80%
-Jarrett Allen,MIL,Over 1.5 Assists,-113,Hit in 4 of his last 5 games,80%
-Jarrett Allen,MIL,Over 13.5 PTS+AST,-133,Hit in 4 of his last 5 games,80%
-Jarrett Allen,MIL,Over 13.5 PTS+AST,-133,Hit in 16 of his last 20 home games,80%
-Caris LeVert,MIL,Over 11.5 Points,-108,Hit in 4 of his last 5 games,80%
-Caris LeVert,MIL,Over 15.5 PTS+AST,-115,Hit in 4 of his last 5 games,80%
-Caris LeVert,MIL,Over 18.5 P+A+R,-120,Hit in 4 of his last 5 games,80%
-Caris LeVert,MIL,Over 18.5 P+A+R,-120,Hit in 8 of his last 10 home games,80%
-Caris LeVert,MIL,Over 14.5 PTS+REB,-115,Hit in 4 of his last 5 games,80%
-Eric Mobley,MIL,Over 18.5 PTS+AST,-117,Hit in 4 of his last 5 games,80%
-Eric Mobley,MIL,Over 0.5 3PTM,-148,Hit in 4 of his last 5 games,80%
-Eric Mobley,MIL,Under 2.5 Assists,-184,Hit in 4 of his last 5 games,80%
-Eric Mobley,MIL,Over 27.5 P+A+R,-125,Hit in 4 of his last 5 games,80%
-Eric Mobley,MIL,Over 27.5 P+A+R,-125,Hit in 4 of his last 5 home games,80%
-Georges Niang,MIL,Over 1.5 3PTM,-130,Hit in 4 of his last 5 home games,80%
-Georges Niang,MIL,Over 7.5 Points,-120,Hit in 4 of his last 5 games vs MIL,80%
-Georges Niang,MIL,Over 7.5 Points,-120,Hit in 8 of his last 10 home games,80%
-Georges Niang,MIL,Over 12.5 P+A+R,-113,Hit in 4 of his last 5 games vs MIL,80%
-Georges Niang,MIL,Over 12.5 P+A+R,-113,Hit in 4 of his last 5 home games,80%
-Taurean Prince,CLE,Over 2.5 Rebounds,-133,Hit in 4 of his last 5 games vs CLE,80%
-Taurean Prince,CLE,Under 4.5 REB+AST,-142,Hit in 4 of his last 5 games,80%
-Bobby Portis,CLE,Over 7.5 Rebounds,-102,Hit in 4 of his last 5 games,80%
-Giannis Antetokounmpo,CLE,Under 0.5 3PTM,-339,Hit in 4 of his last 5 games vs CLE,80%
-Aaron Jackson,CLE,Under 1.5 Assists,-129,Hit in 4 of his last 5 games vs CLE,80%
-Aaron Jackson,CLE,Under 6.5 PTS+AST,-129,Hit in 4 of his last 5 games vs CLE,80%
-Brook Lopez,CLE,Under 1.5 Blocks,-120,Hit in 4 of his last 5 games,80%
-Georges Niang,MIL,Over 8.5 PTS+AST,-133,Hit in 4 of his last 5 games vs MIL,80%
-Georges Niang,MIL,Over 8.5 PTS+AST,-133,Hit in 8 of his last 10 home games,80%
-Davion Mitchell,MIL,Over 4.5 Assists,-132,Hit in 4 of his last 5 home games,80%
-Jarrett Allen,MIL,Over 0.5 Turnovers,-210,Hit in 4 of his last 5 games vs MIL,80%
-Davion Mitchell,MIL,Under 0.5 Blocks,-350,Hit in 4 of his last 5 games vs MIL,80%
-Davion Mitchell,MIL,Over 1.5 Steals,-160,Hit in 4 of his last 5 home games,80%
-Darius Garland,MIL,Under 1.5 STL+BLK,-250,Hit in 8 of his last 10 games,80%
-Darius Garland,MIL,Under 1.5 STL+BLK,-250,Hit in 4 of his last 5 games vs MIL,80%
-Caris LeVert,MIL,Under 0.5 Blocks,-225,Hit in 4 of his last 5 games vs MIL,80%
-Caris LeVert,MIL,Under 1.5 STL+BLK,-200,Hit in 4 of his last 5 games vs MIL,80%
-Eric Mobley,MIL,Under 1.5 Blocks,-210,Hit in 4 of his last 5 games vs MIL,80%
-Eric Mobley,MIL,Over 0.5 Steals,-160,Hit in 4 of his last 5 home games,80%
-Georges Niang,MIL,Under 0.5 Steals,-190,Hit in 4 of his last 5 games vs MIL,80%
-Georges Niang,MIL,Under 0.5 STL+BLK,-110,Hit in 8 of his last 10 games,80%
-Delon Wright,CLE,Under 5.5 Points,-102,Hit in 4 of his last 5 games vs CLE,80%
-Giannis Antetokounmpo,CLE,Over 0.5 Steals,-160,Hit in 4 of his last 5 games vs CLE,80%
-Brook Lopez,CLE,Under 1.5 Turnovers,-160,Hit in 8 of his last 10 games,80%
-Brook Lopez,CLE,Under 0.5 Steals,115,Hit in 4 of his last 5 games,80%
-Georges Niang,MIL,Over 10.5 PTS+REB,-130,Hit in 4 of his last 5 games vs MIL,80%
-Georges Niang,MIL,Over 10.5 PTS+REB,-130,Hit in 4 of his last 5 home games,80%
-Bam Adebayo,OKL,Over 15.5 REB+AST,-125,Hit in 4 of his last 5 games,80%
-Bam Adebayo,OKL,Over 21.5 PTS+AST,-106,Hit in 4 of his last 5 home games,80%
-Bam Adebayo,OKL,Over 32.5 P+A+R,-106,Hit in 4 of his last 5 home games,80%
-Bam Adebayo,OKL,Over 0.5 Double Double,-170,Hit in 4 of his last 5 games,80%
-Tyler Herro,OKL,Over 26.5 PTS+AST,-113,Hit in 4 of his last 5 home games,80%
-Tyler Herro,OKL,Over 4.5 Rebounds,-154,Hit in 8 of his last 10 home games,80%
-Tyler Herro,OKL,Over 3.5 3PTM,-136,Hit in 4 of his last 5 games,80%
-Tyler Herro,OKL,Over 3.5 3PTM,-136,Hit in 4 of his last 5 home games,80%
-Tyler Herro,OKL,Over 21.5 Points,-130,Hit in 4 of his last 5 games,80%
-Tyler Herro,OKL,Over 21.5 Points,-130,Hit in 4 of his last 5 home games,80%
-Isaiah Hartenstein,MIA,Over 14.5 PTS+AST,-120,Hit in 4 of his last 5 games,80%
-Isaiah Hartenstein,MIA,Over 0.5 Double Double,100,Hit in 4 of his last 5 games,80%
-Cason Wallace,MIA,Under 6.5 Points,100,Hit in 4 of his last 5 games,80%
-David Robinson,OKL,Over 11.5 PTS+AST,-121,Hit in 4 of his last 5 games,80%
-Haywood Highsmith,OKL,Over 1.5 3PTM,176,Hit in 4 of his last 5 home games,80%
-Haywood Highsmith,OKL,Over 8.5 PTS+REB,-113,Hit in 4 of his last 5 home games,80%
-Haywood Highsmith,OKL,Over 5.5 Points,-115,Hit in 4 of his last 5 home games,80%
-Haywood Highsmith,OKL,Over 6.5 PTS+AST,-117,Hit in 4 of his last 5 home games,80%
-Haywood Highsmith,OKL,Over 9.5 P+A+R,-121,Hit in 4 of his last 5 home games,80%
-Haywood Highsmith,OKL,Over 2.5 Rebounds,-125,Hit in 4 of his last 5 home games,80%
-Terry Rozier,OKL,Over 5.5 REB+AST,-125,Hit in 16 of his last 20 home games,80%
-Isaiah Joe,MIA,Over 0.5 Assists,-194,Hit in 16 of his last 20 games,80%
-Isaiah Joe,MIA,Under 1.5 3PTM,-121,Hit in 4 of his last 5 games,80%
-Alex Caruso,MIA,Over 7.5 PTS+AST,-121,Hit in 4 of his last 5 games vs MIA,80%
-Alex Caruso,MIA,Over 8.5 PTS+REB,-103,Hit in 4 of his last 5 games vs MIA,80%
-Alex Caruso,MIA,Over 10.5 P+A+R,-117,Hit in 4 of his last 5 games vs MIA,80%
-Alex Caruso,MIA,Over 10.5 P+A+R,-117,Hit in 16 of his last 20 away games,80%
-Alex Caruso,MIA,Over 2.5 Rebounds,-129,Hit in 4 of his last 5 away games,80%
-Alex Caruso,MIA,Over 2.5 Assists,133,Hit in 4 of his last 5 games vs MIA,80%
-Cason Wallace,MIA,Under 8.5 PTS+AST,-133,Hit in 4 of his last 5 games,80%
-Cason Wallace,MIA,Over 1.5 Assists,-142,Hit in 8 of his last 10 games,80%
-Bam Adebayo,OKL,Under 16.5 Points,-122,Hit in 8 of his last 10 games,80%
-Isaiah Hartenstein,MIA,Over 11.5 Points,100,Hit in 4 of his last 5 games,80%
-Isaiah Hartenstein,MIA,Over 26.5 P+A+R,-104,Hit in 4 of his last 5 games,80%
-Jackie Butler,OKL,Over 0.5 Blocks,150,Hit in 4 of his last 5 games,80%
-Bam Adebayo,OKL,Under 2.5 Turnovers,-140,Hit in 4 of his last 5 games,80%
-Bam Adebayo,OKL,Over 0.5 Steals,-190,Hit in 8 of his last 10 games,80%
-David Robinson,OKL,Over 0.5 Steals,125,Hit in 4 of his last 5 games,80%
-David Robinson,OKL,Over 0.5 STL+BLK,-120,Hit in 4 of his last 5 games,80%
-Haywood Highsmith,OKL,Over 0.5 Turnovers,-135,Hit in 4 of his last 5 home games,80%
-Isaiah Joe,MIA,Under 0.5 STL+BLK,-135,Hit in 4 of his last 5 games,80%
-Isaiah Hartenstein,MIA,Over 0.5 Blocks,-210,Hit in 8 of his last 10 games,80%
-Isaiah Hartenstein,MIA,Over 0.5 Steals,-120,Hit in 4 of his last 5 games vs MIA,80%
-Jalen Williams,MIA,Over 2.5 Turnovers,115,Hit in 4 of his last 5 games,80%
-Shai Gilgeous-Alexander,MIA,Over 30.5 Points,100,Hit in 4 of his last 5 games,80%
-Shai Gilgeous-Alexander,MIA,Over 1.5 Steals,-140,Hit in 4 of his last 5 away games,80%
-Mikal Bridges,PHI,Under 2.5 3PTM,-192,Hit in 15 of his last 19 games,79%
-Alex Caruso,MIA,Over 0.5 3PTM,-234,Hit in 15 of his last 19 away games,79%
-Aaron Jackson,CLE,Under 1.5 Assists,-129,Hit in 11 of his last 14 games,79%
-Jarrett Allen,MIL,Over 22.5 PTS+REB,-120,Hit in 7 of his last 9 home games,78%
-Eric Mobley,MIL,Over 8.5 Rebounds,-120,Hit in 7 of his last 9 games,78%
-Jarrett Allen,MIL,Over 24.5 P+A+R,-121,Hit in 7 of his last 9 home games,78%
-Jarrett Allen,MIL,Under 0.5 Blocks,100,Hit in 7 of his last 9 games,78%
-Caris LeVert,MIL,Under 7.5 REB+AST,-138,Hit in 7 of his last 9 games,78%
-Caris LeVert,MIL,Under 4.5 Assists,-166,Hit in 7 of his last 9 games,78%
-Eric Mobley,MIL,Over 11.5 REB+AST,-103,Hit in 7 of his last 9 games,78%
-Taurean Prince,CLE,Over 1.5 Assists,-106,Hit in 7 of his last 9 away games,78%
-Jarrett Allen,MIL,Over 1.5 STL+BLK,-120,Hit in 14 of his last 18 home games,78%
-Davion Mitchell,MIL,Over 1.5 Steals,-160,Hit in 7 of his last 9 games,78%
-Jackie Butler,OKL,Over 24.5 PTS+REB,-104,Hit in 7 of his last 9 home games,78%
-Jackie Butler,OKL,Over 4.5 Assists,-128,Hit in 7 of his last 9 home games,78%
-Jalen Williams,MIA,Over 4.5 Assists,-115,Hit in 7 of his last 9 away games,78%
-Jackie Butler,OKL,Over 29.5 P+A+R,-102,Hit in 7 of his last 9 home games,78%
-Terry Rozier,OKL,Under 0.5 Blocks,-225,Hit in 7 of his last 9 games,78%
-Alex Caruso,MIA,Over 0.5 Turnovers,-130,Hit in 7 of his last 9 games,78%
-Georges Niang,MIL,Over 7.5 Points,-120,Hit in 13 of his last 17 games,76%
-Bobby Portis,CLE,Under 1.5 3PTM,-215,Hit in 13 of his last 17 games,76%
-David Robinson,OKL,Over 1.5 Assists,-160,Hit in 13 of his last 17 games,76%
-Tyrese Maxey,CHA,Over 29.5 PTS+REB,-106,Hit in 3 of his last 4 games vs CHA,75%
-Tyrese Maxey,CHA,Over 35.5 P+A+R,-104,Hit in 3 of his last 4 games vs CHA,75%
-Tyrese Maxey,CHA,Over 9.5 REB+AST,-125,Hit in 6 of his last 8 games,75%
-Tyrese Maxey,CHA,Under 5.5 Assists,102,Hit in 3 of his last 4 games,75%
-Tyrese Maxey,CHA,Under 5.5 Assists,102,Hit in 3 of his last 4 games vs CHA,75%
-Tyrese Maxey,CHA,Over 31.5 PTS+AST,-104,Hit in 3 of his last 4 games vs CHA,75%
-Tyrese Maxey,CHA,Over 25.5 Points,-106,Hit in 3 of his last 4 games vs CHA,75%
-K. Oubre,CHA,Under 1.5 3PTM,-142,Hit in 3 of his last 4 games,75%
-K. Oubre,CHA,Over 0.5 Double Double,800,Hit in 3 of his last 4 games,75%
-Joel Embiid,CHA,Over 8.5 Rebounds,-130,Hit in 15 of his last 20 home games,75%
-Paul George,CHA,Over 10.5 REB+AST,-120,Hit in 3 of his last 4 games vs CHA,75%
-Malik Williams,PHI,Over 16.5 PTS+REB,-102,Hit in 3 of his last 4 games,75%
-Malik Williams,PHI,Over 9.5 Points,-104,Hit in 15 of his last 20 games,75%
-Mikal Bridges,PHI,Over 21.5 PTS+AST,-104,Hit in 3 of his last 4 games vs PHI,75%
-Mikal Bridges,PHI,Over 2.5 Assists,-174,Hit in 3 of his last 4 games vs PHI,75%
-JaMychal Green,PHI,Under 1.5 3PTM,-140,Hit in 3 of his last 4 games vs PHI,75%
-Tyrese Maxey,CHA,Over 2.5 Turnovers,130,Hit in 3 of his last 4 home games,75%
-K. Oubre,CHA,Over 12.5 Points,-129,Hit in 3 of his last 4 games vs CHA,75%
-Joel Embiid,CHA,Over 39.5 P+A+R,-108,Hit in 12 of his last 16 games,75%
-Paul George,CHA,Over 1.5 Steals,100,Hit in 3 of his last 4 home games,75%
-Mikal Bridges,PHI,Over 6.5 Rebounds,-102,Hit in 3 of his last 4 away games,75%
-JaMychal Green,PHI,Under 1.5 3PTM,-140,Hit in 3 of his last 4 games,75%
-JaMychal Green,PHI,Under 8.5 Points,-120,Hit in 3 of his last 4 games vs PHI,75%
-LaMelo Ball,PHI,Over 7.5 Assists,-121,Hit in 3 of his last 4 away games,75%
-LaMelo Ball,PHI,Over 0.5 Double Double,188,Hit in 3 of his last 4 away games,75%
-Joel Embiid,CHA,Under 3.5 Turnovers,-125,Hit in 3 of his last 4 games,75%
-Joel Embiid,CHA,Under 3.5 Turnovers,-125,Hit in 3 of his last 4 games vs CHA,75%
-Joel Embiid,CHA,Under 0.5 Steals,115,Hit in 3 of his last 4 games,75%
-Joel Embiid,CHA,Under 0.5 Steals,115,Hit in 3 of his last 4 games vs CHA,75%
-Mikal Bridges,PHI,Under 24.5 PTS+REB,-115,Hit in 3 of his last 4 games,75%
-Mikal Bridges,PHI,Over 1.5 Turnovers,-175,Hit in 3 of his last 4 games vs PHI,75%
-Mikal Bridges,PHI,Under 0.5 STL+BLK,170,Hit in 3 of his last 4 games,75%
-LaMelo Ball,PHI,Over 3.5 Turnovers,-160,Hit in 6 of his last 8 away games,75%
-LaMelo Ball,PHI,Over 1.5 STL+BLK,-105,Hit in 3 of his last 4 games,75%
-Mikal Bridges,PHI,Over 17.5 Points,-122,Hit in 3 of his last 4 games vs PHI,75%
-Jarrett Allen,MIL,Over 12.5 Points,-104,Hit in 15 of his last 20 home games,75%
-Davion Mitchell,MIL,Over 4.5 Rebounds,-108,Hit in 3 of his last 4 home games,75%
-Darius Garland,MIL,Under 2.5 3PTM,106,Hit in 3 of his last 4 games,75%
-Darius Garland,MIL,Over 19.5 Points,-115,Hit in 9 of his last 12 home games,75%
-Dean Wade,MIL,Under 1.5 3PTM,-146,Hit in 9 of his last 12 games,75%
-Eric Mobley,MIL,Over 25.5 PTS+REB,-113,Hit in 3 of his last 4 home games,75%
-Eric Mobley,MIL,Over 16.5 Points,-115,Hit in 3 of his last 4 home games,75%
-Jarrett Allen,MIL,Over 1.5 Assists,-113,Hit in 6 of his last 8 games vs MIL,75%
-Darius Garland,MIL,Over 22.5 PTS+REB,-115,Hit in 3 of his last 4 home games,75%
-Caris LeVert,MIL,Over 11.5 Points,-108,Hit in 3 of his last 4 home games,75%
-Caris LeVert,MIL,Under 4.5 Assists,-166,Hit in 3 of his last 4 games vs MIL,75%
-Caris LeVert,MIL,Over 14.5 PTS+REB,-115,Hit in 3 of his last 4 home games,75%
-Eric Mobley,MIL,Over 18.5 PTS+AST,-117,Hit in 3 of his last 4 home games,75%
-Eric Mobley,MIL,Over 0.5 3PTM,-148,Hit in 6 of his last 8 home games,75%
-Georges Niang,MIL,Over 1.5 Assists,165,Hit in 3 of his last 4 games,75%
-Taurean Prince,CLE,Over 0.5 Steals,-105,Hit in 3 of his last 4 games vs CLE,75%
-Bobby Portis,CLE,Under 12.5 Points,-111,Hit in 3 of his last 4 games vs CLE,75%
-Bobby Portis,CLE,Over 1.5 Assists,-137,Hit in 3 of his last 4 away games,75%
-Bobby Portis,CLE,Under 21.5 P+A+R,-109,Hit in 3 of his last 4 games vs CLE,75%
-Bobby Portis,CLE,Under 14.5 PTS+AST,-129,Hit in 3 of his last 4 games vs CLE,75%
-Aaron Jackson,CLE,Over 0.5 3PTM,-133,Hit in 3 of his last 4 games,75%
-Aaron Jackson,CLE,Over 4.5 Points,-125,Hit in 3 of his last 4 games,75%
-Brook Lopez,CLE,Over 4.5 Rebounds,-130,Hit in 3 of his last 4 away games,75%
-Brook Lopez,CLE,Over 17.5 P+A+R,-129,Hit in 3 of his last 4 games vs CLE,75%
-Bobby Portis,CLE,Under 20.5 PTS+REB,-120,Hit in 3 of his last 4 games vs CLE,75%
-Davion Mitchell,MIL,Over 2.5 Turnovers,140,Hit in 3 of his last 4 games vs MIL,75%
-Davion Mitchell,MIL,Under 2.5 STL+BLK,-185,Hit in 3 of his last 4 games,75%
-Caris LeVert,MIL,Over 1.5 Turnovers,145,Hit in 3 of his last 4 games vs MIL,75%
-Eric Mobley,MIL,Over 1.5 Turnovers,-155,Hit in 12 of his last 16 home games,75%
-Eric Mobley,MIL,Under 1.5 Blocks,-210,Hit in 3 of his last 4 games,75%
-Taurean Prince,CLE,Over 0.5 STL+BLK,-150,Hit in 6 of his last 8 games,75%
-Taurean Prince,CLE,Over 0.5 STL+BLK,-150,Hit in 3 of his last 4 games vs CLE,75%
-Bobby Portis,CLE,Under 0.5 Steals,-150,Hit in 3 of his last 4 games vs CLE,75%
-Bobby Portis,CLE,Over 0.5 STL+BLK,-190,Hit in 6 of his last 8 games,75%
-Giannis Antetokounmpo,CLE,Under 3.5 Turnovers,120,Hit in 3 of his last 4 games vs CLE,75%
-Darius Garland,MIL,Over 26.5 PTS+AST,-104,Hit in 3 of his last 4 home games,75%
-Dean Wade,MIL,Under 5.5 Points,104,Hit in 9 of his last 12 games,75%
-Brook Lopez,CLE,Over 15.5 PTS+REB,-128,Hit in 3 of his last 4 games vs CLE,75%
-Bam Adebayo,OKL,Over 21.5 PTS+AST,-106,Hit in 3 of his last 4 games,75%
-Bam Adebayo,OKL,Over 27.5 PTS+REB,-104,Hit in 3 of his last 4 games,75%
-Bam Adebayo,OKL,Over 32.5 P+A+R,-106,Hit in 3 of his last 4 games,75%
-Bam Adebayo,OKL,Over 10.5 Rebounds,-132,Hit in 3 of his last 4 games,75%
-Tyler Herro,OKL,Under 9.5 REB+AST,-136,Hit in 6 of his last 8 games,75%
-Tyler Herro,OKL,Under 27.5 PTS+REB,-120,Hit in 3 of his last 4 games,75%
-Tyler Herro,OKL,Under 4.5 Assists,-150,Hit in 6 of his last 8 games,75%
-Tyler Herro,OKL,Over 31.5 P+A+R,-115,Hit in 3 of his last 4 home games,75%
-Luguentz Dort,MIA,Over 9.5 Points,-118,Hit in 3 of his last 4 games vs MIA,75%
-Jalen Williams,MIA,Under 10.5 REB+AST,-138,Hit in 3 of his last 4 games vs MIA,75%
-Jalen Williams,MIA,Under 25.5 PTS+AST,-128,Hit in 3 of his last 4 games vs MIA,75%
-Jalen Williams,MIA,Under 25.5 PTS+REB,-106,Hit in 3 of his last 4 games vs MIA,75%
-Jalen Williams,MIA,Under 30.5 P+A+R,-111,Hit in 3 of his last 4 games vs MIA,75%
-Shai Gilgeous-Alexander,MIA,Over 35.5 PTS+AST,-122,Hit in 6 of his last 8 away games,75%
-Shai Gilgeous-Alexander,MIA,Over 1.5 3PTM,-192,Hit in 3 of his last 4 games,75%
-David Robinson,OKL,Over 9.5 Points,-115,Hit in 3 of his last 4 games,75%
-David Robinson,OKL,Over 12.5 PTS+REB,-103,Hit in 3 of his last 4 games,75%
-David Robinson,OKL,Over 2.5 3PTM,122,Hit in 3 of his last 4 games,75%
-David Robinson,OKL,Over 4.5 REB+AST,104,Hit in 3 of his last 4 home games,75%
-David Robinson,OKL,Over 14.5 P+A+R,-106,Hit in 3 of his last 4 home games,75%
-David Robinson,OKL,Over 2.5 Rebounds,116,Hit in 3 of his last 4 home games,75%
-J. Jaquez,OKL,Over 1.5 Assists,-106,Hit in 6 of his last 8 games,75%
-J. Jaquez,OKL,Under 8.5 PTS+AST,-125,Hit in 3 of his last 4 games,75%
-J. Jaquez,OKL,Under 11.5 P+A+R,-133,Hit in 3 of his last 4 games,75%
-Haywood Highsmith,OKL,Over 8.5 PTS+REB,-113,Hit in 6 of his last 8 games,75%
-Haywood Highsmith,OKL,Over 0.5 Assists,-166,Hit in 3 of his last 4 games vs OKL,75%
-Haywood Highsmith,OKL,Over 5.5 Points,-115,Hit in 6 of his last 8 games,75%
-Haywood Highsmith,OKL,Over 6.5 PTS+AST,-117,Hit in 6 of his last 8 games,75%
-Haywood Highsmith,OKL,Over 9.5 P+A+R,-121,Hit in 6 of his last 8 games,75%
-Haywood Highsmith,OKL,Over 3.5 REB+AST,-125,Hit in 6 of his last 8 games,75%
-Haywood Highsmith,OKL,Over 3.5 REB+AST,-125,Hit in 3 of his last 4 games vs OKL,75%
-Haywood Highsmith,OKL,Over 2.5 Rebounds,-125,Hit in 6 of his last 8 games,75%
-Haywood Highsmith,OKL,Over 2.5 Rebounds,-125,Hit in 3 of his last 4 games vs OKL,75%
-Terry Rozier,OKL,Under 1.5 3PTM,108,Hit in 3 of his last 4 games,75%
-Isaiah Joe,MIA,Over 6.5 Points,104,Hit in 3 of his last 4 games,75%
-Isaiah Joe,MIA,Over 3.5 REB+AST,104,Hit in 3 of his last 4 games vs MIA,75%
-Isaiah Joe,MIA,Over 8.5 PTS+REB,-121,Hit in 3 of his last 4 games,75%
-Isaiah Joe,MIA,Over 0.5 Assists,-194,Hit in 3 of his last 4 games vs MIA,75%
-Luguentz Dort,MIA,Over 5.5 REB+AST,-133,Hit in 3 of his last 4 games vs MIA,75%
-Luguentz Dort,MIA,Over 1.5 Assists,-106,Hit in 3 of his last 4 games vs MIA,75%
-Cason Wallace,MIA,Over 11.5 P+A+R,-113,Hit in 6 of his last 8 games,75%
-Cason Wallace,MIA,Over 11.5 P+A+R,-113,Hit in 3 of his last 4 away games,75%
-Shai Gilgeous-Alexander,MIA,Over 41.5 P+A+R,-109,Hit in 6 of his last 8 away games,75%
-Isaiah Hartenstein,MIA,Under 3.5 Assists,-138,Hit in 3 of his last 4 games,75%
-Jalen Williams,MIA,Under 5.5 Rebounds,-128,Hit in 3 of his last 4 games vs MIA,75%
-Alex Caruso,MIA,Over 2.5 Rebounds,-129,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,MIA,Over 35.5 PTS+REB,-108,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,MIA,Over 41.5 P+A+R,-109,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,MIA,Over 5.5 Assists,-122,Hit in 3 of his last 4 games vs MIA,75%
-Shai Gilgeous-Alexander,MIA,Over 35.5 PTS+AST,-122,Hit in 3 of his last 4 games,75%
-Isaiah Hartenstein,MIA,Over 11.5 Points,100,Hit in 3 of his last 4 away games,75%
-Jackie Butler,OKL,Over 0.5 Blocks,150,Hit in 3 of his last 4 home games,75%
-Jackie Butler,OKL,Over 0.5 Steals,-250,Hit in 9 of his last 12 home games,75%
-Bam Adebayo,OKL,Over 0.5 Blocks,-145,Hit in 3 of his last 4 home games,75%
-David Robinson,OKL,Under 1.5 Turnovers,-175,Hit in 15 of his last 20 games,75%
-David Robinson,OKL,Over 0.5 Steals,125,Hit in 3 of his last 4 home games,75%
-David Robinson,OKL,Over 0.5 STL+BLK,-120,Hit in 3 of his last 4 home games,75%
-Tyler Herro,OKL,Over 0.5 STL+BLK,-155,Hit in 9 of his last 12 home games,75%
-Haywood Highsmith,OKL,Over 0.5 Steals,-120,Hit in 3 of his last 4 games vs OKL,75%
-Terry Rozier,OKL,Under 1.5 Turnovers,-160,Hit in 3 of his last 4 games,75%
-Luguentz Dort,MIA,Over 0.5 Turnovers,-145,Hit in 3 of his last 4 games vs MIA,75%
-Jalen Williams,MIA,Over 0.5 Blocks,-105,Hit in 3 of his last 4 games vs MIA,75%
-Jalen Williams,MIA,Under 1.5 Steals,-125,Hit in 3 of his last 4 games,75%
-Jalen Williams,MIA,Under 1.5 Steals,-125,Hit in 3 of his last 4 games vs MIA,75%
-Jalen Williams,MIA,Under 2.5 STL+BLK,-175,Hit in 3 of his last 4 games,75%
-Jalen Williams,MIA,Under 2.5 STL+BLK,-175,Hit in 3 of his last 4 games vs MIA,75%
-Alex Caruso,MIA,Over 0.5 Turnovers,-130,Hit in 3 of his last 4 games vs MIA,75%
-Alex Caruso,MIA,Over 0.5 Turnovers,-130,Hit in 3 of his last 4 away games,75%
-Alex Caruso,MIA,Over 1.5 STL+BLK,-145,Hit in 6 of his last 8 games vs MIA,75%
-Cason Wallace,MIA,Over 0.5 Blocks,115,Hit in 6 of his last 8 away games,75%
-Shai Gilgeous-Alexander,MIA,Over 2.5 Turnovers,-140,Hit in 3 of his last 4 games vs MIA,75%
-Shai Gilgeous-Alexander,MIA,Over 0.5 Blocks,-160,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,MIA,Over 2.5 STL+BLK,-120,Hit in 3 of his last 4 games,75%
-Bobby Portis,CLE,Under 1.5 Turnovers,-155,Hit in 14 of his last 19 games,74%
-Alex Caruso,MIA,Over 8.5 PTS+REB,-103,Hit in 14 of his last 19 away games,74%
-Jarrett Allen,MIL,Over 0.5 Steals,-175,Hit in 11 of his last 15 games,73%
-Darius Garland,MIL,Over 0.5 Steals,-190,Hit in 11 of his last 15 home games,73%
-J. Jaquez,OKL,Over 1.5 Assists,-106,Hit in 11 of his last 15 home games,73%
-J. Jaquez,OKL,Over 4.5 REB+AST,108,Hit in 11 of his last 15 home games,73%
-J. Jaquez,OKL,Over 6.5 Points,-125,Hit in 11 of his last 15 home games,73%
-J. Jaquez,OKL,Over 9.5 PTS+REB,-113,Hit in 11 of his last 15 home games,73%
-Haywood Highsmith,OKL,Over 0.5 Assists,-166,Hit in 11 of his last 15 games,73%
-Darius Garland,MIL,Under 9.5 REB+AST,-138,Hit in 8 of his last 11 games,73%
-Taurean Prince,CLE,Over 1.5 3PTM,106,Hit in 8 of his last 11 games,73%
-Eric Mobley,MIL,Over 1.5 STL+BLK,-190,Hit in 8 of his last 11 games,73%
-Luguentz Dort,MIA,Over 1.5 Assists,-106,Hit in 8 of his last 11 away games,73%
-Bam Adebayo,OKL,Over 0.5 Steals,-190,Hit in 8 of his last 11 home games,73%
-Tyler Herro,OKL,Over 0.5 Steals,-120,Hit in 8 of his last 11 games,73%
-Tyler Herro,OKL,Over 0.5 STL+BLK,-155,Hit in 8 of his last 11 games,73%
-Haywood Highsmith,OKL,Over 0.5 Steals,-120,Hit in 8 of his last 11 games,73%
-Terry Rozier,OKL,Under 0.5 Steals,-130,Hit in 8 of his last 11 games,73%
-Taurean Prince,CLE,Over 0.5 Turnovers,-165,Hit in 13 of his last 18 games,72%
-Bobby Portis,CLE,Under 0.5 Blocks,-250,Hit in 13 of his last 18 games,72%
-Tyrese Maxey,CHA,Under 3.5 Rebounds,114,Hit in 5 of his last 7 games vs CHA,71%
-K. Oubre,CHA,Over 20.5 P+A+R,-125,Hit in 5 of his last 7 home games,71%
-Paul George,CHA,Over 5.5 Assists,112,Hit in 5 of his last 7 games vs CHA,71%
-Mikal Bridges,PHI,Over 21.5 PTS+AST,-104,Hit in 5 of his last 7 games,71%
-K. Oubre,CHA,Over 12.5 Points,-129,Hit in 5 of his last 7 games,71%
-Mikal Bridges,PHI,Over 6.5 Rebounds,-102,Hit in 5 of his last 7 games,71%
-K. Oubre,CHA,Over 18.5 PTS+REB,-133,Hit in 5 of his last 7 home games,71%
-Mikal Bridges,PHI,Over 17.5 Points,-122,Hit in 5 of his last 7 games,71%
-Davion Mitchell,MIL,Over 9.5 REB+AST,-111,Hit in 5 of his last 7 games vs MIL,71%
-Davion Mitchell,MIL,Over 3.5 3PTM,100,Hit in 5 of his last 7 games,71%
-Brook Lopez,CLE,Under 1.5 3PTM,-113,Hit in 5 of his last 7 games,71%
-Brook Lopez,CLE,Under 11.5 Points,-128,Hit in 5 of his last 7 games,71%
-Georges Niang,MIL,Over 1.5 3PTM,-130,Hit in 5 of his last 7 games,71%
-Georges Niang,MIL,Over 4.5 REB+AST,-121,Hit in 5 of his last 7 home games,71%
-Georges Niang,MIL,Over 12.5 P+A+R,-113,Hit in 10 of his last 14 games,71%
-Aaron Jackson,CLE,Under 2.5 Rebounds,108,Hit in 5 of his last 7 games,71%
-Brook Lopez,CLE,Over 4.5 Rebounds,-130,Hit in 5 of his last 7 games,71%
-Brook Lopez,CLE,Under 13.5 PTS+AST,-133,Hit in 5 of his last 7 games,71%
-Georges Niang,MIL,Over 8.5 PTS+AST,-133,Hit in 10 of his last 14 games,71%
-Davion Mitchell,MIL,Over 4.5 Assists,-132,Hit in 5 of his last 7 games vs MIL,71%
-Georges Niang,MIL,Over 10.5 PTS+REB,-130,Hit in 10 of his last 14 games,71%
-Isaiah Joe,MIA,Over 3.5 REB+AST,104,Hit in 5 of his last 7 games,71%
-Jalen Williams,MIA,Under 10.5 REB+AST,-138,Hit in 5 of his last 7 games,71%
-Jalen Williams,MIA,Over 4.5 Assists,-115,Hit in 10 of his last 14 games,71%
-Alex Caruso,MIA,Over 7.5 PTS+AST,-121,Hit in 5 of his last 7 games,71%
-Alex Caruso,MIA,Over 8.5 PTS+REB,-103,Hit in 5 of his last 7 games,71%
-Alex Caruso,MIA,Over 10.5 P+A+R,-117,Hit in 5 of his last 7 games,71%
-Alex Caruso,MIA,Over 5.5 Points,-113,Hit in 5 of his last 7 games,71%
-Alex Caruso,MIA,Over 0.5 3PTM,-234,Hit in 5 of his last 7 games,71%
-Shai Gilgeous-Alexander,MIA,Over 35.5 PTS+REB,-108,Hit in 5 of his last 7 away games,71%
-Jackie Butler,OKL,Over 0.5 Steals,-250,Hit in 5 of his last 7 games,71%
-Tyler Herro,OKL,Over 0.5 Steals,-120,Hit in 5 of his last 7 home games,71%
-Haywood Highsmith,OKL,Over 0.5 Steals,-120,Hit in 5 of his last 7 home games,71%
-Isaiah Joe,MIA,Under 0.5 Turnovers,-160,Hit in 5 of his last 7 games,71%
-Cason Wallace,MIA,Over 1.5 Steals,160,Hit in 5 of his last 7 games,71%
-Cason Wallace,MIA,Over 1.5 STL+BLK,-135,Hit in 10 of his last 14 away games,71%
-LaMelo Ball,PHI,Over 3.5 3PTM,-166,Hit in 12 of his last 17 games,71%
-Jarrett Allen,MIL,Over 10.5 Rebounds,-108,Hit in 12 of his last 17 home games,71%
-Jarrett Allen,MIL,Over 0.5 Double Double,115,Hit in 12 of his last 17 home games,71%
-Jarrett Allen,MIL,Over 12.5 REB+AST,-103,Hit in 12 of his last 17 home games,71%
-Alex Caruso,MIA,Over 7.5 PTS+AST,-121,Hit in 12 of his last 17 away games,71%
-Alex Caruso,MIA,Over 5.5 Points,-113,Hit in 12 of his last 17 away games,71%
-Joel Embiid,CHA,Over 1.5 STL+BLK,-190,Hit in 14 of his last 20 home games,70%
-Joel Embiid,CHA,Over 13.5 REB+AST,108,Hit in 14 of his last 20 home games,70%
-Bobby Portis,CLE,Under 12.5 Points,-111,Hit in 7 of his last 10 games,70%
-Bobby Portis,CLE,Under 21.5 P+A+R,-109,Hit in 7 of his last 10 games,70%
-Bobby Portis,CLE,Under 14.5 PTS+AST,-129,Hit in 7 of his last 10 games,70%
-Bobby Portis,CLE,Under 20.5 PTS+REB,-120,Hit in 7 of his last 10 games,70%
-Caris LeVert,MIL,Under 0.5 Blocks,-225,Hit in 7 of his last 10 games,70%
-Caris LeVert,MIL,Under 1.5 STL+BLK,-200,Hit in 7 of his last 10 games,70%
-Bobby Portis,CLE,Over 0.5 STL+BLK,-190,Hit in 7 of his last 10 games vs CLE,70%
-J. Jaquez,OKL,Over 9.5 PTS+REB,-113,Hit in 14 of his last 20 games,70%
-Haywood Highsmith,OKL,Over 0.5 Assists,-166,Hit in 14 of his last 20 home games,70%
-Terry Rozier,OKL,Under 3.5 Rebounds,-166,Hit in 7 of his last 10 games,70%
-Isaiah Joe,MIA,Over 7.5 PTS+AST,-106,Hit in 14 of his last 20 games,70%
-Isaiah Joe,MIA,Over 9.5 P+A+R,-121,Hit in 14 of his last 20 games,70%
-Isaiah Joe,MIA,Over 6.5 Points,104,Hit in 7 of his last 10 away games,70%
-Isaiah Joe,MIA,Over 8.5 PTS+REB,-121,Hit in 7 of his last 10 away games,70%
-Isaiah Hartenstein,MIA,Over 14.5 REB+AST,-128,Hit in 7 of his last 10 games,70%
-Isaiah Hartenstein,MIA,Over 1.5 STL+BLK,-115,Hit in 7 of his last 10 games,70%
-Tyrese Maxey,CHA,Over 25.5 Points,-106,CHA rank 28th in PTS versus PG,28th
-JaMychal Green,PHI,Under 1.5 3PTM,-140,PHI rank 5th in 3PTM versus SG,5th
-JaMychal Green,PHI,Under 8.5 Points,-120,PHI rank 2nd in PTS versus SG,2nd
-Paul George,CHA,Over 0.5 Blocks,-105,CHA rank 29th in BLK versus SF,29th
-Mikal Bridges,PHI,Over 1.5 Turnovers,-175,PHI rank 29th in TO against,29th
-Darius Garland,MIL,Over 19.5 Points,-115,MIL rank 30th in PTS versus PG,30th
-Brook Lopez,CLE,Under 11.5 Points,-128,CLE rank 4th in PTS versus C,4th
-Jarrett Allen,MIL,Under 0.5 Blocks,100,MIL rank 4th in BLK against,4th
-Aaron Jackson,CLE,Under 0.5 Steals,-118,CLE rank 5th in STL against,5th
-Brook Lopez,CLE,Under 1.5 Blocks,-120,CLE rank 4th in BLK versus C,4th
-Delon Wright,CLE,Under 4.5 Assists,-146,CLE rank 5th in AST versus PG,5th
-Davion Mitchell,MIL,Under 0.5 Blocks,-350,MIL rank 2nd in BLK versus SG,2nd
-Caris LeVert,MIL,Under 0.5 Blocks,-225,MIL rank 2nd in BLK versus SG,2nd
-Eric Mobley,MIL,Under 1.5 Blocks,-210,MIL rank 4th in BLK against,4th
-Georges Niang,MIL,Over 0.5 Turnovers,-145,MIL rank 4th in TO versus PF,4th
-Bobby Portis,CLE,Under 0.5 Steals,-150,CLE rank 5th in STL against,5th
-Brook Lopez,CLE,Under 0.5 Steals,115,CLE rank 5th in STL against,5th
-Jackie Butler,OKL,Over 5.5 Rebounds,-115,OKL rank 30th in REB versus SF,30th
-Jackie Butler,OKL,Over 18.5 Points,-111,OKL rank 30th in PTS versus SF,30th
-Bam Adebayo,OKL,Over 10.5 Rebounds,-132,OKL rank 29th in REB against,29th
-Tyler Herro,OKL,Under 4.5 Assists,-150,OKL rank 1st in AST versus SG,1st
-Isaiah Hartenstein,MIA,Over 11.5 Rebounds,-104,MIA rank 26th in REB against,26th
-Luguentz Dort,MIA,Over 4.5 Rebounds,114,MIA rank 26th in REB against,26th
-Cason Wallace,MIA,Over 3.5 Rebounds,124,MIA rank 26th in REB against,26th
-Shai Gilgeous-Alexander,MIA,Over 5.5 Rebounds,122,MIA rank 26th in REB against,26th
-Jackie Butler,OKL,Over 0.5 3PTM,-103,OKL rank 30th in 3PTM versus SF,30th
-David Robinson,OKL,Over 9.5 Points,-115,OKL rank 30th in PTS versus SF,30th
-David Robinson,OKL,Over 2.5 3PTM,122,OKL rank 30th in 3PTM versus SF,30th
-David Robinson,OKL,Over 2.5 Rebounds,116,OKL rank 30th in REB versus SF,30th
-J. Jaquez,OKL,Over 6.5 Points,-125,OKL rank 30th in PTS versus SF,30th
-J. Jaquez,OKL,Over 2.5 Rebounds,-117,OKL rank 30th in REB versus SF,30th
-Haywood Highsmith,OKL,Over 1.5 3PTM,176,OKL rank 30th in 3PTM versus SF,30th
-Haywood Highsmith,OKL,Over 5.5 Points,-115,OKL rank 30th in PTS versus SF,30th
-Haywood Highsmith,OKL,Over 2.5 Rebounds,-125,OKL rank 30th in REB versus SF,30th
-Terry Rozier,OKL,Under 2.5 Assists,-133,OKL rank 3rd in AST against,3rd
-Terry Rozier,OKL,Under 1.5 3PTM,108,OKL rank 4th in 3PTM against,4th
-Isaiah Joe,MIA,Over 2.5 Rebounds,108,MIA rank 26th in REB against,26th
-Alex Caruso,MIA,Over 2.5 Rebounds,-129,MIA rank 28th in REB versus PG,28th
-Alex Caruso,MIA,Over 2.5 Assists,133,MIA rank 28th in AST versus PG,28th
-Bam Adebayo,OKL,Under 16.5 Points,-122,OKL rank 2nd in PTS versus C,2nd
-Jackie Butler,OKL,Under 1.5 Turnovers,125,OKL rank 30th in TO versus SF,30th
-Jackie Butler,OKL,Over 0.5 Steals,-250,OKL rank 27th in STL versus SF,27th
-David Robinson,OKL,Under 1.5 Turnovers,-175,OKL rank 30th in TO versus SF,30th
-David Robinson,OKL,Over 0.5 Steals,125,OKL rank 27th in STL versus SF,27th
-Tyler Herro,OKL,Under 3.5 Turnovers,-175,OKL rank 29th in TO versus SG,29th
-Haywood Highsmith,OKL,Over 0.5 Steals,-120,OKL rank 27th in STL versus SF,27th
-Terry Rozier,OKL,Under 1.5 Turnovers,-160,OKL rank 29th in TO versus PG,29th
-Terry Rozier,OKL,Under 0.5 Steals,-130,OKL rank 5th in STL versus PG,5th
-Isaiah Joe,MIA,Over 0.5 Blocks,333,MIA rank 28th in BLK versus SG,28th
-Isaiah Joe,MIA,Under 0.5 Steals,-225,MIA rank 4th in STL against,4th
-Luguentz Dort,MIA,Over 0.5 Blocks,100,MIA rank 28th in BLK versus SG,28th
-Jalen Williams,MIA,Over 0.5 Blocks,-105,MIA rank 28th in BLK versus SG,28th
-Jalen Williams,MIA,Under 1.5 Steals,-125,MIA rank 4th in STL against,4th
-Cason Wallace,MIA,Over 0.5 Blocks,115,MIA rank 28th in BLK versus SG,28th
-Shai Gilgeous-Alexander,MIA,Over 0.5 Blocks,-160,MIA rank 28th in BLK versus SG,28th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Joel Embiid,CHA,Over 8.5 Rebounds,-130,Hit in 4 of his last 4 games vs CHA,100%,False,5.0
+Joel Embiid,CHA,Over 30.5 PTS+AST,-104,Hit in 4 of his last 4 games vs CHA,100%,True,47.0
+Joel Embiid,CHA,Over 26.5 Points,102,Hit in 4 of his last 4 games vs CHA,100%,True,38.0
+Joel Embiid,CHA,Over 0.5 Double Double,110,Hit in 4 of his last 4 games vs CHA,100%,False,0.0
+Joel Embiid,CHA,Over 35.5 PTS+REB,-104,Hit in 4 of his last 4 games vs CHA,100%,True,43.0
+Joel Embiid,CHA,Under 1.5 3PTM,-154,Hit in 6 of his last 6 games,100%,False,2.0
+Joel Embiid,CHA,Over 39.5 P+A+R,-108,Hit in 4 of his last 4 games vs CHA,100%,True,52.0
+Tyrese Maxey,CHA,Over 1.5 STL+BLK,-150,Hit in 10 of his last 10 home games,100%,True,2.0
+Joel Embiid,CHA,Over 13.5 REB+AST,108,Hit in 4 of his last 4 games vs CHA,100%,True,14.0
+Jarrett Allen,MIL,Over 22.5 PTS+REB,-120,Hit in 6 of his last 6 games vs MIL,100%,False,20.0
+Jarrett Allen,MIL,Over 10.5 Rebounds,-108,Hit in 6 of his last 6 games vs MIL,100%,False,10.0
+Jarrett Allen,MIL,Over 12.5 Points,-104,Hit in 6 of his last 6 games vs MIL,100%,False,10.0
+Jarrett Allen,MIL,Over 0.5 Double Double,115,Hit in 6 of his last 6 games vs MIL,100%,True,1.0
+Dean Wade,MIL,Under 5.5 Rebounds,-154,Hit in 6 of his last 6 games vs MIL,100%,True,5.0
+Delon Wright,CLE,Under 4.5 Assists,-146,Hit in 8 of his last 8 games,100%,True,2.0
+Delon Wright,CLE,Under 4.5 Assists,-146,Hit in 9 of his last 9 games vs CLE,100%,True,2.0
+Jarrett Allen,MIL,Over 24.5 P+A+R,-121,Hit in 6 of his last 6 games vs MIL,100%,False,20.0
+Jarrett Allen,MIL,Over 13.5 PTS+AST,-133,Hit in 8 of his last 8 games vs MIL,100%,False,10.0
+Jarrett Allen,MIL,Over 12.5 REB+AST,-103,Hit in 6 of his last 6 games vs MIL,100%,False,10.0
+Caris LeVert,MIL,Under 1.5 3PTM,-148,Hit in 4 of his last 4 games vs MIL,100%,True,1.0
+Georges Niang,MIL,Over 1.5 Assists,165,Hit in 5 of his last 5 games vs MIL,100%,False,1.0
+Georges Niang,MIL,Over 3.5 Rebounds,112,Hit in 6 of his last 6 games,100%,False,2.0
+Georges Niang,MIL,Over 3.5 Rebounds,112,Hit in 5 of his last 5 games vs MIL,100%,False,2.0
+Georges Niang,MIL,Over 4.5 REB+AST,-121,Hit in 4 of his last 4 games,100%,False,3.0
+Georges Niang,MIL,Over 4.5 REB+AST,-121,Hit in 5 of his last 5 games vs MIL,100%,False,3.0
+Taurean Prince,CLE,Under 11.5 P+A+R,-117,Hit in 5 of his last 5 games,100%,False,12.0
+Taurean Prince,CLE,Under 8.5 PTS+AST,-103,Hit in 5 of his last 5 games,100%,False,9.0
+Giannis Antetokounmpo,CLE,Over 18.5 REB+AST,-113,Hit in 4 of his last 4 games vs CLE,100%,False,17.0
+Giannis Antetokounmpo,CLE,Under 0.5 3PTM,-339,Hit in 8 of his last 8 games,100%,False,1.0
+Giannis Antetokounmpo,CLE,Over 1.5 Blocks,-125,Hit in 4 of his last 4 games,100%,False,0.0
+Brook Lopez,CLE,Over 4.5 Rebounds,-130,Hit in 4 of his last 4 games vs CLE,100%,True,6.0
+Brook Lopez,CLE,Over 5.5 REB+AST,-154,Hit in 4 of his last 4 games vs CLE,100%,True,7.0
+Brook Lopez,CLE,Under 13.5 PTS+AST,-133,Hit in 7 of his last 7 games vs CLE,100%,False,15.0
+Brook Lopez,CLE,Under 1.5 Assists,-154,Hit in 5 of his last 5 games,100%,True,1.0
+Taurean Prince,CLE,Under 7.5 Points,-122,Hit in 5 of his last 5 games,100%,True,7.0
+Taurean Prince,CLE,Under 10.5 PTS+REB,-133,Hit in 5 of his last 5 games,100%,True,10.0
+Giannis Antetokounmpo,CLE,Over 43.5 PTS+REB,-118,Hit in 4 of his last 4 games,100%,True,49.0
+Giannis Antetokounmpo,CLE,Over 0.5 Double Double,-390,Hit in 5 of his last 5 games vs CLE,100%,True,1.0
+Jarrett Allen,MIL,Over 0.5 Turnovers,-210,Hit in 5 of his last 5 home games,100%,True,1.0
+Jarrett Allen,MIL,Over 0.5 Steals,-175,Hit in 6 of his last 6 home games,100%,True,2.0
+Caris LeVert,MIL,Over 0.5 Steals,-160,Hit in 4 of his last 4 home games,100%,True,1.0
+Delon Wright,CLE,Under 10.5 PTS+AST,-128,Hit in 8 of his last 8 games,100%,True,4.0
+Delon Wright,CLE,Under 10.5 PTS+AST,-128,Hit in 9 of his last 9 games vs CLE,100%,True,4.0
+Giannis Antetokounmpo,CLE,Over 0.5 Steals,-160,Hit in 4 of his last 4 games,100%,True,3.0
+Giannis Antetokounmpo,CLE,Over 2.5 STL+BLK,-105,Hit in 4 of his last 4 games,100%,True,3.0
+Brook Lopez,CLE,Under 2.5 STL+BLK,-140,Hit in 5 of his last 5 games,100%,True,2.0
+Bam Adebayo,OKL,Over 15.5 REB+AST,-125,Hit in 5 of his last 5 home games,100%,False,11.0
+Bam Adebayo,OKL,Over 4.5 Assists,-140,Hit in 7 of his last 7 home games,100%,False,1.0
+Bam Adebayo,OKL,Over 0.5 Double Double,-170,Hit in 5 of his last 5 home games,100%,True,1.0
+Isaiah Hartenstein,MIA,Over 22.5 PTS+REB,-118,Hit in 5 of his last 5 games,100%,True,31.0
+Isaiah Hartenstein,MIA,Under 3.5 Assists,-138,Hit in 13 of his last 13 games vs MIA,100%,True,2.0
+Isaiah Hartenstein,MIA,Over 11.5 Rebounds,-104,Hit in 6 of his last 6 away games,100%,True,18.0
+Jalen Williams,MIA,Under 25.5 PTS+AST,-128,Hit in 4 of his last 4 games,100%,False,45.0
+Jalen Williams,MIA,Under 30.5 P+A+R,-111,Hit in 4 of his last 4 games,100%,False,51.0
+Jalen Williams,MIA,Under 20.5 Points,-120,Hit in 4 of his last 4 games,100%,False,41.0
+Jalen Williams,MIA,Under 20.5 Points,-120,Hit in 4 of his last 4 games vs MIA,100%,False,41.0
+Bam Adebayo,OKL,Over 0.5 3PTM,-184,Hit in 4 of his last 4 games,100%,False,0.0
+Luguentz Dort,MIA,Over 10.5 PTS+AST,-117,Hit in 4 of his last 4 games vs MIA,100%,True,22.0
+Alex Caruso,MIA,Over 5.5 Points,-113,Hit in 5 of his last 5 games vs MIA,100%,False,4.0
+Cason Wallace,MIA,Over 0.5 3PTM,-224,Hit in 4 of his last 4 away games,100%,False,0.0
+Isaiah Hartenstein,MIA,Over 14.5 REB+AST,-128,Hit in 6 of his last 6 away games,100%,True,20.0
+Luguentz Dort,MIA,Over 14.5 P+A+R,-129,Hit in 4 of his last 4 games vs MIA,100%,True,23.0
+Luguentz Dort,MIA,Over 13.5 PTS+REB,-130,Hit in 4 of his last 4 games vs MIA,100%,True,23.0
+Jalen Williams,MIA,Under 25.5 PTS+REB,-106,Hit in 4 of his last 4 games,100%,False,47.0
+Alex Caruso,MIA,Over 0.5 3PTM,-234,Hit in 8 of his last 8 games vs MIA,100%,False,0.0
+Bam Adebayo,OKL,Under 1.5 STL+BLK,100,Hit in 4 of his last 4 games,100%,False,2.0
+Tyler Herro,OKL,Under 3.5 Turnovers,-175,Hit in 4 of his last 4 games,100%,True,0.0
+Haywood Highsmith,OKL,Under 0.5 Blocks,-135,Hit in 4 of his last 4 games vs OKL,100%,True,0.0
+Terry Rozier,OKL,Over 0.5 STL+BLK,-225,Hit in 5 of his last 5 games,100%,True,2.0
+Terry Rozier,OKL,Over 0.5 STL+BLK,-225,Hit in 4 of his last 4 home games,100%,True,2.0
+Isaiah Joe,MIA,Under 0.5 Steals,-225,Hit in 4 of his last 4 games vs MIA,100%,True,0.0
+Isaiah Joe,MIA,Under 0.5 STL+BLK,-135,Hit in 4 of his last 4 games vs MIA,100%,True,0.0
+Isaiah Hartenstein,MIA,Under 1.5 Turnovers,100,Hit in 10 of his last 10 games vs MIA,100%,True,0.0
+Isaiah Hartenstein,MIA,Over 0.5 Steals,-120,Hit in 5 of his last 5 away games,100%,True,1.0
+Luguentz Dort,MIA,Over 0.5 Blocks,100,Hit in 4 of his last 4 away games,100%,False,0.0
+Luguentz Dort,MIA,Over 0.5 Steals,-200,Hit in 4 of his last 4 away games,100%,True,2.0
+Luguentz Dort,MIA,Over 1.5 STL+BLK,-110,Hit in 4 of his last 4 away games,100%,True,2.0
+Alex Caruso,MIA,Under 0.5 Blocks,-160,Hit in 5 of his last 5 games,100%,False,2.0
+Alex Caruso,MIA,Over 1.5 Steals,135,Hit in 6 of his last 6 away games,100%,True,2.0
+Alex Caruso,MIA,Over 1.5 STL+BLK,-145,Hit in 6 of his last 6 away games,100%,True,4.0
+Cason Wallace,MIA,Over 0.5 Blocks,115,Hit in 4 of his last 4 games,100%,True,2.0
+Shai Gilgeous-Alexander,MIA,Over 1.5 Steals,-140,Hit in 4 of his last 4 games,100%,True,2.0
+Giannis Antetokounmpo,CLE,Over 0.5 Double Double,-390,Hit in 15 of his last 16 away games,94%,True,1.0
+Dean Wade,MIL,Under 11.5 PTS+REB,-130,Hit in 11 of his last 12 games,92%,False,28.0
+Joel Embiid,CHA,Over 3.5 Assists,-160,Hit in 10 of his last 11 home games,91%,True,9.0
+Bam Adebayo,OKL,Over 4.5 Assists,-140,Hit in 10 of his last 11 games,91%,False,1.0
+Isaiah Hartenstein,MIA,Over 0.5 Blocks,-210,Hit in 10 of his last 11 games vs MIA,91%,False,0.0
+Isaiah Hartenstein,MIA,Over 1.5 STL+BLK,-115,Hit in 10 of his last 11 games vs MIA,91%,False,1.0
+Tyrese Maxey,CHA,Over 1.5 STL+BLK,-150,Hit in 9 of his last 10 games,90%,True,2.0
+Georges Niang,MIL,Under 0.5 Steals,-190,Hit in 9 of his last 10 games,90%,False,1.0
+Terry Rozier,OKL,Over 14.5 PTS+REB,-106,Hit in 18 of his last 20 home games,90%,False,13.0
+Terry Rozier,OKL,Over 13.5 PTS+AST,-117,Hit in 18 of his last 20 home games,90%,False,11.0
+Terry Rozier,OKL,Over 16.5 P+A+R,-125,Hit in 18 of his last 20 home games,90%,False,15.0
+Jarrett Allen,MIL,Over 0.5 Turnovers,-210,Hit in 8 of his last 9 games,89%,True,1.0
+Isaiah Hartenstein,MIA,Over 0.5 Steals,-120,Hit in 8 of his last 9 games,89%,True,1.0
+Tyrese Maxey,CHA,Over 1.5 Steals,100,Hit in 7 of his last 8 home games,88%,False,1.0
+Bobby Portis,CLE,Over 1.5 Assists,-137,Hit in 7 of his last 8 games,88%,True,2.0
+Bobby Portis,CLE,Under 1.5 Turnovers,-155,Hit in 7 of his last 8 games vs CLE,88%,True,1.0
+Bobby Portis,CLE,Under 0.5 Blocks,-250,Hit in 7 of his last 8 games vs CLE,88%,True,0.0
+Bam Adebayo,OKL,Over 0.5 3PTM,-184,Hit in 7 of his last 8 home games,88%,False,0.0
+Cason Wallace,MIA,Over 0.5 3PTM,-224,Hit in 7 of his last 8 games,88%,False,0.0
+Alex Caruso,MIA,Over 1.5 Steals,135,Hit in 7 of his last 8 games,88%,True,2.0
+Alex Caruso,MIA,Over 1.5 STL+BLK,-145,Hit in 7 of his last 8 games,88%,True,4.0
+Shai Gilgeous-Alexander,MIA,Over 30.5 Points,100,Hit in 7 of his last 8 away games,88%,True,31.0
+Isaiah Joe,MIA,Over 0.5 Assists,-194,Hit in 13 of his last 15 away games,87%,False,0.0
+Paul George,CHA,Over 25.5 PTS+AST,-104,Hit in 6 of his last 7 games vs CHA,86%,False,15.0
+Joel Embiid,CHA,Under 1.5 Blocks,-190,Hit in 6 of his last 7 games,86%,False,2.0
+Brook Lopez,CLE,Under 1.5 3PTM,-113,Hit in 6 of his last 7 games vs CLE,86%,False,2.0
+Brook Lopez,CLE,Under 11.5 Points,-128,Hit in 6 of his last 7 games vs CLE,86%,False,14.0
+Georges Niang,MIL,Over 3.5 Rebounds,112,Hit in 6 of his last 7 home games,86%,False,2.0
+Giannis Antetokounmpo,CLE,Under 39.5 PTS+AST,-122,Hit in 6 of his last 7 games,86%,True,38.0
+Caris LeVert,MIL,Over 0.5 Steals,-160,Hit in 6 of his last 7 games,86%,True,1.0
+Delon Wright,CLE,Under 5.5 Points,-102,Hit in 6 of his last 7 games,86%,True,2.0
+Taurean Prince,CLE,Over 0.5 Turnovers,-165,Hit in 6 of his last 7 away games,86%,True,4.0
+Isaiah Hartenstein,MIA,Over 14.5 PTS+AST,-120,Hit in 6 of his last 7 away games,86%,True,15.0
+Isaiah Hartenstein,MIA,Over 22.5 PTS+REB,-118,Hit in 6 of his last 7 away games,86%,True,31.0
+Isaiah Hartenstein,MIA,Over 0.5 Double Double,100,Hit in 6 of his last 7 away games,86%,True,1.0
+Jalen Williams,MIA,Over 1.5 3PTM,-142,Hit in 6 of his last 7 away games,86%,True,4.0
+Isaiah Hartenstein,MIA,Over 26.5 P+A+R,-104,Hit in 6 of his last 7 away games,86%,True,33.0
+Cason Wallace,MIA,Over 1.5 STL+BLK,-135,Hit in 6 of his last 7 games,86%,True,2.0
+Joel Embiid,CHA,Over 30.5 PTS+AST,-104,Hit in 17 of his last 20 home games,85%,True,47.0
+Joel Embiid,CHA,Over 35.5 PTS+REB,-104,Hit in 17 of his last 20 home games,85%,True,43.0
+Joel Embiid,CHA,Over 39.5 P+A+R,-108,Hit in 17 of his last 20 home games,85%,True,52.0
+Terry Rozier,OKL,Over 10.5 Points,-133,Hit in 17 of his last 20 home games,85%,False,9.0
+Alex Caruso,MIA,Over 4.5 REB+AST,-148,Hit in 17 of his last 20 away games,85%,True,8.0
+Tyrese Maxey,CHA,Under 3.5 3PTM,-136,Hit in 5 of his last 6 games,83%,False,4.0
+Paul George,CHA,Over 2.5 3PTM,-154,Hit in 5 of his last 6 games vs CHA,83%,False,1.0
+Paul George,CHA,Over 25.5 PTS+REB,-106,Hit in 5 of his last 6 games vs CHA,83%,False,17.0
+Paul George,CHA,Over 19.5 Points,-120,Hit in 5 of his last 6 games vs CHA,83%,False,7.0
+Tyrese Maxey,CHA,Under 0.5 Blocks,-300,Hit in 10 of his last 12 games,83%,False,1.0
+Paul George,CHA,Over 30.5 P+A+R,-118,Hit in 5 of his last 6 games vs CHA,83%,False,25.0
+Darius Garland,MIL,Under 6.5 Assists,-138,Hit in 5 of his last 6 games,83%,True,5.0
+Darius Garland,MIL,Over 19.5 Points,-115,Hit in 5 of his last 6 games vs MIL,83%,True,24.0
+Giannis Antetokounmpo,CLE,Over 32.5 Points,-102,Hit in 5 of his last 6 games vs CLE,83%,True,35.0
+Darius Garland,MIL,Over 2.5 Rebounds,104,Hit in 5 of his last 6 games vs MIL,83%,True,4.0
+Darius Garland,MIL,Over 22.5 PTS+REB,-115,Hit in 5 of his last 6 games vs MIL,83%,True,28.0
+Caris LeVert,MIL,Over 2.5 Rebounds,-170,Hit in 5 of his last 6 games vs MIL,83%,False,2.0
+Caris LeVert,MIL,Over 2.5 Rebounds,-170,Hit in 5 of his last 6 home games,83%,False,2.0
+Bobby Portis,CLE,Under 9.5 REB+AST,-129,Hit in 5 of his last 6 games vs CLE,83%,True,5.0
+Bobby Portis,CLE,Under 1.5 3PTM,-215,Hit in 5 of his last 6 games vs CLE,83%,True,1.0
+Giannis Antetokounmpo,CLE,Over 50.5 P+A+R,-121,Hit in 5 of his last 6 games vs CLE,83%,True,52.0
+Giannis Antetokounmpo,CLE,Over 43.5 PTS+REB,-118,Hit in 5 of his last 6 games vs CLE,83%,True,49.0
+Giannis Antetokounmpo,CLE,Over 0.5 Double Double,-390,Hit in 5 of his last 6 games,83%,True,1.0
+Caris LeVert,MIL,Over 1.5 Turnovers,145,Hit in 5 of his last 6 home games,83%,True,2.0
+Caris LeVert,MIL,Over 0.5 Steals,-160,Hit in 5 of his last 6 games vs MIL,83%,True,1.0
+Darius Garland,MIL,Under 2.5 Turnovers,-200,Hit in 10 of his last 12 games,83%,False,3.0
+Darius Garland,MIL,Under 2.5 Turnovers,-200,Hit in 5 of his last 6 games vs MIL,83%,False,3.0
+Isaiah Hartenstein,MIA,Over 11.5 Rebounds,-104,Hit in 5 of his last 6 games,83%,True,18.0
+Luguentz Dort,MIA,Over 4.5 Rebounds,114,Hit in 5 of his last 6 games,83%,False,1.0
+Luguentz Dort,MIA,Over 5.5 REB+AST,-133,Hit in 5 of his last 6 games,83%,False,1.0
+Cason Wallace,MIA,Over 1.5 Assists,-142,Hit in 5 of his last 6 away games,83%,True,4.0
+Haywood Highsmith,OKL,Over 0.5 Turnovers,-135,Hit in 5 of his last 6 games,83%,True,3.0
+Isaiah Joe,MIA,Under 0.5 Steals,-225,Hit in 5 of his last 6 games,83%,True,0.0
+Isaiah Hartenstein,MIA,Over 0.5 Blocks,-210,Hit in 5 of his last 6 away games,83%,False,0.0
+Isaiah Hartenstein,MIA,Over 1.5 STL+BLK,-115,Hit in 5 of his last 6 away games,83%,False,1.0
+Luguentz Dort,MIA,Over 0.5 Blocks,100,Hit in 5 of his last 6 games,83%,False,0.0
+Luguentz Dort,MIA,Over 0.5 Steals,-200,Hit in 5 of his last 6 games,83%,True,2.0
+Luguentz Dort,MIA,Over 1.5 STL+BLK,-110,Hit in 5 of his last 6 games,83%,True,2.0
+Cason Wallace,MIA,Over 0.5 Turnovers,-115,Hit in 5 of his last 6 games,83%,True,1.0
+Georges Niang,MIL,Over 0.5 Turnovers,-145,Hit in 9 of his last 11 games,82%,False,0.0
+Georges Niang,MIL,Over 0.5 Turnovers,-145,Hit in 9 of his last 11 home games,82%,False,0.0
+Luguentz Dort,MIA,Over 5.5 REB+AST,-133,Hit in 9 of his last 11 away games,82%,False,1.0
+Shai Gilgeous-Alexander,MIA,Over 2.5 Turnovers,-140,Hit in 9 of his last 11 away games,82%,True,3.0
+Tyrese Maxey,CHA,Over 9.5 REB+AST,-125,Hit in 4 of his last 5 games vs CHA,80%,True,10.0
+Joel Embiid,CHA,Over 26.5 Points,102,Hit in 16 of his last 20 home games,80%,True,38.0
+Joel Embiid,CHA,Over 0.5 Double Double,110,Hit in 16 of his last 20 home games,80%,False,0.0
+Joel Embiid,CHA,Over 3.5 Assists,-160,Hit in 12 of his last 15 games,80%,True,9.0
+Paul George,CHA,Under 5.5 Rebounds,-136,Hit in 4 of his last 5 games,80%,False,10.0
+Paul George,CHA,Under 5.5 Rebounds,-136,Hit in 4 of his last 5 games vs CHA,80%,False,10.0
+Paul George,CHA,Over 10.5 REB+AST,-120,Hit in 4 of his last 5 home games,80%,True,18.0
+Tyrese Maxey,CHA,Over 2.5 Turnovers,130,Hit in 4 of his last 5 games,80%,False,2.0
+Tyrese Maxey,CHA,Over 1.5 Steals,100,Hit in 8 of his last 10 games,80%,False,1.0
+Paul George,CHA,Under 2.5 Turnovers,-145,Hit in 4 of his last 5 games,80%,True,2.0
+Paul George,CHA,Over 0.5 Blocks,-105,Hit in 4 of his last 5 games,80%,True,1.0
+Darius Garland,MIL,Under 2.5 3PTM,106,Hit in 4 of his last 5 games vs MIL,80%,False,4.0
+Giannis Antetokounmpo,CLE,Over 11.5 Rebounds,-120,Hit in 4 of his last 5 games vs CLE,80%,True,14.0
+Jarrett Allen,MIL,Over 1.5 Assists,-113,Hit in 4 of his last 5 games,80%,False,0.0
+Jarrett Allen,MIL,Over 13.5 PTS+AST,-133,Hit in 4 of his last 5 games,80%,False,10.0
+Jarrett Allen,MIL,Over 13.5 PTS+AST,-133,Hit in 16 of his last 20 home games,80%,False,10.0
+Caris LeVert,MIL,Over 11.5 Points,-108,Hit in 4 of his last 5 games,80%,False,9.0
+Caris LeVert,MIL,Over 15.5 PTS+AST,-115,Hit in 4 of his last 5 games,80%,False,13.0
+Caris LeVert,MIL,Over 18.5 P+A+R,-120,Hit in 4 of his last 5 games,80%,False,15.0
+Caris LeVert,MIL,Over 18.5 P+A+R,-120,Hit in 8 of his last 10 home games,80%,False,15.0
+Caris LeVert,MIL,Over 14.5 PTS+REB,-115,Hit in 4 of his last 5 games,80%,False,11.0
+Georges Niang,MIL,Over 1.5 3PTM,-130,Hit in 4 of his last 5 home games,80%,False,1.0
+Georges Niang,MIL,Over 7.5 Points,-120,Hit in 4 of his last 5 games vs MIL,80%,False,7.0
+Georges Niang,MIL,Over 7.5 Points,-120,Hit in 8 of his last 10 home games,80%,False,7.0
+Georges Niang,MIL,Over 12.5 P+A+R,-113,Hit in 4 of his last 5 games vs MIL,80%,False,10.0
+Georges Niang,MIL,Over 12.5 P+A+R,-113,Hit in 4 of his last 5 home games,80%,False,10.0
+Taurean Prince,CLE,Over 2.5 Rebounds,-133,Hit in 4 of his last 5 games vs CLE,80%,True,3.0
+Taurean Prince,CLE,Under 4.5 REB+AST,-142,Hit in 4 of his last 5 games,80%,False,5.0
+Bobby Portis,CLE,Over 7.5 Rebounds,-102,Hit in 4 of his last 5 games,80%,False,3.0
+Giannis Antetokounmpo,CLE,Under 0.5 3PTM,-339,Hit in 4 of his last 5 games vs CLE,80%,False,1.0
+Brook Lopez,CLE,Under 1.5 Blocks,-120,Hit in 4 of his last 5 games,80%,False,2.0
+Georges Niang,MIL,Over 8.5 PTS+AST,-133,Hit in 4 of his last 5 games vs MIL,80%,False,8.0
+Georges Niang,MIL,Over 8.5 PTS+AST,-133,Hit in 8 of his last 10 home games,80%,False,8.0
+Jarrett Allen,MIL,Over 0.5 Turnovers,-210,Hit in 4 of his last 5 games vs MIL,80%,True,1.0
+Darius Garland,MIL,Under 1.5 STL+BLK,-250,Hit in 8 of his last 10 games,80%,True,1.0
+Darius Garland,MIL,Under 1.5 STL+BLK,-250,Hit in 4 of his last 5 games vs MIL,80%,True,1.0
+Caris LeVert,MIL,Under 0.5 Blocks,-225,Hit in 4 of his last 5 games vs MIL,80%,True,0.0
+Caris LeVert,MIL,Under 1.5 STL+BLK,-200,Hit in 4 of his last 5 games vs MIL,80%,True,1.0
+Georges Niang,MIL,Under 0.5 Steals,-190,Hit in 4 of his last 5 games vs MIL,80%,False,1.0
+Georges Niang,MIL,Under 0.5 STL+BLK,-110,Hit in 8 of his last 10 games,80%,False,1.0
+Delon Wright,CLE,Under 5.5 Points,-102,Hit in 4 of his last 5 games vs CLE,80%,True,2.0
+Giannis Antetokounmpo,CLE,Over 0.5 Steals,-160,Hit in 4 of his last 5 games vs CLE,80%,True,3.0
+Brook Lopez,CLE,Under 1.5 Turnovers,-160,Hit in 8 of his last 10 games,80%,True,1.0
+Brook Lopez,CLE,Under 0.5 Steals,115,Hit in 4 of his last 5 games,80%,True,0.0
+Georges Niang,MIL,Over 10.5 PTS+REB,-130,Hit in 4 of his last 5 games vs MIL,80%,False,9.0
+Georges Niang,MIL,Over 10.5 PTS+REB,-130,Hit in 4 of his last 5 home games,80%,False,9.0
+Bam Adebayo,OKL,Over 15.5 REB+AST,-125,Hit in 4 of his last 5 games,80%,False,11.0
+Bam Adebayo,OKL,Over 21.5 PTS+AST,-106,Hit in 4 of his last 5 home games,80%,False,18.0
+Bam Adebayo,OKL,Over 32.5 P+A+R,-106,Hit in 4 of his last 5 home games,80%,False,28.0
+Bam Adebayo,OKL,Over 0.5 Double Double,-170,Hit in 4 of his last 5 games,80%,True,1.0
+Tyler Herro,OKL,Over 26.5 PTS+AST,-113,Hit in 4 of his last 5 home games,80%,True,39.0
+Tyler Herro,OKL,Over 4.5 Rebounds,-154,Hit in 8 of his last 10 home games,80%,True,12.0
+Tyler Herro,OKL,Over 3.5 3PTM,-136,Hit in 4 of his last 5 games,80%,False,3.0
+Tyler Herro,OKL,Over 3.5 3PTM,-136,Hit in 4 of his last 5 home games,80%,False,3.0
+Tyler Herro,OKL,Over 21.5 Points,-130,Hit in 4 of his last 5 games,80%,True,34.0
+Tyler Herro,OKL,Over 21.5 Points,-130,Hit in 4 of his last 5 home games,80%,True,34.0
+Isaiah Hartenstein,MIA,Over 14.5 PTS+AST,-120,Hit in 4 of his last 5 games,80%,True,15.0
+Isaiah Hartenstein,MIA,Over 0.5 Double Double,100,Hit in 4 of his last 5 games,80%,True,1.0
+Cason Wallace,MIA,Under 6.5 Points,100,Hit in 4 of his last 5 games,80%,True,2.0
+Haywood Highsmith,OKL,Over 1.5 3PTM,176,Hit in 4 of his last 5 home games,80%,False,1.0
+Haywood Highsmith,OKL,Over 8.5 PTS+REB,-113,Hit in 4 of his last 5 home games,80%,True,10.0
+Haywood Highsmith,OKL,Over 5.5 Points,-115,Hit in 4 of his last 5 home games,80%,False,5.0
+Haywood Highsmith,OKL,Over 6.5 PTS+AST,-117,Hit in 4 of his last 5 home games,80%,False,5.0
+Haywood Highsmith,OKL,Over 9.5 P+A+R,-121,Hit in 4 of his last 5 home games,80%,True,10.0
+Haywood Highsmith,OKL,Over 2.5 Rebounds,-125,Hit in 4 of his last 5 home games,80%,True,5.0
+Terry Rozier,OKL,Over 5.5 REB+AST,-125,Hit in 16 of his last 20 home games,80%,True,6.0
+Isaiah Joe,MIA,Over 0.5 Assists,-194,Hit in 16 of his last 20 games,80%,False,0.0
+Isaiah Joe,MIA,Under 1.5 3PTM,-121,Hit in 4 of his last 5 games,80%,True,1.0
+Alex Caruso,MIA,Over 7.5 PTS+AST,-121,Hit in 4 of his last 5 games vs MIA,80%,True,9.0
+Alex Caruso,MIA,Over 8.5 PTS+REB,-103,Hit in 4 of his last 5 games vs MIA,80%,False,7.0
+Alex Caruso,MIA,Over 10.5 P+A+R,-117,Hit in 4 of his last 5 games vs MIA,80%,True,12.0
+Alex Caruso,MIA,Over 10.5 P+A+R,-117,Hit in 16 of his last 20 away games,80%,True,12.0
+Alex Caruso,MIA,Over 2.5 Rebounds,-129,Hit in 4 of his last 5 away games,80%,True,3.0
+Alex Caruso,MIA,Over 2.5 Assists,133,Hit in 4 of his last 5 games vs MIA,80%,True,5.0
+Cason Wallace,MIA,Under 8.5 PTS+AST,-133,Hit in 4 of his last 5 games,80%,True,6.0
+Cason Wallace,MIA,Over 1.5 Assists,-142,Hit in 8 of his last 10 games,80%,True,4.0
+Bam Adebayo,OKL,Under 16.5 Points,-122,Hit in 8 of his last 10 games,80%,False,17.0
+Isaiah Hartenstein,MIA,Over 11.5 Points,100,Hit in 4 of his last 5 games,80%,True,13.0
+Isaiah Hartenstein,MIA,Over 26.5 P+A+R,-104,Hit in 4 of his last 5 games,80%,True,33.0
+Bam Adebayo,OKL,Under 2.5 Turnovers,-140,Hit in 4 of his last 5 games,80%,False,6.0
+Bam Adebayo,OKL,Over 0.5 Steals,-190,Hit in 8 of his last 10 games,80%,True,1.0
+Haywood Highsmith,OKL,Over 0.5 Turnovers,-135,Hit in 4 of his last 5 home games,80%,True,3.0
+Isaiah Joe,MIA,Under 0.5 STL+BLK,-135,Hit in 4 of his last 5 games,80%,True,0.0
+Isaiah Hartenstein,MIA,Over 0.5 Blocks,-210,Hit in 8 of his last 10 games,80%,False,0.0
+Isaiah Hartenstein,MIA,Over 0.5 Steals,-120,Hit in 4 of his last 5 games vs MIA,80%,True,1.0
+Jalen Williams,MIA,Over 2.5 Turnovers,115,Hit in 4 of his last 5 games,80%,True,4.0
+Shai Gilgeous-Alexander,MIA,Over 30.5 Points,100,Hit in 4 of his last 5 games,80%,True,31.0
+Shai Gilgeous-Alexander,MIA,Over 1.5 Steals,-140,Hit in 4 of his last 5 away games,80%,True,2.0
+Alex Caruso,MIA,Over 0.5 3PTM,-234,Hit in 15 of his last 19 away games,79%,False,0.0
+Jarrett Allen,MIL,Over 22.5 PTS+REB,-120,Hit in 7 of his last 9 home games,78%,False,20.0
+Jarrett Allen,MIL,Over 24.5 P+A+R,-121,Hit in 7 of his last 9 home games,78%,False,20.0
+Jarrett Allen,MIL,Under 0.5 Blocks,100,Hit in 7 of his last 9 games,78%,True,0.0
+Caris LeVert,MIL,Under 7.5 REB+AST,-138,Hit in 7 of his last 9 games,78%,True,6.0
+Caris LeVert,MIL,Under 4.5 Assists,-166,Hit in 7 of his last 9 games,78%,True,4.0
+Taurean Prince,CLE,Over 1.5 Assists,-106,Hit in 7 of his last 9 away games,78%,True,2.0
+Jarrett Allen,MIL,Over 1.5 STL+BLK,-120,Hit in 14 of his last 18 home games,78%,True,2.0
+Jalen Williams,MIA,Over 4.5 Assists,-115,Hit in 7 of his last 9 away games,78%,False,4.0
+Terry Rozier,OKL,Under 0.5 Blocks,-225,Hit in 7 of his last 9 games,78%,False,1.0
+Alex Caruso,MIA,Over 0.5 Turnovers,-130,Hit in 7 of his last 9 games,78%,True,2.0
+Georges Niang,MIL,Over 7.5 Points,-120,Hit in 13 of his last 17 games,76%,False,7.0
+Bobby Portis,CLE,Under 1.5 3PTM,-215,Hit in 13 of his last 17 games,76%,True,1.0
+Tyrese Maxey,CHA,Over 29.5 PTS+REB,-106,Hit in 3 of his last 4 games vs CHA,75%,True,35.0
+Tyrese Maxey,CHA,Over 35.5 P+A+R,-104,Hit in 3 of his last 4 games vs CHA,75%,True,41.0
+Tyrese Maxey,CHA,Over 9.5 REB+AST,-125,Hit in 6 of his last 8 games,75%,True,10.0
+Tyrese Maxey,CHA,Under 5.5 Assists,102,Hit in 3 of his last 4 games,75%,False,6.0
+Tyrese Maxey,CHA,Under 5.5 Assists,102,Hit in 3 of his last 4 games vs CHA,75%,False,6.0
+Tyrese Maxey,CHA,Over 31.5 PTS+AST,-104,Hit in 3 of his last 4 games vs CHA,75%,True,37.0
+Tyrese Maxey,CHA,Over 25.5 Points,-106,Hit in 3 of his last 4 games vs CHA,75%,True,31.0
+Joel Embiid,CHA,Over 8.5 Rebounds,-130,Hit in 15 of his last 20 home games,75%,False,5.0
+Paul George,CHA,Over 10.5 REB+AST,-120,Hit in 3 of his last 4 games vs CHA,75%,True,18.0
+Tyrese Maxey,CHA,Over 2.5 Turnovers,130,Hit in 3 of his last 4 home games,75%,False,2.0
+Joel Embiid,CHA,Over 39.5 P+A+R,-108,Hit in 12 of his last 16 games,75%,True,52.0
+Paul George,CHA,Over 1.5 Steals,100,Hit in 3 of his last 4 home games,75%,True,3.0
+Joel Embiid,CHA,Under 3.5 Turnovers,-125,Hit in 3 of his last 4 games,75%,False,4.0
+Joel Embiid,CHA,Under 3.5 Turnovers,-125,Hit in 3 of his last 4 games vs CHA,75%,False,4.0
+Joel Embiid,CHA,Under 0.5 Steals,115,Hit in 3 of his last 4 games,75%,False,2.0
+Joel Embiid,CHA,Under 0.5 Steals,115,Hit in 3 of his last 4 games vs CHA,75%,False,2.0
+Jarrett Allen,MIL,Over 12.5 Points,-104,Hit in 15 of his last 20 home games,75%,False,10.0
+Darius Garland,MIL,Under 2.5 3PTM,106,Hit in 3 of his last 4 games,75%,False,4.0
+Darius Garland,MIL,Over 19.5 Points,-115,Hit in 9 of his last 12 home games,75%,True,24.0
+Dean Wade,MIL,Under 1.5 3PTM,-146,Hit in 9 of his last 12 games,75%,False,4.0
+Jarrett Allen,MIL,Over 1.5 Assists,-113,Hit in 6 of his last 8 games vs MIL,75%,False,0.0
+Darius Garland,MIL,Over 22.5 PTS+REB,-115,Hit in 3 of his last 4 home games,75%,True,28.0
+Caris LeVert,MIL,Over 11.5 Points,-108,Hit in 3 of his last 4 home games,75%,False,9.0
+Caris LeVert,MIL,Under 4.5 Assists,-166,Hit in 3 of his last 4 games vs MIL,75%,True,4.0
+Caris LeVert,MIL,Over 14.5 PTS+REB,-115,Hit in 3 of his last 4 home games,75%,False,11.0
+Georges Niang,MIL,Over 1.5 Assists,165,Hit in 3 of his last 4 games,75%,False,1.0
+Taurean Prince,CLE,Over 0.5 Steals,-105,Hit in 3 of his last 4 games vs CLE,75%,True,1.0
+Bobby Portis,CLE,Under 12.5 Points,-111,Hit in 3 of his last 4 games vs CLE,75%,True,11.0
+Bobby Portis,CLE,Over 1.5 Assists,-137,Hit in 3 of his last 4 away games,75%,True,2.0
+Bobby Portis,CLE,Under 21.5 P+A+R,-109,Hit in 3 of his last 4 games vs CLE,75%,True,16.0
+Bobby Portis,CLE,Under 14.5 PTS+AST,-129,Hit in 3 of his last 4 games vs CLE,75%,True,13.0
+Brook Lopez,CLE,Over 4.5 Rebounds,-130,Hit in 3 of his last 4 away games,75%,True,6.0
+Brook Lopez,CLE,Over 17.5 P+A+R,-129,Hit in 3 of his last 4 games vs CLE,75%,True,21.0
+Bobby Portis,CLE,Under 20.5 PTS+REB,-120,Hit in 3 of his last 4 games vs CLE,75%,True,14.0
+Caris LeVert,MIL,Over 1.5 Turnovers,145,Hit in 3 of his last 4 games vs MIL,75%,True,2.0
+Taurean Prince,CLE,Over 0.5 STL+BLK,-150,Hit in 6 of his last 8 games,75%,True,1.0
+Taurean Prince,CLE,Over 0.5 STL+BLK,-150,Hit in 3 of his last 4 games vs CLE,75%,True,1.0
+Bobby Portis,CLE,Under 0.5 Steals,-150,Hit in 3 of his last 4 games vs CLE,75%,False,1.0
+Bobby Portis,CLE,Over 0.5 STL+BLK,-190,Hit in 6 of his last 8 games,75%,True,1.0
+Giannis Antetokounmpo,CLE,Under 3.5 Turnovers,120,Hit in 3 of his last 4 games vs CLE,75%,False,5.0
+Darius Garland,MIL,Over 26.5 PTS+AST,-104,Hit in 3 of his last 4 home games,75%,True,29.0
+Dean Wade,MIL,Under 5.5 Points,104,Hit in 9 of his last 12 games,75%,False,23.0
+Brook Lopez,CLE,Over 15.5 PTS+REB,-128,Hit in 3 of his last 4 games vs CLE,75%,True,20.0
+Bam Adebayo,OKL,Over 21.5 PTS+AST,-106,Hit in 3 of his last 4 games,75%,False,18.0
+Bam Adebayo,OKL,Over 27.5 PTS+REB,-104,Hit in 3 of his last 4 games,75%,False,27.0
+Bam Adebayo,OKL,Over 32.5 P+A+R,-106,Hit in 3 of his last 4 games,75%,False,28.0
+Bam Adebayo,OKL,Over 10.5 Rebounds,-132,Hit in 3 of his last 4 games,75%,False,10.0
+Tyler Herro,OKL,Under 9.5 REB+AST,-136,Hit in 6 of his last 8 games,75%,False,17.0
+Tyler Herro,OKL,Under 27.5 PTS+REB,-120,Hit in 3 of his last 4 games,75%,False,46.0
+Tyler Herro,OKL,Under 4.5 Assists,-150,Hit in 6 of his last 8 games,75%,False,5.0
+Tyler Herro,OKL,Over 31.5 P+A+R,-115,Hit in 3 of his last 4 home games,75%,True,51.0
+Luguentz Dort,MIA,Over 9.5 Points,-118,Hit in 3 of his last 4 games vs MIA,75%,True,22.0
+Jalen Williams,MIA,Under 10.5 REB+AST,-138,Hit in 3 of his last 4 games vs MIA,75%,True,10.0
+Jalen Williams,MIA,Under 25.5 PTS+AST,-128,Hit in 3 of his last 4 games vs MIA,75%,False,45.0
+Jalen Williams,MIA,Under 25.5 PTS+REB,-106,Hit in 3 of his last 4 games vs MIA,75%,False,47.0
+Jalen Williams,MIA,Under 30.5 P+A+R,-111,Hit in 3 of his last 4 games vs MIA,75%,False,51.0
+Shai Gilgeous-Alexander,MIA,Over 35.5 PTS+AST,-122,Hit in 6 of his last 8 away games,75%,False,35.0
+Shai Gilgeous-Alexander,MIA,Over 1.5 3PTM,-192,Hit in 3 of his last 4 games,75%,True,3.0
+Haywood Highsmith,OKL,Over 8.5 PTS+REB,-113,Hit in 6 of his last 8 games,75%,True,10.0
+Haywood Highsmith,OKL,Over 0.5 Assists,-166,Hit in 3 of his last 4 games vs OKL,75%,False,0.0
+Haywood Highsmith,OKL,Over 5.5 Points,-115,Hit in 6 of his last 8 games,75%,False,5.0
+Haywood Highsmith,OKL,Over 6.5 PTS+AST,-117,Hit in 6 of his last 8 games,75%,False,5.0
+Haywood Highsmith,OKL,Over 9.5 P+A+R,-121,Hit in 6 of his last 8 games,75%,True,10.0
+Haywood Highsmith,OKL,Over 3.5 REB+AST,-125,Hit in 6 of his last 8 games,75%,True,5.0
+Haywood Highsmith,OKL,Over 3.5 REB+AST,-125,Hit in 3 of his last 4 games vs OKL,75%,True,5.0
+Haywood Highsmith,OKL,Over 2.5 Rebounds,-125,Hit in 6 of his last 8 games,75%,True,5.0
+Haywood Highsmith,OKL,Over 2.5 Rebounds,-125,Hit in 3 of his last 4 games vs OKL,75%,True,5.0
+Terry Rozier,OKL,Under 1.5 3PTM,108,Hit in 3 of his last 4 games,75%,True,1.0
+Isaiah Joe,MIA,Over 6.5 Points,104,Hit in 3 of his last 4 games,75%,False,5.0
+Isaiah Joe,MIA,Over 3.5 REB+AST,104,Hit in 3 of his last 4 games vs MIA,75%,False,2.0
+Isaiah Joe,MIA,Over 8.5 PTS+REB,-121,Hit in 3 of his last 4 games,75%,False,7.0
+Isaiah Joe,MIA,Over 0.5 Assists,-194,Hit in 3 of his last 4 games vs MIA,75%,False,0.0
+Luguentz Dort,MIA,Over 5.5 REB+AST,-133,Hit in 3 of his last 4 games vs MIA,75%,False,1.0
+Luguentz Dort,MIA,Over 1.5 Assists,-106,Hit in 3 of his last 4 games vs MIA,75%,False,0.0
+Cason Wallace,MIA,Over 11.5 P+A+R,-113,Hit in 6 of his last 8 games,75%,False,8.0
+Cason Wallace,MIA,Over 11.5 P+A+R,-113,Hit in 3 of his last 4 away games,75%,False,8.0
+Shai Gilgeous-Alexander,MIA,Over 41.5 P+A+R,-109,Hit in 6 of his last 8 away games,75%,True,42.0
+Isaiah Hartenstein,MIA,Under 3.5 Assists,-138,Hit in 3 of his last 4 games,75%,True,2.0
+Jalen Williams,MIA,Under 5.5 Rebounds,-128,Hit in 3 of his last 4 games vs MIA,75%,False,6.0
+Alex Caruso,MIA,Over 2.5 Rebounds,-129,Hit in 3 of his last 4 games,75%,True,3.0
+Shai Gilgeous-Alexander,MIA,Over 35.5 PTS+REB,-108,Hit in 3 of his last 4 games,75%,True,38.0
+Shai Gilgeous-Alexander,MIA,Over 41.5 P+A+R,-109,Hit in 3 of his last 4 games,75%,True,42.0
+Shai Gilgeous-Alexander,MIA,Over 5.5 Assists,-122,Hit in 3 of his last 4 games vs MIA,75%,False,4.0
+Shai Gilgeous-Alexander,MIA,Over 35.5 PTS+AST,-122,Hit in 3 of his last 4 games,75%,False,35.0
+Isaiah Hartenstein,MIA,Over 11.5 Points,100,Hit in 3 of his last 4 away games,75%,True,13.0
+Bam Adebayo,OKL,Over 0.5 Blocks,-145,Hit in 3 of his last 4 home games,75%,True,1.0
+Tyler Herro,OKL,Over 0.5 STL+BLK,-155,Hit in 9 of his last 12 home games,75%,True,3.0
+Haywood Highsmith,OKL,Over 0.5 Steals,-120,Hit in 3 of his last 4 games vs OKL,75%,True,1.0
+Terry Rozier,OKL,Under 1.5 Turnovers,-160,Hit in 3 of his last 4 games,75%,True,1.0
+Luguentz Dort,MIA,Over 0.5 Turnovers,-145,Hit in 3 of his last 4 games vs MIA,75%,False,0.0
+Jalen Williams,MIA,Over 0.5 Blocks,-105,Hit in 3 of his last 4 games vs MIA,75%,True,1.0
+Jalen Williams,MIA,Under 1.5 Steals,-125,Hit in 3 of his last 4 games,75%,True,0.0
+Jalen Williams,MIA,Under 1.5 Steals,-125,Hit in 3 of his last 4 games vs MIA,75%,True,0.0
+Jalen Williams,MIA,Under 2.5 STL+BLK,-175,Hit in 3 of his last 4 games,75%,True,1.0
+Jalen Williams,MIA,Under 2.5 STL+BLK,-175,Hit in 3 of his last 4 games vs MIA,75%,True,1.0
+Alex Caruso,MIA,Over 0.5 Turnovers,-130,Hit in 3 of his last 4 games vs MIA,75%,True,2.0
+Alex Caruso,MIA,Over 0.5 Turnovers,-130,Hit in 3 of his last 4 away games,75%,True,2.0
+Alex Caruso,MIA,Over 1.5 STL+BLK,-145,Hit in 6 of his last 8 games vs MIA,75%,True,4.0
+Cason Wallace,MIA,Over 0.5 Blocks,115,Hit in 6 of his last 8 away games,75%,True,2.0
+Shai Gilgeous-Alexander,MIA,Over 2.5 Turnovers,-140,Hit in 3 of his last 4 games vs MIA,75%,True,3.0
+Shai Gilgeous-Alexander,MIA,Over 0.5 Blocks,-160,Hit in 3 of his last 4 games,75%,False,0.0
+Shai Gilgeous-Alexander,MIA,Over 2.5 STL+BLK,-120,Hit in 3 of his last 4 games,75%,False,2.0
+Bobby Portis,CLE,Under 1.5 Turnovers,-155,Hit in 14 of his last 19 games,74%,True,1.0
+Alex Caruso,MIA,Over 8.5 PTS+REB,-103,Hit in 14 of his last 19 away games,74%,False,7.0
+Jarrett Allen,MIL,Over 0.5 Steals,-175,Hit in 11 of his last 15 games,73%,True,2.0
+Darius Garland,MIL,Over 0.5 Steals,-190,Hit in 11 of his last 15 home games,73%,True,1.0
+Haywood Highsmith,OKL,Over 0.5 Assists,-166,Hit in 11 of his last 15 games,73%,False,0.0
+Darius Garland,MIL,Under 9.5 REB+AST,-138,Hit in 8 of his last 11 games,73%,True,9.0
+Taurean Prince,CLE,Over 1.5 3PTM,106,Hit in 8 of his last 11 games,73%,False,1.0
+Luguentz Dort,MIA,Over 1.5 Assists,-106,Hit in 8 of his last 11 away games,73%,False,0.0
+Bam Adebayo,OKL,Over 0.5 Steals,-190,Hit in 8 of his last 11 home games,73%,True,1.0
+Tyler Herro,OKL,Over 0.5 Steals,-120,Hit in 8 of his last 11 games,73%,True,3.0
+Tyler Herro,OKL,Over 0.5 STL+BLK,-155,Hit in 8 of his last 11 games,73%,True,3.0
+Haywood Highsmith,OKL,Over 0.5 Steals,-120,Hit in 8 of his last 11 games,73%,True,1.0
+Terry Rozier,OKL,Under 0.5 Steals,-130,Hit in 8 of his last 11 games,73%,False,1.0
+Taurean Prince,CLE,Over 0.5 Turnovers,-165,Hit in 13 of his last 18 games,72%,True,4.0
+Bobby Portis,CLE,Under 0.5 Blocks,-250,Hit in 13 of his last 18 games,72%,True,0.0
+Tyrese Maxey,CHA,Under 3.5 Rebounds,114,Hit in 5 of his last 7 games vs CHA,71%,False,4.0
+Paul George,CHA,Over 5.5 Assists,112,Hit in 5 of his last 7 games vs CHA,71%,True,8.0
+Brook Lopez,CLE,Under 1.5 3PTM,-113,Hit in 5 of his last 7 games,71%,False,2.0
+Brook Lopez,CLE,Under 11.5 Points,-128,Hit in 5 of his last 7 games,71%,False,14.0
+Georges Niang,MIL,Over 1.5 3PTM,-130,Hit in 5 of his last 7 games,71%,False,1.0
+Georges Niang,MIL,Over 4.5 REB+AST,-121,Hit in 5 of his last 7 home games,71%,False,3.0
+Georges Niang,MIL,Over 12.5 P+A+R,-113,Hit in 10 of his last 14 games,71%,False,10.0
+Brook Lopez,CLE,Over 4.5 Rebounds,-130,Hit in 5 of his last 7 games,71%,True,6.0
+Brook Lopez,CLE,Under 13.5 PTS+AST,-133,Hit in 5 of his last 7 games,71%,False,15.0
+Georges Niang,MIL,Over 8.5 PTS+AST,-133,Hit in 10 of his last 14 games,71%,False,8.0
+Georges Niang,MIL,Over 10.5 PTS+REB,-130,Hit in 10 of his last 14 games,71%,False,9.0
+Isaiah Joe,MIA,Over 3.5 REB+AST,104,Hit in 5 of his last 7 games,71%,False,2.0
+Jalen Williams,MIA,Under 10.5 REB+AST,-138,Hit in 5 of his last 7 games,71%,True,10.0
+Jalen Williams,MIA,Over 4.5 Assists,-115,Hit in 10 of his last 14 games,71%,False,4.0
+Alex Caruso,MIA,Over 7.5 PTS+AST,-121,Hit in 5 of his last 7 games,71%,True,9.0
+Alex Caruso,MIA,Over 8.5 PTS+REB,-103,Hit in 5 of his last 7 games,71%,False,7.0
+Alex Caruso,MIA,Over 10.5 P+A+R,-117,Hit in 5 of his last 7 games,71%,True,12.0
+Alex Caruso,MIA,Over 5.5 Points,-113,Hit in 5 of his last 7 games,71%,False,4.0
+Alex Caruso,MIA,Over 0.5 3PTM,-234,Hit in 5 of his last 7 games,71%,False,0.0
+Shai Gilgeous-Alexander,MIA,Over 35.5 PTS+REB,-108,Hit in 5 of his last 7 away games,71%,True,38.0
+Tyler Herro,OKL,Over 0.5 Steals,-120,Hit in 5 of his last 7 home games,71%,True,3.0
+Haywood Highsmith,OKL,Over 0.5 Steals,-120,Hit in 5 of his last 7 home games,71%,True,1.0
+Isaiah Joe,MIA,Under 0.5 Turnovers,-160,Hit in 5 of his last 7 games,71%,True,0.0
+Cason Wallace,MIA,Over 1.5 Steals,160,Hit in 5 of his last 7 games,71%,False,0.0
+Cason Wallace,MIA,Over 1.5 STL+BLK,-135,Hit in 10 of his last 14 away games,71%,True,2.0
+Jarrett Allen,MIL,Over 10.5 Rebounds,-108,Hit in 12 of his last 17 home games,71%,False,10.0
+Jarrett Allen,MIL,Over 0.5 Double Double,115,Hit in 12 of his last 17 home games,71%,True,1.0
+Jarrett Allen,MIL,Over 12.5 REB+AST,-103,Hit in 12 of his last 17 home games,71%,False,10.0
+Alex Caruso,MIA,Over 7.5 PTS+AST,-121,Hit in 12 of his last 17 away games,71%,True,9.0
+Alex Caruso,MIA,Over 5.5 Points,-113,Hit in 12 of his last 17 away games,71%,False,4.0
+Joel Embiid,CHA,Over 1.5 STL+BLK,-190,Hit in 14 of his last 20 home games,70%,True,4.0
+Joel Embiid,CHA,Over 13.5 REB+AST,108,Hit in 14 of his last 20 home games,70%,True,14.0
+Bobby Portis,CLE,Under 12.5 Points,-111,Hit in 7 of his last 10 games,70%,True,11.0
+Bobby Portis,CLE,Under 21.5 P+A+R,-109,Hit in 7 of his last 10 games,70%,True,16.0
+Bobby Portis,CLE,Under 14.5 PTS+AST,-129,Hit in 7 of his last 10 games,70%,True,13.0
+Bobby Portis,CLE,Under 20.5 PTS+REB,-120,Hit in 7 of his last 10 games,70%,True,14.0
+Caris LeVert,MIL,Under 0.5 Blocks,-225,Hit in 7 of his last 10 games,70%,True,0.0
+Caris LeVert,MIL,Under 1.5 STL+BLK,-200,Hit in 7 of his last 10 games,70%,True,1.0
+Bobby Portis,CLE,Over 0.5 STL+BLK,-190,Hit in 7 of his last 10 games vs CLE,70%,True,1.0
+Haywood Highsmith,OKL,Over 0.5 Assists,-166,Hit in 14 of his last 20 home games,70%,False,0.0
+Terry Rozier,OKL,Under 3.5 Rebounds,-166,Hit in 7 of his last 10 games,70%,False,4.0
+Isaiah Joe,MIA,Over 7.5 PTS+AST,-106,Hit in 14 of his last 20 games,70%,False,5.0
+Isaiah Joe,MIA,Over 9.5 P+A+R,-121,Hit in 14 of his last 20 games,70%,False,7.0
+Isaiah Joe,MIA,Over 6.5 Points,104,Hit in 7 of his last 10 away games,70%,False,5.0
+Isaiah Joe,MIA,Over 8.5 PTS+REB,-121,Hit in 7 of his last 10 away games,70%,False,7.0
+Isaiah Hartenstein,MIA,Over 14.5 REB+AST,-128,Hit in 7 of his last 10 games,70%,True,20.0
+Isaiah Hartenstein,MIA,Over 1.5 STL+BLK,-115,Hit in 7 of his last 10 games,70%,False,1.0
+Tyrese Maxey,CHA,Over 25.5 Points,-106,CHA rank 28th in PTS versus PG,28th,True,31.0
+Paul George,CHA,Over 0.5 Blocks,-105,CHA rank 29th in BLK versus SF,29th,True,1.0
+Darius Garland,MIL,Over 19.5 Points,-115,MIL rank 30th in PTS versus PG,30th,True,24.0
+Brook Lopez,CLE,Under 11.5 Points,-128,CLE rank 4th in PTS versus C,4th,False,14.0
+Jarrett Allen,MIL,Under 0.5 Blocks,100,MIL rank 4th in BLK against,4th,True,0.0
+Brook Lopez,CLE,Under 1.5 Blocks,-120,CLE rank 4th in BLK versus C,4th,False,2.0
+Delon Wright,CLE,Under 4.5 Assists,-146,CLE rank 5th in AST versus PG,5th,True,2.0
+Caris LeVert,MIL,Under 0.5 Blocks,-225,MIL rank 2nd in BLK versus SG,2nd,True,0.0
+Georges Niang,MIL,Over 0.5 Turnovers,-145,MIL rank 4th in TO versus PF,4th,False,0.0
+Bobby Portis,CLE,Under 0.5 Steals,-150,CLE rank 5th in STL against,5th,False,1.0
+Brook Lopez,CLE,Under 0.5 Steals,115,CLE rank 5th in STL against,5th,True,0.0
+Bam Adebayo,OKL,Over 10.5 Rebounds,-132,OKL rank 29th in REB against,29th,False,10.0
+Tyler Herro,OKL,Under 4.5 Assists,-150,OKL rank 1st in AST versus SG,1st,False,5.0
+Isaiah Hartenstein,MIA,Over 11.5 Rebounds,-104,MIA rank 26th in REB against,26th,True,18.0
+Luguentz Dort,MIA,Over 4.5 Rebounds,114,MIA rank 26th in REB against,26th,False,1.0
+Cason Wallace,MIA,Over 3.5 Rebounds,124,MIA rank 26th in REB against,26th,False,2.0
+Shai Gilgeous-Alexander,MIA,Over 5.5 Rebounds,122,MIA rank 26th in REB against,26th,True,7.0
+Haywood Highsmith,OKL,Over 1.5 3PTM,176,OKL rank 30th in 3PTM versus SF,30th,False,1.0
+Haywood Highsmith,OKL,Over 5.5 Points,-115,OKL rank 30th in PTS versus SF,30th,False,5.0
+Haywood Highsmith,OKL,Over 2.5 Rebounds,-125,OKL rank 30th in REB versus SF,30th,True,5.0
+Terry Rozier,OKL,Under 2.5 Assists,-133,OKL rank 3rd in AST against,3rd,True,2.0
+Terry Rozier,OKL,Under 1.5 3PTM,108,OKL rank 4th in 3PTM against,4th,True,1.0
+Isaiah Joe,MIA,Over 2.5 Rebounds,108,MIA rank 26th in REB against,26th,False,2.0
+Alex Caruso,MIA,Over 2.5 Rebounds,-129,MIA rank 28th in REB versus PG,28th,True,3.0
+Alex Caruso,MIA,Over 2.5 Assists,133,MIA rank 28th in AST versus PG,28th,True,5.0
+Bam Adebayo,OKL,Under 16.5 Points,-122,OKL rank 2nd in PTS versus C,2nd,False,17.0
+Tyler Herro,OKL,Under 3.5 Turnovers,-175,OKL rank 29th in TO versus SG,29th,True,0.0
+Haywood Highsmith,OKL,Over 0.5 Steals,-120,OKL rank 27th in STL versus SF,27th,True,1.0
+Terry Rozier,OKL,Under 1.5 Turnovers,-160,OKL rank 29th in TO versus PG,29th,True,1.0
+Terry Rozier,OKL,Under 0.5 Steals,-130,OKL rank 5th in STL versus PG,5th,False,1.0
+Isaiah Joe,MIA,Over 0.5 Blocks,333,MIA rank 28th in BLK versus SG,28th,False,0.0
+Isaiah Joe,MIA,Under 0.5 Steals,-225,MIA rank 4th in STL against,4th,True,0.0
+Luguentz Dort,MIA,Over 0.5 Blocks,100,MIA rank 28th in BLK versus SG,28th,False,0.0
+Jalen Williams,MIA,Over 0.5 Blocks,-105,MIA rank 28th in BLK versus SG,28th,True,1.0
+Jalen Williams,MIA,Under 1.5 Steals,-125,MIA rank 4th in STL against,4th,True,0.0
+Cason Wallace,MIA,Over 0.5 Blocks,115,MIA rank 28th in BLK versus SG,28th,True,2.0
+Shai Gilgeous-Alexander,MIA,Over 0.5 Blocks,-160,MIA rank 28th in BLK versus SG,28th,False,0.0
