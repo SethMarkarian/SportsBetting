@@ -1,480 +1,349 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Jalen Duren,CHA,Under 2.5 Assists,-189,Hit in 5 of his last 5 games vs CHA,100%
-Amen Thompson,CHA,Over 10.5 Points,-105,Hit in 4 of his last 4 games,100%
-Amen Thompson,CHA,Over 10.5 Points,-105,Hit in 4 of his last 4 home games,100%
-Cade Cunningham,CHA,Under 2.5 3PTM,-158,Hit in 5 of his last 5 games vs CHA,100%
-Terrel Harris,CHA,Over 16.5 PTS+AST,-102,Hit in 9 of his last 9 games vs CHA,100%
-Jalen Duren,CHA,Over 25.5 PTS+AST+REB,-154,Hit in 6 of his last 7 games,86%
-Terrel Harris,CHA,Over 19.5 PTS+REB,100,Hit in 9 of his last 9 games vs CHA,100%
-Terrel Harris,CHA,Over 7.5 REB+AST,-120,Hit in 6 of his last 6 games vs CHA,100%
-Terrel Harris,CHA,Over 5.5 Rebounds,112,Hit in 4 of his last 4 games vs CHA,100%
-Terrel Harris,CHA,Under 1.5 3PTM,-230,Hit in 8 of his last 8 games,100%
-Mikal Bridges,DET,Under 2.5 Turnovers,-135,Hit in 4 of his last 4 games,100%
-Nolan Smith,DET,Over 17.5 PTS+AST,-122,Hit in 4 of his last 4 games,100%
-Nolan Smith,DET,Over 17.5 PTS+REB,-130,Hit in 4 of his last 4 games,100%
-Nolan Smith,DET,Over 20.5 PTS+AST+REB,-121,Hit in 4 of his last 4 games,100%
-Nolan Smith,DET,Over 14.5 Points,-127,Hit in 4 of his last 4 games,100%
-LaMelo Ball,DET,Under 31.5 PTS+REB,-111,Hit in 6 of his last 6 games,100%
-LaMelo Ball,DET,Under 39.5 PTS+AST+REB,-115,Hit in 6 of his last 6 games,100%
-LaMelo Ball,DET,Under 34.5 PTS+AST,-113,Hit in 5 of his last 5 games,100%
-LaMelo Ball,DET,Under 26.5 Points,-108,Hit in 6 of his last 6 games,100%
-Amen Thompson,CHA,Over 18.5 PTS+AST+REB,-137,Hit in 4 of his last 4 games,100%
-Amen Thompson,CHA,Over 18.5 PTS+AST+REB,-137,Hit in 4 of his last 4 home games,100%
-Amen Thompson,CHA,Over 7.5 REB+AST,-130,Hit in 4 of his last 4 games,100%
-Amen Thompson,CHA,Over 7.5 REB+AST,-130,Hit in 4 of his last 4 home games,100%
-Amen Thompson,CHA,Over 1.5 Assists,-192,Hit in 4 of his last 4 games,100%
-Amen Thompson,CHA,Over 1.5 Assists,-192,Hit in 4 of his last 4 home games,100%
-Cade Cunningham,CHA,Under 3.5 Turnovers,-127,Hit in 4 of his last 4 games,100%
-Amen Thompson,CHA,Over 15.5 PTS+REB,-128,Hit in 4 of his last 4 games,100%
-Amen Thompson,CHA,Over 15.5 PTS+REB,-128,Hit in 4 of his last 4 home games,100%
-Isaiah Stewart,CHA,Over 11.5 PTS+AST+REB,-145,Hit in 8 of his last 8 games vs CHA,100%
-Isaiah Stewart,CHA,Over 5.5 Rebounds,-123,Hit in 8 of his last 8 games vs CHA,100%
-Isaiah Stewart,CHA,Over 10.5 PTS+REB,-139,Hit in 8 of his last 8 games vs CHA,100%
-Malik Beasley,CHA,Under 1.5 Turnovers,-225,Hit in 7 of his last 7 games vs CHA,100%
-LaMelo Ball,DET,Under 0.5 Blocks,-275,Hit in 4 of his last 4 games,100%
-Terrel Harris,CHA,Over 21.5 PTS+AST+REB,-113,Hit in 9 of his last 9 games vs CHA,100%
-Terrel Harris,CHA,Over 13.5 Points,-115,Hit in 9 of his last 9 games vs CHA,100%
-JaMychal Green,TOR,Under 27.5 PTS+AST,-115,Hit in 4 of his last 4 games vs TOR,100%
-JaMychal Green,TOR,Over 3.5 Assists,-154,Hit in 4 of his last 4 games,100%
-JaMychal Green,TOR,Under 2.5 3PTM,-104,Hit in 4 of his last 4 games vs TOR,100%
-JaMychal Green,TOR,Under 23.5 Points,-118,Hit in 4 of his last 4 games vs TOR,100%
-Tari Eason,TOR,Under 13.5 PTS+AST,-120,Hit in 7 of his last 7 games,100%
-Scottie Barnes,HOU,Under 27.5 PTS+REB,-120,Hit in 4 of his last 4 games,100%
-Scottie Barnes,HOU,Under 7.5 Rebounds,-130,Hit in 4 of his last 4 games,100%
-Scottie Barnes,HOU,Over 19.5 Points,-114,Hit in 4 of his last 4 away games,100%
-Gradey Dick,HOU,Under 2.5 3PTM,-196,Hit in 12 of his last 12 games,100%
-Immanuel Quickley,HOU,Under 20.5 PTS+AST,-111,Hit in 4 of his last 4 games,100%
-Immanuel Quickley,HOU,Over 1.5 3PTM,-156,Hit in 4 of his last 4 games vs HOU,100%
-Immanuel Quickley,HOU,Over 18.5 PTS+REB,-113,Hit in 4 of his last 4 games vs HOU,100%
-Immanuel Quickley,HOU,Under 24.5 PTS+AST+REB,-125,Hit in 4 of his last 4 games,100%
-Taurean Prince,PHI,Over 8.5 Points,-106,Hit in 5 of his last 5 games vs PHI,100%
-Bobby Portis,PHI,Under 11.5 Rebounds,-120,Hit in 9 of his last 9 games vs PHI,100%
-Bobby Portis,PHI,Under 19.5 Points,-124,Hit in 7 of his last 7 games vs PHI,100%
-Kyle Kuzma,PHI,Over 1.5 3PTM,-122,Hit in 4 of his last 4 games,100%
-Kyle Kuzma,PHI,Over 15.5 Points,104,Hit in 5 of his last 5 games vs PHI,100%
-Tyrese Maxey,MIL,Over 6.5 Assists,104,Hit in 4 of his last 4 away games,100%
-Joel Embiid,MIL,Over 4.5 Assists,-114,Hit in 4 of his last 4 games vs MIL,100%
-Paul George,MIL,Under 9.5 REB+AST,-125,Hit in 4 of his last 4 games,100%
-Paul George,MIL,Under 3.5 Assists,116,Hit in 4 of his last 4 games,100%
-Paul George,MIL,Under 5.5 Rebounds,-128,Hit in 6 of his last 6 games,100%
-JaMychal Green,TOR,Under 0.5 Steals,132,Hit in 4 of his last 4 games vs TOR,100%
-Scottie Barnes,HOU,Under 32.5 PTS+AST+REB,-106,Hit in 4 of his last 4 games,100%
-Scottie Barnes,HOU,Under 3.5 Turnovers,-185,Hit in 5 of his last 5 games vs HOU,100%
-Taurean Prince,PHI,Over 13.5 PTS+AST+REB,-117,Hit in 4 of his last 4 games vs PHI,100%
-Taurean Prince,PHI,Over 9.5 PTS+AST,-129,Hit in 5 of his last 5 games,100%
-Taurean Prince,PHI,Over 9.5 PTS+AST,-129,Hit in 5 of his last 5 games vs PHI,100%
-Damian Lillard,PHI,Under 36.5 PTS+AST,-111,Hit in 4 of his last 4 games vs PHI,100%
-Bobby Portis,PHI,Under 30.5 PTS+REB,-113,Hit in 7 of his last 7 games vs PHI,100%
-Bobby Portis,PHI,Under 14.5 REB+AST,-113,Hit in 9 of his last 9 games vs PHI,100%
-Bobby Portis,PHI,Under 33.5 PTS+AST+REB,-113,Hit in 7 of his last 7 games vs PHI,100%
-Bobby Portis,PHI,Under 22.5 PTS+AST,-129,Hit in 7 of his last 7 games vs PHI,100%
-Bobby Portis,PHI,Under 3.5 Assists,-165,Hit in 9 of his last 9 games vs PHI,100%
-Brook Lopez,PHI,Under 18.5 PTS+REB,100,Hit in 8 of his last 8 games,100%
-Brook Lopez,PHI,Under 20.5 PTS+AST+REB,-125,Hit in 8 of his last 8 games,100%
-Brook Lopez,PHI,Over 4.5 Rebounds,-110,Hit in 4 of his last 4 games vs PHI,100%
-Brook Lopez,PHI,Over 1.5 Assists,-105,Hit in 4 of his last 4 games vs PHI,100%
-Scottie Barnes,HOU,Under 12.5 REB+AST,102,Hit in 4 of his last 4 games,100%
-Immanuel Quickley,HOU,Over 1.5 Turnovers,-160,Hit in 4 of his last 4 away games,100%
-Taurean Prince,PHI,Over 11.5 PTS+REB,-130,Hit in 5 of his last 5 games vs PHI,100%
-Damian Lillard,PHI,Under 3.5 Turnovers,-175,Hit in 5 of his last 5 games,100%
-Brook Lopez,PHI,Over 1.5 Blocks,-136,Hit in 4 of his last 4 games vs PHI,100%
-Brook Lopez,PHI,Over 1.5 Blocks,-136,Hit in 5 of his last 5 home games,100%
-Dillon Brooks,TOR,Over 4.5 REB+AST,-140,Hit in 4 of his last 4 games vs TOR,100%
-JaMychal Green,TOR,Under 0.5 Blocks,-295,Hit in 4 of his last 4 games vs TOR,100%
-JaMychal Green,TOR,Under 1.5 STL+BLK,-210,Hit in 6 of his last 6 games,100%
-JaMychal Green,TOR,Under 1.5 STL+BLK,-210,Hit in 4 of his last 4 games vs TOR,100%
-Amen Thompson,TOR,Over 2.5 STL+BLK,-165,Hit in 4 of his last 4 games,100%
-Tari Eason,TOR,Over 0.5 3PTM,-175,Hit in 5 of his last 5 home games,100%
-Gradey Dick,HOU,Under 1.5 Assists,-145,Hit in 6 of his last 6 games,100%
-Gradey Dick,HOU,Over 0.5 STL+BLK,-235,Hit in 5 of his last 5 games,100%
-Ochai Agbaji,HOU,Under 0.5 Turnovers,125,Hit in 4 of his last 4 games,100%
-Ochai Agbaji,HOU,Over 0.5 Steals,-175,Hit in 6 of his last 6 games,100%
-Ochai Agbaji,HOU,Over 1.5 STL+BLK,-150,Hit in 6 of his last 6 games,100%
-Jonathan Mogbo,HOU,Under 8.5 REB+AST,-117,Hit in 11 of his last 11 games,100%
-Jonathan Mogbo,HOU,Under 0.5 Turnovers,145,Hit in 6 of his last 6 games,100%
-Jamal Shead,HOU,Over 12.5 PTS+AST,-117,Hit in 4 of his last 4 games,100%
-Jamal Shead,HOU,Over 9.5 PTS+REB,-130,Hit in 4 of his last 4 games,100%
-Jamal Shead,HOU,Over 14.5 PTS+AST+REB,-121,Hit in 4 of his last 4 games,100%
-Immanuel Quickley,HOU,Over 15.5 Points,104,Hit in 4 of his last 4 games vs HOU,100%
-Brook Lopez,PHI,Over 5.5 REB+AST,-155,Hit in 4 of his last 4 games vs PHI,100%
-Tyrese Maxey,MIL,Under 0.5 Blocks,-300,Hit in 5 of his last 5 games,100%
-Cam Whitmore,TOR,Under 1.5 Assists,-200,Hit in 5 of his last 5 games,100%
-Cam Whitmore,TOR,Under 1.5 Turnovers,-220,Hit in 4 of his last 4 games,100%
-Tim Hardaway,CHA,Under 2.5 3PTM,-227,Hit in 10 of his last 11 games,91%
-Tyrese Maxey,MIL,Over 35.5 PTS+AST,-118,Hit in 10 of his last 11 games,91%
-Tim Hardaway,CHA,Over 3.5 REB+AST,-135,Hit in 8 of his last 9 games,89%
-Brook Lopez,PHI,Under 1.5 Turnovers,-175,Hit in 8 of his last 9 games,89%
-Mikal Bridges,DET,Over 0.5 Steals,-160,Hit in 7 of his last 8 away games,88%
-Isaiah Stewart,CHA,Over 6.5 REB+AST,-135,Hit in 7 of his last 8 games vs CHA,88%
-Isaiah Stewart,CHA,Over 6.5 PTS+AST,-115,Hit in 7 of his last 8 games vs CHA,88%
-Malik Beasley,CHA,Under 1.5 Turnovers,-225,Hit in 7 of his last 8 games,88%
-A. Şengün,TOR,Under 11.5 Rebounds,-154,Hit in 7 of his last 8 games,88%
-Jonathan Mogbo,HOU,Under 5.5 Rebounds,122,Hit in 7 of his last 8 games,88%
-Tyrese Maxey,MIL,Over 29.5 Points,-104,Hit in 7 of his last 8 games,88%
-Scottie Barnes,HOU,Under 3.5 Turnovers,-185,Hit in 14 of his last 16 games,88%
-Immanuel Quickley,HOU,Under 9.5 REB+AST,-142,Hit in 7 of his last 8 games,88%
-Bobby Portis,PHI,Under 30.5 PTS+REB,-113,Hit in 14 of his last 16 games,88%
-Bobby Portis,PHI,Under 33.5 PTS+AST+REB,-113,Hit in 14 of his last 16 games,88%
-Tyrese Maxey,MIL,Over 33.5 PTS+REB,-104,Hit in 7 of his last 8 games,88%
-Dillon Brooks,TOR,Under 1.5 STL+BLK,-250,Hit in 7 of his last 8 games,88%
-Jonathan Mogbo,HOU,Under 0.5 Blocks,100,Hit in 7 of his last 8 games,88%
-Jonathan Mogbo,HOU,Under 0.5 Steals,110,Hit in 7 of his last 8 games,88%
-Jonathan Mogbo,HOU,Under 1.5 STL+BLK,-120,Hit in 7 of his last 8 games,88%
-Gradey Dick,HOU,Under 0.5 Blocks,-400,Hit in 13 of his last 15 games,87%
-Jalen Duren,CHA,Over 25.5 PTS+AST+REB,-154,Hit in 6 of his last 7 home games,86%
-Jalen Duren,CHA,Over 23.5 PTS+REB,-111,Hit in 6 of his last 7 games,86%
-Jalen Duren,CHA,Over 23.5 PTS+REB,-111,Hit in 6 of his last 7 home games,86%
-Jalen Duren,CHA,Over 12.5 Points,-105,Hit in 6 of his last 7 home games,86%
-Jalen Duren,CHA,Over 14.5 PTS+AST,-137,Hit in 6 of his last 7 home games,86%
-Cade Cunningham,CHA,Under 0.5 Blocks,-120,Hit in 6 of his last 7 games,86%
-Mikal Bridges,DET,Over 11.5 REB+AST,106,Hit in 6 of his last 7 games,86%
-LaMelo Ball,DET,Under 31.5 PTS+REB,-111,Hit in 6 of his last 7 games vs DET,86%
-LaMelo Ball,DET,Under 39.5 PTS+AST+REB,-115,Hit in 6 of his last 7 games vs DET,86%
-LaMelo Ball,DET,Under 34.5 PTS+AST,-113,Hit in 6 of his last 7 games vs DET,86%
-LaMelo Ball,DET,Under 26.5 Points,-108,Hit in 6 of his last 7 games vs DET,86%
-Mikal Bridges,DET,Over 30.5 PTS+REB,-113,Hit in 6 of his last 7 games,86%
-LaMelo Ball,DET,Under 0.5 Blocks,-275,Hit in 6 of his last 7 games vs DET,86%
-Mikal Bridges,DET,Over 22.5 Points,-122,Hit in 6 of his last 7 games,86%
-Amen Thompson,TOR,Under 32.5 PTS+AST+REB,-120,Hit in 6 of his last 7 games,86%
-Damian Lillard,PHI,Over 4.5 Rebounds,136,Hit in 6 of his last 7 games vs PHI,86%
-Tari Eason,TOR,Under 1.5 Steals,-175,Hit in 6 of his last 7 games,86%
-Bobby Portis,PHI,Under 3.5 Assists,-165,Hit in 12 of his last 14 games,86%
-Brook Lopez,PHI,Under 0.5 Steals,-115,Hit in 6 of his last 7 games vs PHI,86%
-Damian Lillard,PHI,Under 1.5 Steals,-265,Hit in 6 of his last 7 games,86%
-Dillon Brooks,TOR,Under 0.5 Steals,132,Hit in 6 of his last 7 games,86%
-Amen Thompson,TOR,Under 0.5 3PTM,-275,Hit in 6 of his last 7 games,86%
-Ochai Agbaji,HOU,Under 5.5 REB+AST,105,Hit in 12 of his last 14 games,86%
-Jamal Shead,HOU,Under 1.5 3PTM,-235,Hit in 6 of his last 7 games,86%
-Tyrese Maxey,MIL,Under 0.5 Blocks,-300,Hit in 6 of his last 7 games vs MIL,86%
-Dillon Brooks,TOR,Under 0.5 Blocks,-350,Hit in 17 of his last 20 games,85%
-Terrel Harris,CHA,Over 16.5 PTS+AST,-102,Hit in 11 of his last 13 home games,85%
-Bobby Portis,PHI,Under 11.5 Rebounds,-120,Hit in 11 of his last 13 games,85%
-Bobby Portis,PHI,Under 14.5 REB+AST,-113,Hit in 11 of his last 13 games,85%
-Jalen Duren,CHA,Over 12.5 Points,-105,Hit in 5 of his last 6 games,83%
-Jalen Duren,CHA,Over 14.5 PTS+AST,-137,Hit in 5 of his last 6 games,83%
-Tim Hardaway,CHA,Over 11.5 PTS+AST,-130,Hit in 5 of his last 6 games vs CHA,83%
-Tim Hardaway,CHA,Over 12.5 PTS+REB,-137,Hit in 5 of his last 6 games vs CHA,83%
-Tim Hardaway,CHA,Over 10.5 Points,-120,Hit in 5 of his last 6 games vs CHA,83%
-Tim Hardaway,CHA,Under 0.5 Steals,-135,Hit in 5 of his last 6 games,83%
-Terrel Harris,CHA,Over 16.5 PTS+AST,-102,Hit in 5 of his last 6 games,83%
-Terrel Harris,CHA,Over 19.5 PTS+REB,100,Hit in 5 of his last 6 games,83%
-Terrel Harris,CHA,Over 19.5 PTS+REB,100,Hit in 5 of his last 6 home games,83%
-Terrel Harris,CHA,Over 1.5 Assists,-152,Hit in 5 of his last 6 games vs CHA,83%
-LaMelo Ball,DET,Over 4.5 Rebounds,-128,Hit in 5 of his last 6 games vs DET,83%
-Jalen Duren,CHA,Under 1.5 Blocks,-238,Hit in 5 of his last 6 games,83%
-LaMelo Ball,DET,Under 3.5 Turnovers,-145,Hit in 5 of his last 6 games,83%
-Cade Cunningham,CHA,Over 0.5 Steals,-270,Hit in 15 of his last 18 games,83%
-Tim Hardaway,CHA,Under 1.5 Assists,-204,Hit in 5 of his last 6 games vs CHA,83%
-Terrel Harris,CHA,Over 13.5 Points,-115,Hit in 5 of his last 6 games,83%
-Terrel Harris,CHA,Over 13.5 Points,-115,Hit in 5 of his last 6 home games,83%
-Nolan Smith,DET,Under 2.5 Assists,100,Hit in 5 of his last 6 games,83%
-A. Şengün,TOR,Under 2.5 Turnovers,-154,Hit in 5 of his last 6 games,83%
-Dillon Brooks,TOR,Over 16.5 PTS+REB,-106,Hit in 5 of his last 6 games,83%
-Dillon Brooks,TOR,Over 17.5 PTS+AST+REB,-117,Hit in 5 of his last 6 games,83%
-Scottie Barnes,HOU,Under 5.5 Assists,-122,Hit in 5 of his last 6 games,83%
-Ochai Agbaji,HOU,Under 1.5 Assists,-110,Hit in 10 of his last 12 games,83%
-Tyrese Maxey,MIL,Over 3.5 Rebounds,-138,Hit in 5 of his last 6 games vs MIL,83%
-Joel Embiid,MIL,Under 1.5 3PTM,-150,Hit in 5 of his last 6 games,83%
-A. Şengün,TOR,Under 0.5 Blocks,-179,Hit in 5 of his last 6 games,83%
-Bobby Portis,PHI,Over 0.5 Blocks,-130,Hit in 5 of his last 6 games vs PHI,83%
-Brook Lopez,PHI,Over 1.5 Assists,-105,Hit in 5 of his last 6 home games,83%
-Damian Lillard,PHI,Under 1.5 Steals,-265,Hit in 5 of his last 6 games vs PHI,83%
-JaMychal Green,TOR,Under 0.5 Blocks,-295,Hit in 10 of his last 12 games,83%
-Damian Lillard,PHI,Under 1.5 STL+BLK,-185,Hit in 5 of his last 6 games,83%
-Joel Embiid,MIL,Over 27.5 Points,-118,Hit in 5 of his last 6 games,83%
-Cam Whitmore,TOR,Under 5.5 REB+AST,-120,Hit in 5 of his last 6 games,83%
-Terrel Harris,CHA,Over 1.5 Assists,-152,Hit in 14 of his last 17 home games,82%
-Gradey Dick,HOU,Under 18.5 PTS+REB,-118,Hit in 14 of his last 17 games,82%
-Gradey Dick,HOU,Under 20.5 PTS+AST+REB,-121,Hit in 14 of his last 17 games,82%
-Immanuel Quickley,HOU,Over 1.5 3PTM,-156,Hit in 14 of his last 17 away games,82%
-Bobby Portis,PHI,Under 19.5 Points,-124,Hit in 14 of his last 17 games,82%
-Cade Cunningham,CHA,Over 0.5 Steals,-270,Hit in 9 of his last 11 home games,82%
-Jonathan Mogbo,HOU,Under 13.5 PTS+REB,100,Hit in 9 of his last 11 games,82%
-Brook Lopez,PHI,Under 14.5 Points,-118,Hit in 9 of his last 11 games,82%
-Jonathan Mogbo,HOU,Under 16.5 PTS+AST+REB,-160,Hit in 9 of his last 11 games,82%
-Brook Lopez,PHI,Under 15.5 PTS+AST,-117,Hit in 9 of his last 11 games,82%
-Dillon Brooks,TOR,Under 1.5 Assists,-175,Hit in 9 of his last 11 games,82%
-Paul George,MIL,Under 0.5 Blocks,-285,Hit in 9 of his last 11 games,82%
-Bobby Portis,PHI,Under 22.5 PTS+AST,-129,Hit in 13 of his last 16 games,81%
-Jalen Duren,CHA,Under 10.5 Rebounds,102,Hit in 4 of his last 5 games vs CHA,80%
-Jalen Duren,CHA,Under 13.5 REB+AST,-142,Hit in 4 of his last 5 games vs CHA,80%
-Tim Hardaway,CHA,Over 3.5 REB+AST,-135,Hit in 4 of his last 5 home games,80%
-Cade Cunningham,CHA,Over 34.5 PTS+REB,-102,Hit in 4 of his last 5 games,80%
-Cade Cunningham,CHA,Over 15.5 REB+AST,102,Hit in 4 of his last 5 home games,80%
-Cade Cunningham,CHA,Over 5.5 Rebounds,-128,Hit in 8 of his last 10 home games,80%
-Cade Cunningham,CHA,Over 27.5 Points,-124,Hit in 4 of his last 5 games,80%
-Cade Cunningham,CHA,Under 0.5 Blocks,-120,Hit in 4 of his last 5 games vs CHA,80%
-Malik Beasley,CHA,Over 14.5 Points,-128,Hit in 8 of his last 10 games,80%
-Moussa Diabaté,DET,Under 10.5 Rebounds,-164,Hit in 16 of his last 20 games,80%
-Mikal Bridges,DET,Under 1.5 STL+BLK,-130,Hit in 4 of his last 5 games,80%
-Jalen Duren,CHA,Under 1.5 Blocks,-238,Hit in 4 of his last 5 games vs CHA,80%
-Nolan Smith,DET,Under 6.5 REB+AST,-142,Hit in 4 of his last 5 games,80%
-LaMelo Ball,DET,Under 1.5 Steals,-200,Hit in 4 of his last 5 games,80%
-Cade Cunningham,CHA,Over 37.5 PTS+AST,-118,Hit in 4 of his last 5 games,80%
-Cade Cunningham,CHA,Over 43.5 PTS+AST+REB,-113,Hit in 4 of his last 5 games,80%
-Cade Cunningham,CHA,Over 0.5 Steals,-270,Hit in 4 of his last 5 games vs CHA,80%
-Terrel Harris,CHA,Under 1.5 Turnovers,-250,Hit in 4 of his last 5 games,80%
-Malik Beasley,CHA,Over 17.5 PTS+AST,-105,Hit in 8 of his last 10 games,80%
-A. Şengün,TOR,Under 16.5 REB+AST,-121,Hit in 4 of his last 5 games vs TOR,80%
-A. Şengün,TOR,Under 32.5 PTS+REB,-117,Hit in 4 of his last 5 games vs TOR,80%
-A. Şengün,TOR,Under 26.5 PTS+AST,-109,Hit in 4 of his last 5 games vs TOR,80%
-A. Şengün,TOR,Under 5.5 Assists,-172,Hit in 4 of his last 5 games vs TOR,80%
-A. Şengün,TOR,Under 11.5 Rebounds,-154,Hit in 4 of his last 5 games vs TOR,80%
-A. Şengün,TOR,Under 21.5 Points,-130,Hit in 4 of his last 5 games vs TOR,80%
-JaMychal Green,TOR,Over 3.5 Assists,-154,Hit in 4 of his last 5 home games,80%
-Amen Thompson,TOR,Over 14.5 REB+AST,102,Hit in 4 of his last 5 home games,80%
-Amen Thompson,TOR,Under 5.5 Assists,-134,Hit in 16 of his last 20 games,80%
-Scottie Barnes,HOU,Under 27.5 PTS+REB,-120,Hit in 4 of his last 5 games vs HOU,80%
-Scottie Barnes,HOU,Under 25.5 PTS+AST,-120,Hit in 4 of his last 5 games,80%
-Scottie Barnes,HOU,Under 25.5 PTS+AST,-120,Hit in 4 of his last 5 games vs HOU,80%
-Scottie Barnes,HOU,Under 5.5 Assists,-122,Hit in 4 of his last 5 games vs HOU,80%
-Scottie Barnes,HOU,Under 1.5 3PTM,-180,Hit in 12 of his last 15 games,80%
-Scottie Barnes,HOU,Under 1.5 3PTM,-180,Hit in 4 of his last 5 games vs HOU,80%
-Taurean Prince,PHI,Over 1.5 3PTM,-111,Hit in 4 of his last 5 games,80%
-Taurean Prince,PHI,Over 8.5 Points,-106,Hit in 4 of his last 5 games,80%
-Damian Lillard,PHI,Over 3.5 3PTM,-106,Hit in 4 of his last 5 games vs PHI,80%
-Damian Lillard,PHI,Under 27.5 Points,-106,Hit in 4 of his last 5 games,80%
-Bobby Portis,PHI,Under 1.5 3PTM,-104,Hit in 4 of his last 5 games vs PHI,80%
-Brook Lopez,PHI,Under 14.5 Points,-118,Hit in 4 of his last 5 games vs PHI,80%
-Kyle Kuzma,PHI,Over 1.5 3PTM,-122,Hit in 4 of his last 5 games vs PHI,80%
-Joel Embiid,MIL,Over 42.5 PTS+AST+REB,-115,Hit in 4 of his last 5 games,80%
-Paul George,MIL,Under 20.5 PTS+AST,-113,Hit in 4 of his last 5 games,80%
-Paul George,MIL,Under 16.5 Points,-110,Hit in 4 of his last 5 games,80%
-Scottie Barnes,HOU,Under 32.5 PTS+AST+REB,-106,Hit in 4 of his last 5 games vs HOU,80%
-Taurean Prince,PHI,Under 5.5 REB+AST,-117,Hit in 4 of his last 5 games vs PHI,80%
-Taurean Prince,PHI,Under 2.5 Assists,-165,Hit in 4 of his last 5 games vs PHI,80%
-Damian Lillard,PHI,Under 36.5 PTS+AST,-111,Hit in 4 of his last 5 games,80%
-Brook Lopez,PHI,Over 1.5 Assists,-105,Hit in 4 of his last 5 games,80%
-Paul George,MIL,Under 21.5 PTS+REB,-102,Hit in 4 of his last 5 games,80%
-Paul George,MIL,Under 1.5 Steals,-154,Hit in 4 of his last 5 games,80%
-Joel Embiid,MIL,Over 37.5 PTS+REB,-120,Hit in 4 of his last 5 games,80%
-Joel Embiid,MIL,Under 0.5 Steals,132,Hit in 4 of his last 5 games vs MIL,80%
-A. Şengün,TOR,Under 0.5 3PTM,-227,Hit in 4 of his last 5 games vs TOR,80%
-Tari Eason,TOR,Under 1.5 Assists,-135,Hit in 4 of his last 5 games,80%
-Gradey Dick,HOU,Over 0.5 Steals,-150,Hit in 4 of his last 5 games,80%
-Jonathan Mogbo,HOU,Under 0.5 3PTM,-250,Hit in 12 of his last 15 games,80%
-Jamal Shead,HOU,Over 1.5 Rebounds,-155,Hit in 4 of his last 5 games,80%
-Tyrese Maxey,MIL,Over 1.5 STL+BLK,-155,Hit in 8 of his last 10 games,80%
-Joel Embiid,MIL,Under 1.5 STL+BLK,100,Hit in 4 of his last 5 games vs MIL,80%
-A. Şengün,TOR,Under 37.5 PTS+AST+REB,-109,Hit in 4 of his last 5 games vs TOR,80%
-Joel Embiid,MIL,Over 27.5 Points,-118,Hit in 4 of his last 5 away games,80%
-Cam Whitmore,TOR,Over 1.5 3PTM,112,Hit in 4 of his last 5 home games,80%
-Paul George,MIL,Under 25.5 PTS+AST+REB,-102,Hit in 4 of his last 5 games,80%
-Gradey Dick,HOU,Under 3.5 Rebounds,116,Hit in 11 of his last 14 games,79%
-Gradey Dick,HOU,Under 1.5 Turnovers,-125,Hit in 11 of his last 14 games,79%
-Jamal Shead,HOU,Under 6.5 REB+AST,-135,Hit in 11 of his last 14 games,79%
-Tim Hardaway,CHA,Over 12.5 PTS+REB,-137,Hit in 7 of his last 9 home games,78%
-Terrel Harris,CHA,Over 1.5 Assists,-152,Hit in 14 of his last 18 games,78%
-Terrel Harris,CHA,Over 0.5 Blocks,-135,Hit in 7 of his last 9 home games,78%
-Malik Beasley,CHA,Over 3.5 3PTM,-106,Hit in 7 of his last 9 games,78%
-Malik Beasley,CHA,Over 19.5 PTS+AST+REB,-121,Hit in 7 of his last 9 games,78%
-Malik Beasley,CHA,Over 18.5 PTS+REB,-118,Hit in 7 of his last 9 games,78%
-Tari Eason,TOR,Under 18.5 PTS+REB,-113,Hit in 7 of his last 9 games,78%
-Tari Eason,TOR,Under 6.5 Rebounds,106,Hit in 7 of his last 9 games,78%
-Tari Eason,TOR,Under 8.5 REB+AST,-115,Hit in 7 of his last 9 games,78%
-Tari Eason,TOR,Under 20.5 PTS+AST+REB,-109,Hit in 7 of his last 9 games,78%
-Scottie Barnes,HOU,Over 19.5 Points,-114,Hit in 7 of his last 9 games,78%
-Scottie Barnes,HOU,Over 2.5 STL+BLK,-120,Hit in 7 of his last 9 away games,78%
-Jonathan Mogbo,HOU,Under 7.5 Points,-105,Hit in 7 of his last 9 games,78%
-Bobby Portis,PHI,Under 1.5 STL+BLK,-110,Hit in 7 of his last 9 games,78%
-Tyrese Maxey,MIL,Under 10.5 REB+AST,-128,Hit in 7 of his last 9 games vs MIL,78%
-Tyrese Maxey,MIL,Under 1.5 Steals,-130,Hit in 7 of his last 9 games vs MIL,78%
-Jonathan Mogbo,HOU,Under 9.5 PTS+AST,100,Hit in 7 of his last 9 games,78%
-Jonathan Mogbo,HOU,Under 1.5 Assists,140,Hit in 7 of his last 9 games,78%
-Taurean Prince,PHI,Over 0.5 STL+BLK,-200,Hit in 7 of his last 9 games,78%
-Dillon Brooks,TOR,Over 3.5 Rebounds,-110,Hit in 10 of his last 13 home games,77%
-Gradey Dick,HOU,Under 14.5 Points,-115,Hit in 13 of his last 17 games,76%
-Gradey Dick,HOU,Under 16.5 PTS+AST,-133,Hit in 13 of his last 17 games,76%
-Immanuel Quickley,HOU,Over 18.5 PTS+REB,-113,Hit in 13 of his last 17 away games,76%
-Jalen Duren,CHA,Over 0.5 Double Double,-115,Hit in 9 of his last 12 games,75%
-Amen Thompson,CHA,Over 5.5 Rebounds,110,Hit in 3 of his last 4 games,75%
-Amen Thompson,CHA,Over 5.5 Rebounds,110,Hit in 3 of his last 4 home games,75%
-Tim Hardaway,CHA,Over 0.5 Turnovers,-149,Hit in 3 of his last 4 games vs CHA,75%
-Cade Cunningham,CHA,Over 34.5 PTS+REB,-102,Hit in 3 of his last 4 home games,75%
-Cade Cunningham,CHA,Over 5.5 Rebounds,-128,Hit in 3 of his last 4 games,75%
-Cade Cunningham,CHA,Over 5.5 Rebounds,-128,Hit in 3 of his last 4 games vs CHA,75%
-Cade Cunningham,CHA,Under 2.5 3PTM,-158,Hit in 6 of his last 8 games,75%
-Cade Cunningham,CHA,Over 27.5 Points,-124,Hit in 3 of his last 4 home games,75%
-Terrel Harris,CHA,Over 0.5 Blocks,-135,Hit in 3 of his last 4 games vs CHA,75%
-Terrel Harris,CHA,Over 1.5 STL+BLK,-125,Hit in 3 of his last 4 games vs CHA,75%
-Malik Beasley,CHA,Over 3.5 3PTM,-106,Hit in 3 of his last 4 home games,75%
-Malik Beasley,CHA,Over 14.5 Points,-128,Hit in 3 of his last 4 home games,75%
-Malik Beasley,CHA,Over 19.5 PTS+AST+REB,-121,Hit in 3 of his last 4 home games,75%
-Malik Beasley,CHA,Under 2.5 Rebounds,-119,Hit in 6 of his last 8 games vs CHA,75%
-Mikal Bridges,DET,Under 27.5 PTS+AST,-125,Hit in 12 of his last 16 games,75%
-Mikal Bridges,DET,Under 27.5 PTS+AST,-125,Hit in 3 of his last 4 games vs DET,75%
-Mikal Bridges,DET,Under 3.5 Assists,108,Hit in 3 of his last 4 games vs DET,75%
-Mikal Bridges,DET,Over 2.5 3PTM,124,Hit in 3 of his last 4 games vs DET,75%
-Mikal Bridges,DET,Over 2.5 3PTM,124,Hit in 3 of his last 4 away games,75%
-Nolan Smith,DET,Over 2.5 3PTM,-130,Hit in 3 of his last 4 games,75%
-LaMelo Ball,DET,Over 12.5 REB+AST,-104,Hit in 3 of his last 4 games vs DET,75%
-LaMelo Ball,DET,Over 12.5 REB+AST,-104,Hit in 3 of his last 4 away games,75%
-LaMelo Ball,DET,Under 7.5 Assists,-120,Hit in 3 of his last 4 games,75%
-LaMelo Ball,DET,Over 4.5 Rebounds,-128,Hit in 3 of his last 4 away games,75%
-LaMelo Ball,DET,Under 1.5 STL+BLK,-118,Hit in 3 of his last 4 games,75%
-Cade Cunningham,CHA,Under 3.5 Turnovers,-127,Hit in 3 of his last 4 games vs CHA,75%
-Mikal Bridges,DET,Under 34.5 PTS+AST+REB,-113,Hit in 3 of his last 4 games vs DET,75%
-Cade Cunningham,CHA,Over 37.5 PTS+AST,-118,Hit in 3 of his last 4 home games,75%
-Cade Cunningham,CHA,Over 43.5 PTS+AST+REB,-113,Hit in 3 of his last 4 home games,75%
-Malik Beasley,CHA,Over 0.5 Steals,-270,Hit in 6 of his last 8 games,75%
-Malik Beasley,CHA,Over 0.5 Steals,-270,Hit in 3 of his last 4 home games,75%
-Mikal Bridges,DET,Over 0.5 Steals,-160,Hit in 3 of his last 4 games vs DET,75%
-Mikal Bridges,DET,Under 0.5 Blocks,-105,Hit in 3 of his last 4 games vs DET,75%
-Terrel Harris,CHA,Under 1.5 Turnovers,-250,Hit in 3 of his last 4 games vs CHA,75%
-Malik Beasley,CHA,Over 1.5 Assists,-120,Hit in 6 of his last 8 games vs CHA,75%
-Terrel Harris,CHA,Over 21.5 PTS+AST+REB,-113,Hit in 3 of his last 4 games,75%
-Terrel Harris,CHA,Over 21.5 PTS+AST+REB,-113,Hit in 3 of his last 4 home games,75%
-Tim Hardaway,CHA,Under 14.5 PTS+AST+REB,-121,Hit in 3 of his last 4 games,75%
-Malik Beasley,CHA,Over 17.5 PTS+AST,-105,Hit in 3 of his last 4 home games,75%
-Malik Beasley,CHA,Over 18.5 PTS+REB,-118,Hit in 3 of his last 4 home games,75%
-A. Şengün,TOR,Under 5.5 Assists,-172,Hit in 6 of his last 8 games,75%
-A. Şengün,TOR,Under 2.5 Turnovers,-154,Hit in 3 of his last 4 games vs TOR,75%
-A. Şengün,TOR,Under 1.5 STL+BLK,-114,Hit in 6 of his last 8 games,75%
-Dillon Brooks,TOR,Over 16.5 PTS+REB,-106,Hit in 3 of his last 4 games vs TOR,75%
-Dillon Brooks,TOR,Over 12.5 Points,-110,Hit in 3 of his last 4 games vs TOR,75%
-Dillon Brooks,TOR,Over 17.5 PTS+AST+REB,-117,Hit in 3 of his last 4 games vs TOR,75%
-JaMychal Green,TOR,Under 27.5 PTS+REB,-106,Hit in 3 of his last 4 games vs TOR,75%
-JaMychal Green,TOR,Over 2.5 Turnovers,-110,Hit in 3 of his last 4 home games,75%
-Ochai Agbaji,HOU,Over 13.5 PTS+REB,-113,Hit in 3 of his last 4 games,75%
-Ochai Agbaji,HOU,Over 16.5 PTS+AST+REB,-117,Hit in 3 of his last 4 games,75%
-Immanuel Quickley,HOU,Over 5.5 Assists,-115,Hit in 3 of his last 4 games vs HOU,75%
-Immanuel Quickley,HOU,Under 3.5 Rebounds,-150,Hit in 6 of his last 8 games,75%
-Immanuel Quickley,HOU,Under 0.5 Steals,-125,Hit in 3 of his last 4 games,75%
-Taurean Prince,PHI,Over 8.5 Points,-106,Hit in 3 of his last 4 home games,75%
-Damian Lillard,PHI,Over 3.5 3PTM,-106,Hit in 3 of his last 4 home games,75%
-Damian Lillard,PHI,Under 27.5 Points,-106,Hit in 3 of his last 4 games vs PHI,75%
-Kyle Kuzma,PHI,Over 21.5 PTS+REB,-111,Hit in 6 of his last 8 games vs PHI,75%
-Tyrese Maxey,MIL,Over 39.5 PTS+AST+REB,-115,Hit in 6 of his last 8 games,75%
-Tyrese Maxey,MIL,Over 39.5 PTS+AST+REB,-115,Hit in 3 of his last 4 away games,75%
-Tyrese Maxey,MIL,Over 35.5 PTS+AST,-118,Hit in 3 of his last 4 away games,75%
-Tyrese Maxey,MIL,Over 3.5 3PTM,112,Hit in 3 of his last 4 away games,75%
-Joel Embiid,MIL,Over 14.5 REB+AST,-113,Hit in 3 of his last 4 games,75%
-Joel Embiid,MIL,Over 32.5 PTS+AST,-118,Hit in 3 of his last 4 games vs MIL,75%
-Joel Embiid,MIL,Over 42.5 PTS+AST+REB,-115,Hit in 3 of his last 4 away games,75%
-Joel Embiid,MIL,Over 10.5 Rebounds,118,Hit in 3 of his last 4 games,75%
-Joel Embiid,MIL,Over 0.5 Double Double,-140,Hit in 3 of his last 4 games,75%
-Paul George,MIL,Over 2.5 3PTM,118,Hit in 9 of his last 12 games,75%
-A. Şengün,TOR,Under 0.5 Blocks,-179,Hit in 3 of his last 4 games vs TOR,75%
-A. Şengün,TOR,Under 1.5 Steals,-294,Hit in 6 of his last 8 games,75%
-Taurean Prince,PHI,Over 9.5 PTS+AST,-129,Hit in 3 of his last 4 home games,75%
-Damian Lillard,PHI,Under 31.5 PTS+REB,-104,Hit in 3 of his last 4 games vs PHI,75%
-Damian Lillard,PHI,Under 40.5 PTS+AST+REB,-108,Hit in 3 of his last 4 games vs PHI,75%
-Gary Trent,PHI,Over 10.5 Points,-135,Hit in 6 of his last 8 games vs PHI,75%
-Bobby Portis,PHI,Over 0.5 Blocks,-130,Hit in 3 of his last 4 games,75%
-Brook Lopez,PHI,Over 4.5 Rebounds,-110,Hit in 6 of his last 8 home games,75%
-Brook Lopez,PHI,Over 2.5 STL+BLK,-110,Hit in 3 of his last 4 games vs PHI,75%
-Tyrese Maxey,MIL,Under 10.5 REB+AST,-128,Hit in 3 of his last 4 games,75%
-JaMychal Green,TOR,Over 8.5 REB+AST,-111,Hit in 3 of his last 4 games,75%
-JaMychal Green,TOR,Under 27.5 PTS+REB,-106,Hit in 3 of his last 4 games,75%
-Joel Embiid,MIL,Over 0.5 Blocks,-215,Hit in 9 of his last 12 away games,75%
-Bobby Portis,PHI,Under 0.5 Steals,142,Hit in 6 of his last 8 games,75%
-Joel Embiid,MIL,Over 37.5 PTS+REB,-120,Hit in 3 of his last 4 away games,75%
-Dillon Brooks,TOR,Over 13.5 PTS+AST,-129,Hit in 3 of his last 4 games vs TOR,75%
-Amen Thompson,TOR,Over 1.5 Steals,120,Hit in 3 of his last 4 home games,75%
-Amen Thompson,TOR,Over 2.5 Turnovers,110,Hit in 3 of his last 4 games,75%
-Amen Thompson,TOR,Over 2.5 STL+BLK,-165,Hit in 3 of his last 4 home games,75%
-Tari Eason,TOR,Under 1.5 Turnovers,-200,Hit in 15 of his last 20 games,75%
-Tari Eason,TOR,Over 0.5 Blocks,-220,Hit in 3 of his last 4 games,75%
-Scottie Barnes,HOU,Under 1.5 Blocks,-165,Hit in 3 of his last 4 games vs HOU,75%
-Gradey Dick,HOU,Over 0.5 STL+BLK,-235,Hit in 3 of his last 4 away games,75%
-Jamal Shead,HOU,Over 1.5 Rebounds,-155,Hit in 3 of his last 4 away games,75%
-Jamal Shead,HOU,Over 7.5 Points,-135,Hit in 3 of his last 4 games,75%
-Immanuel Quickley,HOU,Over 0.5 STL+BLK,-155,Hit in 3 of his last 4 games vs HOU,75%
-Taurean Prince,PHI,Over 0.5 Turnovers,-145,Hit in 3 of his last 4 games,75%
-Bobby Portis,PHI,Under 1.5 Turnovers,125,Hit in 9 of his last 12 games,75%
-Brook Lopez,PHI,Over 5.5 REB+AST,-155,Hit in 6 of his last 8 home games,75%
-Joel Embiid,MIL,Under 3.5 Turnovers,-165,Hit in 3 of his last 4 games,75%
-Paul George,MIL,Under 1.5 STL+BLK,-130,Hit in 3 of his last 4 games,75%
-A. Şengün,TOR,Under 37.5 PTS+AST+REB,-109,Hit in 9 of his last 12 games,75%
-Joel Embiid,MIL,Over 27.5 Points,-118,Hit in 3 of his last 4 games vs MIL,75%
-Cam Whitmore,TOR,Under 17.5 PTS+AST+REB,-121,Hit in 6 of his last 8 games,75%
-Cam Whitmore,TOR,Under 15.5 PTS+REB,-108,Hit in 6 of his last 8 games,75%
-Cam Whitmore,TOR,Over 1.5 3PTM,112,Hit in 3 of his last 4 games,75%
-Cam Whitmore,TOR,Under 12.5 Points,-128,Hit in 9 of his last 12 games,75%
-Cam Whitmore,TOR,Over 12.5 PTS+AST,-125,Hit in 3 of his last 4 games,75%
-Cam Whitmore,TOR,Under 0.5 Blocks,-285,Hit in 6 of his last 8 games,75%
-Cam Whitmore,TOR,Over 0.5 Steals,-145,Hit in 3 of his last 4 home games,75%
-Cam Whitmore,TOR,Under 1.5 STL+BLK,-250,Hit in 15 of his last 20 games,75%
-Damian Lillard,PHI,Under 8.5 Assists,-115,Hit in 14 of his last 19 games,74%
-Damian Lillard,PHI,Under 40.5 PTS+AST+REB,-108,Hit in 14 of his last 19 games,74%
-Tari Eason,TOR,Over 0.5 3PTM,-175,Hit in 11 of his last 15 games,73%
-Ochai Agbaji,HOU,Under 12.5 PTS+AST,-129,Hit in 8 of his last 11 games,73%
-Tyrese Maxey,MIL,Over 6.5 Assists,104,Hit in 8 of his last 11 games,73%
-Brook Lopez,PHI,Over 1.5 Blocks,-136,Hit in 8 of his last 11 games,73%
-Tari Eason,TOR,Over 2.5 STL+BLK,105,Hit in 8 of his last 11 home games,73%
-Jamal Shead,HOU,Under 0.5 Steals,-118,Hit in 8 of his last 11 games,73%
-LaMelo Ball,DET,Over 12.5 REB+AST,-104,Hit in 13 of his last 18 games,72%
-LaMelo Ball,DET,Over 4.5 Rebounds,-128,Hit in 13 of his last 18 games,72%
-JaMychal Green,TOR,Over 31.5 PTS+AST+REB,-122,Hit in 13 of his last 18 games,72%
-Jalen Duren,CHA,Over 0.5 Double Double,-115,Hit in 5 of his last 7 home games,71%
-Mikal Bridges,DET,Over 7.5 Rebounds,114,Hit in 5 of his last 7 games,71%
-LaMelo Ball,DET,Over 3.5 3PTM,-148,Hit in 5 of his last 7 games vs DET,71%
-Amen Thompson,CHA,Under 1.5 Steals,-175,Hit in 5 of his last 7 games,71%
-Isaiah Stewart,CHA,Over 11.5 PTS+AST+REB,-145,Hit in 5 of his last 7 home games,71%
-Ochai Agbaji,HOU,Under 3.5 Rebounds,106,Hit in 10 of his last 14 games,71%
-Damian Lillard,PHI,Over 4.5 Rebounds,136,Hit in 5 of his last 7 home games,71%
-Scottie Barnes,HOU,Over 1.5 Steals,140,Hit in 5 of his last 7 away games,71%
-Amen Thompson,TOR,Under 8.5 Rebounds,-105,Hit in 5 of his last 7 games,71%
-Scottie Barnes,HOU,Under 1.5 Blocks,-165,Hit in 5 of his last 7 games,71%
-Scottie Barnes,HOU,Over 2.5 STL+BLK,-120,Hit in 12 of his last 17 games,71%
-Ochai Agbaji,HOU,Over 13.5 PTS+REB,-113,Hit in 12 of his last 17 away games,71%
-Immanuel Quickley,HOU,Over 15.5 Points,104,Hit in 12 of his last 17 away games,71%
-Jalen Duren,CHA,Over 1.5 Turnovers,-135,Hit in 7 of his last 10 games,70%
-Cade Cunningham,CHA,Over 15.5 REB+AST,102,Hit in 7 of his last 10 games,70%
-Cade Cunningham,CHA,Under 9.5 Assists,-122,Hit in 14 of his last 20 games,70%
-Bobby Portis,PHI,Under 1.5 3PTM,-104,Hit in 7 of his last 10 games,70%
-Kyle Kuzma,PHI,Over 6.5 Rebounds,112,Hit in 7 of his last 10 games,70%
-Tyrese Maxey,MIL,Over 2.5 Turnovers,100,Hit in 7 of his last 10 away games,70%
-Joel Embiid,MIL,Over 0.5 Blocks,-215,Hit in 14 of his last 20 games,70%
-A. Şengün,TOR,Under 0.5 3PTM,-227,Hit in 14 of his last 20 games,70%
-Cade Cunningham,CHA,Under 2.5 3PTM,-158,CHA rank 5th in 3PTM versus PG,5th
-Moussa Diabaté,DET,Under 10.5 Rebounds,-164,DET rank 4th in REB against,4th
-LaMelo Ball,DET,Under 7.5 Assists,-120,DET rank 2nd in AST versus PG,2nd
-LaMelo Ball,DET,Over 3.5 3PTM,-148,DET rank 27th in 3PTM versus PG,27th
-Nolan Smith,DET,Under 3.5 Rebounds,-179,DET rank 3rd in REB versus SG,3rd
-Mikal Bridges,DET,Over 0.5 Steals,-160,DET rank 26th in STL against,26th
-Mikal Bridges,DET,Under 0.5 Blocks,-105,DET rank 4th in BLK versus SF,4th
-Nolan Smith,DET,Under 2.5 Assists,100,DET rank 4th in AST versus SG,4th
-Isaiah Stewart,CHA,Over 0.5 3PTM,223,CHA rank 26th in 3PTM versus C,26th
-Tari Eason,TOR,Under 6.5 Rebounds,106,TOR rank 5th in REB versus SF,5th
-Scottie Barnes,HOU,Under 5.5 Assists,-122,HOU rank 3rd in AST versus SF,3rd
-Scottie Barnes,HOU,Under 1.5 3PTM,-180,HOU rank 2nd in 3PTM against,2nd
-Gradey Dick,HOU,Under 2.5 3PTM,-196,HOU rank 2nd in 3PTM against,2nd
-Ochai Agbaji,HOU,Under 1.5 Assists,-110,HOU rank 1st in AST against,1st
-Ochai Agbaji,HOU,Under 1.5 3PTM,-130,HOU rank 2nd in 3PTM against,2nd
-Taurean Prince,PHI,Over 3.5 Rebounds,114,PHI rank 28th in REB versus PF,28th
-Taurean Prince,PHI,Over 8.5 Points,-106,PHI rank 29th in PTS versus PF,29th
-Brook Lopez,PHI,Under 14.5 Points,-118,PHI rank 5th in PTS versus C,5th
-Kyle Kuzma,PHI,Over 6.5 Rebounds,112,PHI rank 28th in REB versus PF,28th
-Kyle Kuzma,PHI,Over 15.5 Points,104,PHI rank 29th in PTS versus PF,29th
-Tyrese Maxey,MIL,Over 3.5 Rebounds,-138,MIL rank 30th in REB versus PG,30th
-Joel Embiid,MIL,Over 10.5 Rebounds,118,MIL rank 26th in REB against,26th
-Brook Lopez,PHI,Under 0.5 Steals,-115,PHI rank 5th in STL versus C,5th
-Tyrese Maxey,MIL,Over 29.5 Points,-104,MIL rank 30th in PTS versus PG,30th
-Tyrese Maxey,MIL,Over 2.5 Turnovers,100,MIL rank 1st in TO versus PG,1st
-Amen Thompson,TOR,Under 8.5 Rebounds,-105,TOR rank 5th in REB versus SF,5th
-Amen Thompson,TOR,Over 1.5 Blocks,-110,TOR rank 27th in BLK versus SF,27th
-Damian Lillard,PHI,Under 3.5 Turnovers,-175,PHI rank 30th in TO versus PG,30th
-Damian Lillard,PHI,Under 1.5 Steals,-265,PHI rank 4th in STL against,4th
-Tyrese Maxey,MIL,Under 1.5 Steals,-130,MIL rank 2nd in STL versus PG,2nd
-Paul George,MIL,Under 2.5 Turnovers,-185,MIL rank 4th in TO against,4th
-Paul George,MIL,Under 1.5 Steals,-154,MIL rank 5th in STL versus SF,5th
-Bobby Portis,PHI,Under 0.5 Steals,142,PHI rank 4th in STL against,4th
-Joel Embiid,MIL,Under 0.5 Steals,132,MIL rank 5th in STL against,5th
-Dillon Brooks,TOR,Under 1.5 Assists,-175,TOR rank 2nd in AST versus SG,2nd
-Tari Eason,TOR,Over 0.5 Blocks,-220,TOR rank 27th in BLK versus SF,27th
-Gradey Dick,HOU,Under 1.5 Assists,-145,HOU rank 1st in AST against,1st
-Ochai Agbaji,HOU,Over 0.5 Blocks,-190,HOU rank 29th in BLK against,29th
-Jonathan Mogbo,HOU,Under 1.5 Assists,140,HOU rank 1st in AST against,1st
-Jonathan Mogbo,HOU,Under 0.5 3PTM,-250,HOU rank 2nd in 3PTM versus PF,2nd
-Jonathan Mogbo,HOU,Under 0.5 Turnovers,145,HOU rank 26th in TO versus PF,26th
-Jamal Shead,HOU,Under 4.5 Assists,-130,HOU rank 1st in AST versus PG,1st
-Jamal Shead,HOU,Under 1.5 3PTM,-235,HOU rank 2nd in 3PTM against,2nd
-Jamal Shead,HOU,Over 0.5 Blocks,400,HOU rank 28th in BLK versus PG,28th
-Immanuel Quickley,HOU,Over 0.5 Blocks,400,HOU rank 28th in BLK versus PG,28th
-Taurean Prince,PHI,Under 0.5 Steals,110,PHI rank 4th in STL against,4th
-Bobby Portis,PHI,Under 1.5 Turnovers,125,PHI rank 27th in TO versus PF,27th
-Brook Lopez,PHI,Under 1.5 Turnovers,-175,PHI rank 30th in TO versus C,30th
-Tyrese Maxey,MIL,Under 0.5 Blocks,-300,MIL rank 1st in BLK against,1st
-Paul George,MIL,Under 0.5 Blocks,-285,MIL rank 3rd in BLK versus SF,3rd
-Cam Whitmore,TOR,Under 3.5 Rebounds,-110,TOR rank 5th in REB versus SF,5th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Jalen Duren,CHA,Under 2.5 Assists,-189,Hit in 5 of his last 5 games vs CHA,100%,False,6.0
+Amen Thompson,CHA,Over 10.5 Points,-105,Hit in 4 of his last 4 games,100%,False,10.0
+Amen Thompson,CHA,Over 10.5 Points,-105,Hit in 4 of his last 4 home games,100%,False,10.0
+Cade Cunningham,CHA,Under 2.5 3PTM,-158,Hit in 5 of his last 5 games vs CHA,100%,True,1.0
+Jalen Duren,CHA,Over 25.5 PTS+AST+REB,-154,Hit in 6 of his last 7 games,86%,False,22.0
+Amen Thompson,CHA,Over 18.5 PTS+AST+REB,-137,Hit in 4 of his last 4 games,100%,False,15.0
+Amen Thompson,CHA,Over 18.5 PTS+AST+REB,-137,Hit in 4 of his last 4 home games,100%,False,15.0
+Amen Thompson,CHA,Over 7.5 REB+AST,-130,Hit in 4 of his last 4 games,100%,True,15.0
+Amen Thompson,CHA,Over 7.5 REB+AST,-130,Hit in 4 of his last 4 home games,100%,True,15.0
+Amen Thompson,CHA,Over 1.5 Assists,-192,Hit in 4 of his last 4 games,100%,True,5.0
+Amen Thompson,CHA,Over 1.5 Assists,-192,Hit in 4 of his last 4 home games,100%,True,5.0
+Cade Cunningham,CHA,Under 3.5 Turnovers,-127,Hit in 4 of his last 4 games,100%,False,5.0
+Amen Thompson,CHA,Over 15.5 PTS+REB,-128,Hit in 4 of his last 4 games,100%,True,20.0
+Amen Thompson,CHA,Over 15.5 PTS+REB,-128,Hit in 4 of his last 4 home games,100%,True,20.0
+Isaiah Stewart,CHA,Over 11.5 PTS+AST+REB,-145,Hit in 8 of his last 8 games vs CHA,100%,False,3.0
+Isaiah Stewart,CHA,Over 5.5 Rebounds,-123,Hit in 8 of his last 8 games vs CHA,100%,False,3.0
+Isaiah Stewart,CHA,Over 10.5 PTS+REB,-139,Hit in 8 of his last 8 games vs CHA,100%,False,5.0
+Malik Beasley,CHA,Under 1.5 Turnovers,-225,Hit in 7 of his last 7 games vs CHA,100%,True,0.0
+Scottie Barnes,HOU,Under 27.5 PTS+REB,-120,Hit in 4 of his last 4 games,100%,True,24.0
+Scottie Barnes,HOU,Under 7.5 Rebounds,-130,Hit in 4 of his last 4 games,100%,False,9.0
+Scottie Barnes,HOU,Over 19.5 Points,-114,Hit in 4 of his last 4 away games,100%,False,15.0
+Gradey Dick,HOU,Under 2.5 3PTM,-196,Hit in 12 of his last 12 games,100%,True,0.0
+Immanuel Quickley,HOU,Under 20.5 PTS+AST,-111,Hit in 4 of his last 4 games,100%,False,29.0
+Immanuel Quickley,HOU,Over 1.5 3PTM,-156,Hit in 4 of his last 4 games vs HOU,100%,True,3.0
+Immanuel Quickley,HOU,Over 18.5 PTS+REB,-113,Hit in 4 of his last 4 games vs HOU,100%,True,34.0
+Immanuel Quickley,HOU,Under 24.5 PTS+AST+REB,-125,Hit in 4 of his last 4 games,100%,False,29.0
+Taurean Prince,PHI,Over 8.5 Points,-106,Hit in 5 of his last 5 games vs PHI,100%,True,14.0
+Bobby Portis,PHI,Under 11.5 Rebounds,-120,Hit in 9 of his last 9 games vs PHI,100%,False,13.0
+Bobby Portis,PHI,Under 19.5 Points,-124,Hit in 7 of his last 7 games vs PHI,100%,False,22.0
+Kyle Kuzma,PHI,Over 1.5 3PTM,-122,Hit in 4 of his last 4 games,100%,False,1.0
+Kyle Kuzma,PHI,Over 15.5 Points,104,Hit in 5 of his last 5 games vs PHI,100%,False,15.0
+Tyrese Maxey,MIL,Over 6.5 Assists,104,Hit in 4 of his last 4 away games,100%,False,5.0
+Joel Embiid,MIL,Over 4.5 Assists,-114,Hit in 4 of his last 4 games vs MIL,100%,True,6.0
+Paul George,MIL,Under 9.5 REB+AST,-125,Hit in 4 of his last 4 games,100%,False,11.0
+Paul George,MIL,Under 3.5 Assists,116,Hit in 4 of his last 4 games,100%,False,6.0
+Paul George,MIL,Under 5.5 Rebounds,-128,Hit in 6 of his last 6 games,100%,True,5.0
+Scottie Barnes,HOU,Under 32.5 PTS+AST+REB,-106,Hit in 4 of his last 4 games,100%,True,22.0
+Scottie Barnes,HOU,Under 3.5 Turnovers,-185,Hit in 5 of his last 5 games vs HOU,100%,True,0.0
+Taurean Prince,PHI,Over 13.5 PTS+AST+REB,-117,Hit in 4 of his last 4 games vs PHI,100%,True,16.0
+Taurean Prince,PHI,Over 9.5 PTS+AST,-129,Hit in 5 of his last 5 games,100%,True,16.0
+Taurean Prince,PHI,Over 9.5 PTS+AST,-129,Hit in 5 of his last 5 games vs PHI,100%,True,16.0
+Damian Lillard,PHI,Under 36.5 PTS+AST,-111,Hit in 4 of his last 4 games vs PHI,100%,False,67.0
+Bobby Portis,PHI,Under 30.5 PTS+REB,-113,Hit in 7 of his last 7 games vs PHI,100%,False,35.0
+Bobby Portis,PHI,Under 14.5 REB+AST,-113,Hit in 9 of his last 9 games vs PHI,100%,False,18.0
+Bobby Portis,PHI,Under 33.5 PTS+AST+REB,-113,Hit in 7 of his last 7 games vs PHI,100%,True,27.0
+Bobby Portis,PHI,Under 22.5 PTS+AST,-129,Hit in 7 of his last 7 games vs PHI,100%,False,27.0
+Bobby Portis,PHI,Under 3.5 Assists,-165,Hit in 9 of his last 9 games vs PHI,100%,False,5.0
+Brook Lopez,PHI,Under 18.5 PTS+REB,100,Hit in 8 of his last 8 games,100%,False,27.0
+Brook Lopez,PHI,Under 20.5 PTS+AST+REB,-125,Hit in 8 of his last 8 games,100%,True,19.0
+Brook Lopez,PHI,Over 4.5 Rebounds,-110,Hit in 4 of his last 4 games vs PHI,100%,True,8.0
+Brook Lopez,PHI,Over 1.5 Assists,-105,Hit in 4 of his last 4 games vs PHI,100%,False,0.0
+Scottie Barnes,HOU,Under 12.5 REB+AST,102,Hit in 4 of his last 4 games,100%,False,16.0
+Immanuel Quickley,HOU,Over 1.5 Turnovers,-160,Hit in 4 of his last 4 away games,100%,True,4.0
+Taurean Prince,PHI,Over 11.5 PTS+REB,-130,Hit in 5 of his last 5 games vs PHI,100%,True,18.0
+Damian Lillard,PHI,Under 3.5 Turnovers,-175,Hit in 5 of his last 5 games,100%,False,4.0
+Brook Lopez,PHI,Over 1.5 Blocks,-136,Hit in 4 of his last 4 games vs PHI,100%,True,2.0
+Brook Lopez,PHI,Over 1.5 Blocks,-136,Hit in 5 of his last 5 home games,100%,True,2.0
+Dillon Brooks,TOR,Over 4.5 REB+AST,-140,Hit in 4 of his last 4 games vs TOR,100%,True,9.0
+Amen Thompson,TOR,Over 2.5 STL+BLK,-165,Hit in 4 of his last 4 games,100%,True,4.0
+Gradey Dick,HOU,Under 1.5 Assists,-145,Hit in 6 of his last 6 games,100%,True,0.0
+Gradey Dick,HOU,Over 0.5 STL+BLK,-235,Hit in 5 of his last 5 games,100%,True,1.0
+Ochai Agbaji,HOU,Under 0.5 Turnovers,125,Hit in 4 of his last 4 games,100%,False,1.0
+Ochai Agbaji,HOU,Over 0.5 Steals,-175,Hit in 6 of his last 6 games,100%,False,0.0
+Ochai Agbaji,HOU,Over 1.5 STL+BLK,-150,Hit in 6 of his last 6 games,100%,False,0.0
+Jonathan Mogbo,HOU,Under 8.5 REB+AST,-117,Hit in 11 of his last 11 games,100%,False,9.0
+Jonathan Mogbo,HOU,Under 0.5 Turnovers,145,Hit in 6 of his last 6 games,100%,False,2.0
+Jamal Shead,HOU,Over 12.5 PTS+AST,-117,Hit in 4 of his last 4 games,100%,True,20.0
+Jamal Shead,HOU,Over 9.5 PTS+REB,-130,Hit in 4 of his last 4 games,100%,True,18.0
+Jamal Shead,HOU,Over 14.5 PTS+AST+REB,-121,Hit in 4 of his last 4 games,100%,True,20.0
+Immanuel Quickley,HOU,Over 15.5 Points,104,Hit in 4 of his last 4 games vs HOU,100%,True,26.0
+Brook Lopez,PHI,Over 5.5 REB+AST,-155,Hit in 4 of his last 4 games vs PHI,100%,True,8.0
+Tyrese Maxey,MIL,Under 0.5 Blocks,-300,Hit in 5 of his last 5 games,100%,False,1.0
+Cam Whitmore,TOR,Under 1.5 Assists,-200,Hit in 5 of his last 5 games,100%,True,1.0
+Cam Whitmore,TOR,Under 1.5 Turnovers,-220,Hit in 4 of his last 4 games,100%,True,1.0
+Tyrese Maxey,MIL,Over 35.5 PTS+AST,-118,Hit in 10 of his last 11 games,91%,True,54.0
+Brook Lopez,PHI,Under 1.5 Turnovers,-175,Hit in 8 of his last 9 games,89%,True,0.0
+Isaiah Stewart,CHA,Over 6.5 REB+AST,-135,Hit in 7 of his last 8 games vs CHA,88%,False,4.0
+Isaiah Stewart,CHA,Over 6.5 PTS+AST,-115,Hit in 7 of his last 8 games vs CHA,88%,False,3.0
+Malik Beasley,CHA,Under 1.5 Turnovers,-225,Hit in 7 of his last 8 games,88%,True,0.0
+Jonathan Mogbo,HOU,Under 5.5 Rebounds,122,Hit in 7 of his last 8 games,88%,False,6.0
+Tyrese Maxey,MIL,Over 29.5 Points,-104,Hit in 7 of his last 8 games,88%,True,49.0
+Scottie Barnes,HOU,Under 3.5 Turnovers,-185,Hit in 14 of his last 16 games,88%,True,0.0
+Immanuel Quickley,HOU,Under 9.5 REB+AST,-142,Hit in 7 of his last 8 games,88%,False,11.0
+Bobby Portis,PHI,Under 30.5 PTS+REB,-113,Hit in 14 of his last 16 games,88%,False,35.0
+Bobby Portis,PHI,Under 33.5 PTS+AST+REB,-113,Hit in 14 of his last 16 games,88%,True,27.0
+Tyrese Maxey,MIL,Over 33.5 PTS+REB,-104,Hit in 7 of his last 8 games,88%,True,53.0
+Dillon Brooks,TOR,Under 1.5 STL+BLK,-250,Hit in 7 of his last 8 games,88%,True,0.0
+Jonathan Mogbo,HOU,Under 0.5 Blocks,100,Hit in 7 of his last 8 games,88%,False,4.0
+Jonathan Mogbo,HOU,Under 0.5 Steals,110,Hit in 7 of his last 8 games,88%,True,0.0
+Jonathan Mogbo,HOU,Under 1.5 STL+BLK,-120,Hit in 7 of his last 8 games,88%,False,4.0
+Gradey Dick,HOU,Under 0.5 Blocks,-400,Hit in 13 of his last 15 games,87%,True,0.0
+Jalen Duren,CHA,Over 25.5 PTS+AST+REB,-154,Hit in 6 of his last 7 home games,86%,False,22.0
+Jalen Duren,CHA,Over 23.5 PTS+REB,-111,Hit in 6 of his last 7 games,86%,True,28.0
+Jalen Duren,CHA,Over 23.5 PTS+REB,-111,Hit in 6 of his last 7 home games,86%,True,28.0
+Jalen Duren,CHA,Over 12.5 Points,-105,Hit in 6 of his last 7 home games,86%,True,16.0
+Jalen Duren,CHA,Over 14.5 PTS+AST,-137,Hit in 6 of his last 7 home games,86%,True,22.0
+Cade Cunningham,CHA,Under 0.5 Blocks,-120,Hit in 6 of his last 7 games,86%,False,1.0
+Amen Thompson,TOR,Under 32.5 PTS+AST+REB,-120,Hit in 6 of his last 7 games,86%,True,15.0
+Damian Lillard,PHI,Over 4.5 Rebounds,136,Hit in 6 of his last 7 games vs PHI,86%,True,7.0
+Bobby Portis,PHI,Under 3.5 Assists,-165,Hit in 12 of his last 14 games,86%,False,5.0
+Brook Lopez,PHI,Under 0.5 Steals,-115,Hit in 6 of his last 7 games vs PHI,86%,True,0.0
+Damian Lillard,PHI,Under 1.5 Steals,-265,Hit in 6 of his last 7 games,86%,False,2.0
+Dillon Brooks,TOR,Under 0.5 Steals,132,Hit in 6 of his last 7 games,86%,True,0.0
+Amen Thompson,TOR,Under 0.5 3PTM,-275,Hit in 6 of his last 7 games,86%,False,1.0
+Ochai Agbaji,HOU,Under 5.5 REB+AST,105,Hit in 12 of his last 14 games,86%,False,7.0
+Jamal Shead,HOU,Under 1.5 3PTM,-235,Hit in 6 of his last 7 games,86%,False,2.0
+Tyrese Maxey,MIL,Under 0.5 Blocks,-300,Hit in 6 of his last 7 games vs MIL,86%,False,1.0
+Dillon Brooks,TOR,Under 0.5 Blocks,-350,Hit in 17 of his last 20 games,85%,True,0.0
+Bobby Portis,PHI,Under 11.5 Rebounds,-120,Hit in 11 of his last 13 games,85%,False,13.0
+Bobby Portis,PHI,Under 14.5 REB+AST,-113,Hit in 11 of his last 13 games,85%,False,18.0
+Jalen Duren,CHA,Over 12.5 Points,-105,Hit in 5 of his last 6 games,83%,True,16.0
+Jalen Duren,CHA,Over 14.5 PTS+AST,-137,Hit in 5 of his last 6 games,83%,True,22.0
+Jalen Duren,CHA,Under 1.5 Blocks,-238,Hit in 5 of his last 6 games,83%,True,0.0
+Cade Cunningham,CHA,Over 0.5 Steals,-270,Hit in 15 of his last 18 games,83%,True,1.0
+Dillon Brooks,TOR,Over 16.5 PTS+REB,-106,Hit in 5 of his last 6 games,83%,True,30.0
+Dillon Brooks,TOR,Over 17.5 PTS+AST+REB,-117,Hit in 5 of his last 6 games,83%,True,25.0
+Scottie Barnes,HOU,Under 5.5 Assists,-122,Hit in 5 of his last 6 games,83%,False,7.0
+Ochai Agbaji,HOU,Under 1.5 Assists,-110,Hit in 10 of his last 12 games,83%,False,2.0
+Tyrese Maxey,MIL,Over 3.5 Rebounds,-138,Hit in 5 of his last 6 games vs MIL,83%,True,4.0
+Joel Embiid,MIL,Under 1.5 3PTM,-150,Hit in 5 of his last 6 games,83%,False,4.0
+Bobby Portis,PHI,Over 0.5 Blocks,-130,Hit in 5 of his last 6 games vs PHI,83%,False,0.0
+Brook Lopez,PHI,Over 1.5 Assists,-105,Hit in 5 of his last 6 home games,83%,False,0.0
+Damian Lillard,PHI,Under 1.5 Steals,-265,Hit in 5 of his last 6 games vs PHI,83%,False,2.0
+Damian Lillard,PHI,Under 1.5 STL+BLK,-185,Hit in 5 of his last 6 games,83%,False,2.0
+Joel Embiid,MIL,Over 27.5 Points,-118,Hit in 5 of his last 6 games,83%,True,35.0
+Cam Whitmore,TOR,Under 5.5 REB+AST,-120,Hit in 5 of his last 6 games,83%,False,7.0
+Gradey Dick,HOU,Under 18.5 PTS+REB,-118,Hit in 14 of his last 17 games,82%,True,1.0
+Gradey Dick,HOU,Under 20.5 PTS+AST+REB,-121,Hit in 14 of his last 17 games,82%,True,0.0
+Immanuel Quickley,HOU,Over 1.5 3PTM,-156,Hit in 14 of his last 17 away games,82%,True,3.0
+Bobby Portis,PHI,Under 19.5 Points,-124,Hit in 14 of his last 17 games,82%,False,22.0
+Cade Cunningham,CHA,Over 0.5 Steals,-270,Hit in 9 of his last 11 home games,82%,True,1.0
+Jonathan Mogbo,HOU,Under 13.5 PTS+REB,100,Hit in 9 of his last 11 games,82%,False,16.0
+Brook Lopez,PHI,Under 14.5 Points,-118,Hit in 9 of his last 11 games,82%,False,19.0
+Jonathan Mogbo,HOU,Under 16.5 PTS+AST+REB,-160,Hit in 9 of his last 11 games,82%,True,13.0
+Brook Lopez,PHI,Under 15.5 PTS+AST,-117,Hit in 9 of his last 11 games,82%,False,19.0
+Dillon Brooks,TOR,Under 1.5 Assists,-175,Hit in 9 of his last 11 games,82%,False,2.0
+Paul George,MIL,Under 0.5 Blocks,-285,Hit in 9 of his last 11 games,82%,False,1.0
+Bobby Portis,PHI,Under 22.5 PTS+AST,-129,Hit in 13 of his last 16 games,81%,False,27.0
+Jalen Duren,CHA,Under 10.5 Rebounds,102,Hit in 4 of his last 5 games vs CHA,80%,False,12.0
+Jalen Duren,CHA,Under 13.5 REB+AST,-142,Hit in 4 of his last 5 games vs CHA,80%,False,18.0
+Cade Cunningham,CHA,Over 34.5 PTS+REB,-102,Hit in 4 of his last 5 games,80%,False,31.0
+Cade Cunningham,CHA,Over 15.5 REB+AST,102,Hit in 4 of his last 5 home games,80%,True,22.0
+Cade Cunningham,CHA,Over 5.5 Rebounds,-128,Hit in 8 of his last 10 home games,80%,True,10.0
+Cade Cunningham,CHA,Over 27.5 Points,-124,Hit in 4 of his last 5 games,80%,False,21.0
+Cade Cunningham,CHA,Under 0.5 Blocks,-120,Hit in 4 of his last 5 games vs CHA,80%,False,1.0
+Malik Beasley,CHA,Over 14.5 Points,-128,Hit in 8 of his last 10 games,80%,True,27.0
+Moussa Diabaté,DET,Under 10.5 Rebounds,-164,Hit in 16 of his last 20 games,80%,True,1.0
+Jalen Duren,CHA,Under 1.5 Blocks,-238,Hit in 4 of his last 5 games vs CHA,80%,True,0.0
+Cade Cunningham,CHA,Over 37.5 PTS+AST,-118,Hit in 4 of his last 5 games,80%,False,33.0
+Cade Cunningham,CHA,Over 43.5 PTS+AST+REB,-113,Hit in 4 of his last 5 games,80%,False,33.0
+Cade Cunningham,CHA,Over 0.5 Steals,-270,Hit in 4 of his last 5 games vs CHA,80%,True,1.0
+Malik Beasley,CHA,Over 17.5 PTS+AST,-105,Hit in 8 of his last 10 games,80%,True,27.0
+Amen Thompson,TOR,Over 14.5 REB+AST,102,Hit in 4 of his last 5 home games,80%,True,15.0
+Amen Thompson,TOR,Under 5.5 Assists,-134,Hit in 16 of his last 20 games,80%,True,5.0
+Scottie Barnes,HOU,Under 27.5 PTS+REB,-120,Hit in 4 of his last 5 games vs HOU,80%,True,24.0
+Scottie Barnes,HOU,Under 25.5 PTS+AST,-120,Hit in 4 of his last 5 games,80%,True,22.0
+Scottie Barnes,HOU,Under 25.5 PTS+AST,-120,Hit in 4 of his last 5 games vs HOU,80%,True,22.0
+Scottie Barnes,HOU,Under 5.5 Assists,-122,Hit in 4 of his last 5 games vs HOU,80%,False,7.0
+Scottie Barnes,HOU,Under 1.5 3PTM,-180,Hit in 12 of his last 15 games,80%,True,0.0
+Scottie Barnes,HOU,Under 1.5 3PTM,-180,Hit in 4 of his last 5 games vs HOU,80%,True,0.0
+Taurean Prince,PHI,Over 1.5 3PTM,-111,Hit in 4 of his last 5 games,80%,True,2.0
+Taurean Prince,PHI,Over 8.5 Points,-106,Hit in 4 of his last 5 games,80%,True,14.0
+Damian Lillard,PHI,Over 3.5 3PTM,-106,Hit in 4 of his last 5 games vs PHI,80%,True,8.0
+Damian Lillard,PHI,Under 27.5 Points,-106,Hit in 4 of his last 5 games,80%,False,59.0
+Bobby Portis,PHI,Under 1.5 3PTM,-104,Hit in 4 of his last 5 games vs PHI,80%,False,2.0
+Brook Lopez,PHI,Under 14.5 Points,-118,Hit in 4 of his last 5 games vs PHI,80%,False,19.0
+Kyle Kuzma,PHI,Over 1.5 3PTM,-122,Hit in 4 of his last 5 games vs PHI,80%,False,1.0
+Joel Embiid,MIL,Over 42.5 PTS+AST+REB,-115,Hit in 4 of his last 5 games,80%,False,41.0
+Paul George,MIL,Under 20.5 PTS+AST,-113,Hit in 4 of his last 5 games,80%,False,22.0
+Paul George,MIL,Under 16.5 Points,-110,Hit in 4 of his last 5 games,80%,True,16.0
+Scottie Barnes,HOU,Under 32.5 PTS+AST+REB,-106,Hit in 4 of his last 5 games vs HOU,80%,True,22.0
+Taurean Prince,PHI,Under 5.5 REB+AST,-117,Hit in 4 of his last 5 games vs PHI,80%,False,6.0
+Taurean Prince,PHI,Under 2.5 Assists,-165,Hit in 4 of his last 5 games vs PHI,80%,True,2.0
+Damian Lillard,PHI,Under 36.5 PTS+AST,-111,Hit in 4 of his last 5 games,80%,False,67.0
+Brook Lopez,PHI,Over 1.5 Assists,-105,Hit in 4 of his last 5 games,80%,False,0.0
+Paul George,MIL,Under 21.5 PTS+REB,-102,Hit in 4 of his last 5 games,80%,True,21.0
+Paul George,MIL,Under 1.5 Steals,-154,Hit in 4 of his last 5 games,80%,False,3.0
+Joel Embiid,MIL,Over 37.5 PTS+REB,-120,Hit in 4 of his last 5 games,80%,True,47.0
+Joel Embiid,MIL,Under 0.5 Steals,132,Hit in 4 of his last 5 games vs MIL,80%,False,1.0
+Gradey Dick,HOU,Over 0.5 Steals,-150,Hit in 4 of his last 5 games,80%,True,1.0
+Jonathan Mogbo,HOU,Under 0.5 3PTM,-250,Hit in 12 of his last 15 games,80%,True,0.0
+Jamal Shead,HOU,Over 1.5 Rebounds,-155,Hit in 4 of his last 5 games,80%,False,0.0
+Tyrese Maxey,MIL,Over 1.5 STL+BLK,-155,Hit in 8 of his last 10 games,80%,True,2.0
+Joel Embiid,MIL,Under 1.5 STL+BLK,100,Hit in 4 of his last 5 games vs MIL,80%,False,2.0
+Joel Embiid,MIL,Over 27.5 Points,-118,Hit in 4 of his last 5 away games,80%,True,35.0
+Cam Whitmore,TOR,Over 1.5 3PTM,112,Hit in 4 of his last 5 home games,80%,True,3.0
+Paul George,MIL,Under 25.5 PTS+AST+REB,-102,Hit in 4 of his last 5 games,80%,True,22.0
+Gradey Dick,HOU,Under 3.5 Rebounds,116,Hit in 11 of his last 14 games,79%,True,1.0
+Gradey Dick,HOU,Under 1.5 Turnovers,-125,Hit in 11 of his last 14 games,79%,True,0.0
+Jamal Shead,HOU,Under 6.5 REB+AST,-135,Hit in 11 of his last 14 games,79%,True,2.0
+Malik Beasley,CHA,Over 3.5 3PTM,-106,Hit in 7 of his last 9 games,78%,True,5.0
+Malik Beasley,CHA,Over 19.5 PTS+AST+REB,-121,Hit in 7 of his last 9 games,78%,True,27.0
+Malik Beasley,CHA,Over 18.5 PTS+REB,-118,Hit in 7 of his last 9 games,78%,True,29.0
+Scottie Barnes,HOU,Over 19.5 Points,-114,Hit in 7 of his last 9 games,78%,False,15.0
+Scottie Barnes,HOU,Over 2.5 STL+BLK,-120,Hit in 7 of his last 9 away games,78%,True,3.0
+Jonathan Mogbo,HOU,Under 7.5 Points,-105,Hit in 7 of his last 9 games,78%,False,10.0
+Bobby Portis,PHI,Under 1.5 STL+BLK,-110,Hit in 7 of his last 9 games,78%,True,0.0
+Tyrese Maxey,MIL,Under 10.5 REB+AST,-128,Hit in 7 of his last 9 games vs MIL,78%,True,9.0
+Tyrese Maxey,MIL,Under 1.5 Steals,-130,Hit in 7 of his last 9 games vs MIL,78%,True,1.0
+Jonathan Mogbo,HOU,Under 9.5 PTS+AST,100,Hit in 7 of his last 9 games,78%,False,13.0
+Jonathan Mogbo,HOU,Under 1.5 Assists,140,Hit in 7 of his last 9 games,78%,False,3.0
+Taurean Prince,PHI,Over 0.5 STL+BLK,-200,Hit in 7 of his last 9 games,78%,False,0.0
+Dillon Brooks,TOR,Over 3.5 Rebounds,-110,Hit in 10 of his last 13 home games,77%,True,7.0
+Gradey Dick,HOU,Under 14.5 Points,-115,Hit in 13 of his last 17 games,76%,True,0.0
+Gradey Dick,HOU,Under 16.5 PTS+AST,-133,Hit in 13 of his last 17 games,76%,True,0.0
+Immanuel Quickley,HOU,Over 18.5 PTS+REB,-113,Hit in 13 of his last 17 away games,76%,True,34.0
+Jalen Duren,CHA,Over 0.5 Double Double,-115,Hit in 9 of his last 12 games,75%,True,1.0
+Amen Thompson,CHA,Over 5.5 Rebounds,110,Hit in 3 of his last 4 games,75%,True,10.0
+Amen Thompson,CHA,Over 5.5 Rebounds,110,Hit in 3 of his last 4 home games,75%,True,10.0
+Cade Cunningham,CHA,Over 34.5 PTS+REB,-102,Hit in 3 of his last 4 home games,75%,False,31.0
+Cade Cunningham,CHA,Over 5.5 Rebounds,-128,Hit in 3 of his last 4 games,75%,True,10.0
+Cade Cunningham,CHA,Over 5.5 Rebounds,-128,Hit in 3 of his last 4 games vs CHA,75%,True,10.0
+Cade Cunningham,CHA,Under 2.5 3PTM,-158,Hit in 6 of his last 8 games,75%,True,1.0
+Cade Cunningham,CHA,Over 27.5 Points,-124,Hit in 3 of his last 4 home games,75%,False,21.0
+Malik Beasley,CHA,Over 3.5 3PTM,-106,Hit in 3 of his last 4 home games,75%,True,5.0
+Malik Beasley,CHA,Over 14.5 Points,-128,Hit in 3 of his last 4 home games,75%,True,27.0
+Malik Beasley,CHA,Over 19.5 PTS+AST+REB,-121,Hit in 3 of his last 4 home games,75%,True,27.0
+Malik Beasley,CHA,Under 2.5 Rebounds,-119,Hit in 6 of his last 8 games vs CHA,75%,True,2.0
+Cade Cunningham,CHA,Under 3.5 Turnovers,-127,Hit in 3 of his last 4 games vs CHA,75%,False,5.0
+Cade Cunningham,CHA,Over 37.5 PTS+AST,-118,Hit in 3 of his last 4 home games,75%,False,33.0
+Cade Cunningham,CHA,Over 43.5 PTS+AST+REB,-113,Hit in 3 of his last 4 home games,75%,False,33.0
+Malik Beasley,CHA,Over 0.5 Steals,-270,Hit in 6 of his last 8 games,75%,True,2.0
+Malik Beasley,CHA,Over 0.5 Steals,-270,Hit in 3 of his last 4 home games,75%,True,2.0
+Malik Beasley,CHA,Over 1.5 Assists,-120,Hit in 6 of his last 8 games vs CHA,75%,False,0.0
+Malik Beasley,CHA,Over 17.5 PTS+AST,-105,Hit in 3 of his last 4 home games,75%,True,27.0
+Malik Beasley,CHA,Over 18.5 PTS+REB,-118,Hit in 3 of his last 4 home games,75%,True,29.0
+Dillon Brooks,TOR,Over 16.5 PTS+REB,-106,Hit in 3 of his last 4 games vs TOR,75%,True,30.0
+Dillon Brooks,TOR,Over 12.5 Points,-110,Hit in 3 of his last 4 games vs TOR,75%,True,23.0
+Dillon Brooks,TOR,Over 17.5 PTS+AST+REB,-117,Hit in 3 of his last 4 games vs TOR,75%,True,25.0
+Ochai Agbaji,HOU,Over 13.5 PTS+REB,-113,Hit in 3 of his last 4 games,75%,True,16.0
+Ochai Agbaji,HOU,Over 16.5 PTS+AST+REB,-117,Hit in 3 of his last 4 games,75%,False,13.0
+Immanuel Quickley,HOU,Over 5.5 Assists,-115,Hit in 3 of his last 4 games vs HOU,75%,False,3.0
+Immanuel Quickley,HOU,Under 3.5 Rebounds,-150,Hit in 6 of his last 8 games,75%,False,8.0
+Immanuel Quickley,HOU,Under 0.5 Steals,-125,Hit in 3 of his last 4 games,75%,False,1.0
+Taurean Prince,PHI,Over 8.5 Points,-106,Hit in 3 of his last 4 home games,75%,True,14.0
+Damian Lillard,PHI,Over 3.5 3PTM,-106,Hit in 3 of his last 4 home games,75%,True,8.0
+Damian Lillard,PHI,Under 27.5 Points,-106,Hit in 3 of his last 4 games vs PHI,75%,False,59.0
+Kyle Kuzma,PHI,Over 21.5 PTS+REB,-111,Hit in 6 of his last 8 games vs PHI,75%,True,23.0
+Tyrese Maxey,MIL,Over 39.5 PTS+AST+REB,-115,Hit in 6 of his last 8 games,75%,True,54.0
+Tyrese Maxey,MIL,Over 39.5 PTS+AST+REB,-115,Hit in 3 of his last 4 away games,75%,True,54.0
+Tyrese Maxey,MIL,Over 35.5 PTS+AST,-118,Hit in 3 of his last 4 away games,75%,True,54.0
+Tyrese Maxey,MIL,Over 3.5 3PTM,112,Hit in 3 of his last 4 away games,75%,True,5.0
+Joel Embiid,MIL,Over 14.5 REB+AST,-113,Hit in 3 of his last 4 games,75%,True,18.0
+Joel Embiid,MIL,Over 32.5 PTS+AST,-118,Hit in 3 of his last 4 games vs MIL,75%,True,41.0
+Joel Embiid,MIL,Over 42.5 PTS+AST+REB,-115,Hit in 3 of his last 4 away games,75%,False,41.0
+Joel Embiid,MIL,Over 10.5 Rebounds,118,Hit in 3 of his last 4 games,75%,True,12.0
+Joel Embiid,MIL,Over 0.5 Double Double,-140,Hit in 3 of his last 4 games,75%,True,1.0
+Paul George,MIL,Over 2.5 3PTM,118,Hit in 9 of his last 12 games,75%,False,2.0
+Taurean Prince,PHI,Over 9.5 PTS+AST,-129,Hit in 3 of his last 4 home games,75%,True,16.0
+Damian Lillard,PHI,Under 31.5 PTS+REB,-104,Hit in 3 of his last 4 games vs PHI,75%,False,66.0
+Damian Lillard,PHI,Under 40.5 PTS+AST+REB,-108,Hit in 3 of his last 4 games vs PHI,75%,False,67.0
+Bobby Portis,PHI,Over 0.5 Blocks,-130,Hit in 3 of his last 4 games,75%,False,0.0
+Brook Lopez,PHI,Over 4.5 Rebounds,-110,Hit in 6 of his last 8 home games,75%,True,8.0
+Brook Lopez,PHI,Over 2.5 STL+BLK,-110,Hit in 3 of his last 4 games vs PHI,75%,False,2.0
+Tyrese Maxey,MIL,Under 10.5 REB+AST,-128,Hit in 3 of his last 4 games,75%,True,9.0
+Joel Embiid,MIL,Over 0.5 Blocks,-215,Hit in 9 of his last 12 away games,75%,True,1.0
+Bobby Portis,PHI,Under 0.5 Steals,142,Hit in 6 of his last 8 games,75%,True,0.0
+Joel Embiid,MIL,Over 37.5 PTS+REB,-120,Hit in 3 of his last 4 away games,75%,True,47.0
+Dillon Brooks,TOR,Over 13.5 PTS+AST,-129,Hit in 3 of his last 4 games vs TOR,75%,True,25.0
+Amen Thompson,TOR,Over 1.5 Steals,120,Hit in 3 of his last 4 home games,75%,True,3.0
+Amen Thompson,TOR,Over 2.5 Turnovers,110,Hit in 3 of his last 4 games,75%,True,4.0
+Amen Thompson,TOR,Over 2.5 STL+BLK,-165,Hit in 3 of his last 4 home games,75%,True,4.0
+Scottie Barnes,HOU,Under 1.5 Blocks,-165,Hit in 3 of his last 4 games vs HOU,75%,True,1.0
+Gradey Dick,HOU,Over 0.5 STL+BLK,-235,Hit in 3 of his last 4 away games,75%,True,1.0
+Jamal Shead,HOU,Over 1.5 Rebounds,-155,Hit in 3 of his last 4 away games,75%,False,0.0
+Jamal Shead,HOU,Over 7.5 Points,-135,Hit in 3 of his last 4 games,75%,True,18.0
+Immanuel Quickley,HOU,Over 0.5 STL+BLK,-155,Hit in 3 of his last 4 games vs HOU,75%,True,1.0
+Taurean Prince,PHI,Over 0.5 Turnovers,-145,Hit in 3 of his last 4 games,75%,True,2.0
+Bobby Portis,PHI,Under 1.5 Turnovers,125,Hit in 9 of his last 12 games,75%,True,0.0
+Brook Lopez,PHI,Over 5.5 REB+AST,-155,Hit in 6 of his last 8 home games,75%,True,8.0
+Joel Embiid,MIL,Under 3.5 Turnovers,-165,Hit in 3 of his last 4 games,75%,False,5.0
+Paul George,MIL,Under 1.5 STL+BLK,-130,Hit in 3 of his last 4 games,75%,False,4.0
+Joel Embiid,MIL,Over 27.5 Points,-118,Hit in 3 of his last 4 games vs MIL,75%,True,35.0
+Cam Whitmore,TOR,Under 17.5 PTS+AST+REB,-121,Hit in 6 of his last 8 games,75%,False,18.0
+Cam Whitmore,TOR,Under 15.5 PTS+REB,-108,Hit in 6 of his last 8 games,75%,False,23.0
+Cam Whitmore,TOR,Over 1.5 3PTM,112,Hit in 3 of his last 4 games,75%,True,3.0
+Cam Whitmore,TOR,Under 12.5 Points,-128,Hit in 9 of his last 12 games,75%,False,17.0
+Cam Whitmore,TOR,Over 12.5 PTS+AST,-125,Hit in 3 of his last 4 games,75%,True,18.0
+Cam Whitmore,TOR,Under 0.5 Blocks,-285,Hit in 6 of his last 8 games,75%,True,0.0
+Cam Whitmore,TOR,Over 0.5 Steals,-145,Hit in 3 of his last 4 home games,75%,True,3.0
+Cam Whitmore,TOR,Under 1.5 STL+BLK,-250,Hit in 15 of his last 20 games,75%,False,3.0
+Damian Lillard,PHI,Under 8.5 Assists,-115,Hit in 14 of his last 19 games,74%,True,8.0
+Damian Lillard,PHI,Under 40.5 PTS+AST+REB,-108,Hit in 14 of his last 19 games,74%,False,67.0
+Ochai Agbaji,HOU,Under 12.5 PTS+AST,-129,Hit in 8 of his last 11 games,73%,False,13.0
+Tyrese Maxey,MIL,Over 6.5 Assists,104,Hit in 8 of his last 11 games,73%,False,5.0
+Brook Lopez,PHI,Over 1.5 Blocks,-136,Hit in 8 of his last 11 games,73%,True,2.0
+Jamal Shead,HOU,Under 0.5 Steals,-118,Hit in 8 of his last 11 games,73%,True,0.0
+Jalen Duren,CHA,Over 0.5 Double Double,-115,Hit in 5 of his last 7 home games,71%,True,1.0
+Amen Thompson,CHA,Under 1.5 Steals,-175,Hit in 5 of his last 7 games,71%,False,3.0
+Isaiah Stewart,CHA,Over 11.5 PTS+AST+REB,-145,Hit in 5 of his last 7 home games,71%,False,3.0
+Ochai Agbaji,HOU,Under 3.5 Rebounds,106,Hit in 10 of his last 14 games,71%,False,5.0
+Damian Lillard,PHI,Over 4.5 Rebounds,136,Hit in 5 of his last 7 home games,71%,True,7.0
+Scottie Barnes,HOU,Over 1.5 Steals,140,Hit in 5 of his last 7 away games,71%,True,2.0
+Amen Thompson,TOR,Under 8.5 Rebounds,-105,Hit in 5 of his last 7 games,71%,False,10.0
+Scottie Barnes,HOU,Under 1.5 Blocks,-165,Hit in 5 of his last 7 games,71%,True,1.0
+Scottie Barnes,HOU,Over 2.5 STL+BLK,-120,Hit in 12 of his last 17 games,71%,True,3.0
+Ochai Agbaji,HOU,Over 13.5 PTS+REB,-113,Hit in 12 of his last 17 away games,71%,True,16.0
+Immanuel Quickley,HOU,Over 15.5 Points,104,Hit in 12 of his last 17 away games,71%,True,26.0
+Jalen Duren,CHA,Over 1.5 Turnovers,-135,Hit in 7 of his last 10 games,70%,False,1.0
+Cade Cunningham,CHA,Over 15.5 REB+AST,102,Hit in 7 of his last 10 games,70%,True,22.0
+Cade Cunningham,CHA,Under 9.5 Assists,-122,Hit in 14 of his last 20 games,70%,False,12.0
+Bobby Portis,PHI,Under 1.5 3PTM,-104,Hit in 7 of his last 10 games,70%,False,2.0
+Kyle Kuzma,PHI,Over 6.5 Rebounds,112,Hit in 7 of his last 10 games,70%,True,8.0
+Tyrese Maxey,MIL,Over 2.5 Turnovers,100,Hit in 7 of his last 10 away games,70%,True,4.0
+Joel Embiid,MIL,Over 0.5 Blocks,-215,Hit in 14 of his last 20 games,70%,True,1.0
+Cade Cunningham,CHA,Under 2.5 3PTM,-158,CHA rank 5th in 3PTM versus PG,5th,True,1.0
+Moussa Diabaté,DET,Under 10.5 Rebounds,-164,DET rank 4th in REB against,4th,True,1.0
+Isaiah Stewart,CHA,Over 0.5 3PTM,223,CHA rank 26th in 3PTM versus C,26th,False,0.0
+Scottie Barnes,HOU,Under 5.5 Assists,-122,HOU rank 3rd in AST versus SF,3rd,False,7.0
+Scottie Barnes,HOU,Under 1.5 3PTM,-180,HOU rank 2nd in 3PTM against,2nd,True,0.0
+Gradey Dick,HOU,Under 2.5 3PTM,-196,HOU rank 2nd in 3PTM against,2nd,True,0.0
+Ochai Agbaji,HOU,Under 1.5 Assists,-110,HOU rank 1st in AST against,1st,False,2.0
+Ochai Agbaji,HOU,Under 1.5 3PTM,-130,HOU rank 2nd in 3PTM against,2nd,True,0.0
+Taurean Prince,PHI,Over 3.5 Rebounds,114,PHI rank 28th in REB versus PF,28th,True,4.0
+Taurean Prince,PHI,Over 8.5 Points,-106,PHI rank 29th in PTS versus PF,29th,True,14.0
+Brook Lopez,PHI,Under 14.5 Points,-118,PHI rank 5th in PTS versus C,5th,False,19.0
+Kyle Kuzma,PHI,Over 6.5 Rebounds,112,PHI rank 28th in REB versus PF,28th,True,8.0
+Kyle Kuzma,PHI,Over 15.5 Points,104,PHI rank 29th in PTS versus PF,29th,False,15.0
+Tyrese Maxey,MIL,Over 3.5 Rebounds,-138,MIL rank 30th in REB versus PG,30th,True,4.0
+Joel Embiid,MIL,Over 10.5 Rebounds,118,MIL rank 26th in REB against,26th,True,12.0
+Brook Lopez,PHI,Under 0.5 Steals,-115,PHI rank 5th in STL versus C,5th,True,0.0
+Tyrese Maxey,MIL,Over 29.5 Points,-104,MIL rank 30th in PTS versus PG,30th,True,49.0
+Tyrese Maxey,MIL,Over 2.5 Turnovers,100,MIL rank 1st in TO versus PG,1st,True,4.0
+Amen Thompson,TOR,Under 8.5 Rebounds,-105,TOR rank 5th in REB versus SF,5th,False,10.0
+Amen Thompson,TOR,Over 1.5 Blocks,-110,TOR rank 27th in BLK versus SF,27th,False,1.0
+Damian Lillard,PHI,Under 3.5 Turnovers,-175,PHI rank 30th in TO versus PG,30th,False,4.0
+Damian Lillard,PHI,Under 1.5 Steals,-265,PHI rank 4th in STL against,4th,False,2.0
+Tyrese Maxey,MIL,Under 1.5 Steals,-130,MIL rank 2nd in STL versus PG,2nd,True,1.0
+Paul George,MIL,Under 2.5 Turnovers,-185,MIL rank 4th in TO against,4th,True,1.0
+Paul George,MIL,Under 1.5 Steals,-154,MIL rank 5th in STL versus SF,5th,False,3.0
+Bobby Portis,PHI,Under 0.5 Steals,142,PHI rank 4th in STL against,4th,True,0.0
+Joel Embiid,MIL,Under 0.5 Steals,132,MIL rank 5th in STL against,5th,False,1.0
+Dillon Brooks,TOR,Under 1.5 Assists,-175,TOR rank 2nd in AST versus SG,2nd,False,2.0
+Gradey Dick,HOU,Under 1.5 Assists,-145,HOU rank 1st in AST against,1st,True,0.0
+Ochai Agbaji,HOU,Over 0.5 Blocks,-190,HOU rank 29th in BLK against,29th,False,0.0
+Jonathan Mogbo,HOU,Under 1.5 Assists,140,HOU rank 1st in AST against,1st,False,3.0
+Jonathan Mogbo,HOU,Under 0.5 3PTM,-250,HOU rank 2nd in 3PTM versus PF,2nd,True,0.0
+Jonathan Mogbo,HOU,Under 0.5 Turnovers,145,HOU rank 26th in TO versus PF,26th,False,2.0
+Jamal Shead,HOU,Under 4.5 Assists,-130,HOU rank 1st in AST versus PG,1st,True,2.0
+Jamal Shead,HOU,Under 1.5 3PTM,-235,HOU rank 2nd in 3PTM against,2nd,False,2.0
+Jamal Shead,HOU,Over 0.5 Blocks,400,HOU rank 28th in BLK versus PG,28th,False,0.0
+Immanuel Quickley,HOU,Over 0.5 Blocks,400,HOU rank 28th in BLK versus PG,28th,False,0.0
+Taurean Prince,PHI,Under 0.5 Steals,110,PHI rank 4th in STL against,4th,True,0.0
+Bobby Portis,PHI,Under 1.5 Turnovers,125,PHI rank 27th in TO versus PF,27th,True,0.0
+Brook Lopez,PHI,Under 1.5 Turnovers,-175,PHI rank 30th in TO versus C,30th,True,0.0
+Tyrese Maxey,MIL,Under 0.5 Blocks,-300,MIL rank 1st in BLK against,1st,False,1.0
+Paul George,MIL,Under 0.5 Blocks,-285,MIL rank 3rd in BLK versus SF,3rd,False,1.0
+Cam Whitmore,TOR,Under 3.5 Rebounds,-110,TOR rank 5th in REB versus SF,5th,False,6.0
