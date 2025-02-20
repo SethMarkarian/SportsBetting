@@ -1,136 +1,81 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Luka Dončić,CHA,Over 0.5 Double Double,135,Hit in 4 of his last 4 games vs CHA,100%
-Luka Dončić,CHA,Over 6.5 Rebounds,-175,Hit in 4 of his last 4 games vs CHA,100%
-LeBron James,CHA,Over 30.5 PTS+REB,-111,Hit in 5 of his last 5 home games,100%
-LeBron James,CHA,Under 2.5 3PTM,-160,Hit in 4 of his last 4 games vs CHA,100%
-Luka Dončić,CHA,Under 1.5 STL+BLK,-102,Hit in 3 of his last 4 games,75%
-LeBron James,CHA,Over 2.5 Turnovers,-125,Hit in 5 of his last 5 games,100%
-LeBron James,CHA,Under 1.5 Steals,-215,Hit in 5 of his last 5 games vs CHA,100%
-Jarvis Hayes,CHA,Under 5.5 Rebounds,-130,Hit in 4 of his last 4 games vs CHA,100%
-Jarvis Hayes,CHA,Under 6.5 REB+AST,105,Hit in 4 of his last 4 games vs CHA,100%
-Jarvis Hayes,CHA,Under 1.5 Assists,-160,Hit in 4 of his last 4 games vs CHA,100%
-Jarvis Hayes,CHA,Under 0.5 Turnovers,105,Hit in 4 of his last 4 games,100%
-Rui Hachimura,CHA,Over 5.5 REB+AST,-145,Hit in 4 of his last 4 home games,100%
-Rui Hachimura,CHA,Under 0.5 Blocks,-225,Hit in 5 of his last 5 games,100%
-JaMychal Green,LAL,Over 9.5 PTS+REB,-108,Hit in 4 of his last 4 games vs LAL,100%
-JaMychal Green,LAL,Under 1.5 Assists,-185,Hit in 4 of his last 4 games,100%
-JaMychal Green,LAL,Under 1.5 Assists,-185,Hit in 4 of his last 4 games vs LAL,100%
-JaMychal Green,LAL,Over 0.5 Turnovers,-135,Hit in 4 of his last 4 games,100%
-JaMychal Green,LAL,Over 0.5 Steals,-235,Hit in 4 of his last 4 away games,100%
-LaMelo Ball,LAL,Under 0.5 Blocks,-350,Hit in 5 of his last 5 games,100%
-Austin Reaves,CHA,Under 2.5 3PTM,114,Hit in 4 of his last 4 games vs CHA,100%
-Austin Reaves,CHA,Over 20.5 Points,-122,Hit in 4 of his last 4 home games,100%
-Luka Dončić,CHA,Under 14.5 REB+AST,-113,Hit in 4 of his last 4 games,100%
-Luka Dončić,CHA,Under 34.5 PTS+REB,-125,Hit in 4 of his last 4 games,100%
-Luka Dončić,CHA,Under 34.5 PTS+AST,-117,Hit in 4 of his last 4 games,100%
-Luka Dončić,CHA,Under 7.5 Assists,-135,Hit in 4 of his last 4 games,100%
-Luka Dončić,CHA,Under 3.5 3PTM,-182,Hit in 4 of his last 4 games,100%
-Luka Dončić,CHA,Over 3.5 Turnovers,112,Hit in 4 of his last 4 games vs CHA,100%
-Luka Dončić,CHA,Under 1.5 Steals,-222,Hit in 4 of his last 4 games,100%
-LeBron James,CHA,Over 38.5 PTS+AST+REB,-115,Hit in 5 of his last 5 home games,100%
-Jarvis Hayes,CHA,Under 10.5 PTS+AST,-121,Hit in 4 of his last 4 games vs CHA,100%
-Jarvis Hayes,CHA,Under 14.5 PTS+REB,-128,Hit in 4 of his last 4 games vs CHA,100%
-Jarvis Hayes,CHA,Under 16.5 PTS+AST+REB,-125,Hit in 4 of his last 4 games vs CHA,100%
-Austin Reaves,CHA,Over 25.5 PTS+REB,-122,Hit in 4 of his last 4 home games,100%
-Austin Reaves,CHA,Under 32.5 PTS+AST+REB,-113,Hit in 5 of his last 5 games vs CHA,100%
-Mikal Bridges,LAL,Over 6.5 Rebounds,-142,Hit in 4 of his last 4 games,100%
-JaMychal Green,LAL,Over 10.5 PTS+AST+REB,-129,Hit in 4 of his last 4 games vs LAL,100%
-JaMychal Green,LAL,Over 7.5 PTS+AST,-135,Hit in 4 of his last 4 games vs LAL,100%
-Austin Reaves,CHA,Under 27.5 PTS+AST,-113,Hit in 5 of his last 5 games vs CHA,100%
-Malik Williams,LAL,Over 14.5 Points,-128,Hit in 4 of his last 4 away games,100%
-Luka Dončić,CHA,Under 41.5 PTS+AST+REB,-113,Hit in 4 of his last 4 games,100%
-JaMychal Green,LAL,Over 6.5 Points,-115,Hit in 4 of his last 4 games vs LAL,100%
-LeBron James,CHA,Under 0.5 Blocks,-185,Hit in 9 of his last 10 games,90%
-LeBron James,CHA,Under 1.5 Steals,-215,Hit in 9 of his last 10 games,90%
-Austin Reaves,CHA,Over 4.5 Rebounds,-138,Hit in 9 of his last 10 games,90%
-Jarvis Hayes,CHA,Under 16.5 PTS+AST+REB,-125,Hit in 18 of his last 20 games,90%
-LeBron James,CHA,Over 7.5 Assists,-142,Hit in 17 of his last 19 games,89%
-LeBron James,CHA,Over 7.5 Assists,-142,Hit in 8 of his last 9 home games,89%
-Jarvis Hayes,CHA,Over 1.5 STL+BLK,-200,Hit in 8 of his last 9 games,89%
-Rui Hachimura,CHA,Over 0.5 Steals,-160,Hit in 7 of his last 8 home games,88%
-LeBron James,CHA,Over 31.5 PTS+AST,-104,Hit in 6 of his last 7 games,86%
-Rui Hachimura,CHA,Over 17.5 PTS+AST,-109,Hit in 6 of his last 7 games,86%
-Rui Hachimura,CHA,Over 20.5 PTS+REB,-120,Hit in 6 of his last 7 games,86%
-Rui Hachimura,CHA,Over 4.5 Rebounds,-130,Hit in 6 of his last 7 home games,86%
-Rui Hachimura,CHA,Over 1.5 3PTM,-154,Hit in 6 of his last 7 games,86%
-Rui Hachimura,CHA,Over 15.5 Points,-120,Hit in 6 of his last 7 games,86%
-JaMychal Green,LAL,Over 0.5 Turnovers,-135,Hit in 12 of his last 14 away games,86%
-LeBron James,CHA,Over 22.5 Points,-122,Hit in 6 of his last 7 games,86%
-Rui Hachimura,CHA,Over 22.5 PTS+AST+REB,-109,Hit in 6 of his last 7 games,86%
-Jarvis Hayes,CHA,Under 14.5 PTS+REB,-128,Hit in 17 of his last 20 games,85%
-Mikal Bridges,LAL,Under 2.5 3PTM,-210,Hit in 10 of his last 12 games,83%
-Mikal Bridges,LAL,Over 0.5 Steals,-155,Hit in 5 of his last 6 away games,83%
-LaMelo Ball,LAL,Under 24.5 Points,-120,Hit in 5 of his last 6 games,83%
-Austin Reaves,CHA,Over 25.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%
-Nolan Smith,LAL,Over 15.5 PTS+AST,-117,Hit in 5 of his last 6 games,83%
-LaMelo Ball,LAL,Under 1.5 Steals,-250,Hit in 5 of his last 6 games,83%
-Nolan Smith,LAL,Over 18.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games,83%
-Rui Hachimura,CHA,Over 0.5 Turnovers,-200,Hit in 13 of his last 16 home games,81%
-LeBron James,CHA,Over 31.5 PTS+AST,-104,Hit in 4 of his last 5 home games,80%
-LeBron James,CHA,Over 30.5 PTS+REB,-111,Hit in 4 of his last 5 games,80%
-LeBron James,CHA,Under 15.5 REB+AST,-125,Hit in 4 of his last 5 games vs CHA,80%
-LeBron James,CHA,Under 7.5 Rebounds,-154,Hit in 4 of his last 5 games vs CHA,80%
-LeBron James,CHA,Over 2.5 Turnovers,-125,Hit in 4 of his last 5 games vs CHA,80%
-LeBron James,CHA,Over 2.5 Turnovers,-125,Hit in 4 of his last 5 home games,80%
-LeBron James,CHA,Under 0.5 Blocks,-185,Hit in 4 of his last 5 games vs CHA,80%
-LeBron James,CHA,Under 1.5 STL+BLK,-135,Hit in 8 of his last 10 games,80%
-LeBron James,CHA,Under 1.5 STL+BLK,-135,Hit in 4 of his last 5 games vs CHA,80%
-Rui Hachimura,CHA,Over 5.5 REB+AST,-145,Hit in 4 of his last 5 games,80%
-Rui Hachimura,CHA,Under 1.5 STL+BLK,-200,Hit in 4 of his last 5 games,80%
-Austin Reaves,CHA,Under 0.5 Blocks,-235,Hit in 4 of his last 5 games vs CHA,80%
-Austin Reaves,CHA,Under 1.5 Steals,-210,Hit in 4 of his last 5 games vs CHA,80%
-Mikal Bridges,LAL,Over 2.5 Turnovers,140,Hit in 4 of his last 5 away games,80%
-LaMelo Ball,LAL,Over 2.5 Turnovers,-165,Hit in 12 of his last 15 away games,80%
-LaMelo Ball,LAL,Under 1.5 STL+BLK,-155,Hit in 4 of his last 5 games,80%
-LaMelo Ball,LAL,Over 35.5 PTS+AST+REB,-111,Hit in 8 of his last 10 games,80%
-LaMelo Ball,LAL,Over 35.5 PTS+AST+REB,-111,Hit in 4 of his last 5 away games,80%
-LeBron James,CHA,Over 38.5 PTS+AST+REB,-115,Hit in 4 of his last 5 games,80%
-Jarvis Hayes,CHA,Under 10.5 PTS+AST,-121,Hit in 16 of his last 20 games,80%
-Jarvis Hayes,CHA,Over 1.5 STL+BLK,-200,Hit in 4 of his last 5 home games,80%
-Dalton Knecht,CHA,Over 9.5 Points,-120,Hit in 4 of his last 5 games,80%
-Austin Reaves,CHA,Over 11.5 REB+AST,100,Hit in 4 of his last 5 games,80%
-Mikal Bridges,LAL,Over 10.5 REB+AST,-130,Hit in 8 of his last 10 games,80%
-JaMychal Green,LAL,Over 7.5 PTS+AST,-135,Hit in 8 of his last 10 games,80%
-Dalton Knecht,CHA,Over 1.5 3PTM,-154,Hit in 4 of his last 5 games,80%
-LaMelo Ball,LAL,Over 10.5 REB+AST,-128,Hit in 15 of his last 19 games,79%
-JaMychal Green,LAL,Over 10.5 PTS+AST+REB,-129,Hit in 7 of his last 9 games,78%
-Luka Dončić,CHA,Over 25.5 Points,-147,Hit in 14 of his last 18 home games,78%
-Mikal Bridges,LAL,Over 6.5 Rebounds,-142,Hit in 10 of his last 13 away games,77%
-JaMychal Green,LAL,Over 0.5 Steals,-235,Hit in 13 of his last 17 games,76%
-Mikal Bridges,LAL,Over 20.5 Points,-113,Hit in 13 of his last 17 games,76%
-Luka Dončić,CHA,Under 1.5 STL+BLK,-110,Hit in 3 of his last 4 games,75%
-Luka Dončić,CHA,Under 1.5 STL+BLK,-110,Hit in 3 of his last 4 games vs CHA,75%
-LeBron James,CHA,Over 0.5 Double Double,105,Hit in 3 of his last 4 home games,75%
-Jarvis Hayes,CHA,Under 5.5 Rebounds,-130,Hit in 3 of his last 4 games,75%
-Jarvis Hayes,CHA,Over 8.5 Points,-113,Hit in 3 of his last 4 games,75%
-Jarvis Hayes,CHA,Under 6.5 REB+AST,105,Hit in 15 of his last 20 games,75%
-Jarvis Hayes,CHA,Under 0.5 Turnovers,105,Hit in 3 of his last 4 games vs CHA,75%
-Jarvis Hayes,CHA,Under 1.5 Blocks,-164,Hit in 3 of his last 4 games,75%
-Jarvis Hayes,CHA,Under 1.5 Blocks,-164,Hit in 3 of his last 4 games vs CHA,75%
-Rui Hachimura,CHA,Over 1.5 3PTM,-154,Hit in 3 of his last 4 home games,75%
-Rui Hachimura,CHA,Over 0.5 Turnovers,-200,Hit in 15 of his last 20 games,75%
-Austin Reaves,CHA,Over 1.5 Turnovers,-190,Hit in 6 of his last 8 games,75%
-Austin Reaves,CHA,Under 0.5 Blocks,-235,Hit in 15 of his last 20 games,75%
-Austin Reaves,CHA,Over 1.5 STL+BLK,-115,Hit in 3 of his last 4 games,75%
-Mikal Bridges,LAL,Over 0.5 Steals,-155,Hit in 3 of his last 4 games,75%
-Mikal Bridges,LAL,Under 1.5 STL+BLK,-155,Hit in 6 of his last 8 games,75%
-Nolan Smith,LAL,Under 3.5 Assists,-192,Hit in 6 of his last 8 games,75%
-Nolan Smith,LAL,Under 2.5 Rebounds,-130,Hit in 3 of his last 4 games,75%
-Nolan Smith,LAL,Under 2.5 3PTM,-244,Hit in 9 of his last 12 games,75%
-JaMychal Green,LAL,Over 1.5 3PTM,152,Hit in 3 of his last 4 games vs LAL,75%
-JaMychal Green,LAL,Over 1.5 3PTM,152,Hit in 3 of his last 4 away games,75%
-JaMychal Green,LAL,Under 1.5 STL+BLK,-200,Hit in 3 of his last 4 games vs LAL,75%
-Austin Reaves,CHA,Over 20.5 Points,-122,Hit in 3 of his last 4 games,75%
-Luka Dončić,CHA,Under 1.5 Steals,-222,Hit in 3 of his last 4 games vs CHA,75%
-Mikal Bridges,LAL,Over 10.5 REB+AST,-130,Hit in 3 of his last 4 away games,75%
-Mikal Bridges,LAL,Under 3.5 Assists,104,Hit in 3 of his last 4 games,75%
-Nolan Smith,LAL,Over 5.5 REB+AST,-133,Hit in 3 of his last 4 away games,75%
-JaMychal Green,LAL,Over 7.5 PTS+AST,-135,Hit in 3 of his last 4 away games,75%
-Luka Dončić,CHA,Over 25.5 Points,-147,Hit in 3 of his last 4 games vs CHA,75%
-Austin Reaves,CHA,Under 27.5 PTS+AST,-113,Hit in 3 of his last 4 games,75%
-JaMychal Green,LAL,Over 6.5 Points,-115,Hit in 3 of his last 4 away games,75%
-Rui Hachimura,CHA,Over 1.5 3PTM,-154,CHA rank 26th in 3PTM versus PF,26th
-Mikal Bridges,LAL,Over 0.5 Blocks,-105,LAL rank 26th in BLK versus SF,26th
-JaMychal Green,LAL,Over 1.5 3PTM,152,LAL rank 26th in 3PTM versus SG,26th
-LaMelo Ball,LAL,Under 4.5 Rebounds,-140,LAL rank 5th in REB versus PG,5th
-LaMelo Ball,LAL,Under 0.5 Blocks,-350,LAL rank 3rd in BLK versus PG,3rd
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Luka Dončić,CHA,Over 0.5 Double Double,135,Hit in 4 of his last 4 games vs CHA,100%,True,1.0
+Luka Dončić,CHA,Over 6.5 Rebounds,-175,Hit in 4 of his last 4 games vs CHA,100%,True,11.0
+LeBron James,CHA,Over 30.5 PTS+REB,-111,Hit in 5 of his last 5 home games,100%,True,41.0
+LeBron James,CHA,Under 2.5 3PTM,-160,Hit in 4 of his last 4 games vs CHA,100%,False,4.0
+Luka Dončić,CHA,Under 1.5 STL+BLK,-102,Hit in 3 of his last 4 games,75%,True,1.0
+LeBron James,CHA,Over 2.5 Turnovers,-125,Hit in 5 of his last 5 games,100%,False,2.0
+LeBron James,CHA,Under 1.5 Steals,-215,Hit in 5 of his last 5 games vs CHA,100%,True,1.0
+Rui Hachimura,CHA,Over 5.5 REB+AST,-145,Hit in 4 of his last 4 home games,100%,True,11.0
+Rui Hachimura,CHA,Under 0.5 Blocks,-225,Hit in 5 of his last 5 games,100%,True,0.0
+LaMelo Ball,LAL,Under 0.5 Blocks,-350,Hit in 5 of his last 5 games,100%,True,0.0
+Austin Reaves,CHA,Under 2.5 3PTM,114,Hit in 4 of his last 4 games vs CHA,100%,True,2.0
+Austin Reaves,CHA,Over 20.5 Points,-122,Hit in 4 of his last 4 home games,100%,False,12.0
+Luka Dončić,CHA,Under 14.5 REB+AST,-113,Hit in 4 of his last 4 games,100%,False,19.0
+Luka Dončić,CHA,Under 34.5 PTS+REB,-125,Hit in 4 of his last 4 games,100%,True,27.0
+Luka Dončić,CHA,Under 34.5 PTS+AST,-117,Hit in 4 of his last 4 games,100%,True,24.0
+Luka Dončić,CHA,Under 7.5 Assists,-135,Hit in 4 of his last 4 games,100%,False,8.0
+Luka Dončić,CHA,Under 3.5 3PTM,-182,Hit in 4 of his last 4 games,100%,True,1.0
+Luka Dončić,CHA,Over 3.5 Turnovers,112,Hit in 4 of his last 4 games vs CHA,100%,True,6.0
+Luka Dončić,CHA,Under 1.5 Steals,-222,Hit in 4 of his last 4 games,100%,True,1.0
+LeBron James,CHA,Over 38.5 PTS+AST+REB,-115,Hit in 5 of his last 5 home games,100%,True,45.0
+Austin Reaves,CHA,Over 25.5 PTS+REB,-122,Hit in 4 of his last 4 home games,100%,False,14.0
+Austin Reaves,CHA,Under 32.5 PTS+AST+REB,-113,Hit in 5 of his last 5 games vs CHA,100%,True,14.0
+Austin Reaves,CHA,Under 27.5 PTS+AST,-113,Hit in 5 of his last 5 games vs CHA,100%,True,14.0
+Luka Dončić,CHA,Under 41.5 PTS+AST+REB,-113,Hit in 4 of his last 4 games,100%,True,24.0
+LeBron James,CHA,Under 0.5 Blocks,-185,Hit in 9 of his last 10 games,90%,False,2.0
+LeBron James,CHA,Under 1.5 Steals,-215,Hit in 9 of his last 10 games,90%,True,1.0
+Austin Reaves,CHA,Over 4.5 Rebounds,-138,Hit in 9 of his last 10 games,90%,False,2.0
+LeBron James,CHA,Over 7.5 Assists,-142,Hit in 17 of his last 19 games,89%,True,11.0
+LeBron James,CHA,Over 7.5 Assists,-142,Hit in 8 of his last 9 home games,89%,True,11.0
+Rui Hachimura,CHA,Over 0.5 Steals,-160,Hit in 7 of his last 8 home games,88%,True,1.0
+LeBron James,CHA,Over 31.5 PTS+AST,-104,Hit in 6 of his last 7 games,86%,True,45.0
+Rui Hachimura,CHA,Over 17.5 PTS+AST,-109,Hit in 6 of his last 7 games,86%,True,22.0
+Rui Hachimura,CHA,Over 20.5 PTS+REB,-120,Hit in 6 of his last 7 games,86%,True,27.0
+Rui Hachimura,CHA,Over 4.5 Rebounds,-130,Hit in 6 of his last 7 home games,86%,True,8.0
+Rui Hachimura,CHA,Over 1.5 3PTM,-154,Hit in 6 of his last 7 games,86%,False,1.0
+Rui Hachimura,CHA,Over 15.5 Points,-120,Hit in 6 of his last 7 games,86%,True,19.0
+LeBron James,CHA,Over 22.5 Points,-122,Hit in 6 of his last 7 games,86%,True,34.0
+Rui Hachimura,CHA,Over 22.5 PTS+AST+REB,-109,Hit in 6 of his last 7 games,86%,False,22.0
+LaMelo Ball,LAL,Under 24.5 Points,-120,Hit in 5 of his last 6 games,83%,False,37.0
+Austin Reaves,CHA,Over 25.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%,False,14.0
+LaMelo Ball,LAL,Under 1.5 Steals,-250,Hit in 5 of his last 6 games,83%,True,1.0
+Rui Hachimura,CHA,Over 0.5 Turnovers,-200,Hit in 13 of his last 16 home games,81%,True,1.0
+LeBron James,CHA,Over 31.5 PTS+AST,-104,Hit in 4 of his last 5 home games,80%,True,45.0
+LeBron James,CHA,Over 30.5 PTS+REB,-111,Hit in 4 of his last 5 games,80%,True,41.0
+LeBron James,CHA,Under 15.5 REB+AST,-125,Hit in 4 of his last 5 games vs CHA,80%,False,18.0
+LeBron James,CHA,Under 7.5 Rebounds,-154,Hit in 4 of his last 5 games vs CHA,80%,True,7.0
+LeBron James,CHA,Over 2.5 Turnovers,-125,Hit in 4 of his last 5 games vs CHA,80%,False,2.0
+LeBron James,CHA,Over 2.5 Turnovers,-125,Hit in 4 of his last 5 home games,80%,False,2.0
+LeBron James,CHA,Under 0.5 Blocks,-185,Hit in 4 of his last 5 games vs CHA,80%,False,2.0
+LeBron James,CHA,Under 1.5 STL+BLK,-135,Hit in 8 of his last 10 games,80%,False,3.0
+LeBron James,CHA,Under 1.5 STL+BLK,-135,Hit in 4 of his last 5 games vs CHA,80%,False,3.0
+Rui Hachimura,CHA,Over 5.5 REB+AST,-145,Hit in 4 of his last 5 games,80%,True,11.0
+Rui Hachimura,CHA,Under 1.5 STL+BLK,-200,Hit in 4 of his last 5 games,80%,True,1.0
+Austin Reaves,CHA,Under 0.5 Blocks,-235,Hit in 4 of his last 5 games vs CHA,80%,False,2.0
+Austin Reaves,CHA,Under 1.5 Steals,-210,Hit in 4 of his last 5 games vs CHA,80%,True,1.0
+LaMelo Ball,LAL,Over 2.5 Turnovers,-165,Hit in 12 of his last 15 away games,80%,True,3.0
+LaMelo Ball,LAL,Under 1.5 STL+BLK,-155,Hit in 4 of his last 5 games,80%,True,1.0
+LaMelo Ball,LAL,Over 35.5 PTS+AST+REB,-111,Hit in 8 of his last 10 games,80%,True,43.0
+LaMelo Ball,LAL,Over 35.5 PTS+AST+REB,-111,Hit in 4 of his last 5 away games,80%,True,43.0
+LeBron James,CHA,Over 38.5 PTS+AST+REB,-115,Hit in 4 of his last 5 games,80%,True,45.0
+Dalton Knecht,CHA,Over 9.5 Points,-120,Hit in 4 of his last 5 games,80%,False,5.0
+Austin Reaves,CHA,Over 11.5 REB+AST,100,Hit in 4 of his last 5 games,80%,False,4.0
+Dalton Knecht,CHA,Over 1.5 3PTM,-154,Hit in 4 of his last 5 games,80%,False,1.0
+LaMelo Ball,LAL,Over 10.5 REB+AST,-128,Hit in 15 of his last 19 games,79%,True,11.0
+Luka Dončić,CHA,Over 25.5 Points,-147,Hit in 14 of his last 18 home games,78%,False,16.0
+Luka Dončić,CHA,Under 1.5 STL+BLK,-110,Hit in 3 of his last 4 games,75%,True,1.0
+Luka Dončić,CHA,Under 1.5 STL+BLK,-110,Hit in 3 of his last 4 games vs CHA,75%,True,1.0
+LeBron James,CHA,Over 0.5 Double Double,105,Hit in 3 of his last 4 home games,75%,True,1.0
+Rui Hachimura,CHA,Over 1.5 3PTM,-154,Hit in 3 of his last 4 home games,75%,False,1.0
+Rui Hachimura,CHA,Over 0.5 Turnovers,-200,Hit in 15 of his last 20 games,75%,True,1.0
+Austin Reaves,CHA,Over 1.5 Turnovers,-190,Hit in 6 of his last 8 games,75%,True,3.0
+Austin Reaves,CHA,Under 0.5 Blocks,-235,Hit in 15 of his last 20 games,75%,False,2.0
+Austin Reaves,CHA,Over 1.5 STL+BLK,-115,Hit in 3 of his last 4 games,75%,True,3.0
+Austin Reaves,CHA,Over 20.5 Points,-122,Hit in 3 of his last 4 games,75%,False,12.0
+Luka Dončić,CHA,Under 1.5 Steals,-222,Hit in 3 of his last 4 games vs CHA,75%,True,1.0
+Luka Dončić,CHA,Over 25.5 Points,-147,Hit in 3 of his last 4 games vs CHA,75%,False,16.0
+Austin Reaves,CHA,Under 27.5 PTS+AST,-113,Hit in 3 of his last 4 games,75%,True,14.0
+Rui Hachimura,CHA,Over 1.5 3PTM,-154,CHA rank 26th in 3PTM versus PF,26th,False,1.0
+LaMelo Ball,LAL,Under 4.5 Rebounds,-140,LAL rank 5th in REB versus PG,5th,False,5.0
+LaMelo Ball,LAL,Under 0.5 Blocks,-350,LAL rank 3rd in BLK versus PG,3rd,True,0.0
