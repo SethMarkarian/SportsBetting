@@ -1,1203 +1,1040 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Franz Wagner,DAL,Over 10.5 REB+AST,102,Hit in 4 of his last 4 games,100%
-Franz Wagner,DAL,Under 29.5 PTS+AST,-110,Hit in 5 of his last 5 games vs DAL,100%
-Franz Wagner,DAL,Under 35.5 PTS+AST+REB,-118,Hit in 5 of his last 5 games vs DAL,100%
-Franz Wagner,DAL,Under 24.5 Points,-108,Hit in 5 of his last 5 games vs DAL,100%
-Kentavious Caldwell-Pope,DAL,Over 4.5 REB+AST,100,Hit in 4 of his last 4 home games,100%
-Kentavious Caldwell-Pope,DAL,Over 9.5 PTS+AST,-135,Hit in 5 of his last 5 home games,100%
-Kentavious Caldwell-Pope,DAL,Over 1.5 Assists,-145,Hit in 4 of his last 4 home games,100%
-Kentavious Caldwell-Pope,DAL,Over 12.5 PTS+AST+REB,-120,Hit in 5 of his last 5 home games,100%
-Kentavious Caldwell-Pope,DAL,Over 2.5 Rebounds,-102,Hit in 5 of his last 5 games vs DAL,100%
-Kentavious Caldwell-Pope,DAL,Over 8.5 Points,-114,Hit in 5 of his last 5 home games,100%
-Anthony Black,DAL,Over 3.5 Rebounds,100,Hit in 4 of his last 4 games,100%
-W. Carter,DAL,Over 1.5 Assists,-135,Hit in 4 of his last 4 games vs DAL,100%
-Kevin Thompson,ORL,Over 1.5 Assists,-150,Hit in 4 of his last 4 games vs ORL,100%
-Naji Marshall,ORL,Over 24.5 PTS+REB,-125,Hit in 6 of his last 6 games,100%
-Naji Marshall,ORL,Over 24.5 PTS+REB,-125,Hit in 4 of his last 4 away games,100%
-Naji Marshall,ORL,Under 6.5 Rebounds,-132,Hit in 4 of his last 4 games vs ORL,100%
-Naji Marshall,ORL,Under 1.5 3PTM,-225,Hit in 4 of his last 4 games vs ORL,100%
-Naji Marshall,ORL,Over 18.5 Points,-108,Hit in 6 of his last 6 games,100%
-Naji Marshall,ORL,Over 18.5 Points,-108,Hit in 4 of his last 4 away games,100%
-Spencer Dinwiddie,ORL,Over 8.5 REB+AST,-128,Hit in 5 of his last 5 games,100%
-Spencer Dinwiddie,ORL,Over 5.5 Assists,-112,Hit in 5 of his last 5 games,100%
-Spencer Dinwiddie,ORL,Over 1.5 3PTM,-130,Hit in 4 of his last 4 games,100%
-Spencer Dinwiddie,ORL,Over 1.5 3PTM,-130,Hit in 6 of his last 6 away games,100%
-K.C. Jones,ORL,Under 15.5 PTS+AST+REB,-111,Hit in 4 of his last 4 games vs ORL,100%
-K.C. Jones,ORL,Under 6.5 Rebounds,-159,Hit in 4 of his last 4 games vs ORL,100%
-Anthony Davis,ORL,Over 8.5 Rebounds,-128,Hit in 4 of his last 4 games vs ORL,100%
-Jarrett Allen,SAS,Under 12.5 REB+AST,-105,Hit in 5 of his last 5 games,100%
-Jarrett Allen,SAS,Over 16.5 PTS+AST,-120,Hit in 4 of his last 4 games vs SAS,100%
-Jarrett Allen,SAS,Under 10.5 Rebounds,-102,Hit in 5 of his last 5 games,100%
-Jarrett Allen,SAS,Over 14.5 Points,-114,Hit in 4 of his last 4 games vs SAS,100%
-Davion Mitchell,SAS,Under 2.5 3PTM,118,Hit in 4 of his last 4 games,100%
-Darius Garland,SAS,Over 10.5 REB+AST,-108,Hit in 4 of his last 4 games,100%
-Darius Garland,SAS,Under 2.5 3PTM,106,Hit in 5 of his last 5 games,100%
-Max Strus,SAS,Under 7.5 REB+AST,-136,Hit in 5 of his last 5 games,100%
-Max Strus,SAS,Over 12.5 PTS+AST,-118,Hit in 6 of his last 6 home games,100%
-Max Strus,SAS,Under 3.5 Assists,-188,Hit in 5 of his last 5 games,100%
-Max Strus,SAS,Under 4.5 Rebounds,-162,Hit in 5 of his last 5 games,100%
-Max Strus,SAS,Under 2.5 3PTM,-186,Hit in 4 of his last 4 games vs SAS,100%
-Max Strus,SAS,Over 9.5 Points,-108,Hit in 5 of his last 5 home games,100%
-Devin Vassell,CLE,Over 2.5 3PTM,-130,Hit in 4 of his last 4 away games,100%
-Paolo Banchero,DAL,Over 1.5 3PTM,-166,Hit in 9 of his last 9 games,100%
-Kentavious Caldwell-Pope,DAL,Over 11.5 PTS+REB,-102,Hit in 5 of his last 5 home games,100%
-Kentavious Caldwell-Pope,DAL,Under 0.5 Turnovers,-120,Hit in 4 of his last 4 games,100%
-Anthony Black,DAL,Over 0.5 Blocks,-133,Hit in 4 of his last 4 games,100%
-W. Carter,DAL,Under 0.5 Steals,-152,Hit in 9 of his last 9 games,100%
-Naji Marshall,ORL,Over 22.5 PTS+AST,-102,Hit in 6 of his last 6 games,100%
-Naji Marshall,ORL,Over 22.5 PTS+AST,-102,Hit in 4 of his last 4 away games,100%
-Spencer Dinwiddie,ORL,Over 23.5 PTS+AST+REB,-118,Hit in 6 of his last 6 games,100%
-Spencer Dinwiddie,ORL,Over 23.5 PTS+AST+REB,-118,Hit in 4 of his last 4 away games,100%
-Jarrett Allen,SAS,Under 25.5 PTS+REB,-118,Hit in 5 of his last 5 games,100%
-Davion Mitchell,SAS,Under 30.5 PTS+AST,-114,Hit in 7 of his last 7 games,100%
-Davion Mitchell,SAS,Under 35.5 PTS+AST+REB,-114,Hit in 7 of his last 7 games,100%
-Darius Garland,SAS,Over 3.5 Rebounds,-120,Hit in 5 of his last 5 games,100%
-De'Andre Hunter,SAS,Over 4.5 Rebounds,-114,Hit in 5 of his last 5 games vs SAS,100%
-De'Andre Hunter,SAS,Over 4.5 Rebounds,-114,Hit in 4 of his last 4 home games,100%
-Khris Middleton,IND,Over 2.5 Assists,-140,Hit in 14 of his last 14 games vs IND,100%
-Khris Middleton,IND,Over 3.5 Rebounds,100,Hit in 8 of his last 8 games vs IND,100%
-Khris Middleton,IND,Over 8.5 Points,-135,Hit in 14 of his last 14 games vs IND,100%
-Jordan Poole,IND,Over 3.5 Assists,132,Hit in 6 of his last 6 games vs IND,100%
-Jordan Poole,IND,Over 2.5 3PTM,-160,Hit in 4 of his last 4 games,100%
-Jordan Poole,IND,Over 2.5 3PTM,-160,Hit in 4 of his last 4 home games,100%
-Tyrese Haliburton,WAS,Over 14.5 REB+AST,102,Hit in 5 of his last 5 games,100%
-Tyrese Haliburton,WAS,Over 32.5 PTS+AST+REB,-125,Hit in 4 of his last 4 games,100%
-Tyrese Haliburton,WAS,Over 18.5 Points,-118,Hit in 8 of his last 8 games vs WAS,100%
-Tyrese Haliburton,WAS,Over 0.5 Double Double,-165,Hit in 12 of his last 12 games,100%
-Aaron Nesmith,WAS,Under 15.5 PTS+REB,-102,Hit in 6 of his last 6 games vs WAS,100%
-Aaron Nesmith,WAS,Over 1.5 3PTM,-168,Hit in 7 of his last 7 games,100%
-Aaron Nesmith,WAS,Over 1.5 3PTM,-168,Hit in 5 of his last 5 away games,100%
-Aaron Nesmith,WAS,Under 18.5 PTS+AST+REB,-135,Hit in 6 of his last 6 games vs WAS,100%
-Myles Turner,WAS,Under 2.5 3PTM,-198,Hit in 6 of his last 6 games vs WAS,100%
-Pascal Siakam,WAS,Over 9.5 REB+AST,-108,Hit in 7 of his last 7 games vs WAS,100%
-Pascal Siakam,WAS,Over 3.5 Assists,104,Hit in 4 of his last 4 games vs WAS,100%
-Paolo Banchero,DAL,Over 35.5 PTS+REB,-114,Hit in 4 of his last 4 games,100%
-K.C. Jones,ORL,Under 8.5 Points,-149,Hit in 4 of his last 4 games vs ORL,100%
-Khris Middleton,IND,Over 12.5 PTS+REB,-118,Hit in 14 of his last 14 games vs IND,100%
-Jordan Poole,IND,Over 18.5 PTS+AST,-118,Hit in 4 of his last 4 games,100%
-Jordan Poole,IND,Over 18.5 PTS+AST,-118,Hit in 6 of his last 6 games vs IND,100%
-Jordan Poole,IND,Over 18.5 PTS+AST,-118,Hit in 4 of his last 4 home games,100%
-Jordan Poole,IND,Over 5.5 REB+AST,-115,Hit in 6 of his last 6 games vs IND,100%
-Jordan Poole,IND,Over 17.5 PTS+REB,-125,Hit in 4 of his last 4 games,100%
-Jordan Poole,IND,Over 17.5 PTS+REB,-125,Hit in 6 of his last 6 games vs IND,100%
-Jordan Poole,IND,Over 17.5 PTS+REB,-125,Hit in 4 of his last 4 home games,100%
-Jordan Poole,IND,Over 0.5 Steals,101,Hit in 5 of his last 5 games vs IND,100%
-Tyrese Haliburton,WAS,Over 10.5 Assists,-114,Hit in 4 of his last 4 games,100%
-Tyrese Haliburton,WAS,Over 1.5 Turnovers,-108,Hit in 5 of his last 5 games vs WAS,100%
-Aaron Nesmith,WAS,Under 14.5 PTS+AST,-125,Hit in 6 of his last 6 games vs WAS,100%
-Aaron Nesmith,WAS,Under 1.5 Assists,-125,Hit in 4 of his last 4 games vs WAS,100%
-Myles Turner,WAS,Over 7.5 Rebounds,-122,Hit in 4 of his last 4 games,100%
-Myles Turner,WAS,Under 1.5 Assists,-175,Hit in 4 of his last 4 games,100%
-Pascal Siakam,WAS,Under 1.5 3PTM,-172,Hit in 4 of his last 4 games,100%
-Pascal Siakam,WAS,Over 0.5 Steals,-263,Hit in 6 of his last 6 games vs WAS,100%
-Paolo Banchero,DAL,Under 1.5 Steals,-245,Hit in 6 of his last 6 games,100%
-Paolo Banchero,DAL,Under 1.5 STL+BLK,-110,Hit in 4 of his last 4 games,100%
-Franz Wagner,DAL,Under 0.5 Blocks,-250,Hit in 4 of his last 4 games vs DAL,100%
-Cory Joseph,DAL,Over 7.5 PTS+REB,-135,Hit in 4 of his last 4 games,100%
-Kevin Thompson,ORL,Under 0.5 Blocks,-295,Hit in 8 of his last 8 games,100%
-Naji Marshall,ORL,Under 0.5 Blocks,-400,Hit in 4 of his last 4 games vs ORL,100%
-Anthony Davis,ORL,Over 1.5 Blocks,100,Hit in 4 of his last 4 games vs ORL,100%
-Bismack Biyombo,CLE,Under 0.5 Blocks,110,Hit in 5 of his last 5 games,100%
-Khris Middleton,IND,Over 6.5 REB+AST,110,Hit in 11 of his last 11 games vs IND,100%
-Khris Middleton,IND,Over 11.5 PTS+AST,-125,Hit in 14 of his last 14 games vs IND,100%
-Khris Middleton,IND,Over 15.5 PTS+AST+REB,-110,Hit in 14 of his last 14 games vs IND,100%
-Jordan Poole,IND,Over 21.5 PTS+AST+REB,-105,Hit in 4 of his last 4 games,100%
-Jordan Poole,IND,Over 21.5 PTS+AST+REB,-105,Hit in 6 of his last 6 games vs IND,100%
-Jordan Poole,IND,Over 21.5 PTS+AST+REB,-105,Hit in 4 of his last 4 home games,100%
-Alexandre Sarr,IND,Under 2.5 Assists,-185,Hit in 5 of his last 5 games,100%
-De'Andre Hunter,SAS,Over 5.5 REB+AST,-125,Hit in 5 of his last 5 games vs SAS,100%
-De'Andre Hunter,SAS,Over 5.5 REB+AST,-125,Hit in 4 of his last 4 home games,100%
-Kannard Johnson,CLE,Over 1.5 Assists,-165,Hit in 4 of his last 4 away games,100%
-Kannard Johnson,CLE,Over 19.5 PTS+AST+REB,-105,Hit in 4 of his last 4 games vs CLE,100%
-Kannard Johnson,CLE,Over 11.5 Points,-135,Hit in 4 of his last 4 games vs CLE,100%
-Kannard Johnson,CLE,Over 16.5 PTS+REB,-139,Hit in 4 of his last 4 games vs CLE,100%
-Jeremy Sochan,CLE,Over 1.5 Assists,-165,Hit in 4 of his last 4 games vs CLE,100%
-Paolo Banchero,DAL,Over 27.5 Points,-125,Hit in 4 of his last 4 games,100%
-Franz Wagner,DAL,Under 30.5 PTS+REB,-122,Hit in 5 of his last 5 games vs DAL,100%
-Blake Wesley,CLE,Under 5.5 REB+AST,-141,Hit in 4 of his last 4 games,100%
-Kannard Johnson,CLE,Over 13.5 PTS+AST,-145,Hit in 4 of his last 4 games vs CLE,100%
-Julian Champagnie,CLE,Over 5.5 REB+AST,-161,Hit in 4 of his last 4 away games,100%
-Jordan Poole,IND,Over 15.5 Points,-110,Hit in 4 of his last 4 games,100%
-Jordan Poole,IND,Over 15.5 Points,-110,Hit in 6 of his last 6 games vs IND,100%
-Jordan Poole,IND,Over 15.5 Points,-110,Hit in 4 of his last 4 home games,100%
-Obi Toppin,WAS,Over 8.5 Points,-130,Hit in 6 of his last 6 games vs WAS,100%
-Obi Toppin,WAS,Over 13.5 PTS+REB,-130,Hit in 6 of his last 6 games vs WAS,100%
-T.J. McConnell,WAS,Over 14.5 PTS+AST+REB,-118,Hit in 4 of his last 4 games vs WAS,100%
-T.J. McConnell,WAS,Over 7.5 Points,-105,Hit in 4 of his last 4 games vs WAS,100%
-T.J. McConnell,WAS,Over 9.5 PTS+REB,-139,Hit in 4 of his last 4 games vs WAS,100%
-Bam Adebayo,ATL,Under 9.5 Rebounds,-122,Hit in 8 of his last 8 games,100%
-Tyler Herro,ATL,Under 10.5 REB+AST,-106,Hit in 6 of his last 6 games,100%
-Dyson Daniels,MIA,Over 18.5 PTS+AST,-108,Hit in 6 of his last 6 away games,100%
-Dyson Daniels,MIA,Over 4.5 Assists,-118,Hit in 5 of his last 5 away games,100%
-Onyeka Okongwu,MIA,Over 12.5 REB+AST,-130,Hit in 4 of his last 4 away games,100%
-Onyeka Okongwu,MIA,Over 16.5 PTS+AST,-110,Hit in 4 of his last 4 away games,100%
-Onyeka Okongwu,MIA,Over 27.5 PTS+AST+REB,-110,Hit in 4 of his last 4 away games,100%
-Onyeka Okongwu,MIA,Over 0.5 3PTM,-130,Hit in 5 of his last 5 games,100%
-Bam Adebayo,ATL,Under 24.5 PTS+AST,-118,Hit in 4 of his last 4 games vs ATL,100%
-Bam Adebayo,ATL,Under 29.5 PTS+REB,-108,Hit in 4 of his last 4 games vs ATL,100%
-Bam Adebayo,ATL,Under 33.5 PTS+AST+REB,-106,Hit in 4 of his last 4 games vs ATL,100%
-Bam Adebayo,ATL,Under 20.5 Points,-122,Hit in 4 of his last 4 games vs ATL,100%
-Kel'el Ware,ATL,Over 11.5 Points,-114,Hit in 4 of his last 4 games,100%
-Kel'el Ware,ATL,Over 11.5 Points,-114,Hit in 4 of his last 4 home games,100%
-Zaccharie Risacher,MIA,Over 17.5 PTS+REB,-102,Hit in 4 of his last 4 away games,100%
-Zaccharie Risacher,MIA,Over 13.5 Points,-112,Hit in 6 of his last 6 games,100%
-Zaccharie Risacher,MIA,Over 13.5 Points,-112,Hit in 4 of his last 4 away games,100%
-Onyeka Okongwu,MIA,Over 24.5 PTS+REB,-118,Hit in 4 of his last 4 away games,100%
-Onyeka Okongwu,MIA,Over 0.5 Double Double,-105,Hit in 4 of his last 4 away games,100%
-Bam Adebayo,ATL,Over 0.5 3PTM,-210,Hit in 4 of his last 4 games,100%
-Bam Adebayo,ATL,Over 0.5 3PTM,-210,Hit in 4 of his last 4 home games,100%
-Tyler Herro,ATL,Under 0.5 Blocks,-275,Hit in 5 of his last 5 games,100%
-Tyler Herro,ATL,Under 0.5 Blocks,-275,Hit in 11 of his last 11 games vs ATL,100%
-Zaccharie Risacher,MIA,Over 14.5 PTS+AST,-110,Hit in 4 of his last 4 away games,100%
-Onyeka Okongwu,MIA,Over 1.5 Assists,-190,Hit in 4 of his last 4 games,100%
-Dyson Daniels,MIA,Over 2.5 Steals,-148,Hit in 7 of his last 7 games,100%
-Dyson Daniels,MIA,Over 2.5 Steals,-148,Hit in 4 of his last 4 away games,100%
-Georges Niang,MIA,Over 3.5 Rebounds,110,Hit in 5 of his last 5 games vs MIA,100%
-Isaiah Hartenstein,MEM,Over 13.5 REB+AST,-125,Hit in 5 of his last 5 games,100%
-Isaiah Hartenstein,MEM,Over 25.5 PTS+AST+REB,-112,Hit in 5 of his last 5 games vs MEM,100%
-Isaiah Hartenstein,MEM,Over 9.5 Rebounds,-144,Hit in 5 of his last 5 games,100%
-Shai Gilgeous-Alexander,MEM,Under 40.5 PTS+AST,-122,Hit in 4 of his last 4 games,100%
-Shai Gilgeous-Alexander,MEM,Over 1.5 3PTM,-166,Hit in 7 of his last 7 home games,100%
-Shai Gilgeous-Alexander,MEM,Under 32.5 Points,-102,Hit in 4 of his last 4 games,100%
-Desmond Bane,OKL,Under 11.5 REB+AST,-102,Hit in 4 of his last 4 games,100%
-Josh Giddey,LAL,Over 1.5 3PTM,108,Hit in 5 of his last 5 home games,100%
-Josh Giddey,LAL,Over 0.5 Double Double,-170,Hit in 4 of his last 4 home games,100%
-Kevin Huerter,LAL,Under 7.5 REB+AST,-135,Hit in 6 of his last 6 games vs LAL,100%
-Kevin Huerter,LAL,Under 16.5 PTS+AST,-110,Hit in 6 of his last 6 games vs LAL,100%
-Kevin Huerter,LAL,Under 17.5 PTS+REB,-118,Hit in 6 of his last 6 games vs LAL,100%
-Kevin Huerter,LAL,Under 3.5 Assists,-155,Hit in 6 of his last 6 games vs LAL,100%
-Kevin Huerter,LAL,Under 20.5 PTS+AST+REB,100,Hit in 6 of his last 6 games vs LAL,100%
-Coby White,LAL,Over 29.5 PTS+REB,-120,Hit in 4 of his last 4 games,100%
-Coby White,LAL,Over 34.5 PTS+AST+REB,-105,Hit in 4 of his last 4 games,100%
-Coby White,LAL,Over 2.5 3PTM,-165,Hit in 5 of his last 5 games vs LAL,100%
-Josh Giddey,LAL,Over 37.5 PTS+AST+REB,-122,Hit in 4 of his last 4 home games,100%
-Nikola Vučević,LAL,Over 1.5 3PTM,-104,Hit in 4 of his last 4 games vs LAL,100%
-Luka Dončić,CHI,Over 3.5 3PTM,-159,Hit in 4 of his last 4 games,100%
-Luka Dončić,CHI,Over 30.5 Points,-127,Hit in 4 of his last 4 games,100%
-Josh Giddey,LAL,Under 19.5 Points,-102,Hit in 4 of his last 4 games vs LAL,100%
-Luka Dončić,CHI,Under 16.5 REB+AST,-135,Hit in 4 of his last 4 games,100%
-Luka Dončić,CHI,Under 8.5 Rebounds,-123,Hit in 4 of his last 4 games,100%
-LeBron James,CHI,Under 31.5 PTS+AST,-106,Hit in 4 of his last 4 games,100%
-LeBron James,CHI,Under 1.5 3PTM,132,Hit in 4 of his last 4 games,100%
-LeBron James,CHI,Over 3.5 Turnovers,109,Hit in 5 of his last 5 games vs CHI,100%
-LeBron James,CHI,Under 0.5 Blocks,-140,Hit in 4 of his last 4 games,100%
-LeBron James,CHI,Over 0.5 Steals,-263,Hit in 4 of his last 4 games vs CHI,100%
-LeBron James,CHI,Over 1.5 STL+BLK,-123,Hit in 4 of his last 4 games vs CHI,100%
-Isaiah Hartenstein,MEM,Over 0.5 Blocks,-175,Hit in 7 of his last 7 games vs MEM,100%
-Luguentz Dort,MEM,Under 18.5 PTS+AST+REB,-125,Hit in 4 of his last 4 games,100%
-Santi Aldama,OKL,Under 0.5 Blocks,-200,Hit in 4 of his last 4 games,100%
-Zach Edey,OKL,Over 0.5 Assists,-165,Hit in 6 of his last 6 games,100%
-Zach Edey,OKL,Over 0.5 Assists,-165,Hit in 5 of his last 5 away games,100%
-Kevin Huerter,LAL,Under 2.5 3PTM,100,Hit in 4 of his last 4 games vs LAL,100%
-Coby White,LAL,Over 3.5 Rebounds,-155,Hit in 4 of his last 4 home games,100%
-Josh Giddey,LAL,Over 29.5 PTS+AST,-108,Hit in 4 of his last 4 home games,100%
-Jalen Williams,MEM,Over 20.5 PTS+AST,-115,Hit in 4 of his last 4 games vs MEM,100%
-Jalen Williams,MEM,Over 20.5 PTS+REB,-110,Hit in 4 of his last 4 games vs MEM,100%
-Jalen Williams,MEM,Over 4.5 Assists,125,Hit in 4 of his last 4 games vs MEM,100%
-Jalen Williams,MEM,Over 24.5 PTS+AST+REB,-110,Hit in 4 of his last 4 games vs MEM,100%
-Jalen Williams,MEM,Over 3.5 Rebounds,-145,Hit in 4 of his last 4 games vs MEM,100%
-Jalen Williams,MEM,Under 1.5 3PTM,-150,Hit in 8 of his last 8 games vs MEM,100%
-Jalen Williams,MEM,Over 0.5 Blocks,145,Hit in 6 of his last 6 games vs MEM,100%
-Shai Gilgeous-Alexander,MEM,Under 45.5 PTS+AST+REB,-110,Hit in 4 of his last 4 games,100%
-Santi Aldama,OKL,Under 6.5 Rebounds,-132,Hit in 4 of his last 4 games,100%
-Jalen Williams,MEM,Over 8.5 REB+AST,110,Hit in 4 of his last 4 games vs MEM,100%
-Johnny Juzang,HOU,Over 9.5 PTS+AST,-145,Hit in 4 of his last 4 games,100%
-Johnny Juzang,HOU,Over 9.5 PTS+AST,-145,Hit in 4 of his last 4 home games,100%
-Johnny Juzang,HOU,Over 11.5 PTS+REB,-152,Hit in 4 of his last 4 games,100%
-Johnny Juzang,HOU,Over 11.5 PTS+REB,-152,Hit in 4 of his last 4 home games,100%
-Johnny Juzang,HOU,Over 0.5 Assists,-238,Hit in 4 of his last 4 games,100%
-Johnny Juzang,HOU,Over 0.5 Assists,-238,Hit in 4 of his last 4 games vs HOU,100%
-Johnny Juzang,HOU,Over 0.5 Assists,-238,Hit in 4 of his last 4 home games,100%
-Johnny Juzang,HOU,Over 12.5 PTS+AST+REB,-149,Hit in 4 of his last 4 games,100%
-Johnny Juzang,HOU,Over 12.5 PTS+AST+REB,-149,Hit in 4 of his last 4 home games,100%
-Johnny Juzang,HOU,Over 8.5 Points,-141,Hit in 4 of his last 4 games,100%
-Johnny Juzang,HOU,Over 8.5 Points,-141,Hit in 4 of his last 4 home games,100%
-Walker Kessler,HOU,Under 0.5 3PTM,-220,Hit in 7 of his last 7 games vs HOU,100%
-Walker Kessler,HOU,Under 10.5 Points,-114,Hit in 5 of his last 5 games,100%
-Brice Sensabaugh,HOU,Over 4.5 REB+AST,-132,Hit in 4 of his last 4 games vs HOU,100%
-KJ Martin,HOU,Under 9.5 PTS+REB,-106,Hit in 5 of his last 5 games,100%
-KJ Martin,HOU,Under 3.5 Rebounds,-122,Hit in 5 of his last 5 games,100%
-KJ Martin,HOU,Under 0.5 3PTM,-204,Hit in 5 of his last 5 games,100%
-KJ Martin,HOU,Under 6.5 Points,-139,Hit in 5 of his last 5 games,100%
-JR Smith,UTA,Under 7.5 REB+AST,-156,Hit in 4 of his last 4 games,100%
-JR Smith,UTA,Under 7.5 REB+AST,-156,Hit in 4 of his last 4 games vs UTA,100%
-JR Smith,UTA,Under 6.5 Rebounds,-172,Hit in 4 of his last 4 games,100%
-JR Smith,UTA,Under 6.5 Rebounds,-172,Hit in 4 of his last 4 games vs UTA,100%
-Amen Thompson,UTA,Over 23.5 PTS+REB,-106,Hit in 5 of his last 5 away games,100%
-Amen Thompson,UTA,Over 27.5 PTS+AST+REB,-108,Hit in 5 of his last 5 away games,100%
-Amen Thompson,UTA,Over 8.5 Rebounds,102,Hit in 4 of his last 4 games vs UTA,100%
-Amen Thompson,UTA,Over 8.5 Rebounds,102,Hit in 4 of his last 4 away games,100%
-Fred VanVleet,UTA,Over 19.5 PTS+AST,-125,Hit in 6 of his last 6 games vs UTA,100%
-Fred VanVleet,UTA,Over 17.5 PTS+REB,-120,Hit in 6 of his last 6 games vs UTA,100%
-Fred VanVleet,UTA,Over 5.5 Assists,116,Hit in 4 of his last 4 games vs UTA,100%
-Fred VanVleet,UTA,Over 14.5 Points,-110,Hit in 6 of his last 6 games vs UTA,100%
-Dillon Brooks,UTA,Under 3.5 Rebounds,-180,Hit in 4 of his last 4 games,100%
-Dillon Brooks,UTA,Under 2.5 3PTM,-158,Hit in 7 of his last 7 games vs UTA,100%
-Walker Kessler,HOU,Under 21.5 PTS+REB,-110,Hit in 5 of his last 5 games,100%
-Collin Sexton,HOU,Over 0.5 STL+BLK,-133,Hit in 4 of his last 4 games vs HOU,100%
-JR Smith,UTA,Over 0.5 Assists,-227,Hit in 6 of his last 6 games vs UTA,100%
-Amen Thompson,UTA,Under 1.5 Blocks,-165,Hit in 4 of his last 4 games vs UTA,100%
-Amen Thompson,UTA,Under 3.5 STL+BLK,-182,Hit in 4 of his last 4 games vs UTA,100%
-Dillon Brooks,UTA,Under 14.5 Points,-125,Hit in 6 of his last 6 games vs UTA,100%
-Kyle Filipowski,HOU,Under 0.5 Blocks,-325,Hit in 6 of his last 6 games,100%
-C.J. Williams,HOU,Under 2.5 REB+AST,-118,Hit in 4 of his last 4 games,100%
-C.J. Williams,HOU,Under 1.5 Rebounds,-105,Hit in 4 of his last 4 games,100%
-JaMychal Green,UTA,Under 0.5 Blocks,-250,Hit in 6 of his last 6 games vs UTA,100%
-Fred VanVleet,UTA,Over 23.5 PTS+AST+REB,-102,Hit in 6 of his last 6 games vs UTA,100%
-Domantas Sabonis,POR,Over 0.5 Double Double,-310,Hit in 9 of his last 9 games vs POR,100%
-Domantas Sabonis,POR,Under 0.5 3PTM,105,Hit in 7 of his last 7 games,100%
-Malik Monk,POR,Over 27.5 PTS+AST+REB,-128,Hit in 4 of his last 4 games,100%
-Malik Monk,POR,Over 2.5 3PTM,-106,Hit in 4 of his last 4 home games,100%
-Malik Monk,POR,Over 18.5 Points,-118,Hit in 4 of his last 4 home games,100%
-Keegan Murray,POR,Under 2.5 3PTM,-148,Hit in 6 of his last 6 games vs POR,100%
-Keegan Murray,POR,Under 12.5 Points,-102,Hit in 6 of his last 6 games vs POR,100%
-DeMar DeRozan,POR,Under 25.5 PTS+REB,-106,Hit in 4 of his last 4 games,100%
-DeMar DeRozan,POR,Over 3.5 Rebounds,-144,Hit in 5 of his last 5 games vs POR,100%
-DeMar DeRozan,POR,Under 1.5 3PTM,-192,Hit in 5 of his last 5 games vs POR,100%
-Zach LaVine,POR,Under 25.5 PTS+REB,-122,Hit in 8 of his last 8 games,100%
-Zach LaVine,POR,Under 29.5 PTS+AST+REB,-128,Hit in 4 of his last 4 games,100%
-Zach LaVine,POR,Over 3.5 Rebounds,-120,Hit in 4 of his last 4 games vs POR,100%
-Zach LaVine,POR,Over 21.5 Points,-112,Hit in 4 of his last 4 games vs POR,100%
-Toumani Camara,SAC,Under 18.5 PTS+REB,-130,Hit in 5 of his last 5 games vs SAC,100%
-Toumani Camara,SAC,Over 1.5 3PTM,-154,Hit in 6 of his last 6 games,100%
-Toumani Camara,SAC,Over 12.5 Points,-114,Hit in 6 of his last 6 games,100%
-Deni Avdija,SAC,Over 13.5 REB+AST,-114,Hit in 4 of his last 4 games,100%
-Deni Avdija,SAC,Over 1.5 3PTM,-174,Hit in 8 of his last 8 games,100%
-Domantas Sabonis,POR,Over 2.5 Turnovers,-147,Hit in 4 of his last 4 games vs POR,100%
-Malik Monk,POR,Over 22.5 PTS+REB,-114,Hit in 4 of his last 4 games,100%
-Zach LaVine,POR,Under 1.5 Steals,-225,Hit in 12 of his last 12 games,100%
-Toumani Camara,SAC,Under 20.5 PTS+AST+REB,-110,Hit in 5 of his last 5 games vs SAC,100%
-Shaedon Sharpe,SAC,Under 4.5 Rebounds,114,Hit in 4 of his last 4 games vs SAC,100%
-Malik Monk,POR,Over 0.5 Blocks,-110,Hit in 4 of his last 4 games vs POR,100%
-Keegan Murray,POR,Under 15.5 PTS+AST,-120,Hit in 6 of his last 6 games vs POR,100%
-Anfernee Simons,SAC,Over 0.5 Steals,-208,Hit in 4 of his last 4 away games,100%
-Toumani Camara,SAC,Under 15.5 PTS+AST,-118,Hit in 5 of his last 5 games vs SAC,100%
-Domantas Sabonis,POR,Under 16.5 Points,-132,Hit in 8 of his last 8 games,100%
-Jalen Williams,MEM,Over 20.5 PTS+AST,-115,Hit in 14 of his last 15 games,93%
-Jalen Williams,MEM,Over 20.5 PTS+REB,-110,Hit in 14 of his last 15 games,93%
-Jalen Williams,MEM,Over 24.5 PTS+AST+REB,-110,Hit in 14 of his last 15 games,93%
-Amen Thompson,UTA,Over 8.5 Rebounds,102,Hit in 12 of his last 13 games,92%
-Khris Middleton,IND,Over 0.5 3PTM,-175,Hit in 11 of his last 12 games vs IND,92%
-Jalen Williams,MEM,Over 16.5 Points,105,Hit in 11 of his last 12 games,92%
-Khris Middleton,IND,Over 11.5 PTS+AST,-125,Hit in 9 of his last 10 home games,90%
-C.J. Williams,HOU,Under 7.5 PTS+AST,-118,Hit in 9 of his last 10 games,90%
-Anthony Black,DAL,Under 3.5 Assists,-158,Hit in 16 of his last 18 games,89%
-Devin Vassell,CLE,Over 23.5 PTS+REB,-110,Hit in 8 of his last 9 games,89%
-Devin Vassell,CLE,Over 26.5 PTS+AST+REB,-118,Hit in 8 of his last 9 games,89%
-Pascal Siakam,WAS,Over 5.5 Rebounds,-154,Hit in 16 of his last 18 away games,89%
-Andrew Nembhard,WAS,Under 1.5 Steals,-145,Hit in 8 of his last 9 games,89%
-Paolo Banchero,DAL,Under 2.5 Turnovers,-106,Hit in 8 of his last 9 games,89%
-Franz Wagner,DAL,Under 0.5 Blocks,-250,Hit in 8 of his last 9 games,89%
-Spencer Dinwiddie,ORL,Under 0.5 Blocks,-400,Hit in 8 of his last 9 games,89%
-Andrew Nembhard,WAS,Over 0.5 3PTM,-235,Hit in 8 of his last 9 games,89%
-Donovan Clingan,SAC,Over 10.5 REB+AST,-105,Hit in 8 of his last 9 games,89%
-Darius Garland,SAS,Under 31.5 PTS+AST+REB,-125,Hit in 15 of his last 17 games,88%
-Darius Garland,SAS,Under 20.5 Points,-122,Hit in 15 of his last 17 games,88%
-Caleb Houstan,DAL,Under 2.5 REB+AST,-164,Hit in 15 of his last 17 games,88%
-Kentavious Caldwell-Pope,DAL,Over 12.5 PTS+AST+REB,-120,Hit in 7 of his last 8 games vs DAL,88%
-Naji Marshall,ORL,Under 1.5 3PTM,-225,Hit in 7 of his last 8 games,88%
-Harrison Barnes,CLE,Under 5.5 REB+AST,-145,Hit in 7 of his last 8 games,88%
-Bismack Biyombo,CLE,Under 6.5 PTS+AST,-115,Hit in 7 of his last 8 games,88%
-Bismack Biyombo,CLE,Under 12.5 PTS+REB,-125,Hit in 7 of his last 8 games,88%
-Bismack Biyombo,CLE,Under 5.5 Points,-120,Hit in 7 of his last 8 games,88%
-Kentavious Caldwell-Pope,DAL,Over 11.5 PTS+REB,-102,Hit in 7 of his last 8 games vs DAL,88%
-Bismack Biyombo,CLE,Under 13.5 PTS+AST+REB,-125,Hit in 7 of his last 8 games,88%
-Carlton Carrington,IND,Under 1.5 3PTM,-102,Hit in 7 of his last 8 games,88%
-Andrew Nembhard,WAS,Over 0.5 3PTM,-235,Hit in 7 of his last 8 away games,88%
-Tyrese Haliburton,WAS,Under 0.5 Blocks,-190,Hit in 7 of his last 8 games vs WAS,88%
-Aaron Nesmith,WAS,Under 0.5 Blocks,-325,Hit in 7 of his last 8 games,88%
-Kannard Johnson,CLE,Over 1.5 Assists,-165,Hit in 7 of his last 8 games,88%
-Mouhamadou Gueye,MIA,Over 0.5 Assists,-105,Hit in 7 of his last 8 away games,88%
-Onyeka Okongwu,MIA,Over 1.5 Assists,-190,Hit in 7 of his last 8 away games,88%
-Terance Mann,MIA,Over 8.5 Points,-118,Hit in 7 of his last 8 games,88%
-Coby White,LAL,Over 0.5 Steals,-263,Hit in 7 of his last 8 home games,88%
-Jalen Williams,MEM,Over 3.5 Rebounds,-145,Hit in 7 of his last 8 games,88%
-KJ Martin,HOU,Over 0.5 Assists,-227,Hit in 7 of his last 8 games,88%
-JaMychal Green,UTA,Over 27.5 PTS+AST,-114,Hit in 7 of his last 8 games,88%
-JaMychal Green,UTA,Over 28.5 PTS+REB,-114,Hit in 7 of his last 8 games,88%
-Amen Thompson,UTA,Over 12.5 REB+AST,-114,Hit in 7 of his last 8 games,88%
-JaMychal Green,UTA,Under 1.5 Steals,-222,Hit in 7 of his last 8 games vs UTA,88%
-JaMychal Green,UTA,Over 32.5 PTS+AST+REB,-118,Hit in 7 of his last 8 games,88%
-Devin Vassell,CLE,Over 2.5 3PTM,-130,Hit in 6 of his last 7 games,86%
-Carlton Carrington,IND,Under 15.5 PTS+REB,-125,Hit in 6 of his last 7 games,86%
-Carlton Carrington,IND,Under 10.5 Points,-112,Hit in 6 of his last 7 games,86%
-Aaron Nesmith,WAS,Over 12.5 Points,100,Hit in 6 of his last 7 games,86%
-Pascal Siakam,WAS,Under 1.5 3PTM,-172,Hit in 6 of his last 7 games vs WAS,86%
-Davion Mitchell,SAS,Under 30.5 PTS+REB,-125,Hit in 6 of his last 7 games,86%
-Jarrett Allen,SAS,Under 1.5 Blocks,-220,Hit in 6 of his last 7 games,86%
-Khris Middleton,IND,Over 0.5 Steals,-123,Hit in 6 of his last 7 home games,86%
-Naji Marshall,ORL,Under 0.5 Blocks,-400,Hit in 12 of his last 14 games,86%
-De'Andre Hunter,SAS,Under 1.5 Assists,-165,Hit in 6 of his last 7 games,86%
-Julian Champagnie,CLE,Over 1.5 Assists,-130,Hit in 6 of his last 7 games,86%
-Paolo Banchero,DAL,Over 40.5 PTS+AST+REB,-120,Hit in 6 of his last 7 games,86%
-Julian Champagnie,CLE,Over 5.5 REB+AST,-161,Hit in 6 of his last 7 games,86%
-Bennedict Mathurin,WAS,Over 21.5 PTS+AST+REB,-110,Hit in 6 of his last 7 games vs WAS,86%
-Bennedict Mathurin,WAS,Over 14.5 Points,-125,Hit in 6 of his last 7 games vs WAS,86%
-Bennedict Mathurin,WAS,Over 6.5 REB+AST,-105,Hit in 6 of his last 7 games vs WAS,86%
-Aaron Wiggins,ATL,Over 24.5 PTS+REB,-114,Hit in 6 of his last 7 home games,86%
-Bam Adebayo,ATL,Under 13.5 REB+AST,-122,Hit in 6 of his last 7 games,86%
-Tyler Herro,ATL,Over 4.5 Rebounds,-114,Hit in 6 of his last 7 games vs ATL,86%
-Tyler Herro,ATL,Over 22.5 Points,-112,Hit in 6 of his last 7 games vs ATL,86%
-Onyeka Okongwu,MIA,Under 14.5 Points,-118,Hit in 6 of his last 7 games vs MIA,86%
-Bam Adebayo,ATL,Under 1.5 Steals,-270,Hit in 6 of his last 7 games,86%
-Aaron Wiggins,ATL,Over 0.5 Blocks,-190,Hit in 6 of his last 7 home games,86%
-Josh Giddey,LAL,Under 1.5 Steals,-167,Hit in 6 of his last 7 games vs LAL,86%
-Zach Edey,OKL,Over 6.5 Rebounds,-118,Hit in 6 of his last 7 away games,86%
-Kevin Huerter,LAL,Under 0.5 Blocks,-300,Hit in 6 of his last 7 games vs LAL,86%
-Josh Giddey,LAL,Over 0.5 Blocks,105,Hit in 6 of his last 7 home games,86%
-Jalen Williams,MEM,Over 20.5 PTS+AST,-115,Hit in 6 of his last 7 home games,86%
-Jalen Williams,MEM,Over 20.5 PTS+REB,-110,Hit in 6 of his last 7 home games,86%
-Jalen Williams,MEM,Over 24.5 PTS+AST+REB,-110,Hit in 6 of his last 7 home games,86%
-Jalen Williams,MEM,Over 3.5 Rebounds,-145,Hit in 6 of his last 7 home games,86%
-Johnny Juzang,HOU,Over 1.5 3PTM,-149,Hit in 6 of his last 7 home games,86%
-Walker Kessler,HOU,Under 22.5 PTS+AST+REB,-105,Hit in 6 of his last 7 games vs HOU,86%
-Walker Kessler,HOU,Under 21.5 PTS+REB,-110,Hit in 6 of his last 7 games vs HOU,86%
-Walker Kessler,HOU,Under 10.5 Rebounds,108,Hit in 6 of his last 7 games vs HOU,86%
-Domantas Sabonis,POR,Over 28.5 PTS+REB,-122,Hit in 6 of his last 7 games vs POR,86%
-Domantas Sabonis,POR,Over 34.5 PTS+AST+REB,-122,Hit in 6 of his last 7 games vs POR,86%
-Shaedon Sharpe,SAC,Over 7.5 REB+AST,-136,Hit in 6 of his last 7 away games,86%
-Domantas Sabonis,POR,Over 22.5 PTS+AST,-102,Hit in 6 of his last 7 games vs POR,86%
-Donovan Clingan,SAC,Over 17.5 PTS+REB,-130,Hit in 6 of his last 7 games,86%
-Chris Paul,CLE,Over 5.5 Assists,-144,Hit in 17 of his last 20 away games,85%
-AJ Johnson,IND,Under 15.5 PTS+REB,-114,Hit in 17 of his last 20 games,85%
-AJ Johnson,IND,Under 4.5 Assists,-160,Hit in 17 of his last 20 games,85%
-AJ Johnson,IND,Under 4.5 Rebounds,-136,Hit in 17 of his last 20 games,85%
-AJ Johnson,IND,Under 1.5 3PTM,-158,Hit in 17 of his last 20 games,85%
-Khris Middleton,IND,Over 2.5 Assists,-140,Hit in 17 of his last 20 home games,85%
-Khris Middleton,IND,Over 6.5 REB+AST,110,Hit in 17 of his last 20 home games,85%
-Blake Wesley,CLE,Under 3.5 Assists,-200,Hit in 17 of his last 20 games,85%
-Blake Wesley,CLE,Under 2.5 Rebounds,-185,Hit in 17 of his last 20 games,85%
-AJ Johnson,IND,Under 19.5 PTS+AST+REB,-106,Hit in 17 of his last 20 games,85%
-Jaylen Wells,OKL,Over 4.5 REB+AST,-140,Hit in 11 of his last 13 games,85%
-Brice Sensabaugh,HOU,Over 1.5 3PTM,-110,Hit in 11 of his last 13 home games,85%
-Anfernee Simons,SAC,Under 2.5 Turnovers,-192,Hit in 11 of his last 13 games,85%
-Brice Sensabaugh,HOU,Over 1.5 3PTM,-110,Hit in 16 of his last 19 games,84%
-Domantas Sabonis,POR,Over 0.5 Double Double,-310,Hit in 16 of his last 19 home games,84%
-Kentavious Caldwell-Pope,DAL,Over 4.5 REB+AST,100,Hit in 5 of his last 6 games,83%
-Kentavious Caldwell-Pope,DAL,Over 9.5 PTS+AST,-135,Hit in 5 of his last 6 games,83%
-Kentavious Caldwell-Pope,DAL,Over 12.5 PTS+AST+REB,-120,Hit in 5 of his last 6 games,83%
-Kentavious Caldwell-Pope,DAL,Over 1.5 3PTM,108,Hit in 5 of his last 6 games,83%
-Kentavious Caldwell-Pope,DAL,Over 1.5 3PTM,108,Hit in 5 of his last 6 games vs DAL,83%
-Kentavious Caldwell-Pope,DAL,Over 8.5 Points,-114,Hit in 5 of his last 6 games,83%
-Kevin Thompson,ORL,Over 1.5 Assists,-150,Hit in 5 of his last 6 away games,83%
-Naji Marshall,ORL,Over 28.5 PTS+AST+REB,-118,Hit in 10 of his last 12 games,83%
-Anthony Davis,ORL,Under 0.5 3PTM,-140,Hit in 5 of his last 6 games,83%
-Jarrett Allen,SAS,Under 2.5 Assists,-175,Hit in 5 of his last 6 games,83%
-Kentavious Caldwell-Pope,DAL,Over 11.5 PTS+REB,-102,Hit in 5 of his last 6 games,83%
-Spencer Dinwiddie,ORL,Over 14.5 Points,-118,Hit in 5 of his last 6 games,83%
-De'Andre Hunter,SAS,Under 18.5 PTS+REB,-108,Hit in 5 of his last 6 games,83%
-Devin Vassell,CLE,Over 4.5 Rebounds,-110,Hit in 5 of his last 6 games,83%
-Carlton Carrington,IND,Under 15.5 PTS+AST,-122,Hit in 5 of his last 6 games,83%
-Jordan Poole,IND,Over 2.5 Rebounds,105,Hit in 5 of his last 6 games vs IND,83%
-Andrew Nembhard,WAS,Under 15.5 PTS+AST,-122,Hit in 5 of his last 6 games vs WAS,83%
-Andrew Nembhard,WAS,Under 13.5 PTS+REB,-108,Hit in 5 of his last 6 games vs WAS,83%
-Andrew Nembhard,WAS,Under 18.5 PTS+AST+REB,-110,Hit in 5 of his last 6 games vs WAS,83%
-Andrew Nembhard,WAS,Under 3.5 Rebounds,-146,Hit in 5 of his last 6 games vs WAS,83%
-Andrew Nembhard,WAS,Under 10.5 Points,-125,Hit in 5 of his last 6 games vs WAS,83%
-Aaron Nesmith,WAS,Under 3.5 Rebounds,102,Hit in 5 of his last 6 games vs WAS,83%
-Pascal Siakam,WAS,Over 26.5 PTS+REB,-114,Hit in 5 of his last 6 away games,83%
-Pascal Siakam,WAS,Over 30.5 PTS+AST+REB,-106,Hit in 5 of his last 6 away games,83%
-Pascal Siakam,WAS,Over 20.5 Points,-112,Hit in 5 of his last 6 away games,83%
-Myles Turner,WAS,Under 23.5 PTS+REB,-108,Hit in 5 of his last 6 games vs WAS,83%
-Myles Turner,WAS,Under 25.5 PTS+AST+REB,-125,Hit in 5 of his last 6 games vs WAS,83%
-Pascal Siakam,WAS,Over 24.5 PTS+AST,-102,Hit in 5 of his last 6 away games,83%
-Andrew Nembhard,WAS,Under 1.5 Steals,-145,Hit in 5 of his last 6 games vs WAS,83%
-Spencer Dinwiddie,ORL,Over 20.5 PTS+AST,-112,Hit in 5 of his last 6 games,83%
-Devin Vassell,CLE,Over 0.5 Blocks,110,Hit in 5 of his last 6 away games,83%
-Aaron Nesmith,WAS,Under 5.5 REB+AST,110,Hit in 5 of his last 6 games vs WAS,83%
-Pascal Siakam,WAS,Under 0.5 Blocks,-185,Hit in 5 of his last 6 games vs WAS,83%
-Andrew Nembhard,WAS,Under 8.5 REB+AST,-138,Hit in 5 of his last 6 games vs WAS,83%
-Bennedict Mathurin,WAS,Over 1.5 Assists,105,Hit in 5 of his last 6 games vs WAS,83%
-Obi Toppin,WAS,Over 14.5 PTS+AST+REB,-115,Hit in 5 of his last 6 games vs WAS,83%
-Obi Toppin,WAS,Over 1.5 3PTM,130,Hit in 5 of his last 6 games vs WAS,83%
-Obi Toppin,WAS,Over 8.5 Points,-130,Hit in 5 of his last 6 games,83%
-Tyler Herro,ATL,Over 2.5 3PTM,-132,Hit in 5 of his last 6 games vs ATL,83%
-Mouhamadou Gueye,MIA,Under 5.5 PTS+AST,-140,Hit in 5 of his last 6 games,83%
-Dyson Daniels,MIA,Over 10.5 REB+AST,-108,Hit in 5 of his last 6 games,83%
-Dyson Daniels,MIA,Over 19.5 PTS+REB,-110,Hit in 5 of his last 6 away games,83%
-Dyson Daniels,MIA,Over 4.5 Assists,-118,Hit in 5 of his last 6 games,83%
-Dyson Daniels,MIA,Over 24.5 PTS+AST+REB,-104,Hit in 5 of his last 6 away games,83%
-Dyson Daniels,MIA,Over 5.5 Rebounds,-125,Hit in 5 of his last 6 games,83%
-Onyeka Okongwu,MIA,Over 12.5 REB+AST,-130,Hit in 5 of his last 6 games,83%
-Onyeka Okongwu,MIA,Over 16.5 PTS+AST,-110,Hit in 5 of his last 6 games,83%
-Onyeka Okongwu,MIA,Over 27.5 PTS+AST+REB,-110,Hit in 5 of his last 6 games,83%
-Aaron Wiggins,ATL,Over 27.5 PTS+AST+REB,-122,Hit in 5 of his last 6 home games,83%
-Bam Adebayo,ATL,Over 1.5 STL+BLK,-145,Hit in 5 of his last 6 games,83%
-Mouhamadou Gueye,MIA,Under 0.5 Steals,-147,Hit in 5 of his last 6 games,83%
-Zaccharie Risacher,MIA,Over 17.5 PTS+REB,-102,Hit in 5 of his last 6 games,83%
-Zaccharie Risacher,MIA,Over 1.5 3PTM,-146,Hit in 10 of his last 12 away games,83%
-Onyeka Okongwu,MIA,Over 24.5 PTS+REB,-118,Hit in 5 of his last 6 games,83%
-Onyeka Okongwu,MIA,Over 0.5 Double Double,-105,Hit in 5 of his last 6 games,83%
-Dyson Daniels,MIA,Over 0.5 3PTM,-190,Hit in 5 of his last 6 away games,83%
-Zaccharie Risacher,MIA,Over 14.5 PTS+AST,-110,Hit in 5 of his last 6 games,83%
-Zaccharie Risacher,MIA,Over 0.5 Assists,-155,Hit in 10 of his last 12 away games,83%
-Onyeka Okongwu,MIA,Over 0.5 Blocks,-210,Hit in 5 of his last 6 games vs MIA,83%
-Shai Gilgeous-Alexander,MEM,Over 4.5 Rebounds,-138,Hit in 5 of his last 6 home games,83%
-Shai Gilgeous-Alexander,MEM,Over 1.5 3PTM,-166,Hit in 10 of his last 12 games,83%
-Desmond Bane,OKL,Over 19.5 Points,-132,Hit in 5 of his last 6 away games,83%
-Shai Gilgeous-Alexander,MEM,Over 11.5 REB+AST,-128,Hit in 5 of his last 6 home games,83%
-Shai Gilgeous-Alexander,MEM,Over 6.5 Assists,-132,Hit in 5 of his last 6 home games,83%
-Josh Giddey,LAL,Over 28.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%
-Josh Giddey,LAL,Over 37.5 PTS+AST+REB,-122,Hit in 10 of his last 12 games,83%
-Nikola Vučević,LAL,Over 1.5 3PTM,-104,Hit in 5 of his last 6 games,83%
-Luka Dončić,CHI,Over 3.5 3PTM,-159,Hit in 5 of his last 6 away games,83%
-Luka Dončić,CHI,Over 30.5 Points,-127,Hit in 5 of his last 6 away games,83%
-Coby White,LAL,Under 2.5 Turnovers,-127,Hit in 5 of his last 6 games,83%
-Luguentz Dort,MEM,Over 1.5 Assists,100,Hit in 5 of his last 6 games vs MEM,83%
-Luguentz Dort,MEM,Over 0.5 Blocks,125,Hit in 5 of his last 6 games,83%
-Chet Holmgren,MEM,Under 2.5 Blocks,-110,Hit in 5 of his last 6 games,83%
-Santi Aldama,OKL,Under 2.5 3PTM,-192,Hit in 5 of his last 6 games,83%
-Santi Aldama,OKL,Under 2.5 3PTM,-192,Hit in 5 of his last 6 games vs OKL,83%
-Desmond Bane,OKL,Under 0.5 Blocks,-250,Hit in 5 of his last 6 games,83%
-Zach Edey,OKL,Over 15.5 PTS+AST+REB,-125,Hit in 5 of his last 6 away games,83%
-Jaylen Wells,OKL,Over 4.5 REB+AST,-140,Hit in 5 of his last 6 away games,83%
-Kevin Huerter,LAL,Under 3.5 Rebounds,115,Hit in 5 of his last 6 games vs LAL,83%
-Jalen Williams,MEM,Over 4.5 Assists,125,Hit in 5 of his last 6 games,83%
-Santi Aldama,OKL,Under 6.5 Rebounds,-132,Hit in 5 of his last 6 games vs OKL,83%
-A. Şengün,UTA,Over 25.5 PTS+AST,-118,Hit in 5 of his last 6 away games,83%
-A. Şengün,UTA,Over 19.5 Points,-141,Hit in 5 of his last 6 away games,83%
-JaMychal Green,UTA,Over 23.5 Points,-110,Hit in 5 of his last 6 games,83%
-Amen Thompson,UTA,Under 0.5 3PTM,-275,Hit in 5 of his last 6 games,83%
-Fred VanVleet,UTA,Over 2.5 3PTM,-108,Hit in 5 of his last 6 games vs UTA,83%
-Dillon Brooks,UTA,Under 15.5 PTS+AST,-110,Hit in 5 of his last 6 games vs UTA,83%
-Kyle Filipowski,HOU,Under 6.5 Rebounds,-144,Hit in 5 of his last 6 games,83%
-JaMychal Green,UTA,Over 3.5 Assists,-158,Hit in 5 of his last 6 games vs UTA,83%
-Amen Thompson,UTA,Over 14.5 Points,-118,Hit in 5 of his last 6 away games,83%
-Dillon Brooks,UTA,Under 17.5 PTS+REB,-118,Hit in 5 of his last 6 games vs UTA,83%
-Johnny Juzang,HOU,Under 0.5 Turnovers,-128,Hit in 5 of his last 6 games,83%
-JaMychal Green,UTA,Under 1.5 STL+BLK,-133,Hit in 5 of his last 6 games vs UTA,83%
-Amen Thompson,UTA,Under 1.5 Blocks,-165,Hit in 5 of his last 6 games,83%
-Amen Thompson,UTA,Over 18.5 PTS+AST,-125,Hit in 5 of his last 6 away games,83%
-Kyle Filipowski,HOU,Under 8.5 REB+AST,-115,Hit in 5 of his last 6 games,83%
-C.J. Williams,HOU,Under 8.5 PTS+REB,-120,Hit in 5 of his last 6 games,83%
-C.J. Williams,HOU,Under 1.5 3PTM,-220,Hit in 5 of his last 6 games,83%
-C.J. Williams,HOU,Under 5.5 Points,-108,Hit in 5 of his last 6 games,83%
-Toumani Camara,SAC,Over 2.5 Assists,125,Hit in 5 of his last 6 games,83%
-Donovan Clingan,SAC,Over 9.5 Rebounds,-102,Hit in 5 of his last 6 games,83%
-Deni Avdija,SAC,Under 24.5 PTS+AST,-122,Hit in 5 of his last 6 games vs SAC,83%
-Deni Avdija,SAC,Under 19.5 Points,-130,Hit in 5 of his last 6 games vs SAC,83%
-Deni Avdija,SAC,Under 27.5 PTS+REB,-112,Hit in 5 of his last 6 games vs SAC,83%
-Deni Avdija,SAC,Under 32.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games vs SAC,83%
-Deni Avdija,SAC,Under 0.5 Blocks,-275,Hit in 5 of his last 6 games vs SAC,83%
-Darius Garland,SAS,Under 24.5 PTS+REB,-128,Hit in 14 of his last 17 games,82%
-Darius Garland,SAS,Under 27.5 PTS+AST,-120,Hit in 14 of his last 17 games,82%
-Caleb Houstan,DAL,Under 1.5 Rebounds,-120,Hit in 14 of his last 17 games,82%
-Josh Giddey,LAL,Under 1.5 Steals,-167,Hit in 14 of his last 17 games,82%
-LeBron James,CHI,Over 0.5 Steals,-263,Hit in 14 of his last 17 games,82%
-Deni Avdija,SAC,Under 0.5 Blocks,-275,Hit in 14 of his last 17 games,82%
-Davion Mitchell,SAS,Under 5.5 Assists,-172,Hit in 9 of his last 11 games,82%
-Myles Turner,WAS,Under 2.5 3PTM,-198,Hit in 9 of his last 11 games,82%
-Khris Middleton,IND,Over 15.5 PTS+AST+REB,-110,Hit in 9 of his last 11 home games,82%
-Bam Adebayo,ATL,Over 1.5 STL+BLK,-145,Hit in 9 of his last 11 games vs ATL,82%
-Jalen Williams,MEM,Over 0.5 Blocks,145,Hit in 9 of his last 11 games,82%
-Amen Thompson,UTA,Under 1.5 Steals,101,Hit in 9 of his last 11 games,82%
-Franz Wagner,DAL,Under 35.5 PTS+AST+REB,-118,Hit in 13 of his last 16 games,81%
-Franz Wagner,DAL,Over 5.5 Rebounds,-112,Hit in 4 of his last 5 games,80%
-Franz Wagner,DAL,Under 1.5 3PTM,-125,Hit in 12 of his last 15 games,80%
-Franz Wagner,DAL,Under 1.5 3PTM,-125,Hit in 4 of his last 5 games vs DAL,80%
-Kentavious Caldwell-Pope,DAL,Over 4.5 REB+AST,100,Hit in 4 of his last 5 games vs DAL,80%
-Anthony Black,DAL,Over 15.5 PTS+AST,-104,Hit in 4 of his last 5 games,80%
-Anthony Black,DAL,Over 15.5 PTS+REB,-110,Hit in 4 of his last 5 games,80%
-W. Carter,DAL,Over 0.5 3PTM,-172,Hit in 4 of his last 5 games,80%
-Anthony Davis,ORL,Over 11.5 REB+AST,-125,Hit in 16 of his last 20 games,80%
-Anthony Davis,ORL,Over 11.5 REB+AST,-125,Hit in 16 of his last 20 away games,80%
-Anthony Davis,ORL,Over 8.5 Rebounds,-128,Hit in 16 of his last 20 games,80%
-Anthony Davis,ORL,Over 8.5 Rebounds,-128,Hit in 16 of his last 20 away games,80%
-Max Strus,SAS,Over 13.5 PTS+REB,-120,Hit in 4 of his last 5 home games,80%
-Harrison Barnes,CLE,Under 12.5 PTS+AST,-130,Hit in 4 of his last 5 games,80%
-Harrison Barnes,CLE,Under 14.5 PTS+REB,-114,Hit in 4 of his last 5 games,80%
-Harrison Barnes,CLE,Under 16.5 PTS+AST+REB,-130,Hit in 4 of his last 5 games,80%
-Bismack Biyombo,CLE,Under 8.5 REB+AST,-140,Hit in 8 of his last 10 games,80%
-Paolo Banchero,DAL,Over 4.5 Assists,-158,Hit in 4 of his last 5 games,80%
-Anthony Davis,ORL,Over 0.5 Double Double,120,Hit in 16 of his last 20 games,80%
-Jarrett Allen,SAS,Over 0.5 Double Double,-125,Hit in 4 of his last 5 home games,80%
-Max Strus,SAS,Over 16.5 PTS+AST+REB,-130,Hit in 4 of his last 5 home games,80%
-De'Andre Hunter,SAS,Over 1.5 3PTM,-192,Hit in 4 of his last 5 games,80%
-De'Andre Hunter,SAS,Over 1.5 3PTM,-192,Hit in 4 of his last 5 games vs SAS,80%
-Bismack Biyombo,CLE,Under 6.5 Rebounds,-120,Hit in 8 of his last 10 games,80%
-Bismack Biyombo,CLE,Under 0.5 Steals,-132,Hit in 4 of his last 5 games,80%
-AJ Johnson,IND,Under 15.5 PTS+AST,-120,Hit in 16 of his last 20 games,80%
-AJ Johnson,IND,Under 11.5 Points,-136,Hit in 16 of his last 20 games,80%
-Khris Middleton,IND,Over 8.5 Points,-135,Hit in 8 of his last 10 games,80%
-Khris Middleton,IND,Over 8.5 Points,-135,Hit in 8 of his last 10 home games,80%
-Andrew Nembhard,WAS,Under 15.5 PTS+AST,-122,Hit in 8 of his last 10 games,80%
-Andrew Nembhard,WAS,Under 18.5 PTS+AST+REB,-110,Hit in 8 of his last 10 games,80%
-Andrew Nembhard,WAS,Under 3.5 Rebounds,-146,Hit in 8 of his last 10 games,80%
-Tyrese Haliburton,WAS,Over 3.5 Rebounds,-114,Hit in 4 of his last 5 games,80%
-Tyrese Haliburton,WAS,Over 18.5 Points,-118,Hit in 4 of his last 5 away games,80%
-Aaron Nesmith,WAS,Over 12.5 Points,100,Hit in 4 of his last 5 away games,80%
-Pascal Siakam,WAS,Over 26.5 PTS+REB,-114,Hit in 4 of his last 5 games vs WAS,80%
-Pascal Siakam,WAS,Over 3.5 Assists,104,Hit in 4 of his last 5 games,80%
-Pascal Siakam,WAS,Over 30.5 PTS+AST+REB,-106,Hit in 4 of his last 5 games vs WAS,80%
-Pascal Siakam,WAS,Over 5.5 Rebounds,-154,Hit in 4 of his last 5 games vs WAS,80%
-AJ Johnson,IND,Under 8.5 REB+AST,-114,Hit in 16 of his last 20 games,80%
-Davion Mitchell,SAS,Under 1.5 Steals,-215,Hit in 12 of his last 15 games,80%
-Khris Middleton,IND,Over 0.5 Steals,-123,Hit in 8 of his last 10 games,80%
-Jordan Poole,IND,Over 5.5 REB+AST,-115,Hit in 16 of his last 20 games,80%
-Jordan Poole,IND,Over 5.5 REB+AST,-115,Hit in 8 of his last 10 home games,80%
-Pascal Siakam,WAS,Over 0.5 Steals,-263,Hit in 8 of his last 10 away games,80%
-Cory Joseph,DAL,Under 1.5 3PTM,-235,Hit in 16 of his last 20 games,80%
-Kentavious Caldwell-Pope,DAL,Under 0.5 Blocks,-325,Hit in 4 of his last 5 games,80%
-Spencer Dinwiddie,ORL,Under 0.5 Blocks,-400,Hit in 4 of his last 5 games vs ORL,80%
-Jarrett Allen,SAS,Under 27.5 PTS+AST+REB,-118,Hit in 4 of his last 5 games,80%
-Khris Middleton,IND,Over 11.5 PTS+AST,-125,Hit in 12 of his last 15 games,80%
-Alexandre Sarr,IND,Over 1.5 3PTM,-160,Hit in 4 of his last 5 home games,80%
-Myles Turner,WAS,Over 1.5 Blocks,-190,Hit in 4 of his last 5 games,80%
-Anthony Black,DAL,Over 18.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games,80%
-Anthony Black,DAL,Over 11.5 Points,-125,Hit in 4 of his last 5 games,80%
-Anthony Davis,ORL,Over 28.5 PTS+REB,-110,Hit in 12 of his last 15 games,80%
-Anthony Davis,ORL,Over 31.5 PTS+AST+REB,-110,Hit in 12 of his last 15 games,80%
-De'Andre Hunter,SAS,Over 19.5 PTS+AST+REB,-110,Hit in 4 of his last 5 games vs SAS,80%
-Blake Wesley,CLE,Under 11.5 PTS+AST+REB,-105,Hit in 16 of his last 20 games,80%
-Blake Wesley,CLE,Under 6.5 Points,-130,Hit in 16 of his last 20 games,80%
-Kannard Johnson,CLE,Under 1.5 3PTM,-210,Hit in 4 of his last 5 games,80%
-Julian Champagnie,CLE,Under 7.5 Points,100,Hit in 4 of his last 5 games,80%
-Julian Champagnie,CLE,Under 12.5 PTS+REB,-135,Hit in 4 of his last 5 games,80%
-De'Andre Hunter,SAS,Over 0.5 Steals,-128,Hit in 4 of his last 5 games vs SAS,80%
-Blake Wesley,CLE,Under 8.5 PTS+REB,-123,Hit in 16 of his last 20 games,80%
-Bennedict Mathurin,WAS,Over 4.5 Rebounds,-125,Hit in 4 of his last 5 games,80%
-Bennedict Mathurin,WAS,Over 6.5 REB+AST,-105,Hit in 4 of his last 5 games,80%
-Bennedict Mathurin,WAS,Over 19.5 PTS+REB,-135,Hit in 4 of his last 5 games vs WAS,80%
-Obi Toppin,WAS,Over 8.5 Points,-130,Hit in 4 of his last 5 away games,80%
-T.J. McConnell,WAS,Under 2.5 Rebounds,-118,Hit in 16 of his last 20 games,80%
-Bam Adebayo,ATL,Under 9.5 Rebounds,-122,Hit in 4 of his last 5 games vs ATL,80%
-Tyler Herro,ATL,Under 6.5 Assists,-162,Hit in 4 of his last 5 games,80%
-Tyler Herro,ATL,Under 6.5 Assists,-162,Hit in 8 of his last 10 games vs ATL,80%
-Mouhamadou Gueye,MIA,Under 7.5 PTS+REB,-118,Hit in 4 of his last 5 games,80%
-Mouhamadou Gueye,MIA,Over 0.5 Assists,-105,Hit in 4 of his last 5 games,80%
-Mouhamadou Gueye,MIA,Under 0.5 3PTM,-115,Hit in 4 of his last 5 games,80%
-Mouhamadou Gueye,MIA,Under 4.5 Points,-115,Hit in 4 of his last 5 games,80%
-Dyson Daniels,MIA,Over 19.5 PTS+REB,-110,Hit in 4 of his last 5 games,80%
-Dyson Daniels,MIA,Over 24.5 PTS+AST+REB,-104,Hit in 4 of his last 5 games,80%
-Onyeka Okongwu,MIA,Over 0.5 3PTM,-130,Hit in 4 of his last 5 away games,80%
-Thaddeus Young,MIA,Over 2.5 3PTM,124,Hit in 4 of his last 5 games,80%
-Aaron Wiggins,ATL,Over 23.5 PTS+AST,-120,Hit in 4 of his last 5 home games,80%
-Aaron Wiggins,ATL,Over 3.5 Rebounds,-158,Hit in 4 of his last 5 games vs ATL,80%
-Aaron Wiggins,ATL,Over 20.5 Points,-112,Hit in 4 of his last 5 home games,80%
-Tyler Herro,ATL,Under 1.5 STL+BLK,-149,Hit in 4 of his last 5 games,80%
-Zaccharie Risacher,MIA,Over 1.5 3PTM,-146,Hit in 4 of his last 5 games,80%
-Thaddeus Young,MIA,Over 27.5 PTS+REB,-104,Hit in 4 of his last 5 games,80%
-Thaddeus Young,MIA,Over 38.5 PTS+AST+REB,-112,Hit in 8 of his last 10 games,80%
-Thaddeus Young,MIA,Over 23.5 Points,-128,Hit in 4 of his last 5 games,80%
-Thaddeus Young,MIA,Over 0.5 Double Double,-220,Hit in 4 of his last 5 games,80%
-Thaddeus Young,MIA,Over 0.5 Double Double,-220,Hit in 4 of his last 5 games vs MIA,80%
-Dyson Daniels,MIA,Over 0.5 3PTM,-190,Hit in 4 of his last 5 games,80%
-Tyler Herro,ATL,Under 1.5 Steals,-220,Hit in 4 of his last 5 games,80%
-Aaron Wiggins,ATL,Over 0.5 Blocks,-190,Hit in 4 of his last 5 games vs ATL,80%
-Terance Mann,MIA,Under 1.5 Assists,-105,Hit in 4 of his last 5 games,80%
-Terance Mann,MIA,Over 14.5 PTS+AST+REB,-105,Hit in 4 of his last 5 away games,80%
-Terance Mann,MIA,Under 1.5 3PTM,-235,Hit in 8 of his last 10 games,80%
-Terance Mann,MIA,Over 8.5 Points,-118,Hit in 4 of his last 5 games vs MIA,80%
-Terance Mann,MIA,Over 8.5 Points,-118,Hit in 4 of his last 5 away games,80%
-Georges Niang,MIA,Over 11.5 Points,-105,Hit in 4 of his last 5 games,80%
-Isaiah Hartenstein,MEM,Over 13.5 REB+AST,-125,Hit in 4 of his last 5 games vs MEM,80%
-Isaiah Hartenstein,MEM,Over 15.5 PTS+AST,-106,Hit in 4 of his last 5 games,80%
-Isaiah Hartenstein,MEM,Over 21.5 PTS+REB,-112,Hit in 4 of his last 5 games,80%
-Isaiah Hartenstein,MEM,Over 21.5 PTS+REB,-112,Hit in 4 of his last 5 games vs MEM,80%
-Isaiah Hartenstein,MEM,Over 3.5 Assists,-132,Hit in 4 of his last 5 games,80%
-Isaiah Hartenstein,MEM,Over 25.5 PTS+AST+REB,-112,Hit in 4 of his last 5 games,80%
-Isaiah Hartenstein,MEM,Over 11.5 Points,-108,Hit in 4 of his last 5 games,80%
-Isaiah Hartenstein,MEM,Over 11.5 Points,-108,Hit in 4 of his last 5 games vs MEM,80%
-Isaiah Hartenstein,MEM,Over 0.5 Double Double,145,Hit in 4 of his last 5 games,80%
-Luguentz Dort,MEM,Under 4.5 Rebounds,-125,Hit in 4 of his last 5 games vs MEM,80%
-Santi Aldama,OKL,Over 2.5 Assists,-162,Hit in 4 of his last 5 games,80%
-Desmond Bane,OKL,Under 5.5 Assists,-136,Hit in 4 of his last 5 games vs OKL,80%
-Desmond Bane,OKL,Over 2.5 3PTM,108,Hit in 4 of his last 5 games vs OKL,80%
-Desmond Bane,OKL,Over 19.5 Points,-132,Hit in 4 of his last 5 games,80%
-Josh Giddey,LAL,Under 8.5 Assists,-106,Hit in 4 of his last 5 games vs LAL,80%
-Josh Giddey,LAL,Over 1.5 3PTM,108,Hit in 4 of his last 5 games,80%
-LeBron James,CHI,Over 7.5 Rebounds,-136,Hit in 4 of his last 5 away games,80%
-LeBron James,CHI,Under 1.5 3PTM,132,Hit in 4 of his last 5 games vs CHI,80%
-Kevin Huerter,LAL,Over 13.5 Points,-110,Hit in 4 of his last 5 games,80%
-Coby White,LAL,Under 8.5 REB+AST,-140,Hit in 4 of his last 5 games,80%
-Coby White,LAL,Under 4.5 Assists,-155,Hit in 8 of his last 10 games,80%
-Coby White,LAL,Over 2.5 3PTM,-165,Hit in 4 of his last 5 home games,80%
-Coby White,LAL,Over 25.5 Points,-120,Hit in 4 of his last 5 games,80%
-Nikola Vučević,LAL,Under 30.5 PTS+AST+REB,-143,Hit in 4 of his last 5 games vs LAL,80%
-Luka Dončić,CHI,Under 39.5 PTS+REB,-135,Hit in 4 of his last 5 games vs CHI,80%
-Luka Dončić,CHI,Under 8.5 Rebounds,-123,Hit in 4 of his last 5 games vs CHI,80%
-LeBron James,CHI,Under 0.5 Blocks,-140,Hit in 4 of his last 5 games vs CHI,80%
-Isaiah Hartenstein,MEM,Over 0.5 Blocks,-175,Hit in 4 of his last 5 games,80%
-Luguentz Dort,MEM,Under 18.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games vs MEM,80%
-Luguentz Dort,MEM,Over 0.5 Blocks,125,Hit in 4 of his last 5 home games,80%
-Shai Gilgeous-Alexander,MEM,Under 1.5 Steals,-144,Hit in 4 of his last 5 games vs MEM,80%
-Zach Edey,OKL,Over 15.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games,80%
-Zach Edey,OKL,Over 6.5 Rebounds,-118,Hit in 4 of his last 5 games,80%
-Luke Kennard,OKL,Over 3.5 Assists,-155,Hit in 4 of his last 5 games,80%
-Luke Kennard,OKL,Over 16.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games,80%
-Luke Kennard,OKL,Under 9.5 Points,-110,Hit in 4 of his last 5 games vs OKL,80%
-Jaylen Wells,OKL,Over 1.5 Assists,-120,Hit in 4 of his last 5 games,80%
-Jaylen Wells,OKL,Over 1.5 Assists,-120,Hit in 4 of his last 5 away games,80%
-Coby White,LAL,Under 30.5 PTS+AST,-125,Hit in 4 of his last 5 games vs LAL,80%
-Matas Buzelis,LAL,Over 3.5 Rebounds,-145,Hit in 4 of his last 5 home games,80%
-Josh Giddey,LAL,Over 29.5 PTS+AST,-108,Hit in 4 of his last 5 games,80%
-Josh Giddey,LAL,Over 0.5 Blocks,105,Hit in 4 of his last 5 games,80%
-Jalen Williams,MEM,Over 16.5 Points,105,Hit in 4 of his last 5 home games,80%
-Jalen Williams,MEM,Over 8.5 REB+AST,110,Hit in 12 of his last 15 games,80%
-Keyonte George,HOU,Under 2.5 3PTM,-135,Hit in 4 of his last 5 games vs HOU,80%
-Johnny Juzang,HOU,Over 1.5 3PTM,-149,Hit in 4 of his last 5 games,80%
-Walker Kessler,HOU,Under 12.5 PTS+AST,-115,Hit in 4 of his last 5 games,80%
-Walker Kessler,HOU,Under 22.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%
-Walker Kessler,HOU,Under 0.5 3PTM,-220,Hit in 16 of his last 20 games,80%
-Collin Sexton,HOU,Over 5.5 REB+AST,-130,Hit in 4 of his last 5 games vs HOU,80%
-Collin Sexton,HOU,Over 19.5 PTS+AST,-125,Hit in 4 of his last 5 games,80%
-Collin Sexton,HOU,Under 1.5 3PTM,-154,Hit in 4 of his last 5 games vs HOU,80%
-Brice Sensabaugh,HOU,Under 1.5 Assists,-130,Hit in 4 of his last 5 games,80%
-KJ Martin,HOU,Under 4.5 REB+AST,-125,Hit in 4 of his last 5 games,80%
-KJ Martin,HOU,Under 7.5 PTS+AST,-137,Hit in 8 of his last 10 games,80%
-KJ Martin,HOU,Over 0.5 Assists,-227,Hit in 4 of his last 5 home games,80%
-KJ Martin,HOU,Under 10.5 PTS+AST+REB,-103,Hit in 4 of his last 5 games,80%
-JaMychal Green,UTA,Over 5.5 Rebounds,128,Hit in 8 of his last 10 games,80%
-Amen Thompson,UTA,Over 23.5 PTS+REB,-106,Hit in 4 of his last 5 games,80%
-Amen Thompson,UTA,Over 27.5 PTS+AST+REB,-108,Hit in 4 of his last 5 games,80%
-Amen Thompson,UTA,Under 0.5 3PTM,-275,Hit in 4 of his last 5 games vs UTA,80%
-Isaiah Collier,HOU,Over 5.5 Assists,-138,Hit in 16 of his last 20 home games,80%
-Collin Sexton,HOU,Over 0.5 Steals,103,Hit in 4 of his last 5 games,80%
-Collin Sexton,HOU,Over 0.5 STL+BLK,-133,Hit in 4 of his last 5 games,80%
-Fred VanVleet,UTA,Over 1.5 Steals,-196,Hit in 4 of his last 5 games vs UTA,80%
-Kyle Filipowski,HOU,Under 1.5 Assists,120,Hit in 4 of his last 5 games,80%
-Collin Sexton,HOU,Over 22.5 PTS+AST+REB,-110,Hit in 4 of his last 5 games,80%
-JaMychal Green,UTA,Over 1.5 Turnovers,-217,Hit in 4 of his last 5 away games,80%
-Malik Monk,POR,Over 9.5 REB+AST,110,Hit in 4 of his last 5 games,80%
-DeMar DeRozan,POR,Over 8.5 REB+AST,-118,Hit in 4 of his last 5 games vs POR,80%
-DeMar DeRozan,POR,Over 30.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games vs POR,80%
-DeMar DeRozan,POR,Over 21.5 Points,-130,Hit in 4 of his last 5 games vs POR,80%
-Zach LaVine,POR,Over 3.5 Assists,-138,Hit in 4 of his last 5 games,80%
-Zach LaVine,POR,Over 3.5 Assists,-138,Hit in 4 of his last 5 home games,80%
-Toumani Camara,SAC,Under 5.5 Rebounds,-136,Hit in 4 of his last 5 games vs SAC,80%
-Anfernee Simons,SAC,Over 24.5 PTS+AST,-112,Hit in 4 of his last 5 away games,80%
-Anfernee Simons,SAC,Over 22.5 PTS+REB,-118,Hit in 4 of his last 5 games vs SAC,80%
-Anfernee Simons,SAC,Over 22.5 PTS+REB,-118,Hit in 4 of his last 5 away games,80%
-Anfernee Simons,SAC,Over 19.5 Points,-130,Hit in 4 of his last 5 games vs SAC,80%
-Anfernee Simons,SAC,Over 19.5 Points,-130,Hit in 4 of his last 5 away games,80%
-Shaedon Sharpe,SAC,Over 2.5 Assists,-148,Hit in 4 of his last 5 games vs SAC,80%
-DeMar DeRozan,POR,Over 4.5 Assists,-125,Hit in 4 of his last 5 games vs POR,80%
-DeMar DeRozan,POR,Over 0.5 Steals,-263,Hit in 4 of his last 5 games,80%
-DeMar DeRozan,POR,Over 0.5 Steals,-263,Hit in 4 of his last 5 games vs POR,80%
-DeMar DeRozan,POR,Over 0.5 Steals,-263,Hit in 4 of his last 5 home games,80%
-Toumani Camara,SAC,Under 7.5 REB+AST,-110,Hit in 4 of his last 5 games vs SAC,80%
-Anfernee Simons,SAC,Over 0.5 Steals,-208,Hit in 4 of his last 5 games vs SAC,80%
-Anfernee Simons,SAC,Over 27.5 PTS+AST+REB,-104,Hit in 4 of his last 5 away games,80%
-Anthony Davis,ORL,Over 0.5 Double Double,120,Hit in 15 of his last 19 away games,79%
-Luguentz Dort,MEM,Under 4.5 Rebounds,-125,Hit in 15 of his last 19 games,79%
-Brice Sensabaugh,HOU,Over 10.5 PTS+AST,-130,Hit in 15 of his last 19 games,79%
-Amen Thompson,UTA,Over 3.5 Assists,-158,Hit in 15 of his last 19 games,79%
-Brice Sensabaugh,HOU,Over 9.5 Points,100,Hit in 15 of his last 19 games,79%
-Chris Paul,CLE,Over 5.5 Assists,-144,Hit in 11 of his last 14 games,79%
-Anthony Davis,ORL,Over 1.5 Blocks,100,Hit in 11 of his last 14 games,79%
-Anthony Black,DAL,Under 6.5 REB+AST,-106,Hit in 11 of his last 14 games,79%
-Luguentz Dort,MEM,Under 13.5 PTS+AST,-110,Hit in 11 of his last 14 games,79%
-W. Carter,DAL,Under 12.5 PTS+AST,-133,Hit in 7 of his last 9 games,78%
-W. Carter,DAL,Under 21.5 PTS+AST+REB,-139,Hit in 7 of his last 9 games,78%
-Anthony Davis,ORL,Over 2.5 Assists,-138,Hit in 7 of his last 9 games,78%
-Devin Vassell,CLE,Over 21.5 PTS+AST,-130,Hit in 7 of his last 9 games,78%
-Khris Middleton,IND,Over 0.5 3PTM,-175,Hit in 7 of his last 9 home games,78%
-Jordan Poole,IND,Over 2.5 Rebounds,105,Hit in 14 of his last 18 home games,78%
-Jordan Poole,IND,Over 0.5 Steals,101,Hit in 7 of his last 9 home games,78%
-Alexandre Sarr,IND,Under 7.5 Rebounds,-150,Hit in 14 of his last 18 games,78%
-Tyrese Haliburton,WAS,Under 0.5 Blocks,-190,Hit in 7 of his last 9 games,78%
-Kannard Johnson,CLE,Over 4.5 Rebounds,-140,Hit in 7 of his last 9 games,78%
-Jeremy Sochan,CLE,Over 1.5 Assists,-165,Hit in 14 of his last 18 games,78%
-T.J. McConnell,WAS,Under 2.5 Rebounds,-118,Hit in 7 of his last 9 games vs WAS,78%
-Thaddeus Young,MIA,Under 35.5 PTS+AST,-122,Hit in 7 of his last 9 games vs MIA,78%
-Onyeka Okongwu,MIA,Over 0.5 Blocks,-210,Hit in 7 of his last 9 away games,78%
-Kel'el Ware,ATL,Under 1.5 Blocks,-186,Hit in 7 of his last 9 games,78%
-Georges Niang,MIA,Over 3.5 Rebounds,110,Hit in 7 of his last 9 away games,78%
-Nikola Vučević,LAL,Under 19.5 PTS+AST,-127,Hit in 7 of his last 9 games,78%
-Nikola Vučević,LAL,Under 30.5 PTS+AST+REB,-143,Hit in 7 of his last 9 games,78%
-Nikola Vučević,LAL,Under 16.5 Points,-132,Hit in 7 of his last 9 games,78%
-Chet Holmgren,MEM,Under 27.5 PTS+AST+REB,-105,Hit in 7 of his last 9 games,78%
-Matas Buzelis,LAL,Under 1.5 Assists,100,Hit in 7 of his last 9 games,78%
-Johnny Juzang,HOU,Over 3.5 REB+AST,-192,Hit in 7 of his last 9 games,78%
-Brice Sensabaugh,HOU,Over 11.5 PTS+REB,-152,Hit in 14 of his last 18 games,78%
-Amen Thompson,UTA,Over 3.5 Assists,-158,Hit in 7 of his last 9 away games,78%
-JaMychal Green,UTA,Over 2.5 3PTM,-174,Hit in 7 of his last 9 games,78%
-Amen Thompson,UTA,Under 3.5 STL+BLK,-182,Hit in 7 of his last 9 games,78%
-Anfernee Simons,SAC,Over 6.5 REB+AST,-144,Hit in 7 of his last 9 away games,78%
-Harrison Barnes,CLE,Over 1.5 3PTM,-138,Hit in 10 of his last 13 games,77%
-Cory Joseph,DAL,Under 0.5 Turnovers,-143,Hit in 10 of his last 13 games,77%
-Luka Dončić,CHI,Over 3.5 Turnovers,-139,Hit in 10 of his last 13 games,77%
-Brice Sensabaugh,HOU,Over 10.5 PTS+AST,-130,Hit in 10 of his last 13 home games,77%
-Brice Sensabaugh,HOU,Over 9.5 Points,100,Hit in 10 of his last 13 home games,77%
-Pascal Siakam,WAS,Over 5.5 Rebounds,-154,Hit in 13 of his last 17 games,76%
-Paolo Banchero,DAL,Under 7.5 Rebounds,-132,Hit in 3 of his last 4 games,75%
-Franz Wagner,DAL,Under 29.5 PTS+AST,-110,Hit in 12 of his last 16 games,75%
-Franz Wagner,DAL,Over 4.5 Assists,-132,Hit in 3 of his last 4 games,75%
-Franz Wagner,DAL,Over 4.5 Assists,-132,Hit in 3 of his last 4 games vs DAL,75%
-Cory Joseph,DAL,Over 8.5 PTS+AST,105,Hit in 3 of his last 4 games,75%
-Cory Joseph,DAL,Over 8.5 PTS+AST,105,Hit in 3 of his last 4 home games,75%
-Cory Joseph,DAL,Under 2.5 Assists,-165,Hit in 15 of his last 20 games,75%
-Cory Joseph,DAL,Over 10.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games,75%
-Cory Joseph,DAL,Over 10.5 PTS+AST+REB,-105,Hit in 3 of his last 4 home games,75%
-Cory Joseph,DAL,Under 2.5 Rebounds,-185,Hit in 15 of his last 20 games,75%
-Cory Joseph,DAL,Under 5.5 Points,-110,Hit in 15 of his last 20 games,75%
-Kentavious Caldwell-Pope,DAL,Over 9.5 PTS+AST,-135,Hit in 6 of his last 8 games vs DAL,75%
-Kentavious Caldwell-Pope,DAL,Over 8.5 Points,-114,Hit in 6 of his last 8 games vs DAL,75%
-W. Carter,DAL,Over 0.5 3PTM,-172,Hit in 3 of his last 4 games vs DAL,75%
-Kevin Thompson,ORL,Under 5.5 REB+AST,-145,Hit in 3 of his last 4 games,75%
-Kevin Thompson,ORL,Over 15.5 PTS+AST,-105,Hit in 3 of his last 4 games vs ORL,75%
-Kevin Thompson,ORL,Over 1.5 Assists,-150,Hit in 6 of his last 8 games,75%
-Kevin Thompson,ORL,Under 3.5 Rebounds,-146,Hit in 3 of his last 4 games,75%
-Kevin Thompson,ORL,Over 2.5 3PTM,-104,Hit in 3 of his last 4 games vs ORL,75%
-Kevin Thompson,ORL,Over 13.5 Points,-106,Hit in 3 of his last 4 games vs ORL,75%
-Naji Marshall,ORL,Under 3.5 Assists,-118,Hit in 6 of his last 8 games,75%
-Naji Marshall,ORL,Under 3.5 Assists,-118,Hit in 3 of his last 4 games vs ORL,75%
-Naji Marshall,ORL,Over 28.5 PTS+AST+REB,-118,Hit in 3 of his last 4 away games,75%
-Spencer Dinwiddie,ORL,Under 3.5 Rebounds,-180,Hit in 15 of his last 20 games,75%
-K.C. Jones,ORL,Under 15.5 PTS+AST+REB,-111,Hit in 15 of his last 20 games,75%
-K.C. Jones,ORL,Under 6.5 Rebounds,-159,Hit in 15 of his last 20 games,75%
-Anthony Davis,ORL,Over 11.5 REB+AST,-125,Hit in 3 of his last 4 games vs ORL,75%
-Anthony Davis,ORL,Under 0.5 3PTM,-140,Hit in 3 of his last 4 games vs ORL,75%
-Davion Mitchell,SAS,Under 4.5 Rebounds,110,Hit in 3 of his last 4 games,75%
-Darius Garland,SAS,Over 6.5 Assists,-128,Hit in 3 of his last 4 home games,75%
-Max Strus,SAS,Under 7.5 REB+AST,-136,Hit in 3 of his last 4 games vs SAS,75%
-Max Strus,SAS,Under 3.5 Assists,-188,Hit in 3 of his last 4 games vs SAS,75%
-Max Strus,SAS,Under 4.5 Rebounds,-162,Hit in 3 of his last 4 games vs SAS,75%
-Max Strus,SAS,Under 2.5 3PTM,-186,Hit in 6 of his last 8 games,75%
-Harrison Barnes,CLE,Over 1.5 3PTM,-138,Hit in 3 of his last 4 games vs CLE,75%
-Devin Vassell,CLE,Over 2.5 Assists,-172,Hit in 12 of his last 16 games,75%
-Paolo Banchero,DAL,Over 33.5 PTS+AST,-106,Hit in 3 of his last 4 games,75%
-Paolo Banchero,DAL,Over 1.5 3PTM,-166,Hit in 3 of his last 4 home games,75%
-W. Carter,DAL,Over 0.5 Blocks,-133,Hit in 6 of his last 8 games,75%
-W. Carter,DAL,Under 0.5 Steals,-152,Hit in 3 of his last 4 games vs DAL,75%
-Naji Marshall,ORL,Under 9.5 REB+AST,110,Hit in 3 of his last 4 games vs ORL,75%
-Spencer Dinwiddie,ORL,Over 17.5 PTS+REB,-122,Hit in 6 of his last 8 games,75%
-Spencer Dinwiddie,ORL,Over 23.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games vs ORL,75%
-Spencer Dinwiddie,ORL,Over 14.5 Points,-118,Hit in 3 of his last 4 away games,75%
-Anthony Davis,ORL,Over 19.5 Points,-106,Hit in 9 of his last 12 games,75%
-Anthony Davis,ORL,Over 0.5 Double Double,120,Hit in 3 of his last 4 games vs ORL,75%
-Davion Mitchell,SAS,Over 25.5 Points,-104,Hit in 3 of his last 4 games vs SAS,75%
-Davion Mitchell,SAS,Over 25.5 Points,-104,Hit in 3 of his last 4 home games,75%
-Harrison Barnes,CLE,Over 10.5 Points,-122,Hit in 3 of his last 4 games vs CLE,75%
-Harrison Barnes,CLE,Over 0.5 STL+BLK,-118,Hit in 3 of his last 4 games vs CLE,75%
-Stephon Castle,CLE,Under 8.5 REB+AST,-146,Hit in 6 of his last 8 games,75%
-Stephon Castle,CLE,Over 3.5 Rebounds,-162,Hit in 3 of his last 4 away games,75%
-Devin Vassell,CLE,Over 4.5 Rebounds,-110,Hit in 6 of his last 8 away games,75%
-Tyrese Haliburton,WAS,Over 32.5 PTS+AST+REB,-125,Hit in 6 of his last 8 games vs WAS,75%
-Tyrese Haliburton,WAS,Over 2.5 3PTM,-136,Hit in 6 of his last 8 games vs WAS,75%
-Myles Turner,WAS,Over 7.5 Rebounds,-122,Hit in 3 of his last 4 games vs WAS,75%
-Pascal Siakam,WAS,Over 20.5 Points,-112,Hit in 3 of his last 4 games vs WAS,75%
-Paolo Banchero,DAL,Over 35.5 PTS+REB,-114,Hit in 3 of his last 4 home games,75%
-K.C. Jones,ORL,Under 8.5 Points,-149,Hit in 15 of his last 20 games,75%
-Pascal Siakam,WAS,Over 24.5 PTS+AST,-102,Hit in 3 of his last 4 games vs WAS,75%
-Davion Mitchell,SAS,Under 2.5 Turnovers,-175,Hit in 3 of his last 4 games,75%
-Davion Mitchell,SAS,Under 1.5 Steals,-215,Hit in 3 of his last 4 games vs SAS,75%
-Darius Garland,SAS,Over 2.5 Turnovers,108,Hit in 6 of his last 8 games,75%
-Carlton Carrington,IND,Over 9.5 REB+AST,108,Hit in 3 of his last 4 home games,75%
-Carlton Carrington,IND,Over 4.5 Rebounds,100,Hit in 3 of his last 4 home games,75%
-Jordan Poole,IND,Over 0.5 Steals,101,Hit in 15 of his last 20 games,75%
-Andrew Nembhard,WAS,Under 13.5 PTS+REB,-108,Hit in 3 of his last 4 games,75%
-Andrew Nembhard,WAS,Under 10.5 Points,-125,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,WAS,Under 1.5 Steals,100,Hit in 6 of his last 8 games vs WAS,75%
-Aaron Nesmith,WAS,Under 1.5 Assists,-125,Hit in 3 of his last 4 games,75%
-Myles Turner,WAS,Over 15.5 Points,-125,Hit in 3 of his last 4 games,75%
-Myles Turner,WAS,Over 9.5 REB+AST,-105,Hit in 3 of his last 4 games,75%
-Myles Turner,WAS,Under 1.5 Assists,-175,Hit in 3 of his last 4 games vs WAS,75%
-Pascal Siakam,WAS,Over 1.5 Turnovers,-122,Hit in 6 of his last 8 games,75%
-Paolo Banchero,DAL,Under 0.5 Blocks,-145,Hit in 3 of his last 4 games,75%
-Franz Wagner,DAL,Under 0.5 Steals,114,Hit in 3 of his last 4 games,75%
-Cory Joseph,DAL,Over 7.5 PTS+REB,-135,Hit in 3 of his last 4 home games,75%
-Kentavious Caldwell-Pope,DAL,Under 0.5 Blocks,-325,Hit in 3 of his last 4 games vs DAL,75%
-Spencer Dinwiddie,ORL,Over 20.5 PTS+AST,-112,Hit in 3 of his last 4 away games,75%
-Anthony Davis,ORL,Over 22.5 PTS+AST,-110,Hit in 9 of his last 12 games,75%
-Chris Paul,CLE,Over 0.5 Blocks,450,Hit in 3 of his last 4 games,75%
-Stephon Castle,CLE,Over 0.5 Blocks,290,Hit in 3 of his last 4 games,75%
-Alexandre Sarr,IND,Over 20.5 PTS+AST,-105,Hit in 6 of his last 8 games,75%
-Alexandre Sarr,IND,Over 20.5 PTS+AST,-105,Hit in 3 of his last 4 home games,75%
-Alexandre Sarr,IND,Over 24.5 PTS+REB,-125,Hit in 3 of his last 4 home games,75%
-Alexandre Sarr,IND,Over 27.5 PTS+AST+REB,-110,Hit in 3 of his last 4 home games,75%
-Alexandre Sarr,IND,Over 1.5 3PTM,-160,Hit in 6 of his last 8 games,75%
-Alexandre Sarr,IND,Over 17.5 Points,-110,Hit in 6 of his last 8 games,75%
-Alexandre Sarr,IND,Over 17.5 Points,-110,Hit in 3 of his last 4 home games,75%
-Alexandre Sarr,IND,Over 1.5 Blocks,125,Hit in 6 of his last 8 home games,75%
-Myles Turner,WAS,Over 16.5 PTS+AST,-130,Hit in 3 of his last 4 games,75%
-Myles Turner,WAS,Over 1.5 Blocks,-190,Hit in 3 of his last 4 games vs WAS,75%
-Pascal Siakam,WAS,Under 0.5 Blocks,-185,Hit in 3 of his last 4 games,75%
-De'Andre Hunter,SAS,Over 19.5 PTS+AST+REB,-110,Hit in 3 of his last 4 home games,75%
-Kannard Johnson,CLE,Over 1.5 Assists,-165,Hit in 3 of his last 4 games vs CLE,75%
-Julian Champagnie,CLE,Under 13.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games,75%
-Julian Champagnie,CLE,Under 4.5 Rebounds,-160,Hit in 15 of his last 20 games,75%
-Jeremy Sochan,CLE,Over 17.5 PTS+AST+REB,-110,Hit in 6 of his last 8 games,75%
-Jeremy Sochan,CLE,Under 5.5 Rebounds,-105,Hit in 3 of his last 4 games vs CLE,75%
-Jeremy Sochan,CLE,Under 0.5 3PTM,-185,Hit in 3 of his last 4 games,75%
-Jeremy Sochan,CLE,Under 0.5 3PTM,-185,Hit in 3 of his last 4 games vs CLE,75%
-Jeremy Sochan,CLE,Over 9.5 Points,-115,Hit in 6 of his last 8 games,75%
-Jeremy Sochan,CLE,Over 15.5 PTS+REB,-132,Hit in 6 of his last 8 games,75%
-Tyrese Haliburton,WAS,Over 29.5 PTS+AST,-108,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,WAS,Over 29.5 PTS+AST,-108,Hit in 6 of his last 8 games vs WAS,75%
-Tyrese Haliburton,WAS,Over 22.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,WAS,Over 22.5 PTS+REB,-112,Hit in 6 of his last 8 games vs WAS,75%
-Paolo Banchero,DAL,Over 27.5 Points,-125,Hit in 3 of his last 4 home games,75%
-Blake Wesley,CLE,Under 9.5 PTS+AST,-125,Hit in 15 of his last 20 games,75%
-Kannard Johnson,CLE,Over 6.5 REB+AST,-161,Hit in 6 of his last 8 games,75%
-Kannard Johnson,CLE,Under 0.5 Steals,-128,Hit in 3 of his last 4 games,75%
-Julian Champagnie,CLE,Under 9.5 PTS+AST,-130,Hit in 3 of his last 4 games,75%
-Jeremy Sochan,CLE,Over 11.5 PTS+AST,-132,Hit in 6 of his last 8 games,75%
-Carlton Carrington,IND,Over 19.5 PTS+AST+REB,-128,Hit in 3 of his last 4 home games,75%
-Bennedict Mathurin,WAS,Over 1.5 Assists,105,Hit in 3 of his last 4 games,75%
-Bennedict Mathurin,WAS,Under 1.5 3PTM,-175,Hit in 3 of his last 4 games vs WAS,75%
-Obi Toppin,WAS,Over 1.5 Assists,175,Hit in 3 of his last 4 games vs WAS,75%
-Obi Toppin,WAS,Over 4.5 Rebounds,115,Hit in 3 of his last 4 games vs WAS,75%
-T.J. McConnell,WAS,Over 4.5 Assists,-125,Hit in 3 of his last 4 games vs WAS,75%
-Aaron Wiggins,ATL,Over 24.5 PTS+REB,-114,Hit in 9 of his last 12 games,75%
-Aaron Wiggins,ATL,Under 2.5 3PTM,-188,Hit in 12 of his last 16 games,75%
-Tyler Herro,ATL,Under 10.5 REB+AST,-106,Hit in 6 of his last 8 games vs ATL,75%
-Tyler Herro,ATL,Over 28.5 PTS+AST,-120,Hit in 3 of his last 4 games vs ATL,75%
-Tyler Herro,ATL,Over 33.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games vs ATL,75%
-Mouhamadou Gueye,MIA,Over 3.5 REB+AST,-118,Hit in 6 of his last 8 games,75%
-Dyson Daniels,MIA,Over 5.5 Rebounds,-125,Hit in 3 of his last 4 games vs MIA,75%
-Onyeka Okongwu,MIA,Over 10.5 Rebounds,102,Hit in 3 of his last 4 away games,75%
-Thaddeus Young,MIA,Under 14.5 REB+AST,-138,Hit in 3 of his last 4 games,75%
-Thaddeus Young,MIA,Over 11.5 Assists,114,Hit in 3 of his last 4 games vs MIA,75%
-Thaddeus Young,MIA,Over 11.5 Assists,114,Hit in 3 of his last 4 away games,75%
-Thaddeus Young,MIA,Over 2.5 3PTM,124,Hit in 15 of his last 20 away games,75%
-Bam Adebayo,ATL,Under 24.5 PTS+AST,-118,Hit in 6 of his last 8 games,75%
-Bam Adebayo,ATL,Under 29.5 PTS+REB,-108,Hit in 6 of his last 8 games,75%
-Bam Adebayo,ATL,Under 33.5 PTS+AST+REB,-106,Hit in 6 of his last 8 games,75%
-Bam Adebayo,ATL,Under 20.5 Points,-122,Hit in 6 of his last 8 games,75%
-Bam Adebayo,ATL,Over 1.5 STL+BLK,-145,Hit in 3 of his last 4 home games,75%
-Kel'el Ware,ATL,Over 9.5 Rebounds,-108,Hit in 3 of his last 4 games,75%
-Kel'el Ware,ATL,Over 9.5 Rebounds,-108,Hit in 3 of his last 4 home games,75%
-Kel'el Ware,ATL,Over 0.5 Double Double,160,Hit in 3 of his last 4 games,75%
-Kel'el Ware,ATL,Over 0.5 Double Double,160,Hit in 3 of his last 4 home games,75%
-Mouhamadou Gueye,MIA,Under 0.5 Blocks,-115,Hit in 3 of his last 4 games,75%
-Dyson Daniels,MIA,Under 13.5 Points,-114,Hit in 3 of his last 4 games vs MIA,75%
-Thaddeus Young,MIA,Under 2.5 Rebounds,128,Hit in 3 of his last 4 games,75%
-Thaddeus Young,MIA,Over 0.5 Double Double,-220,Hit in 3 of his last 4 away games,75%
-Aaron Wiggins,ATL,Under 2.5 Turnovers,-185,Hit in 3 of his last 4 games,75%
-Aaron Wiggins,ATL,Over 1.5 Steals,144,Hit in 3 of his last 4 home games,75%
-Bam Adebayo,ATL,Over 0.5 Blocks,-105,Hit in 9 of his last 12 games vs ATL,75%
-Kel'el Ware,ATL,Over 20.5 PTS+REB,-128,Hit in 3 of his last 4 games,75%
-Kel'el Ware,ATL,Over 20.5 PTS+REB,-128,Hit in 3 of his last 4 home games,75%
-Aaron Wiggins,ATL,Over 0.5 Blocks,-190,Hit in 6 of his last 8 games,75%
-Mouhamadou Gueye,MIA,Over 2.5 Rebounds,-155,Hit in 6 of his last 8 games,75%
-Dyson Daniels,MIA,Under 0.5 Blocks,-200,Hit in 9 of his last 12 games,75%
-Dyson Daniels,MIA,Under 0.5 Blocks,-200,Hit in 3 of his last 4 games vs MIA,75%
-Zaccharie Risacher,MIA,Over 0.5 Assists,-155,Hit in 3 of his last 4 games,75%
-Zaccharie Risacher,MIA,Over 18.5 PTS+AST+REB,100,Hit in 3 of his last 4 games,75%
-Zaccharie Risacher,MIA,Over 18.5 PTS+AST+REB,100,Hit in 9 of his last 12 away games,75%
-Terance Mann,MIA,Over 14.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games vs MIA,75%
-Georges Niang,MIA,Over 16.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games vs MIA,75%
-Georges Niang,MIA,Over 2.5 3PTM,100,Hit in 6 of his last 8 games vs MIA,75%
-Isaiah Hartenstein,MEM,Over 15.5 PTS+AST,-106,Hit in 3 of his last 4 games vs MEM,75%
-Shai Gilgeous-Alexander,MEM,Under 40.5 PTS+AST,-122,Hit in 6 of his last 8 games vs MEM,75%
-Shai Gilgeous-Alexander,MEM,Under 32.5 Points,-102,Hit in 6 of his last 8 games vs MEM,75%
-Chet Holmgren,MEM,Under 8.5 Rebounds,-154,Hit in 3 of his last 4 games,75%
-Santi Aldama,OKL,Under 9.5 REB+AST,-122,Hit in 3 of his last 4 games,75%
-Santi Aldama,OKL,Over 2.5 Assists,-162,Hit in 6 of his last 8 away games,75%
-Desmond Bane,OKL,Under 5.5 Assists,-136,Hit in 3 of his last 4 games,75%
-Desmond Bane,OKL,Under 32.5 PTS+AST+REB,-122,Hit in 6 of his last 8 games,75%
-Desmond Bane,OKL,Under 6.5 Rebounds,-140,Hit in 3 of his last 4 games,75%
-Desmond Bane,OKL,Over 19.5 Points,-132,Hit in 3 of his last 4 games vs OKL,75%
-Jaylen Wells,OKL,Under 11.5 PTS+REB,-118,Hit in 6 of his last 8 games,75%
-Jaylen Wells,OKL,Under 1.5 3PTM,-158,Hit in 6 of his last 8 games,75%
-Jaylen Wells,OKL,Under 8.5 Points,-136,Hit in 6 of his last 8 games,75%
-Josh Giddey,LAL,Under 8.5 Rebounds,-122,Hit in 3 of his last 4 games vs LAL,75%
-Josh Giddey,LAL,Over 0.5 Double Double,-170,Hit in 9 of his last 12 games,75%
-LeBron James,CHI,Over 24.5 Points,-106,Hit in 3 of his last 4 games vs CHI,75%
-Shai Gilgeous-Alexander,MEM,Over 6.5 Assists,-132,Hit in 3 of his last 4 games,75%
-Kevin Huerter,LAL,Under 7.5 REB+AST,-135,Hit in 15 of his last 20 games,75%
-Kevin Huerter,LAL,Under 17.5 PTS+REB,-118,Hit in 15 of his last 20 games,75%
-Coby White,LAL,Over 2.5 3PTM,-165,Hit in 3 of his last 4 games,75%
-Josh Giddey,LAL,Under 17.5 REB+AST,-125,Hit in 3 of his last 4 games,75%
-Josh Giddey,LAL,Under 17.5 REB+AST,-125,Hit in 3 of his last 4 games vs LAL,75%
-Josh Giddey,LAL,Over 28.5 PTS+REB,-122,Hit in 3 of his last 4 home games,75%
-Nikola Vučević,LAL,Under 26.5 PTS+REB,-127,Hit in 6 of his last 8 games,75%
-Nikola Vučević,LAL,Over 10.5 Rebounds,-114,Hit in 3 of his last 4 home games,75%
-Luka Dončić,CHI,Over 7.5 Assists,-130,Hit in 3 of his last 4 games vs CHI,75%
-Luka Dončić,CHI,Over 3.5 Turnovers,-139,Hit in 3 of his last 4 games vs CHI,75%
-LeBron James,CHI,Under 7.5 Assists,-132,Hit in 9 of his last 12 games,75%
-LeBron James,CHI,Over 7.5 Rebounds,-136,Hit in 9 of his last 12 games,75%
-Luguentz Dort,MEM,Under 6.5 REB+AST,-118,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,MEM,Under 37.5 PTS+REB,-106,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,MEM,Under 1.5 Steals,-144,Hit in 6 of his last 8 games,75%
-Shai Gilgeous-Alexander,MEM,Over 0.5 Blocks,-155,Hit in 3 of his last 4 games vs MEM,75%
-Shai Gilgeous-Alexander,MEM,Over 0.5 Blocks,-155,Hit in 3 of his last 4 home games,75%
-Luke Kennard,OKL,Over 3.5 Assists,-155,Hit in 3 of his last 4 away games,75%
-Luke Kennard,OKL,Over 16.5 PTS+AST+REB,-125,Hit in 3 of his last 4 away games,75%
-Luke Kennard,OKL,Under 1.5 3PTM,115,Hit in 9 of his last 12 games,75%
-Luke Kennard,OKL,Under 9.5 Points,-110,Hit in 3 of his last 4 games,75%
-Kevin Huerter,LAL,Under 3.5 Rebounds,115,Hit in 3 of his last 4 games,75%
-Kevin Huerter,LAL,Under 1.5 Steals,-141,Hit in 3 of his last 4 games vs LAL,75%
-Matas Buzelis,LAL,Under 5.5 REB+AST,-105,Hit in 6 of his last 8 games,75%
-Matas Buzelis,LAL,Under 13.5 PTS+AST,100,Hit in 6 of his last 8 games,75%
-Matas Buzelis,LAL,Under 16.5 PTS+REB,-125,Hit in 6 of his last 8 games,75%
-Matas Buzelis,LAL,Under 18.5 PTS+AST+REB,-130,Hit in 6 of his last 8 games,75%
-Matas Buzelis,LAL,Under 12.5 Points,-130,Hit in 6 of his last 8 games,75%
-Jalen Williams,MEM,Over 4.5 Assists,125,Hit in 3 of his last 4 home games,75%
-Jalen Williams,MEM,Over 16.5 Points,105,Hit in 3 of his last 4 games vs MEM,75%
-Jalen Williams,MEM,Over 0.5 Blocks,145,Hit in 3 of his last 4 home games,75%
-Shai Gilgeous-Alexander,MEM,Under 45.5 PTS+AST+REB,-110,Hit in 6 of his last 8 games vs MEM,75%
-Keyonte George,HOU,Over 8.5 REB+AST,-135,Hit in 3 of his last 4 games vs HOU,75%
-Keyonte George,HOU,Over 18.5 PTS+REB,-145,Hit in 3 of his last 4 games vs HOU,75%
-Keyonte George,HOU,Over 3.5 Rebounds,110,Hit in 3 of his last 4 games,75%
-Keyonte George,HOU,Over 3.5 Rebounds,110,Hit in 3 of his last 4 games vs HOU,75%
-Keyonte George,HOU,Over 3.5 Rebounds,110,Hit in 3 of his last 4 home games,75%
-Johnny Juzang,HOU,Over 3.5 REB+AST,-192,Hit in 3 of his last 4 home games,75%
-Johnny Juzang,HOU,Under 2.5 Rebounds,110,Hit in 3 of his last 4 games vs HOU,75%
-Walker Kessler,HOU,Over 11.5 REB+AST,-140,Hit in 15 of his last 20 games,75%
-Walker Kessler,HOU,Over 1.5 Assists,100,Hit in 3 of his last 4 games,75%
-Walker Kessler,HOU,Over 1.5 Assists,100,Hit in 3 of his last 4 home games,75%
-Collin Sexton,HOU,Over 19.5 PTS+AST,-125,Hit in 3 of his last 4 home games,75%
-Brice Sensabaugh,HOU,Over 10.5 PTS+AST,-130,Hit in 3 of his last 4 games vs HOU,75%
-Brice Sensabaugh,HOU,Over 11.5 PTS+REB,-152,Hit in 3 of his last 4 games vs HOU,75%
-Brice Sensabaugh,HOU,Over 11.5 PTS+REB,-152,Hit in 9 of his last 12 home games,75%
-Brice Sensabaugh,HOU,Over 1.5 3PTM,-110,Hit in 3 of his last 4 games vs HOU,75%
-JR Smith,UTA,Under 13.5 PTS+AST,-132,Hit in 3 of his last 4 games vs UTA,75%
-JR Smith,UTA,Under 18.5 PTS+REB,-120,Hit in 3 of his last 4 games,75%
-JR Smith,UTA,Under 18.5 PTS+REB,-120,Hit in 3 of his last 4 games vs UTA,75%
-JR Smith,UTA,Under 19.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%
-JR Smith,UTA,Under 19.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games vs UTA,75%
-JR Smith,UTA,Over 1.5 3PTM,-135,Hit in 3 of his last 4 away games,75%
-JR Smith,UTA,Under 12.5 Points,-137,Hit in 3 of his last 4 games vs UTA,75%
-JaMychal Green,UTA,Under 9.5 REB+AST,-152,Hit in 3 of his last 4 games,75%
-JaMychal Green,UTA,Under 9.5 REB+AST,-152,Hit in 6 of his last 8 games vs UTA,75%
-JaMychal Green,UTA,Over 27.5 PTS+AST,-114,Hit in 3 of his last 4 games vs UTA,75%
-JaMychal Green,UTA,Over 23.5 Points,-110,Hit in 3 of his last 4 games vs UTA,75%
-Amen Thompson,UTA,Over 12.5 REB+AST,-114,Hit in 3 of his last 4 games vs UTA,75%
-Amen Thompson,UTA,Over 3.5 Assists,-158,Hit in 3 of his last 4 games vs UTA,75%
-Fred VanVleet,UTA,Over 8.5 REB+AST,-110,Hit in 3 of his last 4 games vs UTA,75%
-Fred VanVleet,UTA,Over 19.5 PTS+AST,-125,Hit in 3 of his last 4 games,75%
-Fred VanVleet,UTA,Over 17.5 PTS+REB,-120,Hit in 3 of his last 4 games,75%
-Fred VanVleet,UTA,Over 2.5 3PTM,-108,Hit in 3 of his last 4 games,75%
-Fred VanVleet,UTA,Over 14.5 Points,-110,Hit in 3 of his last 4 games,75%
-Isaiah Collier,HOU,Under 9.5 REB+AST,-125,Hit in 3 of his last 4 games,75%
-Isaiah Collier,HOU,Over 5.5 Assists,-138,Hit in 15 of his last 20 games,75%
-Isaiah Collier,HOU,Over 20.5 PTS+AST+REB,-118,Hit in 6 of his last 8 games,75%
-Isaiah Collier,HOU,Over 3.5 Rebounds,104,Hit in 6 of his last 8 games,75%
-Kyle Filipowski,HOU,Over 1.5 3PTM,100,Hit in 3 of his last 4 games,75%
-Kyle Filipowski,HOU,Over 1.5 3PTM,100,Hit in 6 of his last 8 home games,75%
-Kyle Filipowski,HOU,Over 12.5 Points,-104,Hit in 3 of his last 4 games,75%
-Kyle Filipowski,HOU,Over 12.5 Points,-104,Hit in 3 of his last 4 home games,75%
-JaMychal Green,UTA,Over 2.5 3PTM,-174,Hit in 3 of his last 4 games vs UTA,75%
-Amen Thompson,UTA,Over 14.5 Points,-118,Hit in 3 of his last 4 games,75%
-Walker Kessler,HOU,Under 2.5 Blocks,-140,Hit in 3 of his last 4 games,75%
-Collin Sexton,HOU,Over 0.5 Steals,103,Hit in 3 of his last 4 games vs HOU,75%
-Brice Sensabaugh,HOU,Under 0.5 STL+BLK,105,Hit in 3 of his last 4 games vs HOU,75%
-JR Smith,UTA,Over 0.5 Assists,-227,Hit in 6 of his last 8 games,75%
-JaMychal Green,UTA,Under 1.5 Steals,-222,Hit in 3 of his last 4 games,75%
-Amen Thompson,UTA,Over 1.5 Turnovers,-112,Hit in 6 of his last 8 games,75%
-JR Smith,UTA,Under 0.5 Steals,-118,Hit in 3 of his last 4 games vs UTA,75%
-JaMychal Green,UTA,Over 32.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games vs UTA,75%
-Amen Thompson,UTA,Over 18.5 PTS+AST,-125,Hit in 3 of his last 4 games,75%
-Isaiah Collier,HOU,Over 0.5 3PTM,-175,Hit in 3 of his last 4 games,75%
-Isaiah Collier,HOU,Over 0.5 3PTM,-175,Hit in 3 of his last 4 home games,75%
-Collin Sexton,HOU,Over 22.5 PTS+AST+REB,-110,Hit in 3 of his last 4 home games,75%
-Brice Sensabaugh,HOU,Over 14.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games vs HOU,75%
-Brice Sensabaugh,HOU,Under 3.5 Rebounds,-160,Hit in 3 of his last 4 games,75%
-Brice Sensabaugh,HOU,Over 9.5 Points,100,Hit in 3 of his last 4 games vs HOU,75%
-C.J. Williams,HOU,Under 9.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%
-JaMychal Green,UTA,Under 0.5 Blocks,-250,Hit in 3 of his last 4 games,75%
-JaMychal Green,UTA,Over 1.5 Turnovers,-217,Hit in 15 of his last 20 games,75%
-JaMychal Green,UTA,Over 1.5 Turnovers,-217,Hit in 6 of his last 8 games vs UTA,75%
-Fred VanVleet,UTA,Over 0.5 Blocks,135,Hit in 3 of his last 4 games vs UTA,75%
-Dillon Brooks,UTA,Over 1.5 Assists,-175,Hit in 6 of his last 8 games,75%
-Fred VanVleet,UTA,Over 23.5 PTS+AST+REB,-102,Hit in 3 of his last 4 games,75%
-Domantas Sabonis,POR,Over 18.5 REB+AST,-114,Hit in 3 of his last 4 games vs POR,75%
-Domantas Sabonis,POR,Over 28.5 PTS+REB,-122,Hit in 15 of his last 20 home games,75%
-Domantas Sabonis,POR,Over 5.5 Assists,-138,Hit in 3 of his last 4 games vs POR,75%
-Domantas Sabonis,POR,Over 34.5 PTS+AST+REB,-122,Hit in 15 of his last 20 home games,75%
-Domantas Sabonis,POR,Over 12.5 Rebounds,-114,Hit in 12 of his last 16 home games,75%
-Malik Monk,POR,Under 5.5 Assists,-136,Hit in 3 of his last 4 games vs POR,75%
-Keegan Murray,POR,Over 5.5 Rebounds,-148,Hit in 3 of his last 4 games,75%
-Keegan Murray,POR,Over 5.5 Rebounds,-148,Hit in 3 of his last 4 home games,75%
-Keegan Murray,POR,Under 1.5 Assists,-155,Hit in 3 of his last 4 games vs POR,75%
-DeMar DeRozan,POR,Over 21.5 Points,-130,Hit in 9 of his last 12 games,75%
-Zach LaVine,POR,Over 7.5 REB+AST,-112,Hit in 3 of his last 4 games vs POR,75%
-Zach LaVine,POR,Under 25.5 PTS+AST,-118,Hit in 6 of his last 8 games,75%
-Zach LaVine,POR,Over 3.5 Assists,-138,Hit in 3 of his last 4 games vs POR,75%
-Zach LaVine,POR,Under 2.5 3PTM,104,Hit in 3 of his last 4 games,75%
-Anfernee Simons,SAC,Over 24.5 PTS+AST,-112,Hit in 3 of his last 4 games vs SAC,75%
-Shaedon Sharpe,SAC,Over 27.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games,75%
-Deni Avdija,SAC,Over 4.5 Assists,-154,Hit in 6 of his last 8 games,75%
-Deni Avdija,SAC,Over 8.5 Rebounds,-102,Hit in 3 of his last 4 games,75%
-Deni Avdija,SAC,Over 1.5 3PTM,-174,Hit in 3 of his last 4 games vs SAC,75%
-Deni Avdija,SAC,Over 0.5 Double Double,135,Hit in 3 of his last 4 games,75%
-Domantas Sabonis,POR,Under 0.5 Blocks,-225,Hit in 15 of his last 20 games,75%
-Keegan Murray,POR,Over 18.5 PTS+REB,-130,Hit in 3 of his last 4 games,75%
-Keegan Murray,POR,Over 18.5 PTS+REB,-130,Hit in 3 of his last 4 home games,75%
-Keegan Murray,POR,Over 21.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games,75%
-Keegan Murray,POR,Over 21.5 PTS+AST+REB,-120,Hit in 3 of his last 4 home games,75%
-DeMar DeRozan,POR,Over 4.5 Assists,-125,Hit in 9 of his last 12 games,75%
-DeMar DeRozan,POR,Over 4.5 Assists,-125,Hit in 6 of his last 8 home games,75%
-Zach LaVine,POR,Over 2.5 Turnovers,-130,Hit in 3 of his last 4 games vs POR,75%
-Zach LaVine,POR,Over 2.5 Turnovers,-130,Hit in 12 of his last 16 home games,75%
-Shaedon Sharpe,SAC,Over 7.5 REB+AST,-136,Hit in 3 of his last 4 games,75%
-Keegan Murray,POR,Under 15.5 PTS+AST,-120,Hit in 3 of his last 4 games,75%
-Keegan Murray,POR,Over 0.5 Blocks,-210,Hit in 3 of his last 4 games,75%
-Keegan Murray,POR,Over 0.5 Blocks,-210,Hit in 3 of his last 4 home games,75%
-Toumani Camara,SAC,Under 0.5 Blocks,-145,Hit in 3 of his last 4 games,75%
-Anfernee Simons,SAC,Over 6.5 REB+AST,-144,Hit in 3 of his last 4 games vs SAC,75%
-Anfernee Simons,SAC,Over 27.5 PTS+AST+REB,-104,Hit in 3 of his last 4 games vs SAC,75%
-Donovan Clingan,SAC,Over 10.5 REB+AST,-105,Hit in 3 of his last 4 away games,75%
-Donovan Clingan,SAC,Over 18.5 PTS+AST+REB,-130,Hit in 3 of his last 4 away games,75%
-Donovan Clingan,SAC,Over 1.5 Blocks,-186,Hit in 6 of his last 8 games,75%
-Domantas Sabonis,POR,Over 22.5 PTS+AST,-102,Hit in 15 of his last 20 home games,75%
-Donovan Clingan,SAC,Over 17.5 PTS+REB,-130,Hit in 3 of his last 4 away games,75%
-Franz Wagner,DAL,Under 1.5 3PTM,-125,DAL rank 4th in 3PTM against,4th
-Kentavious Caldwell-Pope,DAL,Over 2.5 Rebounds,-102,DAL rank 26th in REB versus SG,26th
-Kevin Thompson,ORL,Under 3.5 Rebounds,-146,ORL rank 3rd in REB against,3rd
-Naji Marshall,ORL,Under 3.5 Assists,-118,ORL rank 1st in AST against,1st
-Naji Marshall,ORL,Under 6.5 Rebounds,-132,ORL rank 3rd in REB against,3rd
-Naji Marshall,ORL,Under 1.5 3PTM,-225,ORL rank 1st in 3PTM versus SF,1st
-Spencer Dinwiddie,ORL,Under 3.5 Rebounds,-180,ORL rank 3rd in REB versus PG,3rd
-K.C. Jones,ORL,Under 6.5 Rebounds,-159,ORL rank 4th in REB versus C,4th
-Anthony Davis,ORL,Under 0.5 3PTM,-140,ORL rank 1st in 3PTM against,1st
-Jarrett Allen,SAS,Over 14.5 Points,-114,SAS rank 29th in PTS versus C,29th
-Chris Paul,CLE,Under 2.5 Rebounds,-135,CLE rank 1st in REB versus PG,1st
-Harrison Barnes,CLE,Over 1.5 Assists,140,CLE rank 26th in AST versus PF,26th
-Bismack Biyombo,CLE,Under 5.5 Points,-120,CLE rank 5th in PTS versus C,5th
-Anthony Black,DAL,Over 1.5 Turnovers,-133,DAL rank 5th in TO versus PG,5th
-Darius Garland,SAS,Over 3.5 Rebounds,-120,SAS rank 28th in REB against,28th
-De'Andre Hunter,SAS,Over 4.5 Rebounds,-114,SAS rank 30th in REB versus SF,30th
-Harrison Barnes,CLE,Over 3.5 Rebounds,-125,CLE rank 26th in REB versus PF,26th
-AJ Johnson,IND,Under 1.5 3PTM,-158,IND rank 5th in 3PTM against,5th
-Carlton Carrington,IND,Under 1.5 3PTM,-102,IND rank 5th in 3PTM against,5th
-Andrew Nembhard,WAS,Over 4.5 Assists,-136,WAS rank 28th in AST versus SG,28th
-Tyrese Haliburton,WAS,Over 10.5 Assists,-114,WAS rank 26th in AST against,26th
-Tyrese Haliburton,WAS,Over 3.5 Rebounds,-114,WAS rank 30th in REB against,30th
-Tyrese Haliburton,WAS,Over 2.5 3PTM,-136,WAS rank 27th in 3PTM against,27th
-Tyrese Haliburton,WAS,Over 18.5 Points,-118,WAS rank 30th in PTS against,30th
-Aaron Nesmith,WAS,Over 12.5 Points,100,WAS rank 30th in PTS against,30th
-Pascal Siakam,WAS,Over 3.5 Assists,104,WAS rank 27th in AST versus PF,27th
-Pascal Siakam,WAS,Over 5.5 Rebounds,-154,WAS rank 29th in REB versus PF,29th
-Pascal Siakam,WAS,Over 20.5 Points,-112,WAS rank 30th in PTS against,30th
-K.C. Jones,ORL,Under 8.5 Points,-149,ORL rank 1st in PTS against,1st
-Aaron Nesmith,WAS,Over 1.5 3PTM,-168,WAS rank 27th in 3PTM against,27th
-Myles Turner,WAS,Over 7.5 Rebounds,-122,WAS rank 30th in REB versus C,30th
-Jarrett Allen,SAS,Under 1.5 Blocks,-220,SAS rank 4th in BLK versus C,4th
-Carlton Carrington,IND,Over 4.5 Assists,-114,IND rank 26th in AST versus PG,26th
-Myles Turner,WAS,Over 15.5 Points,-125,WAS rank 30th in PTS versus C,30th
-Pascal Siakam,WAS,Over 1.5 Turnovers,-122,WAS rank 3rd in TO versus PF,3rd
-Pascal Siakam,WAS,Over 0.5 Steals,-263,WAS rank 28th in STL versus PF,28th
-Paolo Banchero,DAL,Under 1.5 Steals,-245,DAL rank 2nd in STL versus PF,2nd
-Cory Joseph,DAL,Under 1.5 3PTM,-235,DAL rank 3rd in 3PTM versus PG,3rd
-Anthony Black,DAL,Under 1.5 3PTM,-235,DAL rank 3rd in 3PTM versus PG,3rd
-Spencer Dinwiddie,ORL,Under 0.5 Blocks,-400,ORL rank 3rd in BLK versus PG,3rd
-Alexandre Sarr,IND,Under 2.5 Assists,-185,IND rank 5th in AST versus C,5th
-Andrew Nembhard,WAS,Over 0.5 3PTM,-235,WAS rank 30th in 3PTM versus SG,30th
-Andrew Nembhard,WAS,Over 0.5 Blocks,333,WAS rank 29th in BLK versus SG,29th
-Jeremy Sochan,CLE,Over 1.5 Assists,-165,CLE rank 26th in AST versus PF,26th
-Caleb Houstan,DAL,Under 1.5 3PTM,-233,DAL rank 4th in 3PTM against,4th
-Kannard Johnson,CLE,Under 0.5 Steals,-128,CLE rank 1st in STL versus SF,1st
-Bennedict Mathurin,WAS,Over 1.5 Assists,105,WAS rank 26th in AST against,26th
-Bennedict Mathurin,WAS,Over 4.5 Rebounds,-125,WAS rank 30th in REB against,30th
-Bennedict Mathurin,WAS,Over 14.5 Points,-125,WAS rank 30th in PTS against,30th
-Obi Toppin,WAS,Over 1.5 Assists,175,WAS rank 27th in AST versus PF,27th
-Obi Toppin,WAS,Over 4.5 Rebounds,115,WAS rank 29th in REB versus PF,29th
-Obi Toppin,WAS,Over 1.5 3PTM,130,WAS rank 27th in 3PTM against,27th
-Obi Toppin,WAS,Over 8.5 Points,-130,WAS rank 30th in PTS against,30th
-T.J. McConnell,WAS,Over 4.5 Assists,-125,WAS rank 26th in AST against,26th
-T.J. McConnell,WAS,Over 0.5 3PTM,300,WAS rank 27th in 3PTM against,27th
-T.J. McConnell,WAS,Over 7.5 Points,-105,WAS rank 30th in PTS against,30th
-Tyler Herro,ATL,Over 22.5 Points,-112,ATL rank 27th in PTS versus SG,27th
-Onyeka Okongwu,MIA,Over 10.5 Rebounds,102,MIA rank 26th in REB versus C,26th
-Thaddeus Young,MIA,Over 11.5 Assists,114,MIA rank 27th in AST versus PG,27th
-Thaddeus Young,MIA,Over 2.5 3PTM,124,MIA rank 28th in 3PTM versus PG,28th
-Aaron Wiggins,ATL,Over 20.5 Points,-112,ATL rank 28th in PTS versus SF,28th
-Kel'el Ware,ATL,Over 11.5 Points,-114,ATL rank 27th in PTS against,27th
-Mouhamadou Gueye,MIA,Under 0.5 Blocks,-115,MIA rank 4th in BLK versus PF,4th
-Mouhamadou Gueye,MIA,Under 0.5 Steals,-147,MIA rank 3rd in STL versus PF,3rd
-Dyson Daniels,MIA,Under 13.5 Points,-114,MIA rank 2nd in PTS versus SG,2nd
-Aaron Wiggins,ATL,Under 2.5 Turnovers,-185,ATL rank 26th in TO versus SF,26th
-Aaron Wiggins,ATL,Over 1.5 Steals,144,ATL rank 29th in STL versus SF,29th
-Georges Niang,MIA,Over 2.5 3PTM,100,MIA rank 26th in 3PTM versus PF,26th
-Luguentz Dort,MEM,Over 2.5 3PTM,-108,MEM rank 29th in 3PTM versus SF,29th
-Luguentz Dort,MEM,Over 11.5 Points,-102,MEM rank 30th in PTS versus SF,30th
-Santi Aldama,OKL,Under 12.5 Points,-128,OKL rank 5th in PTS versus PF,5th
-Desmond Bane,OKL,Under 5.5 Assists,-136,OKL rank 5th in AST against,5th
-Jaylen Wells,OKL,Under 8.5 Points,-136,OKL rank 2nd in PTS against,2nd
-LeBron James,CHI,Under 1.5 3PTM,132,CHI rank 2nd in 3PTM versus SF,2nd
-LeBron James,CHI,Over 24.5 Points,-106,CHI rank 28th in PTS against,28th
-Luka Dončić,CHI,Over 7.5 Assists,-130,CHI rank 30th in AST versus PG,30th
-Luka Dončić,CHI,Over 3.5 3PTM,-159,CHI rank 27th in 3PTM versus PG,27th
-Luka Dončić,CHI,Over 30.5 Points,-127,CHI rank 28th in PTS against,28th
-Josh Giddey,LAL,Under 19.5 Points,-102,LAL rank 3rd in PTS versus PG,3rd
-Nikola Vučević,LAL,Under 0.5 Blocks,-312,LAL rank 4th in BLK against,4th
-Luka Dončić,CHI,Over 3.5 Turnovers,-139,CHI rank 4th in TO versus PG,4th
-LeBron James,CHI,Over 3.5 Turnovers,109,CHI rank 4th in TO versus SF,4th
-Isaiah Hartenstein,MEM,Over 0.5 Blocks,-175,MEM rank 27th in BLK against,27th
-Luguentz Dort,MEM,Over 1.5 Assists,100,MEM rank 29th in AST versus SF,29th
-Luguentz Dort,MEM,Over 0.5 Blocks,125,MEM rank 28th in BLK versus SF,28th
-Shai Gilgeous-Alexander,MEM,Over 0.5 Blocks,-155,MEM rank 28th in BLK versus PG,28th
-Chet Holmgren,MEM,Under 1.5 Assists,105,MEM rank 4th in AST versus C,4th
-Zach Edey,OKL,Under 8.5 Points,-140,OKL rank 4th in PTS versus C,4th
-Luke Kennard,OKL,Under 9.5 Points,-110,OKL rank 2nd in PTS against,2nd
-Kevin Huerter,LAL,Under 0.5 Blocks,-300,LAL rank 1st in BLK versus SG,1st
-Matas Buzelis,LAL,Under 0.5 Blocks,115,LAL rank 4th in BLK against,4th
-Jalen Williams,MEM,Over 0.5 Blocks,145,MEM rank 27th in BLK against,27th
-Keyonte George,HOU,Under 5.5 Assists,-185,HOU rank 1st in AST versus PG,1st
-Keyonte George,HOU,Under 2.5 3PTM,-135,HOU rank 2nd in 3PTM against,2nd
-Keyonte George,HOU,Over 15.5 Points,-120,HOU rank 26th in PTS versus PG,26th
-Johnny Juzang,HOU,Under 2.5 Rebounds,110,HOU rank 5th in REB against,5th
-Walker Kessler,HOU,Under 0.5 3PTM,-220,HOU rank 2nd in 3PTM versus C,2nd
-Walker Kessler,HOU,Under 10.5 Points,-114,HOU rank 1st in PTS versus C,1st
-Collin Sexton,HOU,Under 3.5 Assists,-128,HOU rank 5th in AST versus SG,5th
-Collin Sexton,HOU,Under 2.5 Rebounds,-175,HOU rank 5th in REB against,5th
-Collin Sexton,HOU,Under 1.5 3PTM,-154,HOU rank 2nd in 3PTM against,2nd
-Collin Sexton,HOU,Under 16.5 Points,-128,HOU rank 5th in PTS against,5th
-Brice Sensabaugh,HOU,Under 1.5 Assists,-130,HOU rank 3rd in AST versus SF,3rd
-KJ Martin,HOU,Under 3.5 Rebounds,-122,HOU rank 5th in REB against,5th
-KJ Martin,HOU,Under 0.5 3PTM,-204,HOU rank 3rd in 3PTM versus SF,3rd
-KJ Martin,HOU,Under 6.5 Points,-139,HOU rank 5th in PTS versus SF,5th
-JR Smith,UTA,Over 1.5 3PTM,-135,UTA rank 30th in 3PTM against,30th
-JR Smith,UTA,Under 12.5 Points,-137,UTA rank 3rd in PTS versus PF,3rd
-A. Şengün,UTA,Over 0.5 3PTM,250,UTA rank 30th in 3PTM versus C,30th
-A. Şengün,UTA,Over 19.5 Points,-141,UTA rank 29th in PTS against,29th
-JaMychal Green,UTA,Over 5.5 Rebounds,128,UTA rank 29th in REB versus SG,29th
-JaMychal Green,UTA,Over 23.5 Points,-110,UTA rank 30th in PTS versus SG,30th
-Amen Thompson,UTA,Over 3.5 Assists,-158,UTA rank 30th in AST against,30th
-Fred VanVleet,UTA,Over 5.5 Assists,116,UTA rank 29th in AST versus PG,29th
-Fred VanVleet,UTA,Over 2.5 3PTM,-108,UTA rank 30th in 3PTM against,30th
-Fred VanVleet,UTA,Over 14.5 Points,-110,UTA rank 27th in PTS versus PG,27th
-Dillon Brooks,UTA,Under 3.5 Rebounds,-180,UTA rank 1st in REB versus SF,1st
-Isaiah Collier,HOU,Over 10.5 Points,-132,HOU rank 26th in PTS versus PG,26th
-Kyle Filipowski,HOU,Under 6.5 Rebounds,-144,HOU rank 1st in REB versus C,1st
-Walker Kessler,HOU,Under 10.5 Rebounds,108,HOU rank 1st in REB versus C,1st
-JaMychal Green,UTA,Over 2.5 3PTM,-174,UTA rank 28th in 3PTM versus SG,28th
-Amen Thompson,UTA,Over 14.5 Points,-118,UTA rank 26th in PTS versus SF,26th
-JR Smith,UTA,Over 0.5 Assists,-227,UTA rank 30th in AST against,30th
-A. Şengün,UTA,Over 0.5 Blocks,-244,UTA rank 28th in BLK versus C,28th
-A. Şengün,UTA,Over 1.5 Steals,116,UTA rank 30th in STL versus C,30th
-JaMychal Green,UTA,Over 3.5 Assists,-158,UTA rank 30th in AST versus SG,30th
-Amen Thompson,UTA,Over 1.5 Turnovers,-112,UTA rank 1st in TO versus SF,1st
-Fred VanVleet,UTA,Over 1.5 Steals,-196,UTA rank 30th in STL versus PG,30th
-Isaiah Collier,HOU,Over 0.5 Blocks,290,HOU rank 28th in BLK against,28th
-Kyle Filipowski,HOU,Under 1.5 Assists,120,HOU rank 1st in AST versus C,1st
-Collin Sexton,HOU,Over 0.5 Blocks,450,HOU rank 28th in BLK against,28th
-Brice Sensabaugh,HOU,Under 3.5 Rebounds,-160,HOU rank 5th in REB against,5th
-C.J. Williams,HOU,Under 0.5 Assists,125,HOU rank 5th in AST versus SG,5th
-C.J. Williams,HOU,Under 1.5 Rebounds,-105,HOU rank 5th in REB against,5th
-C.J. Williams,HOU,Under 1.5 3PTM,-220,HOU rank 2nd in 3PTM against,2nd
-C.J. Williams,HOU,Over 0.5 Blocks,175,HOU rank 28th in BLK against,28th
-JaMychal Green,UTA,Over 1.5 Turnovers,-217,UTA rank 2nd in TO versus SG,2nd
-Fred VanVleet,UTA,Over 0.5 Blocks,135,UTA rank 30th in BLK versus PG,30th
-Dillon Brooks,UTA,Over 1.5 Assists,-175,UTA rank 30th in AST against,30th
-Dillon Brooks,UTA,Over 0.5 Blocks,310,UTA rank 27th in BLK versus SF,27th
-C.J. Williams,HOU,Under 5.5 Points,-108,HOU rank 5th in PTS against,5th
-A. Şengün,UTA,Over 4.5 Assists,-172,UTA rank 30th in AST against,30th
-Domantas Sabonis,POR,Over 5.5 Assists,-138,POR rank 30th in AST versus C,30th
-Domantas Sabonis,POR,Over 12.5 Rebounds,-114,POR rank 27th in REB versus C,27th
-Malik Monk,POR,Over 3.5 Rebounds,-125,POR rank 27th in REB versus SG,27th
-Malik Monk,POR,Over 18.5 Points,-118,POR rank 28th in PTS versus SG,28th
-Keegan Murray,POR,Under 2.5 3PTM,-148,POR rank 2nd in 3PTM versus PF,2nd
-Keegan Murray,POR,Under 12.5 Points,-102,POR rank 2nd in PTS versus PF,2nd
-Keegan Murray,POR,Under 1.5 Assists,-155,POR rank 4th in AST versus PF,4th
-DeMar DeRozan,POR,Over 3.5 Rebounds,-144,POR rank 26th in REB versus SF,26th
-DeMar DeRozan,POR,Under 1.5 3PTM,-192,POR rank 4th in 3PTM versus SF,4th
-Zach LaVine,POR,Over 3.5 Rebounds,-120,POR rank 27th in REB versus SG,27th
-Zach LaVine,POR,Over 21.5 Points,-112,POR rank 28th in PTS versus SG,28th
-Toumani Camara,SAC,Over 1.5 3PTM,-154,SAC rank 29th in 3PTM against,29th
-Toumani Camara,SAC,Over 12.5 Points,-114,SAC rank 29th in PTS versus PF,29th
-Anfernee Simons,SAC,Under 2.5 Rebounds,-114,SAC rank 4th in REB versus SG,4th
-Anfernee Simons,SAC,Over 3.5 3PTM,108,SAC rank 29th in 3PTM versus SG,29th
-Shaedon Sharpe,SAC,Over 2.5 3PTM,106,SAC rank 29th in 3PTM versus SG,29th
-DeMar DeRozan,POR,Over 4.5 Assists,-125,POR rank 28th in AST versus SF,28th
-DeMar DeRozan,POR,Over 0.5 Steals,-263,POR rank 29th in STL against,29th
-Shaedon Sharpe,SAC,Under 4.5 Rebounds,114,SAC rank 4th in REB versus SG,4th
-Deni Avdija,SAC,Over 1.5 3PTM,-174,SAC rank 28th in 3PTM versus SF,28th
-Malik Monk,POR,Over 0.5 Blocks,-110,POR rank 26th in BLK versus SG,26th
-Zach LaVine,POR,Over 0.5 Blocks,400,POR rank 26th in BLK versus SG,26th
-Donovan Clingan,SAC,Over 1.5 Assists,165,SAC rank 28th in AST versus C,28th
-Donovan Clingan,SAC,Over 0.5 3PTM,280,SAC rank 29th in 3PTM against,29th
-Deni Avdija,SAC,Under 0.5 Blocks,-275,SAC rank 5th in BLK versus SF,5th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Franz Wagner,DAL,Over 10.5 REB+AST,102,Hit in 4 of his last 4 games,100%,True,11.0
+Franz Wagner,DAL,Under 29.5 PTS+AST,-110,Hit in 5 of his last 5 games vs DAL,100%,True,22.0
+Franz Wagner,DAL,Under 35.5 PTS+AST+REB,-118,Hit in 5 of his last 5 games vs DAL,100%,True,22.0
+Franz Wagner,DAL,Under 24.5 Points,-108,Hit in 5 of his last 5 games vs DAL,100%,True,20.0
+Kentavious Caldwell-Pope,DAL,Over 4.5 REB+AST,100,Hit in 4 of his last 4 home games,100%,False,4.0
+Kentavious Caldwell-Pope,DAL,Over 9.5 PTS+AST,-135,Hit in 5 of his last 5 home games,100%,False,0.0
+Kentavious Caldwell-Pope,DAL,Over 1.5 Assists,-145,Hit in 4 of his last 4 home games,100%,False,0.0
+Kentavious Caldwell-Pope,DAL,Over 12.5 PTS+AST+REB,-120,Hit in 5 of his last 5 home games,100%,False,0.0
+Kentavious Caldwell-Pope,DAL,Over 2.5 Rebounds,-102,Hit in 5 of his last 5 games vs DAL,100%,True,4.0
+Kentavious Caldwell-Pope,DAL,Over 8.5 Points,-114,Hit in 5 of his last 5 home games,100%,False,0.0
+Anthony Black,DAL,Over 3.5 Rebounds,100,Hit in 4 of his last 4 games,100%,False,3.0
+Naji Marshall,ORL,Over 24.5 PTS+REB,-125,Hit in 6 of his last 6 games,100%,False,10.0
+Naji Marshall,ORL,Over 24.5 PTS+REB,-125,Hit in 4 of his last 4 away games,100%,False,10.0
+Naji Marshall,ORL,Under 6.5 Rebounds,-132,Hit in 4 of his last 4 games vs ORL,100%,True,4.0
+Naji Marshall,ORL,Under 1.5 3PTM,-225,Hit in 4 of his last 4 games vs ORL,100%,True,0.0
+Naji Marshall,ORL,Over 18.5 Points,-108,Hit in 6 of his last 6 games,100%,False,6.0
+Naji Marshall,ORL,Over 18.5 Points,-108,Hit in 4 of his last 4 away games,100%,False,6.0
+Spencer Dinwiddie,ORL,Over 8.5 REB+AST,-128,Hit in 5 of his last 5 games,100%,False,8.0
+Spencer Dinwiddie,ORL,Over 5.5 Assists,-112,Hit in 5 of his last 5 games,100%,False,4.0
+Spencer Dinwiddie,ORL,Over 1.5 3PTM,-130,Hit in 4 of his last 4 games,100%,False,0.0
+Spencer Dinwiddie,ORL,Over 1.5 3PTM,-130,Hit in 6 of his last 6 away games,100%,False,0.0
+Anthony Davis,ORL,Over 8.5 Rebounds,-128,Hit in 4 of his last 4 games vs ORL,100%,False,7.0
+Jarrett Allen,SAS,Under 12.5 REB+AST,-105,Hit in 5 of his last 5 games,100%,False,15.0
+Jarrett Allen,SAS,Over 16.5 PTS+AST,-120,Hit in 4 of his last 4 games vs SAS,100%,True,29.0
+Jarrett Allen,SAS,Under 10.5 Rebounds,-102,Hit in 5 of his last 5 games,100%,False,15.0
+Jarrett Allen,SAS,Over 14.5 Points,-114,Hit in 4 of his last 4 games vs SAS,100%,True,29.0
+Davion Mitchell,SAS,Under 2.5 3PTM,118,Hit in 4 of his last 4 games,100%,False,4.0
+Darius Garland,SAS,Over 10.5 REB+AST,-108,Hit in 4 of his last 4 games,100%,True,13.0
+Darius Garland,SAS,Under 2.5 3PTM,106,Hit in 5 of his last 5 games,100%,True,2.0
+Max Strus,SAS,Under 7.5 REB+AST,-136,Hit in 5 of his last 5 games,100%,False,8.0
+Max Strus,SAS,Over 12.5 PTS+AST,-118,Hit in 6 of his last 6 home games,100%,True,30.0
+Max Strus,SAS,Under 3.5 Assists,-188,Hit in 5 of his last 5 games,100%,False,4.0
+Max Strus,SAS,Under 4.5 Rebounds,-162,Hit in 5 of his last 5 games,100%,True,4.0
+Max Strus,SAS,Under 2.5 3PTM,-186,Hit in 4 of his last 4 games vs SAS,100%,False,4.0
+Max Strus,SAS,Over 9.5 Points,-108,Hit in 5 of his last 5 home games,100%,True,26.0
+Devin Vassell,CLE,Over 2.5 3PTM,-130,Hit in 4 of his last 4 away games,100%,True,4.0
+Paolo Banchero,DAL,Over 1.5 3PTM,-166,Hit in 9 of his last 9 games,100%,False,1.0
+Kentavious Caldwell-Pope,DAL,Over 11.5 PTS+REB,-102,Hit in 5 of his last 5 home games,100%,False,4.0
+Kentavious Caldwell-Pope,DAL,Under 0.5 Turnovers,-120,Hit in 4 of his last 4 games,100%,False,1.0
+Anthony Black,DAL,Over 0.5 Blocks,-133,Hit in 4 of his last 4 games,100%,True,2.0
+Naji Marshall,ORL,Over 22.5 PTS+AST,-102,Hit in 6 of his last 6 games,100%,False,9.0
+Naji Marshall,ORL,Over 22.5 PTS+AST,-102,Hit in 4 of his last 4 away games,100%,False,9.0
+Spencer Dinwiddie,ORL,Over 23.5 PTS+AST+REB,-118,Hit in 6 of his last 6 games,100%,False,11.0
+Spencer Dinwiddie,ORL,Over 23.5 PTS+AST+REB,-118,Hit in 4 of his last 4 away games,100%,False,11.0
+Jarrett Allen,SAS,Under 25.5 PTS+REB,-118,Hit in 5 of his last 5 games,100%,False,44.0
+Davion Mitchell,SAS,Under 30.5 PTS+AST,-114,Hit in 7 of his last 7 games,100%,True,30.0
+Davion Mitchell,SAS,Under 35.5 PTS+AST+REB,-114,Hit in 7 of his last 7 games,100%,True,30.0
+Darius Garland,SAS,Over 3.5 Rebounds,-120,Hit in 5 of his last 5 games,100%,True,4.0
+De'Andre Hunter,SAS,Over 4.5 Rebounds,-114,Hit in 5 of his last 5 games vs SAS,100%,True,7.0
+De'Andre Hunter,SAS,Over 4.5 Rebounds,-114,Hit in 4 of his last 4 home games,100%,True,7.0
+Khris Middleton,IND,Over 2.5 Assists,-140,Hit in 14 of his last 14 games vs IND,100%,False,2.0
+Khris Middleton,IND,Over 3.5 Rebounds,100,Hit in 8 of his last 8 games vs IND,100%,False,1.0
+Khris Middleton,IND,Over 8.5 Points,-135,Hit in 14 of his last 14 games vs IND,100%,True,10.0
+Jordan Poole,IND,Over 3.5 Assists,132,Hit in 6 of his last 6 games vs IND,100%,False,3.0
+Jordan Poole,IND,Over 2.5 3PTM,-160,Hit in 4 of his last 4 games,100%,True,4.0
+Jordan Poole,IND,Over 2.5 3PTM,-160,Hit in 4 of his last 4 home games,100%,True,4.0
+Tyrese Haliburton,WAS,Over 14.5 REB+AST,102,Hit in 5 of his last 5 games,100%,False,8.0
+Tyrese Haliburton,WAS,Over 32.5 PTS+AST+REB,-125,Hit in 4 of his last 4 games,100%,True,49.0
+Tyrese Haliburton,WAS,Over 18.5 Points,-118,Hit in 8 of his last 8 games vs WAS,100%,True,43.0
+Tyrese Haliburton,WAS,Over 0.5 Double Double,-165,Hit in 12 of his last 12 games,100%,False,0.0
+Aaron Nesmith,WAS,Under 15.5 PTS+REB,-102,Hit in 6 of his last 6 games vs WAS,100%,False,21.0
+Aaron Nesmith,WAS,Over 1.5 3PTM,-168,Hit in 7 of his last 7 games,100%,True,3.0
+Aaron Nesmith,WAS,Over 1.5 3PTM,-168,Hit in 5 of his last 5 away games,100%,True,3.0
+Aaron Nesmith,WAS,Under 18.5 PTS+AST+REB,-135,Hit in 6 of his last 6 games vs WAS,100%,True,17.0
+Myles Turner,WAS,Under 2.5 3PTM,-198,Hit in 6 of his last 6 games vs WAS,100%,False,4.0
+Pascal Siakam,WAS,Over 9.5 REB+AST,-108,Hit in 7 of his last 7 games vs WAS,100%,False,7.0
+Pascal Siakam,WAS,Over 3.5 Assists,104,Hit in 4 of his last 4 games vs WAS,100%,True,5.0
+Paolo Banchero,DAL,Over 35.5 PTS+REB,-114,Hit in 4 of his last 4 games,100%,True,47.0
+Khris Middleton,IND,Over 12.5 PTS+REB,-118,Hit in 14 of his last 14 games vs IND,100%,False,11.0
+Jordan Poole,IND,Over 18.5 PTS+AST,-118,Hit in 4 of his last 4 games,100%,True,29.0
+Jordan Poole,IND,Over 18.5 PTS+AST,-118,Hit in 6 of his last 6 games vs IND,100%,True,29.0
+Jordan Poole,IND,Over 18.5 PTS+AST,-118,Hit in 4 of his last 4 home games,100%,True,29.0
+Jordan Poole,IND,Over 5.5 REB+AST,-115,Hit in 6 of his last 6 games vs IND,100%,False,3.0
+Jordan Poole,IND,Over 17.5 PTS+REB,-125,Hit in 4 of his last 4 games,100%,True,26.0
+Jordan Poole,IND,Over 17.5 PTS+REB,-125,Hit in 6 of his last 6 games vs IND,100%,True,26.0
+Jordan Poole,IND,Over 17.5 PTS+REB,-125,Hit in 4 of his last 4 home games,100%,True,26.0
+Jordan Poole,IND,Over 0.5 Steals,101,Hit in 5 of his last 5 games vs IND,100%,True,2.0
+Tyrese Haliburton,WAS,Over 10.5 Assists,-114,Hit in 4 of his last 4 games,100%,False,6.0
+Tyrese Haliburton,WAS,Over 1.5 Turnovers,-108,Hit in 5 of his last 5 games vs WAS,100%,False,1.0
+Aaron Nesmith,WAS,Under 14.5 PTS+AST,-125,Hit in 6 of his last 6 games vs WAS,100%,False,17.0
+Aaron Nesmith,WAS,Under 1.5 Assists,-125,Hit in 4 of his last 4 games vs WAS,100%,True,0.0
+Myles Turner,WAS,Over 7.5 Rebounds,-122,Hit in 4 of his last 4 games,100%,False,5.0
+Myles Turner,WAS,Under 1.5 Assists,-175,Hit in 4 of his last 4 games,100%,False,2.0
+Pascal Siakam,WAS,Under 1.5 3PTM,-172,Hit in 4 of his last 4 games,100%,True,1.0
+Pascal Siakam,WAS,Over 0.5 Steals,-263,Hit in 6 of his last 6 games vs WAS,100%,True,1.0
+Paolo Banchero,DAL,Under 1.5 Steals,-245,Hit in 6 of his last 6 games,100%,True,1.0
+Paolo Banchero,DAL,Under 1.5 STL+BLK,-110,Hit in 4 of his last 4 games,100%,True,1.0
+Franz Wagner,DAL,Under 0.5 Blocks,-250,Hit in 4 of his last 4 games vs DAL,100%,True,0.0
+Cory Joseph,DAL,Over 7.5 PTS+REB,-135,Hit in 4 of his last 4 games,100%,True,12.0
+Naji Marshall,ORL,Under 0.5 Blocks,-400,Hit in 4 of his last 4 games vs ORL,100%,True,0.0
+Anthony Davis,ORL,Over 1.5 Blocks,100,Hit in 4 of his last 4 games vs ORL,100%,False,0.0
+Bismack Biyombo,CLE,Under 0.5 Blocks,110,Hit in 5 of his last 5 games,100%,False,2.0
+Khris Middleton,IND,Over 6.5 REB+AST,110,Hit in 11 of his last 11 games vs IND,100%,False,3.0
+Khris Middleton,IND,Over 11.5 PTS+AST,-125,Hit in 14 of his last 14 games vs IND,100%,True,12.0
+Khris Middleton,IND,Over 15.5 PTS+AST+REB,-110,Hit in 14 of his last 14 games vs IND,100%,False,12.0
+Jordan Poole,IND,Over 21.5 PTS+AST+REB,-105,Hit in 4 of his last 4 games,100%,True,29.0
+Jordan Poole,IND,Over 21.5 PTS+AST+REB,-105,Hit in 6 of his last 6 games vs IND,100%,True,29.0
+Jordan Poole,IND,Over 21.5 PTS+AST+REB,-105,Hit in 4 of his last 4 home games,100%,True,29.0
+De'Andre Hunter,SAS,Over 5.5 REB+AST,-125,Hit in 5 of his last 5 games vs SAS,100%,True,9.0
+De'Andre Hunter,SAS,Over 5.5 REB+AST,-125,Hit in 4 of his last 4 home games,100%,True,9.0
+Jeremy Sochan,CLE,Over 1.5 Assists,-165,Hit in 4 of his last 4 games vs CLE,100%,True,2.0
+Paolo Banchero,DAL,Over 27.5 Points,-125,Hit in 4 of his last 4 games,100%,True,37.0
+Franz Wagner,DAL,Under 30.5 PTS+REB,-122,Hit in 5 of his last 5 games vs DAL,100%,True,29.0
+Blake Wesley,CLE,Under 5.5 REB+AST,-141,Hit in 4 of his last 4 games,100%,True,1.0
+Julian Champagnie,CLE,Over 5.5 REB+AST,-161,Hit in 4 of his last 4 away games,100%,True,8.0
+Jordan Poole,IND,Over 15.5 Points,-110,Hit in 4 of his last 4 games,100%,True,26.0
+Jordan Poole,IND,Over 15.5 Points,-110,Hit in 6 of his last 6 games vs IND,100%,True,26.0
+Jordan Poole,IND,Over 15.5 Points,-110,Hit in 4 of his last 4 home games,100%,True,26.0
+Obi Toppin,WAS,Over 8.5 Points,-130,Hit in 6 of his last 6 games vs WAS,100%,True,17.0
+Obi Toppin,WAS,Over 13.5 PTS+REB,-130,Hit in 6 of his last 6 games vs WAS,100%,True,19.0
+T.J. McConnell,WAS,Over 14.5 PTS+AST+REB,-118,Hit in 4 of his last 4 games vs WAS,100%,True,18.0
+T.J. McConnell,WAS,Over 7.5 Points,-105,Hit in 4 of his last 4 games vs WAS,100%,True,10.0
+T.J. McConnell,WAS,Over 9.5 PTS+REB,-139,Hit in 4 of his last 4 games vs WAS,100%,True,19.0
+Bam Adebayo,ATL,Under 9.5 Rebounds,-122,Hit in 8 of his last 8 games,100%,False,10.0
+Tyler Herro,ATL,Under 10.5 REB+AST,-106,Hit in 6 of his last 6 games,100%,True,7.0
+Dyson Daniels,MIA,Over 18.5 PTS+AST,-108,Hit in 6 of his last 6 away games,100%,False,14.0
+Dyson Daniels,MIA,Over 4.5 Assists,-118,Hit in 5 of his last 5 away games,100%,False,3.0
+Onyeka Okongwu,MIA,Over 12.5 REB+AST,-130,Hit in 4 of his last 4 away games,100%,False,9.0
+Onyeka Okongwu,MIA,Over 16.5 PTS+AST,-110,Hit in 4 of his last 4 away games,100%,True,17.0
+Onyeka Okongwu,MIA,Over 27.5 PTS+AST+REB,-110,Hit in 4 of his last 4 away games,100%,False,17.0
+Onyeka Okongwu,MIA,Over 0.5 3PTM,-130,Hit in 5 of his last 5 games,100%,True,1.0
+Bam Adebayo,ATL,Under 24.5 PTS+AST,-118,Hit in 4 of his last 4 games vs ATL,100%,True,18.0
+Bam Adebayo,ATL,Under 29.5 PTS+REB,-108,Hit in 4 of his last 4 games vs ATL,100%,True,24.0
+Bam Adebayo,ATL,Under 33.5 PTS+AST+REB,-106,Hit in 4 of his last 4 games vs ATL,100%,True,18.0
+Bam Adebayo,ATL,Under 20.5 Points,-122,Hit in 4 of his last 4 games vs ATL,100%,True,14.0
+Kel'el Ware,ATL,Over 11.5 Points,-114,Hit in 4 of his last 4 games,100%,False,7.0
+Kel'el Ware,ATL,Over 11.5 Points,-114,Hit in 4 of his last 4 home games,100%,False,7.0
+Zaccharie Risacher,MIA,Over 17.5 PTS+REB,-102,Hit in 4 of his last 4 away games,100%,False,7.0
+Zaccharie Risacher,MIA,Over 13.5 Points,-112,Hit in 6 of his last 6 games,100%,False,7.0
+Zaccharie Risacher,MIA,Over 13.5 Points,-112,Hit in 4 of his last 4 away games,100%,False,7.0
+Onyeka Okongwu,MIA,Over 24.5 PTS+REB,-118,Hit in 4 of his last 4 away games,100%,True,26.0
+Onyeka Okongwu,MIA,Over 0.5 Double Double,-105,Hit in 4 of his last 4 away games,100%,False,0.0
+Bam Adebayo,ATL,Over 0.5 3PTM,-210,Hit in 4 of his last 4 games,100%,True,1.0
+Bam Adebayo,ATL,Over 0.5 3PTM,-210,Hit in 4 of his last 4 home games,100%,True,1.0
+Tyler Herro,ATL,Under 0.5 Blocks,-275,Hit in 5 of his last 5 games,100%,True,0.0
+Tyler Herro,ATL,Under 0.5 Blocks,-275,Hit in 11 of his last 11 games vs ATL,100%,True,0.0
+Zaccharie Risacher,MIA,Over 14.5 PTS+AST,-110,Hit in 4 of his last 4 away games,100%,False,11.0
+Onyeka Okongwu,MIA,Over 1.5 Assists,-190,Hit in 4 of his last 4 games,100%,False,0.0
+Dyson Daniels,MIA,Over 2.5 Steals,-148,Hit in 7 of his last 7 games,100%,False,2.0
+Dyson Daniels,MIA,Over 2.5 Steals,-148,Hit in 4 of his last 4 away games,100%,False,2.0
+Georges Niang,MIA,Over 3.5 Rebounds,110,Hit in 5 of his last 5 games vs MIA,100%,False,3.0
+Isaiah Hartenstein,MEM,Over 13.5 REB+AST,-125,Hit in 5 of his last 5 games,100%,True,15.0
+Isaiah Hartenstein,MEM,Over 25.5 PTS+AST+REB,-112,Hit in 5 of his last 5 games vs MEM,100%,False,22.0
+Isaiah Hartenstein,MEM,Over 9.5 Rebounds,-144,Hit in 5 of his last 5 games,100%,True,11.0
+Shai Gilgeous-Alexander,MEM,Under 40.5 PTS+AST,-122,Hit in 4 of his last 4 games,100%,False,43.0
+Shai Gilgeous-Alexander,MEM,Over 1.5 3PTM,-166,Hit in 7 of his last 7 home games,100%,False,0.0
+Shai Gilgeous-Alexander,MEM,Under 32.5 Points,-102,Hit in 4 of his last 4 games,100%,False,37.0
+Desmond Bane,OKL,Under 11.5 REB+AST,-102,Hit in 4 of his last 4 games,100%,True,8.0
+Josh Giddey,LAL,Over 1.5 3PTM,108,Hit in 5 of his last 5 home games,100%,True,4.0
+Josh Giddey,LAL,Over 0.5 Double Double,-170,Hit in 4 of his last 4 home games,100%,True,1.0
+Kevin Huerter,LAL,Under 7.5 REB+AST,-135,Hit in 6 of his last 6 games vs LAL,100%,False,11.0
+Kevin Huerter,LAL,Under 16.5 PTS+AST,-110,Hit in 6 of his last 6 games vs LAL,100%,False,36.0
+Kevin Huerter,LAL,Under 17.5 PTS+REB,-118,Hit in 6 of his last 6 games vs LAL,100%,False,37.0
+Kevin Huerter,LAL,Under 3.5 Assists,-155,Hit in 6 of his last 6 games vs LAL,100%,False,5.0
+Kevin Huerter,LAL,Under 20.5 PTS+AST+REB,100,Hit in 6 of his last 6 games vs LAL,100%,False,36.0
+Coby White,LAL,Over 29.5 PTS+REB,-120,Hit in 4 of his last 4 games,100%,True,39.0
+Coby White,LAL,Over 34.5 PTS+AST+REB,-105,Hit in 4 of his last 4 games,100%,True,45.0
+Coby White,LAL,Over 2.5 3PTM,-165,Hit in 5 of his last 5 games vs LAL,100%,True,5.0
+Josh Giddey,LAL,Over 37.5 PTS+AST+REB,-122,Hit in 4 of his last 4 home games,100%,True,44.0
+Nikola Vučević,LAL,Over 1.5 3PTM,-104,Hit in 4 of his last 4 games vs LAL,100%,False,1.0
+Luka Dončić,CHI,Over 3.5 3PTM,-159,Hit in 4 of his last 4 games,100%,True,4.0
+Luka Dončić,CHI,Over 30.5 Points,-127,Hit in 4 of his last 4 games,100%,True,33.0
+Josh Giddey,LAL,Under 19.5 Points,-102,Hit in 4 of his last 4 games vs LAL,100%,False,33.0
+Luka Dončić,CHI,Under 16.5 REB+AST,-135,Hit in 4 of his last 4 games,100%,False,18.0
+Luka Dončić,CHI,Under 8.5 Rebounds,-123,Hit in 4 of his last 4 games,100%,False,10.0
+LeBron James,CHI,Under 31.5 PTS+AST,-106,Hit in 4 of his last 4 games,100%,True,29.0
+LeBron James,CHI,Under 1.5 3PTM,132,Hit in 4 of his last 4 games,100%,True,0.0
+LeBron James,CHI,Over 3.5 Turnovers,109,Hit in 5 of his last 5 games vs CHI,100%,True,4.0
+LeBron James,CHI,Under 0.5 Blocks,-140,Hit in 4 of his last 4 games,100%,True,0.0
+LeBron James,CHI,Over 0.5 Steals,-263,Hit in 4 of his last 4 games vs CHI,100%,True,2.0
+LeBron James,CHI,Over 1.5 STL+BLK,-123,Hit in 4 of his last 4 games vs CHI,100%,True,2.0
+Isaiah Hartenstein,MEM,Over 0.5 Blocks,-175,Hit in 7 of his last 7 games vs MEM,100%,True,2.0
+Luguentz Dort,MEM,Under 18.5 PTS+AST+REB,-125,Hit in 4 of his last 4 games,100%,False,20.0
+Santi Aldama,OKL,Under 0.5 Blocks,-200,Hit in 4 of his last 4 games,100%,True,0.0
+Zach Edey,OKL,Over 0.5 Assists,-165,Hit in 6 of his last 6 games,100%,True,1.0
+Zach Edey,OKL,Over 0.5 Assists,-165,Hit in 5 of his last 5 away games,100%,True,1.0
+Kevin Huerter,LAL,Under 2.5 3PTM,100,Hit in 4 of his last 4 games vs LAL,100%,False,5.0
+Coby White,LAL,Over 3.5 Rebounds,-155,Hit in 4 of his last 4 home games,100%,False,3.0
+Josh Giddey,LAL,Over 29.5 PTS+AST,-108,Hit in 4 of his last 4 home games,100%,True,44.0
+Jalen Williams,MEM,Over 20.5 PTS+AST,-115,Hit in 4 of his last 4 games vs MEM,100%,True,26.0
+Jalen Williams,MEM,Over 20.5 PTS+REB,-110,Hit in 4 of his last 4 games vs MEM,100%,True,27.0
+Jalen Williams,MEM,Over 4.5 Assists,125,Hit in 4 of his last 4 games vs MEM,100%,False,4.0
+Jalen Williams,MEM,Over 24.5 PTS+AST+REB,-110,Hit in 4 of his last 4 games vs MEM,100%,True,26.0
+Jalen Williams,MEM,Over 3.5 Rebounds,-145,Hit in 4 of his last 4 games vs MEM,100%,True,5.0
+Jalen Williams,MEM,Under 1.5 3PTM,-150,Hit in 8 of his last 8 games vs MEM,100%,True,1.0
+Jalen Williams,MEM,Over 0.5 Blocks,145,Hit in 6 of his last 6 games vs MEM,100%,False,0.0
+Shai Gilgeous-Alexander,MEM,Under 45.5 PTS+AST+REB,-110,Hit in 4 of his last 4 games,100%,True,43.0
+Santi Aldama,OKL,Under 6.5 Rebounds,-132,Hit in 4 of his last 4 games,100%,True,5.0
+Jalen Williams,MEM,Over 8.5 REB+AST,110,Hit in 4 of his last 4 games vs MEM,100%,True,9.0
+Johnny Juzang,HOU,Over 9.5 PTS+AST,-145,Hit in 4 of his last 4 games,100%,True,14.0
+Johnny Juzang,HOU,Over 9.5 PTS+AST,-145,Hit in 4 of his last 4 home games,100%,True,14.0
+Johnny Juzang,HOU,Over 11.5 PTS+REB,-152,Hit in 4 of his last 4 games,100%,True,15.0
+Johnny Juzang,HOU,Over 11.5 PTS+REB,-152,Hit in 4 of his last 4 home games,100%,True,15.0
+Johnny Juzang,HOU,Over 0.5 Assists,-238,Hit in 4 of his last 4 games,100%,True,1.0
+Johnny Juzang,HOU,Over 0.5 Assists,-238,Hit in 4 of his last 4 games vs HOU,100%,True,1.0
+Johnny Juzang,HOU,Over 0.5 Assists,-238,Hit in 4 of his last 4 home games,100%,True,1.0
+Johnny Juzang,HOU,Over 12.5 PTS+AST+REB,-149,Hit in 4 of his last 4 games,100%,True,14.0
+Johnny Juzang,HOU,Over 12.5 PTS+AST+REB,-149,Hit in 4 of his last 4 home games,100%,True,14.0
+Johnny Juzang,HOU,Over 8.5 Points,-141,Hit in 4 of his last 4 games,100%,True,13.0
+Johnny Juzang,HOU,Over 8.5 Points,-141,Hit in 4 of his last 4 home games,100%,True,13.0
+Walker Kessler,HOU,Under 0.5 3PTM,-220,Hit in 7 of his last 7 games vs HOU,100%,True,0.0
+Walker Kessler,HOU,Under 10.5 Points,-114,Hit in 5 of his last 5 games,100%,True,2.0
+Brice Sensabaugh,HOU,Over 4.5 REB+AST,-132,Hit in 4 of his last 4 games vs HOU,100%,False,4.0
+KJ Martin,HOU,Under 9.5 PTS+REB,-106,Hit in 5 of his last 5 games,100%,True,8.0
+KJ Martin,HOU,Under 3.5 Rebounds,-122,Hit in 5 of his last 5 games,100%,True,2.0
+KJ Martin,HOU,Under 0.5 3PTM,-204,Hit in 5 of his last 5 games,100%,True,0.0
+KJ Martin,HOU,Under 6.5 Points,-139,Hit in 5 of his last 5 games,100%,True,6.0
+Amen Thompson,UTA,Over 23.5 PTS+REB,-106,Hit in 5 of his last 5 away games,100%,True,27.0
+Amen Thompson,UTA,Over 27.5 PTS+AST+REB,-108,Hit in 5 of his last 5 away games,100%,False,22.0
+Amen Thompson,UTA,Over 8.5 Rebounds,102,Hit in 4 of his last 4 games vs UTA,100%,True,10.0
+Amen Thompson,UTA,Over 8.5 Rebounds,102,Hit in 4 of his last 4 away games,100%,True,10.0
+Fred VanVleet,UTA,Over 19.5 PTS+AST,-125,Hit in 6 of his last 6 games vs UTA,100%,False,12.0
+Fred VanVleet,UTA,Over 17.5 PTS+REB,-120,Hit in 6 of his last 6 games vs UTA,100%,False,7.0
+Fred VanVleet,UTA,Over 5.5 Assists,116,Hit in 4 of his last 4 games vs UTA,100%,True,6.0
+Fred VanVleet,UTA,Over 14.5 Points,-110,Hit in 6 of his last 6 games vs UTA,100%,False,6.0
+Dillon Brooks,UTA,Under 3.5 Rebounds,-180,Hit in 4 of his last 4 games,100%,True,3.0
+Dillon Brooks,UTA,Under 2.5 3PTM,-158,Hit in 7 of his last 7 games vs UTA,100%,True,2.0
+Walker Kessler,HOU,Under 21.5 PTS+REB,-110,Hit in 5 of his last 5 games,100%,True,11.0
+Collin Sexton,HOU,Over 0.5 STL+BLK,-133,Hit in 4 of his last 4 games vs HOU,100%,True,1.0
+Amen Thompson,UTA,Under 1.5 Blocks,-165,Hit in 4 of his last 4 games vs UTA,100%,True,1.0
+Amen Thompson,UTA,Under 3.5 STL+BLK,-182,Hit in 4 of his last 4 games vs UTA,100%,True,3.0
+Dillon Brooks,UTA,Under 14.5 Points,-125,Hit in 6 of his last 6 games vs UTA,100%,True,14.0
+Kyle Filipowski,HOU,Under 0.5 Blocks,-325,Hit in 6 of his last 6 games,100%,False,2.0
+Fred VanVleet,UTA,Over 23.5 PTS+AST+REB,-102,Hit in 6 of his last 6 games vs UTA,100%,False,12.0
+Domantas Sabonis,POR,Over 0.5 Double Double,-310,Hit in 9 of his last 9 games vs POR,100%,True,1.0
+Domantas Sabonis,POR,Under 0.5 3PTM,105,Hit in 7 of his last 7 games,100%,False,1.0
+Malik Monk,POR,Over 27.5 PTS+AST+REB,-128,Hit in 4 of his last 4 games,100%,False,22.0
+Malik Monk,POR,Over 2.5 3PTM,-106,Hit in 4 of his last 4 home games,100%,False,2.0
+Malik Monk,POR,Over 18.5 Points,-118,Hit in 4 of his last 4 home games,100%,True,20.0
+Keegan Murray,POR,Under 2.5 3PTM,-148,Hit in 6 of his last 6 games vs POR,100%,True,2.0
+Keegan Murray,POR,Under 12.5 Points,-102,Hit in 6 of his last 6 games vs POR,100%,False,21.0
+DeMar DeRozan,POR,Under 25.5 PTS+REB,-106,Hit in 4 of his last 4 games,100%,True,23.0
+DeMar DeRozan,POR,Over 3.5 Rebounds,-144,Hit in 5 of his last 5 games vs POR,100%,False,2.0
+DeMar DeRozan,POR,Under 1.5 3PTM,-192,Hit in 5 of his last 5 games vs POR,100%,True,0.0
+Zach LaVine,POR,Under 25.5 PTS+REB,-122,Hit in 8 of his last 8 games,100%,False,35.0
+Zach LaVine,POR,Under 29.5 PTS+AST+REB,-128,Hit in 4 of his last 4 games,100%,False,33.0
+Zach LaVine,POR,Over 3.5 Rebounds,-120,Hit in 4 of his last 4 games vs POR,100%,False,2.0
+Zach LaVine,POR,Over 21.5 Points,-112,Hit in 4 of his last 4 games vs POR,100%,True,33.0
+Toumani Camara,SAC,Under 18.5 PTS+REB,-130,Hit in 5 of his last 5 games vs SAC,100%,True,14.0
+Toumani Camara,SAC,Over 1.5 3PTM,-154,Hit in 6 of his last 6 games,100%,True,2.0
+Toumani Camara,SAC,Over 12.5 Points,-114,Hit in 6 of his last 6 games,100%,False,10.0
+Deni Avdija,SAC,Over 13.5 REB+AST,-114,Hit in 4 of his last 4 games,100%,False,12.0
+Deni Avdija,SAC,Over 1.5 3PTM,-174,Hit in 8 of his last 8 games,100%,True,4.0
+Domantas Sabonis,POR,Over 2.5 Turnovers,-147,Hit in 4 of his last 4 games vs POR,100%,True,6.0
+Malik Monk,POR,Over 22.5 PTS+REB,-114,Hit in 4 of his last 4 games,100%,True,23.0
+Zach LaVine,POR,Under 1.5 Steals,-225,Hit in 12 of his last 12 games,100%,True,0.0
+Toumani Camara,SAC,Under 20.5 PTS+AST+REB,-110,Hit in 5 of his last 5 games vs SAC,100%,True,11.0
+Shaedon Sharpe,SAC,Under 4.5 Rebounds,114,Hit in 4 of his last 4 games vs SAC,100%,False,7.0
+Malik Monk,POR,Over 0.5 Blocks,-110,Hit in 4 of his last 4 games vs POR,100%,False,0.0
+Keegan Murray,POR,Under 15.5 PTS+AST,-120,Hit in 6 of his last 6 games vs POR,100%,False,22.0
+Anfernee Simons,SAC,Over 0.5 Steals,-208,Hit in 4 of his last 4 away games,100%,False,0.0
+Toumani Camara,SAC,Under 15.5 PTS+AST,-118,Hit in 5 of his last 5 games vs SAC,100%,True,11.0
+Domantas Sabonis,POR,Under 16.5 Points,-132,Hit in 8 of his last 8 games,100%,False,24.0
+Jalen Williams,MEM,Over 20.5 PTS+AST,-115,Hit in 14 of his last 15 games,93%,True,26.0
+Jalen Williams,MEM,Over 20.5 PTS+REB,-110,Hit in 14 of his last 15 games,93%,True,27.0
+Jalen Williams,MEM,Over 24.5 PTS+AST+REB,-110,Hit in 14 of his last 15 games,93%,True,26.0
+Amen Thompson,UTA,Over 8.5 Rebounds,102,Hit in 12 of his last 13 games,92%,True,10.0
+Khris Middleton,IND,Over 0.5 3PTM,-175,Hit in 11 of his last 12 games vs IND,92%,True,1.0
+Jalen Williams,MEM,Over 16.5 Points,105,Hit in 11 of his last 12 games,92%,True,22.0
+Khris Middleton,IND,Over 11.5 PTS+AST,-125,Hit in 9 of his last 10 home games,90%,True,12.0
+Anthony Black,DAL,Under 3.5 Assists,-158,Hit in 16 of his last 18 games,89%,True,3.0
+Devin Vassell,CLE,Over 23.5 PTS+REB,-110,Hit in 8 of his last 9 games,89%,True,33.0
+Devin Vassell,CLE,Over 26.5 PTS+AST+REB,-118,Hit in 8 of his last 9 games,89%,True,34.0
+Pascal Siakam,WAS,Over 5.5 Rebounds,-154,Hit in 16 of his last 18 away games,89%,False,2.0
+Andrew Nembhard,WAS,Under 1.5 Steals,-145,Hit in 8 of his last 9 games,89%,True,1.0
+Paolo Banchero,DAL,Under 2.5 Turnovers,-106,Hit in 8 of his last 9 games,89%,False,6.0
+Franz Wagner,DAL,Under 0.5 Blocks,-250,Hit in 8 of his last 9 games,89%,True,0.0
+Spencer Dinwiddie,ORL,Under 0.5 Blocks,-400,Hit in 8 of his last 9 games,89%,True,0.0
+Andrew Nembhard,WAS,Over 0.5 3PTM,-235,Hit in 8 of his last 9 games,89%,True,1.0
+Donovan Clingan,SAC,Over 10.5 REB+AST,-105,Hit in 8 of his last 9 games,89%,False,4.0
+Darius Garland,SAS,Under 31.5 PTS+AST+REB,-125,Hit in 15 of his last 17 games,88%,True,23.0
+Darius Garland,SAS,Under 20.5 Points,-122,Hit in 15 of his last 17 games,88%,True,14.0
+Caleb Houstan,DAL,Under 2.5 REB+AST,-164,Hit in 15 of his last 17 games,88%,True,0.0
+Kentavious Caldwell-Pope,DAL,Over 12.5 PTS+AST+REB,-120,Hit in 7 of his last 8 games vs DAL,88%,False,0.0
+Naji Marshall,ORL,Under 1.5 3PTM,-225,Hit in 7 of his last 8 games,88%,True,0.0
+Harrison Barnes,CLE,Under 5.5 REB+AST,-145,Hit in 7 of his last 8 games,88%,True,4.0
+Bismack Biyombo,CLE,Under 6.5 PTS+AST,-115,Hit in 7 of his last 8 games,88%,False,9.0
+Bismack Biyombo,CLE,Under 12.5 PTS+REB,-125,Hit in 7 of his last 8 games,88%,False,14.0
+Bismack Biyombo,CLE,Under 5.5 Points,-120,Hit in 7 of his last 8 games,88%,False,8.0
+Kentavious Caldwell-Pope,DAL,Over 11.5 PTS+REB,-102,Hit in 7 of his last 8 games vs DAL,88%,False,4.0
+Bismack Biyombo,CLE,Under 13.5 PTS+AST+REB,-125,Hit in 7 of his last 8 games,88%,True,9.0
+Andrew Nembhard,WAS,Over 0.5 3PTM,-235,Hit in 7 of his last 8 away games,88%,True,1.0
+Tyrese Haliburton,WAS,Under 0.5 Blocks,-190,Hit in 7 of his last 8 games vs WAS,88%,False,1.0
+Aaron Nesmith,WAS,Under 0.5 Blocks,-325,Hit in 7 of his last 8 games,88%,True,0.0
+Onyeka Okongwu,MIA,Over 1.5 Assists,-190,Hit in 7 of his last 8 away games,88%,False,0.0
+Terance Mann,MIA,Over 8.5 Points,-118,Hit in 7 of his last 8 games,88%,True,18.0
+Coby White,LAL,Over 0.5 Steals,-263,Hit in 7 of his last 8 home games,88%,False,0.0
+Jalen Williams,MEM,Over 3.5 Rebounds,-145,Hit in 7 of his last 8 games,88%,True,5.0
+KJ Martin,HOU,Over 0.5 Assists,-227,Hit in 7 of his last 8 games,88%,True,2.0
+Amen Thompson,UTA,Over 12.5 REB+AST,-114,Hit in 7 of his last 8 games,88%,True,15.0
+Devin Vassell,CLE,Over 2.5 3PTM,-130,Hit in 6 of his last 7 games,86%,True,4.0
+Aaron Nesmith,WAS,Over 12.5 Points,100,Hit in 6 of his last 7 games,86%,True,17.0
+Pascal Siakam,WAS,Under 1.5 3PTM,-172,Hit in 6 of his last 7 games vs WAS,86%,True,1.0
+Davion Mitchell,SAS,Under 30.5 PTS+REB,-125,Hit in 6 of his last 7 games,86%,True,26.0
+Jarrett Allen,SAS,Under 1.5 Blocks,-220,Hit in 6 of his last 7 games,86%,True,1.0
+Khris Middleton,IND,Over 0.5 Steals,-123,Hit in 6 of his last 7 home games,86%,True,1.0
+Naji Marshall,ORL,Under 0.5 Blocks,-400,Hit in 12 of his last 14 games,86%,True,0.0
+De'Andre Hunter,SAS,Under 1.5 Assists,-165,Hit in 6 of his last 7 games,86%,False,2.0
+Julian Champagnie,CLE,Over 1.5 Assists,-130,Hit in 6 of his last 7 games,86%,False,1.0
+Paolo Banchero,DAL,Over 40.5 PTS+AST+REB,-120,Hit in 6 of his last 7 games,86%,True,41.0
+Julian Champagnie,CLE,Over 5.5 REB+AST,-161,Hit in 6 of his last 7 games,86%,True,8.0
+Bennedict Mathurin,WAS,Over 21.5 PTS+AST+REB,-110,Hit in 6 of his last 7 games vs WAS,86%,False,11.0
+Bennedict Mathurin,WAS,Over 14.5 Points,-125,Hit in 6 of his last 7 games vs WAS,86%,False,10.0
+Bennedict Mathurin,WAS,Over 6.5 REB+AST,-105,Hit in 6 of his last 7 games vs WAS,86%,False,3.0
+Bam Adebayo,ATL,Under 13.5 REB+AST,-122,Hit in 6 of his last 7 games,86%,False,14.0
+Tyler Herro,ATL,Over 4.5 Rebounds,-114,Hit in 6 of his last 7 games vs ATL,86%,False,3.0
+Tyler Herro,ATL,Over 22.5 Points,-112,Hit in 6 of his last 7 games vs ATL,86%,True,44.0
+Onyeka Okongwu,MIA,Under 14.5 Points,-118,Hit in 6 of his last 7 games vs MIA,86%,False,17.0
+Bam Adebayo,ATL,Under 1.5 Steals,-270,Hit in 6 of his last 7 games,86%,False,3.0
+Josh Giddey,LAL,Under 1.5 Steals,-167,Hit in 6 of his last 7 games vs LAL,86%,False,2.0
+Zach Edey,OKL,Over 6.5 Rebounds,-118,Hit in 6 of his last 7 away games,86%,False,4.0
+Kevin Huerter,LAL,Under 0.5 Blocks,-300,Hit in 6 of his last 7 games vs LAL,86%,True,0.0
+Josh Giddey,LAL,Over 0.5 Blocks,105,Hit in 6 of his last 7 home games,86%,False,0.0
+Jalen Williams,MEM,Over 20.5 PTS+AST,-115,Hit in 6 of his last 7 home games,86%,True,26.0
+Jalen Williams,MEM,Over 20.5 PTS+REB,-110,Hit in 6 of his last 7 home games,86%,True,27.0
+Jalen Williams,MEM,Over 24.5 PTS+AST+REB,-110,Hit in 6 of his last 7 home games,86%,True,26.0
+Jalen Williams,MEM,Over 3.5 Rebounds,-145,Hit in 6 of his last 7 home games,86%,True,5.0
+Johnny Juzang,HOU,Over 1.5 3PTM,-149,Hit in 6 of his last 7 home games,86%,False,1.0
+Walker Kessler,HOU,Under 22.5 PTS+AST+REB,-105,Hit in 6 of his last 7 games vs HOU,86%,True,4.0
+Walker Kessler,HOU,Under 21.5 PTS+REB,-110,Hit in 6 of his last 7 games vs HOU,86%,True,11.0
+Walker Kessler,HOU,Under 10.5 Rebounds,108,Hit in 6 of his last 7 games vs HOU,86%,True,9.0
+Domantas Sabonis,POR,Over 28.5 PTS+REB,-122,Hit in 6 of his last 7 games vs POR,86%,True,43.0
+Domantas Sabonis,POR,Over 34.5 PTS+AST+REB,-122,Hit in 6 of his last 7 games vs POR,86%,False,30.0
+Shaedon Sharpe,SAC,Over 7.5 REB+AST,-136,Hit in 6 of his last 7 away games,86%,False,7.0
+Domantas Sabonis,POR,Over 22.5 PTS+AST,-102,Hit in 6 of his last 7 games vs POR,86%,True,30.0
+Donovan Clingan,SAC,Over 17.5 PTS+REB,-130,Hit in 6 of his last 7 games,86%,False,3.0
+Chris Paul,CLE,Over 5.5 Assists,-144,Hit in 17 of his last 20 away games,85%,False,5.0
+AJ Johnson,IND,Under 15.5 PTS+REB,-114,Hit in 17 of his last 20 games,85%,True,5.0
+AJ Johnson,IND,Under 4.5 Assists,-160,Hit in 17 of his last 20 games,85%,True,0.0
+AJ Johnson,IND,Under 4.5 Rebounds,-136,Hit in 17 of his last 20 games,85%,True,3.0
+AJ Johnson,IND,Under 1.5 3PTM,-158,Hit in 17 of his last 20 games,85%,True,0.0
+Khris Middleton,IND,Over 2.5 Assists,-140,Hit in 17 of his last 20 home games,85%,False,2.0
+Khris Middleton,IND,Over 6.5 REB+AST,110,Hit in 17 of his last 20 home games,85%,False,3.0
+Blake Wesley,CLE,Under 3.5 Assists,-200,Hit in 17 of his last 20 games,85%,True,1.0
+Blake Wesley,CLE,Under 2.5 Rebounds,-185,Hit in 17 of his last 20 games,85%,True,0.0
+AJ Johnson,IND,Under 19.5 PTS+AST+REB,-106,Hit in 17 of his last 20 games,85%,True,2.0
+Jaylen Wells,OKL,Over 4.5 REB+AST,-140,Hit in 11 of his last 13 games,85%,True,5.0
+Brice Sensabaugh,HOU,Over 1.5 3PTM,-110,Hit in 11 of his last 13 home games,85%,True,5.0
+Anfernee Simons,SAC,Under 2.5 Turnovers,-192,Hit in 11 of his last 13 games,85%,True,0.0
+Brice Sensabaugh,HOU,Over 1.5 3PTM,-110,Hit in 16 of his last 19 games,84%,True,5.0
+Domantas Sabonis,POR,Over 0.5 Double Double,-310,Hit in 16 of his last 19 home games,84%,True,1.0
+Kentavious Caldwell-Pope,DAL,Over 4.5 REB+AST,100,Hit in 5 of his last 6 games,83%,False,4.0
+Kentavious Caldwell-Pope,DAL,Over 9.5 PTS+AST,-135,Hit in 5 of his last 6 games,83%,False,0.0
+Kentavious Caldwell-Pope,DAL,Over 12.5 PTS+AST+REB,-120,Hit in 5 of his last 6 games,83%,False,0.0
+Kentavious Caldwell-Pope,DAL,Over 1.5 3PTM,108,Hit in 5 of his last 6 games,83%,False,0.0
+Kentavious Caldwell-Pope,DAL,Over 1.5 3PTM,108,Hit in 5 of his last 6 games vs DAL,83%,False,0.0
+Kentavious Caldwell-Pope,DAL,Over 8.5 Points,-114,Hit in 5 of his last 6 games,83%,False,0.0
+Naji Marshall,ORL,Over 28.5 PTS+AST+REB,-118,Hit in 10 of his last 12 games,83%,False,9.0
+Anthony Davis,ORL,Under 0.5 3PTM,-140,Hit in 5 of his last 6 games,83%,False,1.0
+Jarrett Allen,SAS,Under 2.5 Assists,-175,Hit in 5 of his last 6 games,83%,True,0.0
+Kentavious Caldwell-Pope,DAL,Over 11.5 PTS+REB,-102,Hit in 5 of his last 6 games,83%,False,4.0
+Spencer Dinwiddie,ORL,Over 14.5 Points,-118,Hit in 5 of his last 6 games,83%,False,7.0
+De'Andre Hunter,SAS,Under 18.5 PTS+REB,-108,Hit in 5 of his last 6 games,83%,False,23.0
+Devin Vassell,CLE,Over 4.5 Rebounds,-110,Hit in 5 of his last 6 games,83%,False,3.0
+Jordan Poole,IND,Over 2.5 Rebounds,105,Hit in 5 of his last 6 games vs IND,83%,False,0.0
+Andrew Nembhard,WAS,Under 15.5 PTS+AST,-122,Hit in 5 of his last 6 games vs WAS,83%,False,17.0
+Andrew Nembhard,WAS,Under 13.5 PTS+REB,-108,Hit in 5 of his last 6 games vs WAS,83%,True,13.0
+Andrew Nembhard,WAS,Under 18.5 PTS+AST+REB,-110,Hit in 5 of his last 6 games vs WAS,83%,True,17.0
+Andrew Nembhard,WAS,Under 3.5 Rebounds,-146,Hit in 5 of his last 6 games vs WAS,83%,False,4.0
+Andrew Nembhard,WAS,Under 10.5 Points,-125,Hit in 5 of his last 6 games vs WAS,83%,True,9.0
+Aaron Nesmith,WAS,Under 3.5 Rebounds,102,Hit in 5 of his last 6 games vs WAS,83%,False,4.0
+Pascal Siakam,WAS,Over 26.5 PTS+REB,-114,Hit in 5 of his last 6 away games,83%,False,17.0
+Pascal Siakam,WAS,Over 30.5 PTS+AST+REB,-106,Hit in 5 of his last 6 away games,83%,False,20.0
+Pascal Siakam,WAS,Over 20.5 Points,-112,Hit in 5 of his last 6 away games,83%,False,15.0
+Myles Turner,WAS,Under 23.5 PTS+REB,-108,Hit in 5 of his last 6 games vs WAS,83%,False,30.0
+Myles Turner,WAS,Under 25.5 PTS+AST+REB,-125,Hit in 5 of his last 6 games vs WAS,83%,False,27.0
+Pascal Siakam,WAS,Over 24.5 PTS+AST,-102,Hit in 5 of his last 6 away games,83%,False,20.0
+Andrew Nembhard,WAS,Under 1.5 Steals,-145,Hit in 5 of his last 6 games vs WAS,83%,True,1.0
+Spencer Dinwiddie,ORL,Over 20.5 PTS+AST,-112,Hit in 5 of his last 6 games,83%,False,11.0
+Devin Vassell,CLE,Over 0.5 Blocks,110,Hit in 5 of his last 6 away games,83%,False,0.0
+Aaron Nesmith,WAS,Under 5.5 REB+AST,110,Hit in 5 of his last 6 games vs WAS,83%,True,4.0
+Pascal Siakam,WAS,Under 0.5 Blocks,-185,Hit in 5 of his last 6 games vs WAS,83%,True,0.0
+Andrew Nembhard,WAS,Under 8.5 REB+AST,-138,Hit in 5 of his last 6 games vs WAS,83%,False,12.0
+Bennedict Mathurin,WAS,Over 1.5 Assists,105,Hit in 5 of his last 6 games vs WAS,83%,False,1.0
+Obi Toppin,WAS,Over 14.5 PTS+AST+REB,-115,Hit in 5 of his last 6 games vs WAS,83%,True,21.0
+Obi Toppin,WAS,Over 1.5 3PTM,130,Hit in 5 of his last 6 games vs WAS,83%,False,1.0
+Obi Toppin,WAS,Over 8.5 Points,-130,Hit in 5 of his last 6 games,83%,True,17.0
+Tyler Herro,ATL,Over 2.5 3PTM,-132,Hit in 5 of his last 6 games vs ATL,83%,True,4.0
+Dyson Daniels,MIA,Over 10.5 REB+AST,-108,Hit in 5 of his last 6 games,83%,True,11.0
+Dyson Daniels,MIA,Over 19.5 PTS+REB,-110,Hit in 5 of his last 6 away games,83%,False,19.0
+Dyson Daniels,MIA,Over 4.5 Assists,-118,Hit in 5 of his last 6 games,83%,False,3.0
+Dyson Daniels,MIA,Over 24.5 PTS+AST+REB,-104,Hit in 5 of his last 6 away games,83%,False,14.0
+Dyson Daniels,MIA,Over 5.5 Rebounds,-125,Hit in 5 of his last 6 games,83%,True,8.0
+Onyeka Okongwu,MIA,Over 12.5 REB+AST,-130,Hit in 5 of his last 6 games,83%,False,9.0
+Onyeka Okongwu,MIA,Over 16.5 PTS+AST,-110,Hit in 5 of his last 6 games,83%,True,17.0
+Onyeka Okongwu,MIA,Over 27.5 PTS+AST+REB,-110,Hit in 5 of his last 6 games,83%,False,17.0
+Bam Adebayo,ATL,Over 1.5 STL+BLK,-145,Hit in 5 of his last 6 games,83%,True,3.0
+Zaccharie Risacher,MIA,Over 17.5 PTS+REB,-102,Hit in 5 of his last 6 games,83%,False,7.0
+Zaccharie Risacher,MIA,Over 1.5 3PTM,-146,Hit in 10 of his last 12 away games,83%,False,1.0
+Onyeka Okongwu,MIA,Over 24.5 PTS+REB,-118,Hit in 5 of his last 6 games,83%,True,26.0
+Onyeka Okongwu,MIA,Over 0.5 Double Double,-105,Hit in 5 of his last 6 games,83%,False,0.0
+Dyson Daniels,MIA,Over 0.5 3PTM,-190,Hit in 5 of his last 6 away games,83%,True,1.0
+Zaccharie Risacher,MIA,Over 14.5 PTS+AST,-110,Hit in 5 of his last 6 games,83%,False,11.0
+Zaccharie Risacher,MIA,Over 0.5 Assists,-155,Hit in 10 of his last 12 away games,83%,True,4.0
+Onyeka Okongwu,MIA,Over 0.5 Blocks,-210,Hit in 5 of his last 6 games vs MIA,83%,False,0.0
+Shai Gilgeous-Alexander,MEM,Over 4.5 Rebounds,-138,Hit in 5 of his last 6 home games,83%,False,3.0
+Shai Gilgeous-Alexander,MEM,Over 1.5 3PTM,-166,Hit in 10 of his last 12 games,83%,False,0.0
+Desmond Bane,OKL,Over 19.5 Points,-132,Hit in 5 of his last 6 away games,83%,False,5.0
+Shai Gilgeous-Alexander,MEM,Over 11.5 REB+AST,-128,Hit in 5 of his last 6 home games,83%,False,9.0
+Shai Gilgeous-Alexander,MEM,Over 6.5 Assists,-132,Hit in 5 of his last 6 home games,83%,False,6.0
+Josh Giddey,LAL,Over 28.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%,True,47.0
+Josh Giddey,LAL,Over 37.5 PTS+AST+REB,-122,Hit in 10 of his last 12 games,83%,True,44.0
+Nikola Vučević,LAL,Over 1.5 3PTM,-104,Hit in 5 of his last 6 games,83%,False,1.0
+Luka Dončić,CHI,Over 3.5 3PTM,-159,Hit in 5 of his last 6 away games,83%,True,4.0
+Luka Dončić,CHI,Over 30.5 Points,-127,Hit in 5 of his last 6 away games,83%,True,33.0
+Coby White,LAL,Under 2.5 Turnovers,-127,Hit in 5 of his last 6 games,83%,True,2.0
+Luguentz Dort,MEM,Over 1.5 Assists,100,Hit in 5 of his last 6 games vs MEM,83%,True,5.0
+Luguentz Dort,MEM,Over 0.5 Blocks,125,Hit in 5 of his last 6 games,83%,False,0.0
+Chet Holmgren,MEM,Under 2.5 Blocks,-110,Hit in 5 of his last 6 games,83%,True,0.0
+Santi Aldama,OKL,Under 2.5 3PTM,-192,Hit in 5 of his last 6 games,83%,True,1.0
+Santi Aldama,OKL,Under 2.5 3PTM,-192,Hit in 5 of his last 6 games vs OKL,83%,True,1.0
+Desmond Bane,OKL,Under 0.5 Blocks,-250,Hit in 5 of his last 6 games,83%,True,0.0
+Zach Edey,OKL,Over 15.5 PTS+AST+REB,-125,Hit in 5 of his last 6 away games,83%,False,9.0
+Jaylen Wells,OKL,Over 4.5 REB+AST,-140,Hit in 5 of his last 6 away games,83%,True,5.0
+Kevin Huerter,LAL,Under 3.5 Rebounds,115,Hit in 5 of his last 6 games vs LAL,83%,False,6.0
+Jalen Williams,MEM,Over 4.5 Assists,125,Hit in 5 of his last 6 games,83%,False,4.0
+Santi Aldama,OKL,Under 6.5 Rebounds,-132,Hit in 5 of his last 6 games vs OKL,83%,True,5.0
+Amen Thompson,UTA,Under 0.5 3PTM,-275,Hit in 5 of his last 6 games,83%,False,1.0
+Fred VanVleet,UTA,Over 2.5 3PTM,-108,Hit in 5 of his last 6 games vs UTA,83%,False,1.0
+Dillon Brooks,UTA,Under 15.5 PTS+AST,-110,Hit in 5 of his last 6 games vs UTA,83%,False,17.0
+Kyle Filipowski,HOU,Under 6.5 Rebounds,-144,Hit in 5 of his last 6 games,83%,False,7.0
+Amen Thompson,UTA,Over 14.5 Points,-118,Hit in 5 of his last 6 away games,83%,True,17.0
+Dillon Brooks,UTA,Under 17.5 PTS+REB,-118,Hit in 5 of his last 6 games vs UTA,83%,True,17.0
+Johnny Juzang,HOU,Under 0.5 Turnovers,-128,Hit in 5 of his last 6 games,83%,False,1.0
+Amen Thompson,UTA,Under 1.5 Blocks,-165,Hit in 5 of his last 6 games,83%,True,1.0
+Amen Thompson,UTA,Over 18.5 PTS+AST,-125,Hit in 5 of his last 6 away games,83%,True,22.0
+Kyle Filipowski,HOU,Under 8.5 REB+AST,-115,Hit in 5 of his last 6 games,83%,False,11.0
+Toumani Camara,SAC,Over 2.5 Assists,125,Hit in 5 of his last 6 games,83%,False,1.0
+Donovan Clingan,SAC,Over 9.5 Rebounds,-102,Hit in 5 of his last 6 games,83%,False,3.0
+Deni Avdija,SAC,Under 24.5 PTS+AST,-122,Hit in 5 of his last 6 games vs SAC,83%,False,35.0
+Deni Avdija,SAC,Under 19.5 Points,-130,Hit in 5 of his last 6 games vs SAC,83%,False,32.0
+Deni Avdija,SAC,Under 27.5 PTS+REB,-112,Hit in 5 of his last 6 games vs SAC,83%,False,41.0
+Deni Avdija,SAC,Under 32.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games vs SAC,83%,False,35.0
+Deni Avdija,SAC,Under 0.5 Blocks,-275,Hit in 5 of his last 6 games vs SAC,83%,True,0.0
+Darius Garland,SAS,Under 24.5 PTS+REB,-128,Hit in 14 of his last 17 games,82%,True,18.0
+Darius Garland,SAS,Under 27.5 PTS+AST,-120,Hit in 14 of his last 17 games,82%,True,23.0
+Caleb Houstan,DAL,Under 1.5 Rebounds,-120,Hit in 14 of his last 17 games,82%,True,0.0
+Josh Giddey,LAL,Under 1.5 Steals,-167,Hit in 14 of his last 17 games,82%,False,2.0
+LeBron James,CHI,Over 0.5 Steals,-263,Hit in 14 of his last 17 games,82%,True,2.0
+Deni Avdija,SAC,Under 0.5 Blocks,-275,Hit in 14 of his last 17 games,82%,True,0.0
+Davion Mitchell,SAS,Under 5.5 Assists,-172,Hit in 9 of his last 11 games,82%,False,6.0
+Myles Turner,WAS,Under 2.5 3PTM,-198,Hit in 9 of his last 11 games,82%,False,4.0
+Khris Middleton,IND,Over 15.5 PTS+AST+REB,-110,Hit in 9 of his last 11 home games,82%,False,12.0
+Bam Adebayo,ATL,Over 1.5 STL+BLK,-145,Hit in 9 of his last 11 games vs ATL,82%,True,3.0
+Jalen Williams,MEM,Over 0.5 Blocks,145,Hit in 9 of his last 11 games,82%,False,0.0
+Amen Thompson,UTA,Under 1.5 Steals,101,Hit in 9 of his last 11 games,82%,False,2.0
+Franz Wagner,DAL,Under 35.5 PTS+AST+REB,-118,Hit in 13 of his last 16 games,81%,True,22.0
+Franz Wagner,DAL,Over 5.5 Rebounds,-112,Hit in 4 of his last 5 games,80%,True,9.0
+Franz Wagner,DAL,Under 1.5 3PTM,-125,Hit in 12 of his last 15 games,80%,True,0.0
+Franz Wagner,DAL,Under 1.5 3PTM,-125,Hit in 4 of his last 5 games vs DAL,80%,True,0.0
+Kentavious Caldwell-Pope,DAL,Over 4.5 REB+AST,100,Hit in 4 of his last 5 games vs DAL,80%,False,4.0
+Anthony Black,DAL,Over 15.5 PTS+AST,-104,Hit in 4 of his last 5 games,80%,True,19.0
+Anthony Black,DAL,Over 15.5 PTS+REB,-110,Hit in 4 of his last 5 games,80%,True,19.0
+Anthony Davis,ORL,Over 11.5 REB+AST,-125,Hit in 16 of his last 20 games,80%,False,9.0
+Anthony Davis,ORL,Over 11.5 REB+AST,-125,Hit in 16 of his last 20 away games,80%,False,9.0
+Anthony Davis,ORL,Over 8.5 Rebounds,-128,Hit in 16 of his last 20 games,80%,False,7.0
+Anthony Davis,ORL,Over 8.5 Rebounds,-128,Hit in 16 of his last 20 away games,80%,False,7.0
+Max Strus,SAS,Over 13.5 PTS+REB,-120,Hit in 4 of his last 5 home games,80%,True,30.0
+Harrison Barnes,CLE,Under 12.5 PTS+AST,-130,Hit in 4 of his last 5 games,80%,False,14.0
+Harrison Barnes,CLE,Under 14.5 PTS+REB,-114,Hit in 4 of his last 5 games,80%,True,14.0
+Harrison Barnes,CLE,Under 16.5 PTS+AST+REB,-130,Hit in 4 of his last 5 games,80%,True,14.0
+Bismack Biyombo,CLE,Under 8.5 REB+AST,-140,Hit in 8 of his last 10 games,80%,True,7.0
+Paolo Banchero,DAL,Over 4.5 Assists,-158,Hit in 4 of his last 5 games,80%,False,4.0
+Anthony Davis,ORL,Over 0.5 Double Double,120,Hit in 16 of his last 20 games,80%,False,0.0
+Jarrett Allen,SAS,Over 0.5 Double Double,-125,Hit in 4 of his last 5 home games,80%,True,1.0
+Max Strus,SAS,Over 16.5 PTS+AST+REB,-130,Hit in 4 of his last 5 home games,80%,True,30.0
+De'Andre Hunter,SAS,Over 1.5 3PTM,-192,Hit in 4 of his last 5 games,80%,False,1.0
+De'Andre Hunter,SAS,Over 1.5 3PTM,-192,Hit in 4 of his last 5 games vs SAS,80%,False,1.0
+Bismack Biyombo,CLE,Under 6.5 Rebounds,-120,Hit in 8 of his last 10 games,80%,True,6.0
+Bismack Biyombo,CLE,Under 0.5 Steals,-132,Hit in 4 of his last 5 games,80%,False,1.0
+AJ Johnson,IND,Under 15.5 PTS+AST,-120,Hit in 16 of his last 20 games,80%,True,2.0
+AJ Johnson,IND,Under 11.5 Points,-136,Hit in 16 of his last 20 games,80%,True,2.0
+Khris Middleton,IND,Over 8.5 Points,-135,Hit in 8 of his last 10 games,80%,True,10.0
+Khris Middleton,IND,Over 8.5 Points,-135,Hit in 8 of his last 10 home games,80%,True,10.0
+Andrew Nembhard,WAS,Under 15.5 PTS+AST,-122,Hit in 8 of his last 10 games,80%,False,17.0
+Andrew Nembhard,WAS,Under 18.5 PTS+AST+REB,-110,Hit in 8 of his last 10 games,80%,True,17.0
+Andrew Nembhard,WAS,Under 3.5 Rebounds,-146,Hit in 8 of his last 10 games,80%,False,4.0
+Tyrese Haliburton,WAS,Over 3.5 Rebounds,-114,Hit in 4 of his last 5 games,80%,False,2.0
+Tyrese Haliburton,WAS,Over 18.5 Points,-118,Hit in 4 of his last 5 away games,80%,True,43.0
+Aaron Nesmith,WAS,Over 12.5 Points,100,Hit in 4 of his last 5 away games,80%,True,17.0
+Pascal Siakam,WAS,Over 26.5 PTS+REB,-114,Hit in 4 of his last 5 games vs WAS,80%,False,17.0
+Pascal Siakam,WAS,Over 3.5 Assists,104,Hit in 4 of his last 5 games,80%,True,5.0
+Pascal Siakam,WAS,Over 30.5 PTS+AST+REB,-106,Hit in 4 of his last 5 games vs WAS,80%,False,20.0
+Pascal Siakam,WAS,Over 5.5 Rebounds,-154,Hit in 4 of his last 5 games vs WAS,80%,False,2.0
+AJ Johnson,IND,Under 8.5 REB+AST,-114,Hit in 16 of his last 20 games,80%,True,3.0
+Davion Mitchell,SAS,Under 1.5 Steals,-215,Hit in 12 of his last 15 games,80%,True,1.0
+Khris Middleton,IND,Over 0.5 Steals,-123,Hit in 8 of his last 10 games,80%,True,1.0
+Jordan Poole,IND,Over 5.5 REB+AST,-115,Hit in 16 of his last 20 games,80%,False,3.0
+Jordan Poole,IND,Over 5.5 REB+AST,-115,Hit in 8 of his last 10 home games,80%,False,3.0
+Pascal Siakam,WAS,Over 0.5 Steals,-263,Hit in 8 of his last 10 away games,80%,True,1.0
+Cory Joseph,DAL,Under 1.5 3PTM,-235,Hit in 16 of his last 20 games,80%,False,2.0
+Kentavious Caldwell-Pope,DAL,Under 0.5 Blocks,-325,Hit in 4 of his last 5 games,80%,True,0.0
+Spencer Dinwiddie,ORL,Under 0.5 Blocks,-400,Hit in 4 of his last 5 games vs ORL,80%,True,0.0
+Jarrett Allen,SAS,Under 27.5 PTS+AST+REB,-118,Hit in 4 of his last 5 games,80%,False,29.0
+Khris Middleton,IND,Over 11.5 PTS+AST,-125,Hit in 12 of his last 15 games,80%,True,12.0
+Myles Turner,WAS,Over 1.5 Blocks,-190,Hit in 4 of his last 5 games,80%,False,0.0
+Anthony Black,DAL,Over 18.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games,80%,True,19.0
+Anthony Black,DAL,Over 11.5 Points,-125,Hit in 4 of his last 5 games,80%,True,16.0
+Anthony Davis,ORL,Over 28.5 PTS+REB,-110,Hit in 12 of his last 15 games,80%,False,24.0
+Anthony Davis,ORL,Over 31.5 PTS+AST+REB,-110,Hit in 12 of his last 15 games,80%,False,19.0
+De'Andre Hunter,SAS,Over 19.5 PTS+AST+REB,-110,Hit in 4 of his last 5 games vs SAS,80%,False,18.0
+Blake Wesley,CLE,Under 11.5 PTS+AST+REB,-105,Hit in 16 of his last 20 games,80%,True,6.0
+Blake Wesley,CLE,Under 6.5 Points,-130,Hit in 16 of his last 20 games,80%,True,5.0
+Julian Champagnie,CLE,Under 7.5 Points,100,Hit in 4 of his last 5 games,80%,False,22.0
+Julian Champagnie,CLE,Under 12.5 PTS+REB,-135,Hit in 4 of his last 5 games,80%,False,29.0
+De'Andre Hunter,SAS,Over 0.5 Steals,-128,Hit in 4 of his last 5 games vs SAS,80%,True,2.0
+Blake Wesley,CLE,Under 8.5 PTS+REB,-123,Hit in 16 of his last 20 games,80%,True,5.0
+Bennedict Mathurin,WAS,Over 4.5 Rebounds,-125,Hit in 4 of his last 5 games,80%,False,2.0
+Bennedict Mathurin,WAS,Over 6.5 REB+AST,-105,Hit in 4 of his last 5 games,80%,False,3.0
+Bennedict Mathurin,WAS,Over 19.5 PTS+REB,-135,Hit in 4 of his last 5 games vs WAS,80%,False,12.0
+Obi Toppin,WAS,Over 8.5 Points,-130,Hit in 4 of his last 5 away games,80%,True,17.0
+T.J. McConnell,WAS,Under 2.5 Rebounds,-118,Hit in 16 of his last 20 games,80%,False,9.0
+Bam Adebayo,ATL,Under 9.5 Rebounds,-122,Hit in 4 of his last 5 games vs ATL,80%,False,10.0
+Tyler Herro,ATL,Under 6.5 Assists,-162,Hit in 4 of his last 5 games,80%,True,4.0
+Tyler Herro,ATL,Under 6.5 Assists,-162,Hit in 8 of his last 10 games vs ATL,80%,True,4.0
+Dyson Daniels,MIA,Over 19.5 PTS+REB,-110,Hit in 4 of his last 5 games,80%,False,19.0
+Dyson Daniels,MIA,Over 24.5 PTS+AST+REB,-104,Hit in 4 of his last 5 games,80%,False,14.0
+Onyeka Okongwu,MIA,Over 0.5 3PTM,-130,Hit in 4 of his last 5 away games,80%,True,1.0
+Tyler Herro,ATL,Under 1.5 STL+BLK,-149,Hit in 4 of his last 5 games,80%,False,2.0
+Zaccharie Risacher,MIA,Over 1.5 3PTM,-146,Hit in 4 of his last 5 games,80%,False,1.0
+Dyson Daniels,MIA,Over 0.5 3PTM,-190,Hit in 4 of his last 5 games,80%,True,1.0
+Tyler Herro,ATL,Under 1.5 Steals,-220,Hit in 4 of his last 5 games,80%,False,2.0
+Terance Mann,MIA,Under 1.5 Assists,-105,Hit in 4 of his last 5 games,80%,True,1.0
+Terance Mann,MIA,Over 14.5 PTS+AST+REB,-105,Hit in 4 of his last 5 away games,80%,True,19.0
+Terance Mann,MIA,Under 1.5 3PTM,-235,Hit in 8 of his last 10 games,80%,False,2.0
+Terance Mann,MIA,Over 8.5 Points,-118,Hit in 4 of his last 5 games vs MIA,80%,True,18.0
+Terance Mann,MIA,Over 8.5 Points,-118,Hit in 4 of his last 5 away games,80%,True,18.0
+Georges Niang,MIA,Over 11.5 Points,-105,Hit in 4 of his last 5 games,80%,False,7.0
+Isaiah Hartenstein,MEM,Over 13.5 REB+AST,-125,Hit in 4 of his last 5 games vs MEM,80%,True,15.0
+Isaiah Hartenstein,MEM,Over 15.5 PTS+AST,-106,Hit in 4 of his last 5 games,80%,True,22.0
+Isaiah Hartenstein,MEM,Over 21.5 PTS+REB,-112,Hit in 4 of his last 5 games,80%,True,29.0
+Isaiah Hartenstein,MEM,Over 21.5 PTS+REB,-112,Hit in 4 of his last 5 games vs MEM,80%,True,29.0
+Isaiah Hartenstein,MEM,Over 3.5 Assists,-132,Hit in 4 of his last 5 games,80%,True,4.0
+Isaiah Hartenstein,MEM,Over 25.5 PTS+AST+REB,-112,Hit in 4 of his last 5 games,80%,False,22.0
+Isaiah Hartenstein,MEM,Over 11.5 Points,-108,Hit in 4 of his last 5 games,80%,True,18.0
+Isaiah Hartenstein,MEM,Over 11.5 Points,-108,Hit in 4 of his last 5 games vs MEM,80%,True,18.0
+Isaiah Hartenstein,MEM,Over 0.5 Double Double,145,Hit in 4 of his last 5 games,80%,True,1.0
+Luguentz Dort,MEM,Under 4.5 Rebounds,-125,Hit in 4 of his last 5 games vs MEM,80%,True,1.0
+Santi Aldama,OKL,Over 2.5 Assists,-162,Hit in 4 of his last 5 games,80%,True,5.0
+Desmond Bane,OKL,Under 5.5 Assists,-136,Hit in 4 of his last 5 games vs OKL,80%,False,6.0
+Desmond Bane,OKL,Over 2.5 3PTM,108,Hit in 4 of his last 5 games vs OKL,80%,False,1.0
+Desmond Bane,OKL,Over 19.5 Points,-132,Hit in 4 of his last 5 games,80%,False,5.0
+Josh Giddey,LAL,Under 8.5 Assists,-106,Hit in 4 of his last 5 games vs LAL,80%,False,11.0
+Josh Giddey,LAL,Over 1.5 3PTM,108,Hit in 4 of his last 5 games,80%,True,4.0
+LeBron James,CHI,Over 7.5 Rebounds,-136,Hit in 4 of his last 5 away games,80%,False,5.0
+LeBron James,CHI,Under 1.5 3PTM,132,Hit in 4 of his last 5 games vs CHI,80%,True,0.0
+Kevin Huerter,LAL,Over 13.5 Points,-110,Hit in 4 of his last 5 games,80%,True,31.0
+Coby White,LAL,Under 8.5 REB+AST,-140,Hit in 4 of his last 5 games,80%,False,12.0
+Coby White,LAL,Under 4.5 Assists,-155,Hit in 8 of his last 10 games,80%,False,9.0
+Coby White,LAL,Over 2.5 3PTM,-165,Hit in 4 of his last 5 home games,80%,True,5.0
+Coby White,LAL,Over 25.5 Points,-120,Hit in 4 of his last 5 games,80%,True,36.0
+Nikola Vučević,LAL,Under 30.5 PTS+AST+REB,-143,Hit in 4 of his last 5 games vs LAL,80%,True,18.0
+Luka Dončić,CHI,Under 39.5 PTS+REB,-135,Hit in 4 of his last 5 games vs CHI,80%,False,43.0
+Luka Dončić,CHI,Under 8.5 Rebounds,-123,Hit in 4 of his last 5 games vs CHI,80%,False,10.0
+LeBron James,CHI,Under 0.5 Blocks,-140,Hit in 4 of his last 5 games vs CHI,80%,True,0.0
+Isaiah Hartenstein,MEM,Over 0.5 Blocks,-175,Hit in 4 of his last 5 games,80%,True,2.0
+Luguentz Dort,MEM,Under 18.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games vs MEM,80%,False,20.0
+Luguentz Dort,MEM,Over 0.5 Blocks,125,Hit in 4 of his last 5 home games,80%,False,0.0
+Shai Gilgeous-Alexander,MEM,Under 1.5 Steals,-144,Hit in 4 of his last 5 games vs MEM,80%,False,3.0
+Zach Edey,OKL,Over 15.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games,80%,False,9.0
+Zach Edey,OKL,Over 6.5 Rebounds,-118,Hit in 4 of his last 5 games,80%,False,4.0
+Luke Kennard,OKL,Over 3.5 Assists,-155,Hit in 4 of his last 5 games,80%,False,1.0
+Luke Kennard,OKL,Over 16.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games,80%,False,12.0
+Luke Kennard,OKL,Under 9.5 Points,-110,Hit in 4 of his last 5 games vs OKL,80%,False,11.0
+Jaylen Wells,OKL,Over 1.5 Assists,-120,Hit in 4 of his last 5 games,80%,False,0.0
+Jaylen Wells,OKL,Over 1.5 Assists,-120,Hit in 4 of his last 5 away games,80%,False,0.0
+Coby White,LAL,Under 30.5 PTS+AST,-125,Hit in 4 of his last 5 games vs LAL,80%,False,45.0
+Matas Buzelis,LAL,Over 3.5 Rebounds,-145,Hit in 4 of his last 5 home games,80%,True,7.0
+Josh Giddey,LAL,Over 29.5 PTS+AST,-108,Hit in 4 of his last 5 games,80%,True,44.0
+Josh Giddey,LAL,Over 0.5 Blocks,105,Hit in 4 of his last 5 games,80%,False,0.0
+Jalen Williams,MEM,Over 16.5 Points,105,Hit in 4 of his last 5 home games,80%,True,22.0
+Jalen Williams,MEM,Over 8.5 REB+AST,110,Hit in 12 of his last 15 games,80%,True,9.0
+Keyonte George,HOU,Under 2.5 3PTM,-135,Hit in 4 of his last 5 games vs HOU,80%,True,0.0
+Johnny Juzang,HOU,Over 1.5 3PTM,-149,Hit in 4 of his last 5 games,80%,False,1.0
+Walker Kessler,HOU,Under 12.5 PTS+AST,-115,Hit in 4 of his last 5 games,80%,True,4.0
+Walker Kessler,HOU,Under 22.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%,True,4.0
+Walker Kessler,HOU,Under 0.5 3PTM,-220,Hit in 16 of his last 20 games,80%,True,0.0
+Collin Sexton,HOU,Over 5.5 REB+AST,-130,Hit in 4 of his last 5 games vs HOU,80%,True,6.0
+Collin Sexton,HOU,Over 19.5 PTS+AST,-125,Hit in 4 of his last 5 games,80%,True,32.0
+Collin Sexton,HOU,Under 1.5 3PTM,-154,Hit in 4 of his last 5 games vs HOU,80%,False,3.0
+Brice Sensabaugh,HOU,Under 1.5 Assists,-130,Hit in 4 of his last 5 games,80%,True,0.0
+KJ Martin,HOU,Under 4.5 REB+AST,-125,Hit in 4 of his last 5 games,80%,True,4.0
+KJ Martin,HOU,Under 7.5 PTS+AST,-137,Hit in 8 of his last 10 games,80%,False,8.0
+KJ Martin,HOU,Over 0.5 Assists,-227,Hit in 4 of his last 5 home games,80%,True,2.0
+KJ Martin,HOU,Under 10.5 PTS+AST+REB,-103,Hit in 4 of his last 5 games,80%,True,8.0
+Amen Thompson,UTA,Over 23.5 PTS+REB,-106,Hit in 4 of his last 5 games,80%,True,27.0
+Amen Thompson,UTA,Over 27.5 PTS+AST+REB,-108,Hit in 4 of his last 5 games,80%,False,22.0
+Amen Thompson,UTA,Under 0.5 3PTM,-275,Hit in 4 of his last 5 games vs UTA,80%,False,1.0
+Isaiah Collier,HOU,Over 5.5 Assists,-138,Hit in 16 of his last 20 home games,80%,False,5.0
+Collin Sexton,HOU,Over 0.5 Steals,103,Hit in 4 of his last 5 games,80%,True,1.0
+Collin Sexton,HOU,Over 0.5 STL+BLK,-133,Hit in 4 of his last 5 games,80%,True,1.0
+Fred VanVleet,UTA,Over 1.5 Steals,-196,Hit in 4 of his last 5 games vs UTA,80%,False,1.0
+Kyle Filipowski,HOU,Under 1.5 Assists,120,Hit in 4 of his last 5 games,80%,False,4.0
+Collin Sexton,HOU,Over 22.5 PTS+AST+REB,-110,Hit in 4 of his last 5 games,80%,True,32.0
+Malik Monk,POR,Over 9.5 REB+AST,110,Hit in 4 of his last 5 games,80%,False,5.0
+DeMar DeRozan,POR,Over 8.5 REB+AST,-118,Hit in 4 of his last 5 games vs POR,80%,True,12.0
+DeMar DeRozan,POR,Over 30.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games vs POR,80%,True,31.0
+DeMar DeRozan,POR,Over 21.5 Points,-130,Hit in 4 of his last 5 games vs POR,80%,False,21.0
+Zach LaVine,POR,Over 3.5 Assists,-138,Hit in 4 of his last 5 games,80%,False,0.0
+Zach LaVine,POR,Over 3.5 Assists,-138,Hit in 4 of his last 5 home games,80%,False,0.0
+Toumani Camara,SAC,Under 5.5 Rebounds,-136,Hit in 4 of his last 5 games vs SAC,80%,True,4.0
+Anfernee Simons,SAC,Over 24.5 PTS+AST,-112,Hit in 4 of his last 5 away games,80%,True,31.0
+Anfernee Simons,SAC,Over 22.5 PTS+REB,-118,Hit in 4 of his last 5 games vs SAC,80%,True,27.0
+Anfernee Simons,SAC,Over 22.5 PTS+REB,-118,Hit in 4 of his last 5 away games,80%,True,27.0
+Anfernee Simons,SAC,Over 19.5 Points,-130,Hit in 4 of his last 5 games vs SAC,80%,True,26.0
+Anfernee Simons,SAC,Over 19.5 Points,-130,Hit in 4 of his last 5 away games,80%,True,26.0
+Shaedon Sharpe,SAC,Over 2.5 Assists,-148,Hit in 4 of his last 5 games vs SAC,80%,False,0.0
+DeMar DeRozan,POR,Over 4.5 Assists,-125,Hit in 4 of his last 5 games vs POR,80%,True,10.0
+DeMar DeRozan,POR,Over 0.5 Steals,-263,Hit in 4 of his last 5 games,80%,False,0.0
+DeMar DeRozan,POR,Over 0.5 Steals,-263,Hit in 4 of his last 5 games vs POR,80%,False,0.0
+DeMar DeRozan,POR,Over 0.5 Steals,-263,Hit in 4 of his last 5 home games,80%,False,0.0
+Toumani Camara,SAC,Under 7.5 REB+AST,-110,Hit in 4 of his last 5 games vs SAC,80%,True,5.0
+Anfernee Simons,SAC,Over 0.5 Steals,-208,Hit in 4 of his last 5 games vs SAC,80%,False,0.0
+Anfernee Simons,SAC,Over 27.5 PTS+AST+REB,-104,Hit in 4 of his last 5 away games,80%,True,31.0
+Anthony Davis,ORL,Over 0.5 Double Double,120,Hit in 15 of his last 19 away games,79%,False,0.0
+Luguentz Dort,MEM,Under 4.5 Rebounds,-125,Hit in 15 of his last 19 games,79%,True,1.0
+Brice Sensabaugh,HOU,Over 10.5 PTS+AST,-130,Hit in 15 of his last 19 games,79%,True,27.0
+Amen Thompson,UTA,Over 3.5 Assists,-158,Hit in 15 of his last 19 games,79%,True,5.0
+Brice Sensabaugh,HOU,Over 9.5 Points,100,Hit in 15 of his last 19 games,79%,True,27.0
+Chris Paul,CLE,Over 5.5 Assists,-144,Hit in 11 of his last 14 games,79%,False,5.0
+Anthony Davis,ORL,Over 1.5 Blocks,100,Hit in 11 of his last 14 games,79%,False,0.0
+Anthony Black,DAL,Under 6.5 REB+AST,-106,Hit in 11 of his last 14 games,79%,True,6.0
+Luguentz Dort,MEM,Under 13.5 PTS+AST,-110,Hit in 11 of his last 14 games,79%,False,20.0
+Anthony Davis,ORL,Over 2.5 Assists,-138,Hit in 7 of his last 9 games,78%,False,2.0
+Devin Vassell,CLE,Over 21.5 PTS+AST,-130,Hit in 7 of his last 9 games,78%,True,34.0
+Khris Middleton,IND,Over 0.5 3PTM,-175,Hit in 7 of his last 9 home games,78%,True,1.0
+Jordan Poole,IND,Over 2.5 Rebounds,105,Hit in 14 of his last 18 home games,78%,False,0.0
+Jordan Poole,IND,Over 0.5 Steals,101,Hit in 7 of his last 9 home games,78%,True,2.0
+Tyrese Haliburton,WAS,Under 0.5 Blocks,-190,Hit in 7 of his last 9 games,78%,False,1.0
+Jeremy Sochan,CLE,Over 1.5 Assists,-165,Hit in 14 of his last 18 games,78%,True,2.0
+T.J. McConnell,WAS,Under 2.5 Rebounds,-118,Hit in 7 of his last 9 games vs WAS,78%,False,9.0
+Onyeka Okongwu,MIA,Over 0.5 Blocks,-210,Hit in 7 of his last 9 away games,78%,False,0.0
+Kel'el Ware,ATL,Under 1.5 Blocks,-186,Hit in 7 of his last 9 games,78%,True,1.0
+Georges Niang,MIA,Over 3.5 Rebounds,110,Hit in 7 of his last 9 away games,78%,False,3.0
+Nikola Vučević,LAL,Under 19.5 PTS+AST,-127,Hit in 7 of his last 9 games,78%,True,18.0
+Nikola Vučević,LAL,Under 30.5 PTS+AST+REB,-143,Hit in 7 of his last 9 games,78%,True,18.0
+Nikola Vučević,LAL,Under 16.5 Points,-132,Hit in 7 of his last 9 games,78%,True,16.0
+Chet Holmgren,MEM,Under 27.5 PTS+AST+REB,-105,Hit in 7 of his last 9 games,78%,True,6.0
+Matas Buzelis,LAL,Under 1.5 Assists,100,Hit in 7 of his last 9 games,78%,True,1.0
+Johnny Juzang,HOU,Over 3.5 REB+AST,-192,Hit in 7 of his last 9 games,78%,False,3.0
+Brice Sensabaugh,HOU,Over 11.5 PTS+REB,-152,Hit in 14 of his last 18 games,78%,True,31.0
+Amen Thompson,UTA,Over 3.5 Assists,-158,Hit in 7 of his last 9 away games,78%,True,5.0
+Amen Thompson,UTA,Under 3.5 STL+BLK,-182,Hit in 7 of his last 9 games,78%,True,3.0
+Anfernee Simons,SAC,Over 6.5 REB+AST,-144,Hit in 7 of his last 9 away games,78%,False,6.0
+Harrison Barnes,CLE,Over 1.5 3PTM,-138,Hit in 10 of his last 13 games,77%,False,1.0
+Cory Joseph,DAL,Under 0.5 Turnovers,-143,Hit in 10 of his last 13 games,77%,True,0.0
+Luka Dončić,CHI,Over 3.5 Turnovers,-139,Hit in 10 of his last 13 games,77%,False,1.0
+Brice Sensabaugh,HOU,Over 10.5 PTS+AST,-130,Hit in 10 of his last 13 home games,77%,True,27.0
+Brice Sensabaugh,HOU,Over 9.5 Points,100,Hit in 10 of his last 13 home games,77%,True,27.0
+Pascal Siakam,WAS,Over 5.5 Rebounds,-154,Hit in 13 of his last 17 games,76%,False,2.0
+Paolo Banchero,DAL,Under 7.5 Rebounds,-132,Hit in 3 of his last 4 games,75%,False,10.0
+Franz Wagner,DAL,Under 29.5 PTS+AST,-110,Hit in 12 of his last 16 games,75%,True,22.0
+Franz Wagner,DAL,Over 4.5 Assists,-132,Hit in 3 of his last 4 games,75%,False,2.0
+Franz Wagner,DAL,Over 4.5 Assists,-132,Hit in 3 of his last 4 games vs DAL,75%,False,2.0
+Cory Joseph,DAL,Over 8.5 PTS+AST,105,Hit in 3 of his last 4 games,75%,True,11.0
+Cory Joseph,DAL,Over 8.5 PTS+AST,105,Hit in 3 of his last 4 home games,75%,True,11.0
+Cory Joseph,DAL,Under 2.5 Assists,-165,Hit in 15 of his last 20 games,75%,True,1.0
+Cory Joseph,DAL,Over 10.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games,75%,True,11.0
+Cory Joseph,DAL,Over 10.5 PTS+AST+REB,-105,Hit in 3 of his last 4 home games,75%,True,11.0
+Cory Joseph,DAL,Under 2.5 Rebounds,-185,Hit in 15 of his last 20 games,75%,True,2.0
+Cory Joseph,DAL,Under 5.5 Points,-110,Hit in 15 of his last 20 games,75%,False,10.0
+Kentavious Caldwell-Pope,DAL,Over 9.5 PTS+AST,-135,Hit in 6 of his last 8 games vs DAL,75%,False,0.0
+Kentavious Caldwell-Pope,DAL,Over 8.5 Points,-114,Hit in 6 of his last 8 games vs DAL,75%,False,0.0
+Naji Marshall,ORL,Under 3.5 Assists,-118,Hit in 6 of his last 8 games,75%,True,3.0
+Naji Marshall,ORL,Under 3.5 Assists,-118,Hit in 3 of his last 4 games vs ORL,75%,True,3.0
+Naji Marshall,ORL,Over 28.5 PTS+AST+REB,-118,Hit in 3 of his last 4 away games,75%,False,9.0
+Spencer Dinwiddie,ORL,Under 3.5 Rebounds,-180,Hit in 15 of his last 20 games,75%,False,4.0
+Anthony Davis,ORL,Over 11.5 REB+AST,-125,Hit in 3 of his last 4 games vs ORL,75%,False,9.0
+Anthony Davis,ORL,Under 0.5 3PTM,-140,Hit in 3 of his last 4 games vs ORL,75%,False,1.0
+Davion Mitchell,SAS,Under 4.5 Rebounds,110,Hit in 3 of his last 4 games,75%,True,2.0
+Darius Garland,SAS,Over 6.5 Assists,-128,Hit in 3 of his last 4 home games,75%,True,9.0
+Max Strus,SAS,Under 7.5 REB+AST,-136,Hit in 3 of his last 4 games vs SAS,75%,False,8.0
+Max Strus,SAS,Under 3.5 Assists,-188,Hit in 3 of his last 4 games vs SAS,75%,False,4.0
+Max Strus,SAS,Under 4.5 Rebounds,-162,Hit in 3 of his last 4 games vs SAS,75%,True,4.0
+Max Strus,SAS,Under 2.5 3PTM,-186,Hit in 6 of his last 8 games,75%,False,4.0
+Harrison Barnes,CLE,Over 1.5 3PTM,-138,Hit in 3 of his last 4 games vs CLE,75%,False,1.0
+Devin Vassell,CLE,Over 2.5 Assists,-172,Hit in 12 of his last 16 games,75%,True,4.0
+Paolo Banchero,DAL,Over 33.5 PTS+AST,-106,Hit in 3 of his last 4 games,75%,True,41.0
+Paolo Banchero,DAL,Over 1.5 3PTM,-166,Hit in 3 of his last 4 home games,75%,False,1.0
+Naji Marshall,ORL,Under 9.5 REB+AST,110,Hit in 3 of his last 4 games vs ORL,75%,True,7.0
+Spencer Dinwiddie,ORL,Over 17.5 PTS+REB,-122,Hit in 6 of his last 8 games,75%,False,11.0
+Spencer Dinwiddie,ORL,Over 23.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games vs ORL,75%,False,11.0
+Spencer Dinwiddie,ORL,Over 14.5 Points,-118,Hit in 3 of his last 4 away games,75%,False,7.0
+Anthony Davis,ORL,Over 19.5 Points,-106,Hit in 9 of his last 12 games,75%,False,17.0
+Anthony Davis,ORL,Over 0.5 Double Double,120,Hit in 3 of his last 4 games vs ORL,75%,False,0.0
+Davion Mitchell,SAS,Over 25.5 Points,-104,Hit in 3 of his last 4 games vs SAS,75%,False,24.0
+Davion Mitchell,SAS,Over 25.5 Points,-104,Hit in 3 of his last 4 home games,75%,False,24.0
+Harrison Barnes,CLE,Over 10.5 Points,-122,Hit in 3 of his last 4 games vs CLE,75%,True,12.0
+Harrison Barnes,CLE,Over 0.5 STL+BLK,-118,Hit in 3 of his last 4 games vs CLE,75%,True,2.0
+Stephon Castle,CLE,Under 8.5 REB+AST,-146,Hit in 6 of his last 8 games,75%,False,19.0
+Stephon Castle,CLE,Over 3.5 Rebounds,-162,Hit in 3 of his last 4 away games,75%,True,11.0
+Devin Vassell,CLE,Over 4.5 Rebounds,-110,Hit in 6 of his last 8 away games,75%,False,3.0
+Tyrese Haliburton,WAS,Over 32.5 PTS+AST+REB,-125,Hit in 6 of his last 8 games vs WAS,75%,True,49.0
+Tyrese Haliburton,WAS,Over 2.5 3PTM,-136,Hit in 6 of his last 8 games vs WAS,75%,True,7.0
+Myles Turner,WAS,Over 7.5 Rebounds,-122,Hit in 3 of his last 4 games vs WAS,75%,False,5.0
+Pascal Siakam,WAS,Over 20.5 Points,-112,Hit in 3 of his last 4 games vs WAS,75%,False,15.0
+Paolo Banchero,DAL,Over 35.5 PTS+REB,-114,Hit in 3 of his last 4 home games,75%,True,47.0
+Pascal Siakam,WAS,Over 24.5 PTS+AST,-102,Hit in 3 of his last 4 games vs WAS,75%,False,20.0
+Davion Mitchell,SAS,Under 2.5 Turnovers,-175,Hit in 3 of his last 4 games,75%,True,0.0
+Davion Mitchell,SAS,Under 1.5 Steals,-215,Hit in 3 of his last 4 games vs SAS,75%,True,1.0
+Darius Garland,SAS,Over 2.5 Turnovers,108,Hit in 6 of his last 8 games,75%,True,4.0
+Jordan Poole,IND,Over 0.5 Steals,101,Hit in 15 of his last 20 games,75%,True,2.0
+Andrew Nembhard,WAS,Under 13.5 PTS+REB,-108,Hit in 3 of his last 4 games,75%,True,13.0
+Andrew Nembhard,WAS,Under 10.5 Points,-125,Hit in 3 of his last 4 games,75%,True,9.0
+Tyrese Haliburton,WAS,Under 1.5 Steals,100,Hit in 6 of his last 8 games vs WAS,75%,True,1.0
+Aaron Nesmith,WAS,Under 1.5 Assists,-125,Hit in 3 of his last 4 games,75%,True,0.0
+Myles Turner,WAS,Over 15.5 Points,-125,Hit in 3 of his last 4 games,75%,True,25.0
+Myles Turner,WAS,Over 9.5 REB+AST,-105,Hit in 3 of his last 4 games,75%,False,7.0
+Myles Turner,WAS,Under 1.5 Assists,-175,Hit in 3 of his last 4 games vs WAS,75%,False,2.0
+Pascal Siakam,WAS,Over 1.5 Turnovers,-122,Hit in 6 of his last 8 games,75%,False,1.0
+Paolo Banchero,DAL,Under 0.5 Blocks,-145,Hit in 3 of his last 4 games,75%,True,0.0
+Franz Wagner,DAL,Under 0.5 Steals,114,Hit in 3 of his last 4 games,75%,False,1.0
+Cory Joseph,DAL,Over 7.5 PTS+REB,-135,Hit in 3 of his last 4 home games,75%,True,12.0
+Kentavious Caldwell-Pope,DAL,Under 0.5 Blocks,-325,Hit in 3 of his last 4 games vs DAL,75%,True,0.0
+Spencer Dinwiddie,ORL,Over 20.5 PTS+AST,-112,Hit in 3 of his last 4 away games,75%,False,11.0
+Anthony Davis,ORL,Over 22.5 PTS+AST,-110,Hit in 9 of his last 12 games,75%,False,19.0
+Chris Paul,CLE,Over 0.5 Blocks,450,Hit in 3 of his last 4 games,75%,False,0.0
+Stephon Castle,CLE,Over 0.5 Blocks,290,Hit in 3 of his last 4 games,75%,False,0.0
+Myles Turner,WAS,Over 16.5 PTS+AST,-130,Hit in 3 of his last 4 games,75%,True,27.0
+Myles Turner,WAS,Over 1.5 Blocks,-190,Hit in 3 of his last 4 games vs WAS,75%,False,0.0
+Pascal Siakam,WAS,Under 0.5 Blocks,-185,Hit in 3 of his last 4 games,75%,True,0.0
+De'Andre Hunter,SAS,Over 19.5 PTS+AST+REB,-110,Hit in 3 of his last 4 home games,75%,False,18.0
+Julian Champagnie,CLE,Under 13.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games,75%,False,23.0
+Julian Champagnie,CLE,Under 4.5 Rebounds,-160,Hit in 15 of his last 20 games,75%,False,7.0
+Jeremy Sochan,CLE,Over 17.5 PTS+AST+REB,-110,Hit in 6 of his last 8 games,75%,False,17.0
+Jeremy Sochan,CLE,Under 5.5 Rebounds,-105,Hit in 3 of his last 4 games vs CLE,75%,True,5.0
+Jeremy Sochan,CLE,Under 0.5 3PTM,-185,Hit in 3 of his last 4 games,75%,False,1.0
+Jeremy Sochan,CLE,Under 0.5 3PTM,-185,Hit in 3 of his last 4 games vs CLE,75%,False,1.0
+Jeremy Sochan,CLE,Over 9.5 Points,-115,Hit in 6 of his last 8 games,75%,True,15.0
+Jeremy Sochan,CLE,Over 15.5 PTS+REB,-132,Hit in 6 of his last 8 games,75%,True,20.0
+Tyrese Haliburton,WAS,Over 29.5 PTS+AST,-108,Hit in 3 of his last 4 games,75%,True,49.0
+Tyrese Haliburton,WAS,Over 29.5 PTS+AST,-108,Hit in 6 of his last 8 games vs WAS,75%,True,49.0
+Tyrese Haliburton,WAS,Over 22.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%,True,45.0
+Tyrese Haliburton,WAS,Over 22.5 PTS+REB,-112,Hit in 6 of his last 8 games vs WAS,75%,True,45.0
+Paolo Banchero,DAL,Over 27.5 Points,-125,Hit in 3 of his last 4 home games,75%,True,37.0
+Blake Wesley,CLE,Under 9.5 PTS+AST,-125,Hit in 15 of his last 20 games,75%,True,6.0
+Julian Champagnie,CLE,Under 9.5 PTS+AST,-130,Hit in 3 of his last 4 games,75%,False,23.0
+Jeremy Sochan,CLE,Over 11.5 PTS+AST,-132,Hit in 6 of his last 8 games,75%,True,17.0
+Bennedict Mathurin,WAS,Over 1.5 Assists,105,Hit in 3 of his last 4 games,75%,False,1.0
+Bennedict Mathurin,WAS,Under 1.5 3PTM,-175,Hit in 3 of his last 4 games vs WAS,75%,True,0.0
+Obi Toppin,WAS,Over 1.5 Assists,175,Hit in 3 of his last 4 games vs WAS,75%,True,4.0
+Obi Toppin,WAS,Over 4.5 Rebounds,115,Hit in 3 of his last 4 games vs WAS,75%,False,2.0
+T.J. McConnell,WAS,Over 4.5 Assists,-125,Hit in 3 of his last 4 games vs WAS,75%,True,8.0
+Tyler Herro,ATL,Under 10.5 REB+AST,-106,Hit in 6 of his last 8 games vs ATL,75%,True,7.0
+Tyler Herro,ATL,Over 28.5 PTS+AST,-120,Hit in 3 of his last 4 games vs ATL,75%,True,48.0
+Tyler Herro,ATL,Over 33.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games vs ATL,75%,True,48.0
+Dyson Daniels,MIA,Over 5.5 Rebounds,-125,Hit in 3 of his last 4 games vs MIA,75%,True,8.0
+Onyeka Okongwu,MIA,Over 10.5 Rebounds,102,Hit in 3 of his last 4 away games,75%,False,9.0
+Bam Adebayo,ATL,Under 24.5 PTS+AST,-118,Hit in 6 of his last 8 games,75%,True,18.0
+Bam Adebayo,ATL,Under 29.5 PTS+REB,-108,Hit in 6 of his last 8 games,75%,True,24.0
+Bam Adebayo,ATL,Under 33.5 PTS+AST+REB,-106,Hit in 6 of his last 8 games,75%,True,18.0
+Bam Adebayo,ATL,Under 20.5 Points,-122,Hit in 6 of his last 8 games,75%,True,14.0
+Bam Adebayo,ATL,Over 1.5 STL+BLK,-145,Hit in 3 of his last 4 home games,75%,True,3.0
+Kel'el Ware,ATL,Over 9.5 Rebounds,-108,Hit in 3 of his last 4 games,75%,True,12.0
+Kel'el Ware,ATL,Over 9.5 Rebounds,-108,Hit in 3 of his last 4 home games,75%,True,12.0
+Kel'el Ware,ATL,Over 0.5 Double Double,160,Hit in 3 of his last 4 games,75%,False,0.0
+Kel'el Ware,ATL,Over 0.5 Double Double,160,Hit in 3 of his last 4 home games,75%,False,0.0
+Dyson Daniels,MIA,Under 13.5 Points,-114,Hit in 3 of his last 4 games vs MIA,75%,True,11.0
+Bam Adebayo,ATL,Over 0.5 Blocks,-105,Hit in 9 of his last 12 games vs ATL,75%,False,0.0
+Kel'el Ware,ATL,Over 20.5 PTS+REB,-128,Hit in 3 of his last 4 games,75%,False,19.0
+Kel'el Ware,ATL,Over 20.5 PTS+REB,-128,Hit in 3 of his last 4 home games,75%,False,19.0
+Dyson Daniels,MIA,Under 0.5 Blocks,-200,Hit in 9 of his last 12 games,75%,False,1.0
+Dyson Daniels,MIA,Under 0.5 Blocks,-200,Hit in 3 of his last 4 games vs MIA,75%,False,1.0
+Zaccharie Risacher,MIA,Over 0.5 Assists,-155,Hit in 3 of his last 4 games,75%,True,4.0
+Zaccharie Risacher,MIA,Over 18.5 PTS+AST+REB,100,Hit in 3 of his last 4 games,75%,False,11.0
+Zaccharie Risacher,MIA,Over 18.5 PTS+AST+REB,100,Hit in 9 of his last 12 away games,75%,False,11.0
+Terance Mann,MIA,Over 14.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games vs MIA,75%,True,19.0
+Georges Niang,MIA,Over 16.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games vs MIA,75%,False,7.0
+Georges Niang,MIA,Over 2.5 3PTM,100,Hit in 6 of his last 8 games vs MIA,75%,False,1.0
+Isaiah Hartenstein,MEM,Over 15.5 PTS+AST,-106,Hit in 3 of his last 4 games vs MEM,75%,True,22.0
+Shai Gilgeous-Alexander,MEM,Under 40.5 PTS+AST,-122,Hit in 6 of his last 8 games vs MEM,75%,False,43.0
+Shai Gilgeous-Alexander,MEM,Under 32.5 Points,-102,Hit in 6 of his last 8 games vs MEM,75%,False,37.0
+Chet Holmgren,MEM,Under 8.5 Rebounds,-154,Hit in 3 of his last 4 games,75%,False,9.0
+Santi Aldama,OKL,Under 9.5 REB+AST,-122,Hit in 3 of his last 4 games,75%,False,10.0
+Santi Aldama,OKL,Over 2.5 Assists,-162,Hit in 6 of his last 8 away games,75%,True,5.0
+Desmond Bane,OKL,Under 5.5 Assists,-136,Hit in 3 of his last 4 games,75%,False,6.0
+Desmond Bane,OKL,Under 32.5 PTS+AST+REB,-122,Hit in 6 of his last 8 games,75%,True,11.0
+Desmond Bane,OKL,Under 6.5 Rebounds,-140,Hit in 3 of his last 4 games,75%,True,2.0
+Desmond Bane,OKL,Over 19.5 Points,-132,Hit in 3 of his last 4 games vs OKL,75%,False,5.0
+Jaylen Wells,OKL,Under 11.5 PTS+REB,-118,Hit in 6 of his last 8 games,75%,False,22.0
+Jaylen Wells,OKL,Under 1.5 3PTM,-158,Hit in 6 of his last 8 games,75%,False,2.0
+Jaylen Wells,OKL,Under 8.5 Points,-136,Hit in 6 of his last 8 games,75%,False,17.0
+Josh Giddey,LAL,Under 8.5 Rebounds,-122,Hit in 3 of his last 4 games vs LAL,75%,False,14.0
+Josh Giddey,LAL,Over 0.5 Double Double,-170,Hit in 9 of his last 12 games,75%,True,1.0
+LeBron James,CHI,Over 24.5 Points,-106,Hit in 3 of his last 4 games vs CHI,75%,False,17.0
+Shai Gilgeous-Alexander,MEM,Over 6.5 Assists,-132,Hit in 3 of his last 4 games,75%,False,6.0
+Kevin Huerter,LAL,Under 7.5 REB+AST,-135,Hit in 15 of his last 20 games,75%,False,11.0
+Kevin Huerter,LAL,Under 17.5 PTS+REB,-118,Hit in 15 of his last 20 games,75%,False,37.0
+Coby White,LAL,Over 2.5 3PTM,-165,Hit in 3 of his last 4 games,75%,True,5.0
+Josh Giddey,LAL,Under 17.5 REB+AST,-125,Hit in 3 of his last 4 games,75%,False,25.0
+Josh Giddey,LAL,Under 17.5 REB+AST,-125,Hit in 3 of his last 4 games vs LAL,75%,False,25.0
+Josh Giddey,LAL,Over 28.5 PTS+REB,-122,Hit in 3 of his last 4 home games,75%,True,47.0
+Nikola Vučević,LAL,Under 26.5 PTS+REB,-127,Hit in 6 of his last 8 games,75%,True,24.0
+Nikola Vučević,LAL,Over 10.5 Rebounds,-114,Hit in 3 of his last 4 home games,75%,False,8.0
+Luka Dončić,CHI,Over 7.5 Assists,-130,Hit in 3 of his last 4 games vs CHI,75%,True,8.0
+Luka Dončić,CHI,Over 3.5 Turnovers,-139,Hit in 3 of his last 4 games vs CHI,75%,False,1.0
+LeBron James,CHI,Under 7.5 Assists,-132,Hit in 9 of his last 12 games,75%,False,12.0
+LeBron James,CHI,Over 7.5 Rebounds,-136,Hit in 9 of his last 12 games,75%,False,5.0
+Luguentz Dort,MEM,Under 6.5 REB+AST,-118,Hit in 3 of his last 4 games,75%,True,6.0
+Shai Gilgeous-Alexander,MEM,Under 37.5 PTS+REB,-106,Hit in 3 of his last 4 games,75%,False,40.0
+Shai Gilgeous-Alexander,MEM,Under 1.5 Steals,-144,Hit in 6 of his last 8 games,75%,False,3.0
+Shai Gilgeous-Alexander,MEM,Over 0.5 Blocks,-155,Hit in 3 of his last 4 games vs MEM,75%,False,0.0
+Shai Gilgeous-Alexander,MEM,Over 0.5 Blocks,-155,Hit in 3 of his last 4 home games,75%,False,0.0
+Luke Kennard,OKL,Over 3.5 Assists,-155,Hit in 3 of his last 4 away games,75%,False,1.0
+Luke Kennard,OKL,Over 16.5 PTS+AST+REB,-125,Hit in 3 of his last 4 away games,75%,False,12.0
+Luke Kennard,OKL,Under 1.5 3PTM,115,Hit in 9 of his last 12 games,75%,True,1.0
+Luke Kennard,OKL,Under 9.5 Points,-110,Hit in 3 of his last 4 games,75%,False,11.0
+Kevin Huerter,LAL,Under 3.5 Rebounds,115,Hit in 3 of his last 4 games,75%,False,6.0
+Kevin Huerter,LAL,Under 1.5 Steals,-141,Hit in 3 of his last 4 games vs LAL,75%,True,1.0
+Matas Buzelis,LAL,Under 5.5 REB+AST,-105,Hit in 6 of his last 8 games,75%,False,8.0
+Matas Buzelis,LAL,Under 13.5 PTS+AST,100,Hit in 6 of his last 8 games,75%,False,17.0
+Matas Buzelis,LAL,Under 16.5 PTS+REB,-125,Hit in 6 of his last 8 games,75%,False,23.0
+Matas Buzelis,LAL,Under 18.5 PTS+AST+REB,-130,Hit in 6 of his last 8 games,75%,True,17.0
+Matas Buzelis,LAL,Under 12.5 Points,-130,Hit in 6 of his last 8 games,75%,False,16.0
+Jalen Williams,MEM,Over 4.5 Assists,125,Hit in 3 of his last 4 home games,75%,False,4.0
+Jalen Williams,MEM,Over 16.5 Points,105,Hit in 3 of his last 4 games vs MEM,75%,True,22.0
+Jalen Williams,MEM,Over 0.5 Blocks,145,Hit in 3 of his last 4 home games,75%,False,0.0
+Shai Gilgeous-Alexander,MEM,Under 45.5 PTS+AST+REB,-110,Hit in 6 of his last 8 games vs MEM,75%,True,43.0
+Keyonte George,HOU,Over 8.5 REB+AST,-135,Hit in 3 of his last 4 games vs HOU,75%,True,11.0
+Keyonte George,HOU,Over 18.5 PTS+REB,-145,Hit in 3 of his last 4 games vs HOU,75%,True,20.0
+Keyonte George,HOU,Over 3.5 Rebounds,110,Hit in 3 of his last 4 games,75%,False,3.0
+Keyonte George,HOU,Over 3.5 Rebounds,110,Hit in 3 of his last 4 games vs HOU,75%,False,3.0
+Keyonte George,HOU,Over 3.5 Rebounds,110,Hit in 3 of his last 4 home games,75%,False,3.0
+Johnny Juzang,HOU,Over 3.5 REB+AST,-192,Hit in 3 of his last 4 home games,75%,False,3.0
+Johnny Juzang,HOU,Under 2.5 Rebounds,110,Hit in 3 of his last 4 games vs HOU,75%,True,2.0
+Walker Kessler,HOU,Over 11.5 REB+AST,-140,Hit in 15 of his last 20 games,75%,False,11.0
+Walker Kessler,HOU,Over 1.5 Assists,100,Hit in 3 of his last 4 games,75%,True,2.0
+Walker Kessler,HOU,Over 1.5 Assists,100,Hit in 3 of his last 4 home games,75%,True,2.0
+Collin Sexton,HOU,Over 19.5 PTS+AST,-125,Hit in 3 of his last 4 home games,75%,True,32.0
+Brice Sensabaugh,HOU,Over 10.5 PTS+AST,-130,Hit in 3 of his last 4 games vs HOU,75%,True,27.0
+Brice Sensabaugh,HOU,Over 11.5 PTS+REB,-152,Hit in 3 of his last 4 games vs HOU,75%,True,31.0
+Brice Sensabaugh,HOU,Over 11.5 PTS+REB,-152,Hit in 9 of his last 12 home games,75%,True,31.0
+Brice Sensabaugh,HOU,Over 1.5 3PTM,-110,Hit in 3 of his last 4 games vs HOU,75%,True,5.0
+Amen Thompson,UTA,Over 12.5 REB+AST,-114,Hit in 3 of his last 4 games vs UTA,75%,True,15.0
+Amen Thompson,UTA,Over 3.5 Assists,-158,Hit in 3 of his last 4 games vs UTA,75%,True,5.0
+Fred VanVleet,UTA,Over 8.5 REB+AST,-110,Hit in 3 of his last 4 games vs UTA,75%,False,7.0
+Fred VanVleet,UTA,Over 19.5 PTS+AST,-125,Hit in 3 of his last 4 games,75%,False,12.0
+Fred VanVleet,UTA,Over 17.5 PTS+REB,-120,Hit in 3 of his last 4 games,75%,False,7.0
+Fred VanVleet,UTA,Over 2.5 3PTM,-108,Hit in 3 of his last 4 games,75%,False,1.0
+Fred VanVleet,UTA,Over 14.5 Points,-110,Hit in 3 of his last 4 games,75%,False,6.0
+Isaiah Collier,HOU,Under 9.5 REB+AST,-125,Hit in 3 of his last 4 games,75%,True,6.0
+Isaiah Collier,HOU,Over 5.5 Assists,-138,Hit in 15 of his last 20 games,75%,False,5.0
+Isaiah Collier,HOU,Over 20.5 PTS+AST+REB,-118,Hit in 6 of his last 8 games,75%,True,23.0
+Isaiah Collier,HOU,Over 3.5 Rebounds,104,Hit in 6 of his last 8 games,75%,False,1.0
+Kyle Filipowski,HOU,Over 1.5 3PTM,100,Hit in 3 of his last 4 games,75%,False,1.0
+Kyle Filipowski,HOU,Over 1.5 3PTM,100,Hit in 6 of his last 8 home games,75%,False,1.0
+Kyle Filipowski,HOU,Over 12.5 Points,-104,Hit in 3 of his last 4 games,75%,True,18.0
+Kyle Filipowski,HOU,Over 12.5 Points,-104,Hit in 3 of his last 4 home games,75%,True,18.0
+Amen Thompson,UTA,Over 14.5 Points,-118,Hit in 3 of his last 4 games,75%,True,17.0
+Walker Kessler,HOU,Under 2.5 Blocks,-140,Hit in 3 of his last 4 games,75%,True,2.0
+Collin Sexton,HOU,Over 0.5 Steals,103,Hit in 3 of his last 4 games vs HOU,75%,True,1.0
+Brice Sensabaugh,HOU,Under 0.5 STL+BLK,105,Hit in 3 of his last 4 games vs HOU,75%,True,0.0
+Amen Thompson,UTA,Over 1.5 Turnovers,-112,Hit in 6 of his last 8 games,75%,False,0.0
+Amen Thompson,UTA,Over 18.5 PTS+AST,-125,Hit in 3 of his last 4 games,75%,True,22.0
+Isaiah Collier,HOU,Over 0.5 3PTM,-175,Hit in 3 of his last 4 games,75%,True,1.0
+Isaiah Collier,HOU,Over 0.5 3PTM,-175,Hit in 3 of his last 4 home games,75%,True,1.0
+Collin Sexton,HOU,Over 22.5 PTS+AST+REB,-110,Hit in 3 of his last 4 home games,75%,True,32.0
+Brice Sensabaugh,HOU,Over 14.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games vs HOU,75%,True,27.0
+Brice Sensabaugh,HOU,Under 3.5 Rebounds,-160,Hit in 3 of his last 4 games,75%,False,4.0
+Brice Sensabaugh,HOU,Over 9.5 Points,100,Hit in 3 of his last 4 games vs HOU,75%,True,27.0
+Fred VanVleet,UTA,Over 0.5 Blocks,135,Hit in 3 of his last 4 games vs UTA,75%,True,1.0
+Dillon Brooks,UTA,Over 1.5 Assists,-175,Hit in 6 of his last 8 games,75%,True,3.0
+Fred VanVleet,UTA,Over 23.5 PTS+AST+REB,-102,Hit in 3 of his last 4 games,75%,False,12.0
+Domantas Sabonis,POR,Over 18.5 REB+AST,-114,Hit in 3 of his last 4 games vs POR,75%,True,25.0
+Domantas Sabonis,POR,Over 28.5 PTS+REB,-122,Hit in 15 of his last 20 home games,75%,True,43.0
+Domantas Sabonis,POR,Over 5.5 Assists,-138,Hit in 3 of his last 4 games vs POR,75%,True,6.0
+Domantas Sabonis,POR,Over 34.5 PTS+AST+REB,-122,Hit in 15 of his last 20 home games,75%,False,30.0
+Domantas Sabonis,POR,Over 12.5 Rebounds,-114,Hit in 12 of his last 16 home games,75%,True,19.0
+Malik Monk,POR,Under 5.5 Assists,-136,Hit in 3 of his last 4 games vs POR,75%,True,2.0
+Keegan Murray,POR,Over 5.5 Rebounds,-148,Hit in 3 of his last 4 games,75%,True,7.0
+Keegan Murray,POR,Over 5.5 Rebounds,-148,Hit in 3 of his last 4 home games,75%,True,7.0
+Keegan Murray,POR,Under 1.5 Assists,-155,Hit in 3 of his last 4 games vs POR,75%,True,1.0
+DeMar DeRozan,POR,Over 21.5 Points,-130,Hit in 9 of his last 12 games,75%,False,21.0
+Zach LaVine,POR,Over 7.5 REB+AST,-112,Hit in 3 of his last 4 games vs POR,75%,False,2.0
+Zach LaVine,POR,Under 25.5 PTS+AST,-118,Hit in 6 of his last 8 games,75%,False,33.0
+Zach LaVine,POR,Over 3.5 Assists,-138,Hit in 3 of his last 4 games vs POR,75%,False,0.0
+Zach LaVine,POR,Under 2.5 3PTM,104,Hit in 3 of his last 4 games,75%,True,2.0
+Anfernee Simons,SAC,Over 24.5 PTS+AST,-112,Hit in 3 of his last 4 games vs SAC,75%,True,31.0
+Shaedon Sharpe,SAC,Over 27.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games,75%,False,26.0
+Deni Avdija,SAC,Over 4.5 Assists,-154,Hit in 6 of his last 8 games,75%,False,3.0
+Deni Avdija,SAC,Over 8.5 Rebounds,-102,Hit in 3 of his last 4 games,75%,True,9.0
+Deni Avdija,SAC,Over 1.5 3PTM,-174,Hit in 3 of his last 4 games vs SAC,75%,True,4.0
+Deni Avdija,SAC,Over 0.5 Double Double,135,Hit in 3 of his last 4 games,75%,False,0.0
+Domantas Sabonis,POR,Under 0.5 Blocks,-225,Hit in 15 of his last 20 games,75%,True,0.0
+Keegan Murray,POR,Over 18.5 PTS+REB,-130,Hit in 3 of his last 4 games,75%,True,28.0
+Keegan Murray,POR,Over 18.5 PTS+REB,-130,Hit in 3 of his last 4 home games,75%,True,28.0
+Keegan Murray,POR,Over 21.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games,75%,True,22.0
+Keegan Murray,POR,Over 21.5 PTS+AST+REB,-120,Hit in 3 of his last 4 home games,75%,True,22.0
+DeMar DeRozan,POR,Over 4.5 Assists,-125,Hit in 9 of his last 12 games,75%,True,10.0
+DeMar DeRozan,POR,Over 4.5 Assists,-125,Hit in 6 of his last 8 home games,75%,True,10.0
+Zach LaVine,POR,Over 2.5 Turnovers,-130,Hit in 3 of his last 4 games vs POR,75%,False,2.0
+Zach LaVine,POR,Over 2.5 Turnovers,-130,Hit in 12 of his last 16 home games,75%,False,2.0
+Shaedon Sharpe,SAC,Over 7.5 REB+AST,-136,Hit in 3 of his last 4 games,75%,False,7.0
+Keegan Murray,POR,Under 15.5 PTS+AST,-120,Hit in 3 of his last 4 games,75%,False,22.0
+Keegan Murray,POR,Over 0.5 Blocks,-210,Hit in 3 of his last 4 games,75%,False,0.0
+Keegan Murray,POR,Over 0.5 Blocks,-210,Hit in 3 of his last 4 home games,75%,False,0.0
+Toumani Camara,SAC,Under 0.5 Blocks,-145,Hit in 3 of his last 4 games,75%,False,1.0
+Anfernee Simons,SAC,Over 6.5 REB+AST,-144,Hit in 3 of his last 4 games vs SAC,75%,False,6.0
+Anfernee Simons,SAC,Over 27.5 PTS+AST+REB,-104,Hit in 3 of his last 4 games vs SAC,75%,True,31.0
+Donovan Clingan,SAC,Over 10.5 REB+AST,-105,Hit in 3 of his last 4 away games,75%,False,4.0
+Donovan Clingan,SAC,Over 18.5 PTS+AST+REB,-130,Hit in 3 of his last 4 away games,75%,False,1.0
+Donovan Clingan,SAC,Over 1.5 Blocks,-186,Hit in 6 of his last 8 games,75%,False,1.0
+Domantas Sabonis,POR,Over 22.5 PTS+AST,-102,Hit in 15 of his last 20 home games,75%,True,30.0
+Donovan Clingan,SAC,Over 17.5 PTS+REB,-130,Hit in 3 of his last 4 away games,75%,False,3.0
+Franz Wagner,DAL,Under 1.5 3PTM,-125,DAL rank 4th in 3PTM against,4th,True,0.0
+Kentavious Caldwell-Pope,DAL,Over 2.5 Rebounds,-102,DAL rank 26th in REB versus SG,26th,True,4.0
+Naji Marshall,ORL,Under 3.5 Assists,-118,ORL rank 1st in AST against,1st,True,3.0
+Naji Marshall,ORL,Under 6.5 Rebounds,-132,ORL rank 3rd in REB against,3rd,True,4.0
+Naji Marshall,ORL,Under 1.5 3PTM,-225,ORL rank 1st in 3PTM versus SF,1st,True,0.0
+Spencer Dinwiddie,ORL,Under 3.5 Rebounds,-180,ORL rank 3rd in REB versus PG,3rd,False,4.0
+Anthony Davis,ORL,Under 0.5 3PTM,-140,ORL rank 1st in 3PTM against,1st,False,1.0
+Jarrett Allen,SAS,Over 14.5 Points,-114,SAS rank 29th in PTS versus C,29th,True,29.0
+Chris Paul,CLE,Under 2.5 Rebounds,-135,CLE rank 1st in REB versus PG,1st,False,4.0
+Harrison Barnes,CLE,Over 1.5 Assists,140,CLE rank 26th in AST versus PF,26th,True,2.0
+Bismack Biyombo,CLE,Under 5.5 Points,-120,CLE rank 5th in PTS versus C,5th,False,8.0
+Anthony Black,DAL,Over 1.5 Turnovers,-133,DAL rank 5th in TO versus PG,5th,True,2.0
+Darius Garland,SAS,Over 3.5 Rebounds,-120,SAS rank 28th in REB against,28th,True,4.0
+De'Andre Hunter,SAS,Over 4.5 Rebounds,-114,SAS rank 30th in REB versus SF,30th,True,7.0
+Harrison Barnes,CLE,Over 3.5 Rebounds,-125,CLE rank 26th in REB versus PF,26th,False,2.0
+AJ Johnson,IND,Under 1.5 3PTM,-158,IND rank 5th in 3PTM against,5th,True,0.0
+Andrew Nembhard,WAS,Over 4.5 Assists,-136,WAS rank 28th in AST versus SG,28th,True,8.0
+Tyrese Haliburton,WAS,Over 10.5 Assists,-114,WAS rank 26th in AST against,26th,False,6.0
+Tyrese Haliburton,WAS,Over 3.5 Rebounds,-114,WAS rank 30th in REB against,30th,False,2.0
+Tyrese Haliburton,WAS,Over 2.5 3PTM,-136,WAS rank 27th in 3PTM against,27th,True,7.0
+Tyrese Haliburton,WAS,Over 18.5 Points,-118,WAS rank 30th in PTS against,30th,True,43.0
+Aaron Nesmith,WAS,Over 12.5 Points,100,WAS rank 30th in PTS against,30th,True,17.0
+Pascal Siakam,WAS,Over 3.5 Assists,104,WAS rank 27th in AST versus PF,27th,True,5.0
+Pascal Siakam,WAS,Over 5.5 Rebounds,-154,WAS rank 29th in REB versus PF,29th,False,2.0
+Pascal Siakam,WAS,Over 20.5 Points,-112,WAS rank 30th in PTS against,30th,False,15.0
+Aaron Nesmith,WAS,Over 1.5 3PTM,-168,WAS rank 27th in 3PTM against,27th,True,3.0
+Myles Turner,WAS,Over 7.5 Rebounds,-122,WAS rank 30th in REB versus C,30th,False,5.0
+Jarrett Allen,SAS,Under 1.5 Blocks,-220,SAS rank 4th in BLK versus C,4th,True,1.0
+Myles Turner,WAS,Over 15.5 Points,-125,WAS rank 30th in PTS versus C,30th,True,25.0
+Pascal Siakam,WAS,Over 1.5 Turnovers,-122,WAS rank 3rd in TO versus PF,3rd,False,1.0
+Pascal Siakam,WAS,Over 0.5 Steals,-263,WAS rank 28th in STL versus PF,28th,True,1.0
+Paolo Banchero,DAL,Under 1.5 Steals,-245,DAL rank 2nd in STL versus PF,2nd,True,1.0
+Cory Joseph,DAL,Under 1.5 3PTM,-235,DAL rank 3rd in 3PTM versus PG,3rd,False,2.0
+Anthony Black,DAL,Under 1.5 3PTM,-235,DAL rank 3rd in 3PTM versus PG,3rd,True,1.0
+Spencer Dinwiddie,ORL,Under 0.5 Blocks,-400,ORL rank 3rd in BLK versus PG,3rd,True,0.0
+Andrew Nembhard,WAS,Over 0.5 3PTM,-235,WAS rank 30th in 3PTM versus SG,30th,True,1.0
+Andrew Nembhard,WAS,Over 0.5 Blocks,333,WAS rank 29th in BLK versus SG,29th,False,0.0
+Jeremy Sochan,CLE,Over 1.5 Assists,-165,CLE rank 26th in AST versus PF,26th,True,2.0
+Caleb Houstan,DAL,Under 1.5 3PTM,-233,DAL rank 4th in 3PTM against,4th,True,0.0
+Bennedict Mathurin,WAS,Over 1.5 Assists,105,WAS rank 26th in AST against,26th,False,1.0
+Bennedict Mathurin,WAS,Over 4.5 Rebounds,-125,WAS rank 30th in REB against,30th,False,2.0
+Bennedict Mathurin,WAS,Over 14.5 Points,-125,WAS rank 30th in PTS against,30th,False,10.0
+Obi Toppin,WAS,Over 1.5 Assists,175,WAS rank 27th in AST versus PF,27th,True,4.0
+Obi Toppin,WAS,Over 4.5 Rebounds,115,WAS rank 29th in REB versus PF,29th,False,2.0
+Obi Toppin,WAS,Over 1.5 3PTM,130,WAS rank 27th in 3PTM against,27th,False,1.0
+Obi Toppin,WAS,Over 8.5 Points,-130,WAS rank 30th in PTS against,30th,True,17.0
+T.J. McConnell,WAS,Over 4.5 Assists,-125,WAS rank 26th in AST against,26th,True,8.0
+T.J. McConnell,WAS,Over 0.5 3PTM,300,WAS rank 27th in 3PTM against,27th,False,0.0
+T.J. McConnell,WAS,Over 7.5 Points,-105,WAS rank 30th in PTS against,30th,True,10.0
+Tyler Herro,ATL,Over 22.5 Points,-112,ATL rank 27th in PTS versus SG,27th,True,44.0
+Onyeka Okongwu,MIA,Over 10.5 Rebounds,102,MIA rank 26th in REB versus C,26th,False,9.0
+Kel'el Ware,ATL,Over 11.5 Points,-114,ATL rank 27th in PTS against,27th,False,7.0
+Dyson Daniels,MIA,Under 13.5 Points,-114,MIA rank 2nd in PTS versus SG,2nd,True,11.0
+Georges Niang,MIA,Over 2.5 3PTM,100,MIA rank 26th in 3PTM versus PF,26th,False,1.0
+Luguentz Dort,MEM,Over 2.5 3PTM,-108,MEM rank 29th in 3PTM versus SF,29th,True,3.0
+Luguentz Dort,MEM,Over 11.5 Points,-102,MEM rank 30th in PTS versus SF,30th,True,15.0
+Santi Aldama,OKL,Under 12.5 Points,-128,OKL rank 5th in PTS versus PF,5th,True,12.0
+Desmond Bane,OKL,Under 5.5 Assists,-136,OKL rank 5th in AST against,5th,False,6.0
+Jaylen Wells,OKL,Under 8.5 Points,-136,OKL rank 2nd in PTS against,2nd,False,17.0
+LeBron James,CHI,Under 1.5 3PTM,132,CHI rank 2nd in 3PTM versus SF,2nd,True,0.0
+LeBron James,CHI,Over 24.5 Points,-106,CHI rank 28th in PTS against,28th,False,17.0
+Luka Dončić,CHI,Over 7.5 Assists,-130,CHI rank 30th in AST versus PG,30th,True,8.0
+Luka Dončić,CHI,Over 3.5 3PTM,-159,CHI rank 27th in 3PTM versus PG,27th,True,4.0
+Luka Dončić,CHI,Over 30.5 Points,-127,CHI rank 28th in PTS against,28th,True,33.0
+Josh Giddey,LAL,Under 19.5 Points,-102,LAL rank 3rd in PTS versus PG,3rd,False,33.0
+Nikola Vučević,LAL,Under 0.5 Blocks,-312,LAL rank 4th in BLK against,4th,False,2.0
+Luka Dončić,CHI,Over 3.5 Turnovers,-139,CHI rank 4th in TO versus PG,4th,False,1.0
+LeBron James,CHI,Over 3.5 Turnovers,109,CHI rank 4th in TO versus SF,4th,True,4.0
+Isaiah Hartenstein,MEM,Over 0.5 Blocks,-175,MEM rank 27th in BLK against,27th,True,2.0
+Luguentz Dort,MEM,Over 1.5 Assists,100,MEM rank 29th in AST versus SF,29th,True,5.0
+Luguentz Dort,MEM,Over 0.5 Blocks,125,MEM rank 28th in BLK versus SF,28th,False,0.0
+Shai Gilgeous-Alexander,MEM,Over 0.5 Blocks,-155,MEM rank 28th in BLK versus PG,28th,False,0.0
+Chet Holmgren,MEM,Under 1.5 Assists,105,MEM rank 4th in AST versus C,4th,False,2.0
+Zach Edey,OKL,Under 8.5 Points,-140,OKL rank 4th in PTS versus C,4th,True,8.0
+Luke Kennard,OKL,Under 9.5 Points,-110,OKL rank 2nd in PTS against,2nd,False,11.0
+Kevin Huerter,LAL,Under 0.5 Blocks,-300,LAL rank 1st in BLK versus SG,1st,True,0.0
+Matas Buzelis,LAL,Under 0.5 Blocks,115,LAL rank 4th in BLK against,4th,True,0.0
+Jalen Williams,MEM,Over 0.5 Blocks,145,MEM rank 27th in BLK against,27th,False,0.0
+Keyonte George,HOU,Under 5.5 Assists,-185,HOU rank 1st in AST versus PG,1st,False,8.0
+Keyonte George,HOU,Under 2.5 3PTM,-135,HOU rank 2nd in 3PTM against,2nd,True,0.0
+Keyonte George,HOU,Over 15.5 Points,-120,HOU rank 26th in PTS versus PG,26th,True,17.0
+Johnny Juzang,HOU,Under 2.5 Rebounds,110,HOU rank 5th in REB against,5th,True,2.0
+Walker Kessler,HOU,Under 0.5 3PTM,-220,HOU rank 2nd in 3PTM versus C,2nd,True,0.0
+Walker Kessler,HOU,Under 10.5 Points,-114,HOU rank 1st in PTS versus C,1st,True,2.0
+Collin Sexton,HOU,Under 3.5 Assists,-128,HOU rank 5th in AST versus SG,5th,False,5.0
+Collin Sexton,HOU,Under 2.5 Rebounds,-175,HOU rank 5th in REB against,5th,True,1.0
+Collin Sexton,HOU,Under 1.5 3PTM,-154,HOU rank 2nd in 3PTM against,2nd,False,3.0
+Collin Sexton,HOU,Under 16.5 Points,-128,HOU rank 5th in PTS against,5th,False,27.0
+Brice Sensabaugh,HOU,Under 1.5 Assists,-130,HOU rank 3rd in AST versus SF,3rd,True,0.0
+KJ Martin,HOU,Under 3.5 Rebounds,-122,HOU rank 5th in REB against,5th,True,2.0
+KJ Martin,HOU,Under 0.5 3PTM,-204,HOU rank 3rd in 3PTM versus SF,3rd,True,0.0
+KJ Martin,HOU,Under 6.5 Points,-139,HOU rank 5th in PTS versus SF,5th,True,6.0
+Amen Thompson,UTA,Over 3.5 Assists,-158,UTA rank 30th in AST against,30th,True,5.0
+Fred VanVleet,UTA,Over 5.5 Assists,116,UTA rank 29th in AST versus PG,29th,True,6.0
+Fred VanVleet,UTA,Over 2.5 3PTM,-108,UTA rank 30th in 3PTM against,30th,False,1.0
+Fred VanVleet,UTA,Over 14.5 Points,-110,UTA rank 27th in PTS versus PG,27th,False,6.0
+Dillon Brooks,UTA,Under 3.5 Rebounds,-180,UTA rank 1st in REB versus SF,1st,True,3.0
+Isaiah Collier,HOU,Over 10.5 Points,-132,HOU rank 26th in PTS versus PG,26th,True,18.0
+Kyle Filipowski,HOU,Under 6.5 Rebounds,-144,HOU rank 1st in REB versus C,1st,False,7.0
+Walker Kessler,HOU,Under 10.5 Rebounds,108,HOU rank 1st in REB versus C,1st,True,9.0
+Amen Thompson,UTA,Over 14.5 Points,-118,UTA rank 26th in PTS versus SF,26th,True,17.0
+Amen Thompson,UTA,Over 1.5 Turnovers,-112,UTA rank 1st in TO versus SF,1st,False,0.0
+Fred VanVleet,UTA,Over 1.5 Steals,-196,UTA rank 30th in STL versus PG,30th,False,1.0
+Isaiah Collier,HOU,Over 0.5 Blocks,290,HOU rank 28th in BLK against,28th,True,1.0
+Kyle Filipowski,HOU,Under 1.5 Assists,120,HOU rank 1st in AST versus C,1st,False,4.0
+Collin Sexton,HOU,Over 0.5 Blocks,450,HOU rank 28th in BLK against,28th,False,0.0
+Brice Sensabaugh,HOU,Under 3.5 Rebounds,-160,HOU rank 5th in REB against,5th,False,4.0
+Fred VanVleet,UTA,Over 0.5 Blocks,135,UTA rank 30th in BLK versus PG,30th,True,1.0
+Dillon Brooks,UTA,Over 1.5 Assists,-175,UTA rank 30th in AST against,30th,True,3.0
+Dillon Brooks,UTA,Over 0.5 Blocks,310,UTA rank 27th in BLK versus SF,27th,False,0.0
+Domantas Sabonis,POR,Over 5.5 Assists,-138,POR rank 30th in AST versus C,30th,True,6.0
+Domantas Sabonis,POR,Over 12.5 Rebounds,-114,POR rank 27th in REB versus C,27th,True,19.0
+Malik Monk,POR,Over 3.5 Rebounds,-125,POR rank 27th in REB versus SG,27th,False,3.0
+Malik Monk,POR,Over 18.5 Points,-118,POR rank 28th in PTS versus SG,28th,True,20.0
+Keegan Murray,POR,Under 2.5 3PTM,-148,POR rank 2nd in 3PTM versus PF,2nd,True,2.0
+Keegan Murray,POR,Under 12.5 Points,-102,POR rank 2nd in PTS versus PF,2nd,False,21.0
+Keegan Murray,POR,Under 1.5 Assists,-155,POR rank 4th in AST versus PF,4th,True,1.0
+DeMar DeRozan,POR,Over 3.5 Rebounds,-144,POR rank 26th in REB versus SF,26th,False,2.0
+DeMar DeRozan,POR,Under 1.5 3PTM,-192,POR rank 4th in 3PTM versus SF,4th,True,0.0
+Zach LaVine,POR,Over 3.5 Rebounds,-120,POR rank 27th in REB versus SG,27th,False,2.0
+Zach LaVine,POR,Over 21.5 Points,-112,POR rank 28th in PTS versus SG,28th,True,33.0
+Toumani Camara,SAC,Over 1.5 3PTM,-154,SAC rank 29th in 3PTM against,29th,True,2.0
+Toumani Camara,SAC,Over 12.5 Points,-114,SAC rank 29th in PTS versus PF,29th,False,10.0
+Anfernee Simons,SAC,Under 2.5 Rebounds,-114,SAC rank 4th in REB versus SG,4th,True,1.0
+Anfernee Simons,SAC,Over 3.5 3PTM,108,SAC rank 29th in 3PTM versus SG,29th,False,3.0
+Shaedon Sharpe,SAC,Over 2.5 3PTM,106,SAC rank 29th in 3PTM versus SG,29th,False,2.0
+DeMar DeRozan,POR,Over 4.5 Assists,-125,POR rank 28th in AST versus SF,28th,True,10.0
+DeMar DeRozan,POR,Over 0.5 Steals,-263,POR rank 29th in STL against,29th,False,0.0
+Shaedon Sharpe,SAC,Under 4.5 Rebounds,114,SAC rank 4th in REB versus SG,4th,False,7.0
+Deni Avdija,SAC,Over 1.5 3PTM,-174,SAC rank 28th in 3PTM versus SF,28th,True,4.0
+Malik Monk,POR,Over 0.5 Blocks,-110,POR rank 26th in BLK versus SG,26th,False,0.0
+Zach LaVine,POR,Over 0.5 Blocks,400,POR rank 26th in BLK versus SG,26th,False,0.0
+Donovan Clingan,SAC,Over 1.5 Assists,165,SAC rank 28th in AST versus C,28th,False,1.0
+Donovan Clingan,SAC,Over 0.5 3PTM,280,SAC rank 29th in 3PTM against,29th,False,0.0
+Deni Avdija,SAC,Under 0.5 Blocks,-275,SAC rank 5th in BLK versus SF,5th,True,0.0
