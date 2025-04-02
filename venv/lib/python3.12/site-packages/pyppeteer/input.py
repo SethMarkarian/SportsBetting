@@ -183,7 +183,13 @@ class Keyboard(object):
             Modifier keys DO NOT effect :meth:`sendCharacter`. Holding down
             ``shift`` will not type the text in upper case.
         """
-        await self._client.send('Input.insertText', {'text': char})
+        await self._client.send('Input.dispatchKeyEvent', {
+            'type': 'char',
+            'modifiers': self._modifiers,
+            'text': char,
+            'key': char,
+            'unmodifiedText': char,
+        })
 
     async def type(self, text: str, options: Dict = None, **kwargs: Any
                    ) -> None:
@@ -245,11 +251,7 @@ class Keyboard(object):
 
 
 class Mouse(object):
-    """Mouse class.
-
-    The :class:`Mouse` operates in main-frame CSS pixels relative to the
-    top-left corner of the viewport.
-    """
+    """Mouse class."""
 
     def __init__(self, client: CDPSession, keyboard: Keyboard) -> None:
         self._client = client

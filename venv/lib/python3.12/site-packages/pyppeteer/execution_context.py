@@ -35,7 +35,8 @@ class ExecutionContext(object):
         self._frame = frame
         self._contextId = contextPayload.get('id')
 
-        auxData = contextPayload.get('auxData', {'isDefault': False})
+        auxData = contextPayload.get('auxData', {'isDefault': True})
+        self._frameId = auxData.get('frameId', None)
         self._isDefault = bool(auxData.get('isDefault'))
         self._objectHandleFactory = objectHandleFactory
 

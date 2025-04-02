@@ -19,7 +19,7 @@ class Target(object):
 
     def __init__(self, targetInfo: Dict, browserContext: 'BrowserContext',
                  sessionFactory: Callable[[], Coroutine[Any, Any, CDPSession]],
-                 ignoreHTTPSErrors: bool, defaultViewport: Optional[Dict],
+                 ignoreHTTPSErrors: bool, setDefaultViewport: bool,
                  screenshotTaskQueue: List, loop: asyncio.AbstractEventLoop
                  ) -> None:
         self._targetInfo = targetInfo
@@ -27,7 +27,7 @@ class Target(object):
         self._targetId = targetInfo.get('targetId', '')
         self._sessionFactory = sessionFactory
         self._ignoreHTTPSErrors = ignoreHTTPSErrors
-        self._defaultViewport = defaultViewport
+        self._setDefaultViewport = setDefaultViewport
         self._screenshotTaskQueue = screenshotTaskQueue
         self._loop = loop
         self._page: Optional[Page] = None
@@ -64,7 +64,7 @@ class Target(object):
             new_page = await Page.create(
                 client, self,
                 self._ignoreHTTPSErrors,
-                self._defaultViewport,
+                self._setDefaultViewport,
                 self._screenshotTaskQueue,
             )
             self._page = new_page
