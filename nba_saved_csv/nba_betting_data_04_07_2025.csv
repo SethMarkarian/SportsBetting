@@ -1,298 +1,181 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Jalen Duren,SAC,Over 0.5 Double Double,-135,Hit in 4 of his last 4 games,100%
-Jalen Duren,SAC,Over 0.5 Double Double,-135,Hit in 4 of his last 4 games vs SAC,100%
-Amen Thompson,SAC,Over 12.5 Points,-122,Hit in 6 of his last 6 games,100%
-Domantas Sabonis,DET,Over 18.5 REB+AST,-108,Hit in 4 of his last 4 games vs DET,100%
-Domantas Sabonis,DET,Over 24.5 PTS+AST,-122,Hit in 4 of his last 4 games,100%
-Bam Adebayo,PHI,Over 0.5 3PTM,-210,Hit in 10 of his last 10 games,100%
-Domantas Sabonis,DET,Over 31.5 PTS+REB,-108,Hit in 4 of his last 4 games,100%
-Domantas Sabonis,DET,Over 5.5 Assists,-136,Hit in 4 of his last 4 games vs DET,100%
-Domantas Sabonis,DET,Over 37.5 PTS+AST+REB,-112,Hit in 4 of his last 4 games,100%
-Domantas Sabonis,DET,Over 0.5 Double Double,-360,Hit in 4 of his last 4 games vs DET,100%
-Zach LaVine,DET,Under 3.5 Assists,-172,Hit in 6 of his last 6 games,100%
-Tim Hardaway,SAC,Over 2.5 Rebounds,-179,Hit in 4 of his last 4 games,100%
-Terrel Harris,SAC,Over 1.5 Assists,-155,Hit in 5 of his last 5 games,100%
-Terrel Harris,SAC,Over 20.5 PTS+AST+REB,-105,Hit in 6 of his last 6 home games,100%
-Malik Beasley,SAC,Over 1.5 Assists,-110,Hit in 5 of his last 5 games vs SAC,100%
-Domantas Sabonis,DET,Under 0.5 Blocks,-250,Hit in 6 of his last 6 games,100%
-DeMar DeRozan,DET,Under 1.5 Turnovers,-122,Hit in 6 of his last 6 games vs DET,100%
-Domantas Sabonis,DET,Over 24.5 PTS+AST,-122,Hit in 4 of his last 4 away games,100%
-Domantas Sabonis,DET,Over 31.5 PTS+REB,-108,Hit in 4 of his last 4 away games,100%
-Domantas Sabonis,DET,Over 37.5 PTS+AST+REB,-112,Hit in 4 of his last 4 away games,100%
-Terrel Harris,SAC,Over 14.5 PTS+AST,-120,Hit in 4 of his last 4 home games,100%
-Terrel Harris,SAC,Under 0.5 Blocks,-160,Hit in 4 of his last 4 games vs SAC,100%
-Malik Beasley,SAC,Over 2.5 Rebounds,-160,Hit in 4 of his last 4 home games,100%
-Terrel Harris,SAC,Over 12.5 Points,-120,Hit in 4 of his last 4 home games,100%
-Amen Thompson,SAC,Under 0.5 3PTM,-400,Hit in 5 of his last 5 games,100%
-Malik Monk,DET,Under 21.5 PTS+AST+REB,-115,Hit in 6 of his last 6 games,100%
-Jonas Valančiūnas,DET,Over 8.5 PTS+REB,-137,Hit in 5 of his last 5 games vs DET,100%
-Jonas Valančiūnas,DET,Over 4.5 Rebounds,115,Hit in 5 of his last 5 games vs DET,100%
-Jonas Valančiūnas,DET,Over 4.5 Points,-133,Hit in 5 of his last 5 games vs DET,100%
-Bam Adebayo,PHI,Over 25.5 PTS+AST,-114,Hit in 4 of his last 4 games,100%
-Bam Adebayo,PHI,Over 4.5 Assists,-110,Hit in 5 of his last 5 games,100%
-Bam Adebayo,PHI,Over 20.5 Points,-125,Hit in 4 of his last 4 games,100%
-Tyler Herro,PHI,Over 30.5 PTS+AST,-125,Hit in 5 of his last 5 games,100%
-Tyler Herro,PHI,Over 30.5 PTS+REB,-110,Hit in 5 of his last 5 games,100%
-Tyler Herro,PHI,Over 36.5 PTS+AST+REB,-118,Hit in 5 of his last 5 games,100%
-Tyler Herro,PHI,Over 24.5 Points,-118,Hit in 5 of his last 5 games,100%
-Quentin Grimes,MIA,Under 4.5 Assists,-132,Hit in 5 of his last 5 games vs MIA,100%
-Quentin Grimes,MIA,Under 4.5 Rebounds,-152,Hit in 5 of his last 5 games,100%
-Quentin Grimes,MIA,Over 23.5 Points,100,Hit in 8 of his last 8 away games,100%
-L. Walker,MIA,Under 3.5 Rebounds,-132,Hit in 6 of his last 6 games vs MIA,100%
-L. Walker,MIA,Over 2.5 Assists,-185,Hit in 4 of his last 4 games,100%
-James Edwards,MIA,Under 1.5 3PTM,-148,Hit in 4 of his last 4 games,100%
-Jackie Butler,MIA,Under 2.5 Rebounds,100,Hit in 5 of his last 5 games,100%
-Bam Adebayo,PHI,Over 0.5 3PTM,-210,Hit in 7 of his last 7 home games,100%
-Tyler Herro,PHI,Under 0.5 Blocks,-225,Hit in 5 of his last 5 games vs PHI,100%
-Quentin Grimes,MIA,Over 27.5 PTS+AST,-112,Hit in 8 of his last 8 away games,100%
-Quentin Grimes,MIA,Under 27.5 PTS+REB,-122,Hit in 10 of his last 10 games vs MIA,100%
-Quentin Grimes,MIA,Over 31.5 PTS+AST+REB,-122,Hit in 8 of his last 8 away games,100%
-Quentin Grimes,MIA,Under 3.5 3PTM,-178,Hit in 10 of his last 10 games vs MIA,100%
-Quentin Grimes,MIA,Under 1.5 Steals,-186,Hit in 5 of his last 5 games vs MIA,100%
-Quentin Grimes,MIA,Under 0.5 Blocks,-300,Hit in 8 of his last 8 games,100%
-L. Walker,MIA,Over 6.5 REB+AST,-130,Hit in 4 of his last 4 games,100%
-Aaron Wiggins,PHI,Over 2.5 Assists,-125,Hit in 4 of his last 4 games,100%
-Aaron Wiggins,PHI,Over 2.5 Assists,-125,Hit in 6 of his last 6 home games,100%
-Aaron Wiggins,PHI,Over 1.5 3PTM,-165,Hit in 4 of his last 4 games,100%
-Aaron Wiggins,PHI,Over 1.5 3PTM,-165,Hit in 6 of his last 6 home games,100%
-Davion Mitchell,PHI,Over 19.5 PTS+AST+REB,-118,Hit in 5 of his last 5 home games,100%
-Davion Mitchell,PHI,Under 3.5 Rebounds,-175,Hit in 6 of his last 6 games vs PHI,100%
-Davion Mitchell,PHI,Over 10.5 Points,-105,Hit in 8 of his last 8 home games,100%
-Davion Mitchell,PHI,Over 13.5 PTS+REB,-132,Hit in 6 of his last 6 home games,100%
-David Robinson,PHI,Under 5.5 REB+AST,-160,Hit in 14 of his last 14 games,100%
-David Robinson,PHI,Under 5.5 REB+AST,-160,Hit in 5 of his last 5 games vs PHI,100%
-David Robinson,PHI,Under 2.5 3PTM,-120,Hit in 4 of his last 4 games vs PHI,100%
-L. Walker,MIA,Under 2.5 3PTM,-210,Hit in 6 of his last 6 games vs MIA,100%
-Terrel Harris,SAC,Over 0.5 3PTM,-235,Hit in 9 of his last 10 home games,90%
-Alec Burks,PHI,Under 2.5 3PTM,-188,Hit in 9 of his last 10 games vs PHI,90%
-Tyler Herro,PHI,Under 0.5 Blocks,-225,Hit in 9 of his last 10 games,90%
-Jackie Butler,MIA,Under 0.5 Blocks,-375,Hit in 9 of his last 10 games,90%
-Davion Mitchell,PHI,Over 10.5 Points,-105,Hit in 9 of his last 10 games,90%
-David Robinson,PHI,Under 2.5 Assists,-145,Hit in 9 of his last 10 games,90%
-Tyler Herro,PHI,Under 1.5 Steals,-220,Hit in 8 of his last 9 games vs PHI,89%
-Bam Adebayo,PHI,Over 9.5 Rebounds,-114,Hit in 7 of his last 8 games vs PHI,88%
-Davion Mitchell,PHI,Over 13.5 PTS+REB,-132,Hit in 7 of his last 8 games,88%
-Alec Burks,PHI,Under 1.5 Assists,-220,Hit in 7 of his last 8 games vs PHI,88%
-Jalen Duren,SAC,Over 13.5 Points,-122,Hit in 6 of his last 7 home games,86%
-Malik Beasley,SAC,Over 1.5 Assists,-110,Hit in 6 of his last 7 home games,86%
-Zach LaVine,DET,Over 0.5 Steals,-200,Hit in 6 of his last 7 games vs DET,86%
-Alec Burks,PHI,Under 9.5 Points,-114,Hit in 6 of his last 7 games vs PHI,86%
-Jackie Butler,MIA,Over 12.5 Points,-120,Hit in 6 of his last 7 games,86%
-James Edwards,MIA,Under 0.5 Blocks,-300,Hit in 6 of his last 7 games,86%
-Davion Mitchell,PHI,Over 5.5 Assists,-155,Hit in 6 of his last 7 games,86%
-Davion Mitchell,PHI,Over 19.5 PTS+AST+REB,-118,Hit in 6 of his last 7 games,86%
-David Robinson,PHI,Under 2.5 Rebounds,-110,Hit in 6 of his last 7 games,86%
-Malik Monk,DET,Over 7.5 REB+AST,105,Hit in 17 of his last 20 away games,85%
-Quentin Grimes,MIA,Over 23.5 Points,100,Hit in 11 of his last 13 games,85%
-Quentin Grimes,MIA,Over 27.5 PTS+AST,-112,Hit in 11 of his last 13 games,85%
-Quentin Grimes,MIA,Over 31.5 PTS+AST+REB,-122,Hit in 11 of his last 13 games,85%
-Amen Thompson,SAC,Over 15.5 PTS+AST,-112,Hit in 5 of his last 6 games,83%
-Amen Thompson,SAC,Over 19.5 PTS+REB,-112,Hit in 5 of his last 6 games,83%
-Malik Beasley,SAC,Under 3.5 3PTM,-138,Hit in 5 of his last 6 games,83%
-Domantas Sabonis,DET,Over 0.5 Double Double,-360,Hit in 5 of his last 6 games,83%
-Tim Hardaway,SAC,Over 14.5 PTS+AST,-122,Hit in 5 of his last 6 games,83%
-Tim Hardaway,SAC,Over 17.5 PTS+AST+REB,-122,Hit in 5 of his last 6 games,83%
-Terrel Harris,SAC,Over 18.5 PTS+REB,-110,Hit in 5 of his last 6 home games,83%
-Terrel Harris,SAC,Over 5.5 Rebounds,105,Hit in 5 of his last 6 home games,83%
-DeMar DeRozan,DET,Under 1.5 Turnovers,-122,Hit in 10 of his last 12 games,83%
-DeMar DeRozan,DET,Under 0.5 Steals,-108,Hit in 5 of his last 6 games,83%
-Amen Thompson,SAC,Over 21.5 PTS+AST+REB,-130,Hit in 5 of his last 6 games,83%
-Zach LaVine,DET,Under 2.5 Turnovers,107,Hit in 5 of his last 6 games vs DET,83%
-Amen Thompson,SAC,Over 8.5 REB+AST,-144,Hit in 5 of his last 6 games,83%
-Malik Monk,DET,Under 3.5 Assists,-110,Hit in 5 of his last 6 games,83%
-Malik Monk,DET,Under 18.5 PTS+AST,-132,Hit in 5 of his last 6 games,83%
-Tyler Herro,PHI,Under 11.5 REB+AST,-110,Hit in 10 of his last 12 games,83%
-Quentin Grimes,MIA,Under 4.5 Rebounds,-152,Hit in 5 of his last 6 games vs MIA,83%
-James Edwards,MIA,Over 15.5 PTS+REB,-104,Hit in 5 of his last 6 away games,83%
-James Edwards,MIA,Over 11.5 Points,100,Hit in 5 of his last 6 away games,83%
-Bam Adebayo,PHI,Over 0.5 3PTM,-210,Hit in 5 of his last 6 games vs PHI,83%
-James Edwards,MIA,Over 12.5 PTS+AST,-125,Hit in 5 of his last 6 away games,83%
-James Edwards,MIA,Over 1.5 Assists,-105,Hit in 5 of his last 6 away games,83%
-Adem Bona,MIA,Over 1.5 Blocks,-178,Hit in 5 of his last 6 games,83%
-James Edwards,MIA,Over 16.5 PTS+AST+REB,-130,Hit in 5 of his last 6 away games,83%
-James Edwards,MIA,Over 15.5 PTS+REB,-104,Hit in 9 of his last 11 games,82%
-James Edwards,MIA,Over 16.5 PTS+AST+REB,-130,Hit in 9 of his last 11 games,82%
-Amen Thompson,SAC,Over 6.5 Rebounds,-102,Hit in 4 of his last 5 games,80%
-Cade Cunningham,SAC,Over 31.5 PTS+REB,-122,Hit in 8 of his last 10 games,80%
-Cade Cunningham,SAC,Over 8.5 Assists,-108,Hit in 4 of his last 5 home games,80%
-Cade Cunningham,SAC,Over 5.5 Rebounds,102,Hit in 4 of his last 5 games,80%
-Cade Cunningham,SAC,Over 5.5 Rebounds,102,Hit in 4 of his last 5 home games,80%
-Cade Cunningham,SAC,Under 26.5 Points,-118,Hit in 4 of his last 5 games,80%
-Keegan Murray,DET,Under 5.5 Rebounds,-158,Hit in 4 of his last 5 games vs DET,80%
-Keegan Murray,DET,Under 2.5 3PTM,-162,Hit in 4 of his last 5 games,80%
-DeMar DeRozan,DET,Under 4.5 Assists,102,Hit in 4 of his last 5 games vs DET,80%
-DeMar DeRozan,DET,Over 3.5 Rebounds,-114,Hit in 4 of his last 5 games,80%
-DeMar DeRozan,DET,Over 3.5 Rebounds,-114,Hit in 4 of his last 5 away games,80%
-Zach LaVine,DET,Under 3.5 Assists,-172,Hit in 4 of his last 5 games vs DET,80%
-Jalen Duren,SAC,Over 2.5 Assists,-110,Hit in 4 of his last 5 games,80%
-Cade Cunningham,SAC,Under 1.5 STL+BLK,-141,Hit in 4 of his last 5 games,80%
-Tim Hardaway,SAC,Over 15.5 PTS+REB,-135,Hit in 4 of his last 5 games,80%
-Tim Hardaway,SAC,Over 2.5 3PTM,-119,Hit in 4 of his last 5 games,80%
-Terrel Harris,SAC,Over 7.5 REB+AST,100,Hit in 4 of his last 5 games vs SAC,80%
-Terrel Harris,SAC,Over 18.5 PTS+REB,-110,Hit in 4 of his last 5 games vs SAC,80%
-Terrel Harris,SAC,Over 1.5 Assists,-155,Hit in 4 of his last 5 games vs SAC,80%
-Malik Beasley,SAC,Over 4.5 REB+AST,-123,Hit in 4 of his last 5 games vs SAC,80%
-Zach LaVine,DET,Over 23.5 PTS+REB,-128,Hit in 16 of his last 20 away games,80%
-Amen Thompson,SAC,Over 0.5 Blocks,-130,Hit in 4 of his last 5 games,80%
-Tim Hardaway,SAC,Over 12.5 Points,-135,Hit in 4 of his last 5 games,80%
-Terrel Harris,SAC,Over 14.5 PTS+AST,-120,Hit in 16 of his last 20 games,80%
-Malik Beasley,SAC,Over 2.5 Rebounds,-160,Hit in 4 of his last 5 games vs SAC,80%
-Zach LaVine,DET,Under 6.5 REB+AST,114,Hit in 4 of his last 5 games vs DET,80%
-Malik Monk,DET,Under 3.5 Rebounds,-155,Hit in 4 of his last 5 games vs DET,80%
-Malik Monk,DET,Under 14.5 Points,-120,Hit in 4 of his last 5 games,80%
-Malik Monk,DET,Under 17.5 PTS+REB,-111,Hit in 4 of his last 5 games,80%
-Jonas Valančiūnas,DET,Over 8.5 PTS+REB,-137,Hit in 16 of his last 20 away games,80%
-Jonas Valančiūnas,DET,Over 1.5 Assists,180,Hit in 4 of his last 5 games vs DET,80%
-Jonas Valančiūnas,DET,Over 4.5 Points,-133,Hit in 16 of his last 20 away games,80%
-Quentin Grimes,MIA,Under 8.5 REB+AST,-104,Hit in 8 of his last 10 games vs MIA,80%
-Jackie Butler,MIA,Over 5.5 Assists,-102,Hit in 4 of his last 5 games,80%
-Tyler Herro,PHI,Over 6.5 Assists,124,Hit in 4 of his last 5 games vs PHI,80%
-Quentin Grimes,MIA,Under 0.5 Blocks,-300,Hit in 4 of his last 5 games vs MIA,80%
-Aaron Wiggins,PHI,Over 20.5 PTS+AST,-130,Hit in 12 of his last 15 home games,80%
-Davion Mitchell,PHI,Over 5.5 Assists,-155,Hit in 4 of his last 5 home games,80%
-David Robinson,PHI,Under 16.5 PTS+AST+REB,-110,Hit in 8 of his last 10 games,80%
-David Robinson,PHI,Under 2.5 Rebounds,-110,Hit in 4 of his last 5 games vs PHI,80%
-Malik Beasley,SAC,Under 18.5 PTS+REB,-120,Hit in 11 of his last 14 games,79%
-Keegan Murray,DET,Over 17.5 PTS+REB,-122,Hit in 7 of his last 9 games,78%
-DeMar DeRozan,DET,Under 1.5 3PTM,-182,Hit in 7 of his last 9 games vs DET,78%
-Terrel Harris,SAC,Over 1.5 Assists,-155,Hit in 7 of his last 9 home games,78%
-Keon Ellis,DET,Over 2.5 Rebounds,-130,Hit in 7 of his last 9 games,78%
-DeMar DeRozan,DET,Over 22.5 Points,-118,Hit in 7 of his last 9 away games,78%
-Tyler Herro,PHI,Under 11.5 REB+AST,-110,Hit in 7 of his last 9 games vs PHI,78%
-Malik Beasley,SAC,Over 1.5 Assists,-110,Hit in 10 of his last 13 games,77%
-Domantas Sabonis,DET,Under 0.5 3PTM,-118,Hit in 10 of his last 13 games,77%
-Aaron Wiggins,PHI,Over 20.5 PTS+AST,-130,Hit in 10 of his last 13 games,77%
-L. Walker,MIA,Under 13.5 Points,-138,Hit in 13 of his last 17 games,76%
-Jalen Duren,SAC,Over 11.5 Rebounds,104,Hit in 3 of his last 4 games,75%
-Jalen Duren,SAC,Over 13.5 Points,-122,Hit in 6 of his last 8 games,75%
-Jalen Duren,SAC,Over 13.5 Points,-122,Hit in 3 of his last 4 games vs SAC,75%
-Cade Cunningham,SAC,Under 13.5 REB+AST,104,Hit in 3 of his last 4 games,75%
-Cade Cunningham,SAC,Over 31.5 PTS+REB,-122,Hit in 3 of his last 4 home games,75%
-Malik Beasley,SAC,Over 15.5 Points,-118,Hit in 3 of his last 4 games vs SAC,75%
-Domantas Sabonis,DET,Over 18.5 Points,-118,Hit in 3 of his last 4 games,75%
-Keegan Murray,DET,Over 17.5 PTS+REB,-122,Hit in 3 of his last 4 games vs DET,75%
-Keegan Murray,DET,Under 5.5 Rebounds,-158,Hit in 3 of his last 4 games,75%
-Keegan Murray,DET,Under 12.5 Points,-122,Hit in 3 of his last 4 games,75%
-DeMar DeRozan,DET,Over 27.5 PTS+AST,-120,Hit in 3 of his last 4 games vs DET,75%
-DeMar DeRozan,DET,Over 26.5 PTS+REB,-110,Hit in 3 of his last 4 games,75%
-DeMar DeRozan,DET,Over 22.5 Points,-118,Hit in 3 of his last 4 games,75%
-Jalen Duren,SAC,Under 16.5 PTS+AST,-120,Hit in 3 of his last 4 games,75%
-Jalen Duren,SAC,Over 27.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games,75%
-Jalen Duren,SAC,Over 27.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games vs SAC,75%
-Cade Cunningham,SAC,Over 0.5 Steals,-263,Hit in 3 of his last 4 games,75%
-Tim Hardaway,SAC,Over 4.5 REB+AST,-123,Hit in 6 of his last 8 games vs SAC,75%
-Tim Hardaway,SAC,Over 1.5 Assists,-112,Hit in 6 of his last 8 games vs SAC,75%
-Tim Hardaway,SAC,Over 2.5 Rebounds,-179,Hit in 6 of his last 8 games vs SAC,75%
-Terrel Harris,SAC,Over 5.5 Rebounds,105,Hit in 9 of his last 12 games,75%
-Terrel Harris,SAC,Under 1.5 STL+BLK,-114,Hit in 3 of his last 4 games vs SAC,75%
-Malik Beasley,SAC,Over 4.5 REB+AST,-123,Hit in 3 of his last 4 home games,75%
-Malik Beasley,SAC,Over 16.5 PTS+AST,-143,Hit in 3 of his last 4 games vs SAC,75%
-Malik Beasley,SAC,Over 19.5 PTS+AST+REB,-115,Hit in 3 of his last 4 games vs SAC,75%
-Domantas Sabonis,DET,Under 3.5 Turnovers,-200,Hit in 9 of his last 12 games,75%
-Domantas Sabonis,DET,Under 3.5 Turnovers,-200,Hit in 3 of his last 4 games vs DET,75%
-Domantas Sabonis,DET,Under 0.5 Blocks,-250,Hit in 3 of his last 4 games vs DET,75%
-Keon Ellis,DET,Under 2.5 STL+BLK,-133,Hit in 12 of his last 16 games,75%
-Keegan Murray,DET,Over 6.5 REB+AST,-118,Hit in 12 of his last 16 away games,75%
-Keegan Murray,DET,Under 1.5 Assists,-165,Hit in 6 of his last 8 games,75%
-Keegan Murray,DET,Under 19.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games,75%
-Domantas Sabonis,DET,Over 18.5 Points,-118,Hit in 3 of his last 4 away games,75%
-DeMar DeRozan,DET,Over 8.5 REB+AST,-112,Hit in 6 of his last 8 games,75%
-DeMar DeRozan,DET,Over 8.5 REB+AST,-112,Hit in 3 of his last 4 away games,75%
-DeMar DeRozan,DET,Over 27.5 PTS+AST,-120,Hit in 3 of his last 4 games,75%
-DeMar DeRozan,DET,Over 27.5 PTS+AST,-120,Hit in 3 of his last 4 away games,75%
-DeMar DeRozan,DET,Over 26.5 PTS+REB,-110,Hit in 3 of his last 4 games vs DET,75%
-DeMar DeRozan,DET,Over 26.5 PTS+REB,-110,Hit in 3 of his last 4 away games,75%
-DeMar DeRozan,DET,Over 31.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games,75%
-DeMar DeRozan,DET,Over 31.5 PTS+AST+REB,-112,Hit in 3 of his last 4 away games,75%
-DeMar DeRozan,DET,Over 22.5 Points,-118,Hit in 3 of his last 4 games vs DET,75%
-Keon Ellis,DET,Over 2.5 Rebounds,-130,Hit in 3 of his last 4 away games,75%
-Zach LaVine,DET,Over 2.5 3PTM,-102,Hit in 3 of his last 4 games,75%
-Zach LaVine,DET,Over 2.5 3PTM,-102,Hit in 3 of his last 4 away games,75%
-Jalen Duren,SAC,Over 25.5 PTS+REB,-106,Hit in 3 of his last 4 games,75%
-Jalen Duren,SAC,Over 25.5 PTS+REB,-106,Hit in 3 of his last 4 games vs SAC,75%
-Jalen Duren,SAC,Over 0.5 Blocks,-210,Hit in 3 of his last 4 games,75%
-Keegan Murray,DET,Over 1.5 Blocks,150,Hit in 3 of his last 4 games,75%
-Keegan Murray,DET,Over 1.5 Blocks,150,Hit in 3 of his last 4 away games,75%
-Keegan Murray,DET,Under 14.5 PTS+AST,-135,Hit in 3 of his last 4 games,75%
-Zach LaVine,DET,Over 23.5 PTS+REB,-128,Hit in 3 of his last 4 games,75%
-Malik Monk,DET,Over 7.5 REB+AST,105,Hit in 3 of his last 4 games vs DET,75%
-Jonas Valančiūnas,DET,Over 8.5 PTS+REB,-137,Hit in 15 of his last 20 games,75%
-Jonas Valančiūnas,DET,Over 4.5 Rebounds,115,Hit in 15 of his last 20 games,75%
-Jonas Valančiūnas,DET,Over 4.5 Rebounds,115,Hit in 9 of his last 12 away games,75%
-Jonas Valančiūnas,DET,Over 4.5 Points,-133,Hit in 15 of his last 20 games,75%
-Bam Adebayo,PHI,Over 13.5 REB+AST,-136,Hit in 6 of his last 8 games vs PHI,75%
-Bam Adebayo,PHI,Over 25.5 PTS+AST,-114,Hit in 3 of his last 4 home games,75%
-Bam Adebayo,PHI,Over 30.5 PTS+REB,-110,Hit in 3 of his last 4 games,75%
-Bam Adebayo,PHI,Over 30.5 PTS+REB,-110,Hit in 3 of his last 4 home games,75%
-Bam Adebayo,PHI,Over 34.5 PTS+AST+REB,-128,Hit in 3 of his last 4 games,75%
-Bam Adebayo,PHI,Over 34.5 PTS+AST+REB,-128,Hit in 3 of his last 4 home games,75%
-Bam Adebayo,PHI,Over 20.5 Points,-125,Hit in 3 of his last 4 home games,75%
-Bam Adebayo,PHI,Over 0.5 Double Double,-110,Hit in 6 of his last 8 games vs PHI,75%
-Alec Burks,PHI,Under 12.5 PTS+REB,-114,Hit in 9 of his last 12 games,75%
-Alec Burks,PHI,Under 2.5 3PTM,-188,Hit in 3 of his last 4 games,75%
-Tyler Herro,PHI,Over 30.5 PTS+AST,-125,Hit in 3 of his last 4 games vs PHI,75%
-Tyler Herro,PHI,Over 30.5 PTS+AST,-125,Hit in 3 of his last 4 home games,75%
-Tyler Herro,PHI,Over 30.5 PTS+REB,-110,Hit in 3 of his last 4 home games,75%
-Tyler Herro,PHI,Over 36.5 PTS+AST+REB,-118,Hit in 3 of his last 4 home games,75%
-Tyler Herro,PHI,Under 5.5 Rebounds,-118,Hit in 9 of his last 12 games,75%
-Tyler Herro,PHI,Under 5.5 Rebounds,-118,Hit in 3 of his last 4 games vs PHI,75%
-Tyler Herro,PHI,Over 2.5 3PTM,-154,Hit in 3 of his last 4 games vs PHI,75%
-Tyler Herro,PHI,Over 24.5 Points,-118,Hit in 3 of his last 4 games vs PHI,75%
-Tyler Herro,PHI,Over 24.5 Points,-118,Hit in 3 of his last 4 home games,75%
-Kel'el Ware,PHI,Under 22.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%
-Kel'el Ware,PHI,Over 9.5 Rebounds,-132,Hit in 3 of his last 4 home games,75%
-Kel'el Ware,PHI,Under 12.5 Points,-122,Hit in 3 of his last 4 games,75%
-Bam Adebayo,PHI,Over 0.5 Blocks,-110,Hit in 3 of his last 4 games,75%
-Bam Adebayo,PHI,Over 0.5 Blocks,-110,Hit in 3 of his last 4 home games,75%
-Kel'el Ware,PHI,Under 1.5 Blocks,-186,Hit in 6 of his last 8 games,75%
-Quentin Grimes,MIA,Under 3.5 3PTM,-178,Hit in 3 of his last 4 games,75%
-Quentin Grimes,MIA,Under 1.5 Steals,-186,Hit in 3 of his last 4 games,75%
-L. Walker,MIA,Over 16.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%
-Aaron Wiggins,PHI,Over 22.5 PTS+REB,-118,Hit in 6 of his last 8 home games,75%
-Aaron Wiggins,PHI,Over 25.5 PTS+AST+REB,-115,Hit in 6 of his last 8 home games,75%
-Aaron Wiggins,PHI,Over 18.5 Points,-105,Hit in 6 of his last 8 home games,75%
-Aaron Wiggins,PHI,Over 0.5 Blocks,-150,Hit in 3 of his last 4 games,75%
-Aaron Wiggins,PHI,Over 0.5 Blocks,-150,Hit in 6 of his last 8 home games,75%
-Davion Mitchell,PHI,Over 1.5 3PTM,100,Hit in 3 of his last 4 home games,75%
-David Robinson,PHI,Under 13.5 PTS+AST,-105,Hit in 3 of his last 4 games,75%
-David Robinson,PHI,Under 13.5 PTS+AST,-105,Hit in 3 of his last 4 games vs PHI,75%
-David Robinson,PHI,Under 14.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%
-David Robinson,PHI,Under 14.5 PTS+REB,-125,Hit in 3 of his last 4 games vs PHI,75%
-David Robinson,PHI,Under 2.5 Assists,-145,Hit in 6 of his last 8 games vs PHI,75%
-David Robinson,PHI,Under 16.5 PTS+AST+REB,-110,Hit in 3 of his last 4 games vs PHI,75%
-David Robinson,PHI,Under 2.5 3PTM,-120,Hit in 3 of his last 4 games,75%
-David Robinson,PHI,Under 11.5 Points,-118,Hit in 3 of his last 4 games,75%
-David Robinson,PHI,Under 11.5 Points,-118,Hit in 3 of his last 4 games vs PHI,75%
-Alec Burks,PHI,Under 12.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games,75%
-L. Walker,MIA,Under 2.5 3PTM,-210,Hit in 6 of his last 8 games,75%
-L. Walker,MIA,Over 19.5 PTS+AST+REB,-128,Hit in 3 of his last 4 games,75%
-Adem Bona,MIA,Under 8.5 Rebounds,-154,Hit in 15 of his last 20 games,75%
-Cade Cunningham,SAC,Over 1.5 3PTM,-130,SAC rank 29th in 3PTM against,29th
-Cade Cunningham,SAC,Under 26.5 Points,-118,SAC rank 3rd in PTS versus PG,3rd
-Domantas Sabonis,DET,Over 5.5 Assists,-136,DET rank 27th in AST versus C,27th
-DeMar DeRozan,DET,Under 4.5 Assists,102,DET rank 5th in AST against,5th
-DeMar DeRozan,DET,Under 1.5 3PTM,-182,DET rank 5th in 3PTM versus SF,5th
-Keon Ellis,DET,Under 1.5 3PTM,-102,DET rank 4th in 3PTM versus SG,4th
-Zach LaVine,DET,Under 3.5 Assists,-172,DET rank 1st in AST versus SG,1st
-Zach LaVine,DET,Under 3.5 Rebounds,100,DET rank 5th in REB versus SG,5th
-Tim Hardaway,SAC,Over 2.5 3PTM,-119,SAC rank 29th in 3PTM against,29th
-Keon Ellis,DET,Under 2.5 Assists,-190,DET rank 1st in AST versus SG,1st
-Keegan Murray,DET,Under 1.5 Assists,-165,DET rank 5th in AST against,5th
-Zach LaVine,DET,Over 0.5 Steals,-200,DET rank 26th in STL versus SG,26th
-Domantas Sabonis,DET,Under 12.5 Rebounds,-120,DET rank 3rd in REB versus C,3rd
-Keon Ellis,DET,Over 1.5 Steals,-122,DET rank 26th in STL versus SG,26th
-Cade Cunningham,SAC,Under 0.5 Blocks,-185,SAC rank 1st in BLK versus PG,1st
-Terrel Harris,SAC,Under 0.5 Blocks,-160,SAC rank 4th in BLK versus PF,4th
-Terrel Harris,SAC,Over 0.5 3PTM,-235,SAC rank 27th in 3PTM versus PF,27th
-Terrel Harris,SAC,Over 12.5 Points,-120,SAC rank 29th in PTS versus PF,29th
-Malik Monk,DET,Under 3.5 Assists,-110,DET rank 1st in AST versus SG,1st
-Malik Monk,DET,Under 3.5 Rebounds,-155,DET rank 5th in REB versus SG,5th
-Malik Monk,DET,Under 1.5 3PTM,150,DET rank 4th in 3PTM versus SG,4th
-Jonas Valančiūnas,DET,Over 1.5 Assists,180,DET rank 27th in AST versus C,27th
-Bam Adebayo,PHI,Over 0.5 3PTM,-210,PHI rank 29th in 3PTM versus C,29th
-Bam Adebayo,PHI,Over 0.5 Blocks,-110,PHI rank 28th in BLK versus C,28th
-Tyler Herro,PHI,Over 6.5 Assists,124,PHI rank 26th in AST versus SG,26th
-Tyler Herro,PHI,Under 1.5 Steals,-220,PHI rank 5th in STL versus SG,5th
-Tyler Herro,PHI,Under 0.5 Blocks,-225,PHI rank 5th in BLK versus SG,5th
-L. Walker,MIA,Under 13.5 Points,-138,MIA rank 2nd in PTS versus SG,2nd
-Davion Mitchell,PHI,Over 1.5 3PTM,100,PHI rank 26th in 3PTM versus PG,26th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Jalen Duren,SAC,Over 0.5 Double Double,-135,Hit in 4 of his last 4 games,100%,False,0.0
+Jalen Duren,SAC,Over 0.5 Double Double,-135,Hit in 4 of his last 4 games vs SAC,100%,False,0.0
+Domantas Sabonis,DET,Over 18.5 REB+AST,-108,Hit in 4 of his last 4 games vs DET,100%,True,25.0
+Domantas Sabonis,DET,Over 24.5 PTS+AST,-122,Hit in 4 of his last 4 games,100%,True,29.0
+Domantas Sabonis,DET,Over 31.5 PTS+REB,-108,Hit in 4 of his last 4 games,100%,True,34.0
+Domantas Sabonis,DET,Over 5.5 Assists,-136,Hit in 4 of his last 4 games vs DET,100%,True,10.0
+Domantas Sabonis,DET,Over 37.5 PTS+AST+REB,-112,Hit in 4 of his last 4 games,100%,False,29.0
+Domantas Sabonis,DET,Over 0.5 Double Double,-360,Hit in 4 of his last 4 games vs DET,100%,True,1.0
+Zach LaVine,DET,Under 3.5 Assists,-172,Hit in 6 of his last 6 games,100%,False,4.0
+Malik Beasley,SAC,Over 1.5 Assists,-110,Hit in 5 of his last 5 games vs SAC,100%,True,2.0
+Domantas Sabonis,DET,Under 0.5 Blocks,-250,Hit in 6 of his last 6 games,100%,False,1.0
+DeMar DeRozan,DET,Under 1.5 Turnovers,-122,Hit in 6 of his last 6 games vs DET,100%,False,2.0
+Domantas Sabonis,DET,Over 24.5 PTS+AST,-122,Hit in 4 of his last 4 away games,100%,True,29.0
+Domantas Sabonis,DET,Over 31.5 PTS+REB,-108,Hit in 4 of his last 4 away games,100%,True,34.0
+Domantas Sabonis,DET,Over 37.5 PTS+AST+REB,-112,Hit in 4 of his last 4 away games,100%,False,29.0
+Malik Beasley,SAC,Over 2.5 Rebounds,-160,Hit in 4 of his last 4 home games,100%,False,1.0
+Malik Monk,DET,Under 21.5 PTS+AST+REB,-115,Hit in 6 of his last 6 games,100%,True,3.0
+Jonas Valančiūnas,DET,Over 8.5 PTS+REB,-137,Hit in 5 of his last 5 games vs DET,100%,True,22.0
+Jonas Valančiūnas,DET,Over 4.5 Rebounds,115,Hit in 5 of his last 5 games vs DET,100%,True,12.0
+Jonas Valančiūnas,DET,Over 4.5 Points,-133,Hit in 5 of his last 5 games vs DET,100%,True,10.0
+Tyler Herro,PHI,Over 30.5 PTS+AST,-125,Hit in 5 of his last 5 games,100%,False,26.0
+Tyler Herro,PHI,Over 30.5 PTS+REB,-110,Hit in 5 of his last 5 games,100%,False,29.0
+Tyler Herro,PHI,Over 36.5 PTS+AST+REB,-118,Hit in 5 of his last 5 games,100%,False,26.0
+Tyler Herro,PHI,Over 24.5 Points,-118,Hit in 5 of his last 5 games,100%,False,24.0
+Quentin Grimes,MIA,Under 4.5 Assists,-132,Hit in 5 of his last 5 games vs MIA,100%,False,6.0
+Quentin Grimes,MIA,Under 4.5 Rebounds,-152,Hit in 5 of his last 5 games,100%,False,8.0
+Quentin Grimes,MIA,Over 23.5 Points,100,Hit in 8 of his last 8 away games,100%,True,37.0
+Tyler Herro,PHI,Under 0.5 Blocks,-225,Hit in 5 of his last 5 games vs PHI,100%,True,0.0
+Quentin Grimes,MIA,Over 27.5 PTS+AST,-112,Hit in 8 of his last 8 away games,100%,True,43.0
+Quentin Grimes,MIA,Under 27.5 PTS+REB,-122,Hit in 10 of his last 10 games vs MIA,100%,False,45.0
+Quentin Grimes,MIA,Over 31.5 PTS+AST+REB,-122,Hit in 8 of his last 8 away games,100%,True,43.0
+Quentin Grimes,MIA,Under 3.5 3PTM,-178,Hit in 10 of his last 10 games vs MIA,100%,False,4.0
+Quentin Grimes,MIA,Under 1.5 Steals,-186,Hit in 5 of his last 5 games vs MIA,100%,True,1.0
+Quentin Grimes,MIA,Under 0.5 Blocks,-300,Hit in 8 of his last 8 games,100%,True,0.0
+Davion Mitchell,PHI,Over 19.5 PTS+AST+REB,-118,Hit in 5 of his last 5 home games,100%,True,21.0
+Davion Mitchell,PHI,Under 3.5 Rebounds,-175,Hit in 6 of his last 6 games vs PHI,100%,False,4.0
+Davion Mitchell,PHI,Over 10.5 Points,-105,Hit in 8 of his last 8 home games,100%,True,12.0
+Davion Mitchell,PHI,Over 13.5 PTS+REB,-132,Hit in 6 of his last 6 home games,100%,True,16.0
+Alec Burks,PHI,Under 2.5 3PTM,-188,Hit in 9 of his last 10 games vs PHI,90%,False,3.0
+Tyler Herro,PHI,Under 0.5 Blocks,-225,Hit in 9 of his last 10 games,90%,True,0.0
+Davion Mitchell,PHI,Over 10.5 Points,-105,Hit in 9 of his last 10 games,90%,True,12.0
+Tyler Herro,PHI,Under 1.5 Steals,-220,Hit in 8 of his last 9 games vs PHI,89%,True,1.0
+Davion Mitchell,PHI,Over 13.5 PTS+REB,-132,Hit in 7 of his last 8 games,88%,True,16.0
+Alec Burks,PHI,Under 1.5 Assists,-220,Hit in 7 of his last 8 games vs PHI,88%,False,2.0
+Jalen Duren,SAC,Over 13.5 Points,-122,Hit in 6 of his last 7 home games,86%,False,6.0
+Malik Beasley,SAC,Over 1.5 Assists,-110,Hit in 6 of his last 7 home games,86%,True,2.0
+Zach LaVine,DET,Over 0.5 Steals,-200,Hit in 6 of his last 7 games vs DET,86%,True,1.0
+Alec Burks,PHI,Under 9.5 Points,-114,Hit in 6 of his last 7 games vs PHI,86%,False,17.0
+Davion Mitchell,PHI,Over 5.5 Assists,-155,Hit in 6 of his last 7 games,86%,True,9.0
+Davion Mitchell,PHI,Over 19.5 PTS+AST+REB,-118,Hit in 6 of his last 7 games,86%,True,21.0
+Malik Monk,DET,Over 7.5 REB+AST,105,Hit in 17 of his last 20 away games,85%,False,1.0
+Quentin Grimes,MIA,Over 23.5 Points,100,Hit in 11 of his last 13 games,85%,True,37.0
+Quentin Grimes,MIA,Over 27.5 PTS+AST,-112,Hit in 11 of his last 13 games,85%,True,43.0
+Quentin Grimes,MIA,Over 31.5 PTS+AST+REB,-122,Hit in 11 of his last 13 games,85%,True,43.0
+Malik Beasley,SAC,Under 3.5 3PTM,-138,Hit in 5 of his last 6 games,83%,False,4.0
+Domantas Sabonis,DET,Over 0.5 Double Double,-360,Hit in 5 of his last 6 games,83%,True,1.0
+DeMar DeRozan,DET,Under 1.5 Turnovers,-122,Hit in 10 of his last 12 games,83%,False,2.0
+DeMar DeRozan,DET,Under 0.5 Steals,-108,Hit in 5 of his last 6 games,83%,True,0.0
+Zach LaVine,DET,Under 2.5 Turnovers,107,Hit in 5 of his last 6 games vs DET,83%,True,1.0
+Malik Monk,DET,Under 3.5 Assists,-110,Hit in 5 of his last 6 games,83%,True,1.0
+Malik Monk,DET,Under 18.5 PTS+AST,-132,Hit in 5 of his last 6 games,83%,True,3.0
+Tyler Herro,PHI,Under 11.5 REB+AST,-110,Hit in 10 of his last 12 games,83%,True,7.0
+Quentin Grimes,MIA,Under 4.5 Rebounds,-152,Hit in 5 of his last 6 games vs MIA,83%,False,8.0
+Adem Bona,MIA,Over 1.5 Blocks,-178,Hit in 5 of his last 6 games,83%,True,3.0
+Cade Cunningham,SAC,Over 31.5 PTS+REB,-122,Hit in 8 of his last 10 games,80%,True,40.0
+Cade Cunningham,SAC,Over 8.5 Assists,-108,Hit in 4 of his last 5 home games,80%,False,5.0
+Cade Cunningham,SAC,Over 5.5 Rebounds,102,Hit in 4 of his last 5 games,80%,False,3.0
+Cade Cunningham,SAC,Over 5.5 Rebounds,102,Hit in 4 of his last 5 home games,80%,False,3.0
+Cade Cunningham,SAC,Under 26.5 Points,-118,Hit in 4 of his last 5 games,80%,False,37.0
+DeMar DeRozan,DET,Under 4.5 Assists,102,Hit in 4 of his last 5 games vs DET,80%,True,2.0
+DeMar DeRozan,DET,Over 3.5 Rebounds,-114,Hit in 4 of his last 5 games,80%,True,4.0
+DeMar DeRozan,DET,Over 3.5 Rebounds,-114,Hit in 4 of his last 5 away games,80%,True,4.0
+Zach LaVine,DET,Under 3.5 Assists,-172,Hit in 4 of his last 5 games vs DET,80%,False,4.0
+Jalen Duren,SAC,Over 2.5 Assists,-110,Hit in 4 of his last 5 games,80%,True,6.0
+Cade Cunningham,SAC,Under 1.5 STL+BLK,-141,Hit in 4 of his last 5 games,80%,False,3.0
+Malik Beasley,SAC,Over 4.5 REB+AST,-123,Hit in 4 of his last 5 games vs SAC,80%,False,3.0
+Zach LaVine,DET,Over 23.5 PTS+REB,-128,Hit in 16 of his last 20 away games,80%,True,62.0
+Malik Beasley,SAC,Over 2.5 Rebounds,-160,Hit in 4 of his last 5 games vs SAC,80%,False,1.0
+Zach LaVine,DET,Under 6.5 REB+AST,114,Hit in 4 of his last 5 games vs DET,80%,False,7.0
+Malik Monk,DET,Under 3.5 Rebounds,-155,Hit in 4 of his last 5 games vs DET,80%,True,0.0
+Malik Monk,DET,Under 14.5 Points,-120,Hit in 4 of his last 5 games,80%,True,2.0
+Malik Monk,DET,Under 17.5 PTS+REB,-111,Hit in 4 of his last 5 games,80%,True,2.0
+Jonas Valančiūnas,DET,Over 8.5 PTS+REB,-137,Hit in 16 of his last 20 away games,80%,True,22.0
+Jonas Valančiūnas,DET,Over 1.5 Assists,180,Hit in 4 of his last 5 games vs DET,80%,False,1.0
+Jonas Valančiūnas,DET,Over 4.5 Points,-133,Hit in 16 of his last 20 away games,80%,True,10.0
+Quentin Grimes,MIA,Under 8.5 REB+AST,-104,Hit in 8 of his last 10 games vs MIA,80%,False,14.0
+Tyler Herro,PHI,Over 6.5 Assists,124,Hit in 4 of his last 5 games vs PHI,80%,False,2.0
+Quentin Grimes,MIA,Under 0.5 Blocks,-300,Hit in 4 of his last 5 games vs MIA,80%,True,0.0
+Davion Mitchell,PHI,Over 5.5 Assists,-155,Hit in 4 of his last 5 home games,80%,True,9.0
+Malik Beasley,SAC,Under 18.5 PTS+REB,-120,Hit in 11 of his last 14 games,79%,False,23.0
+DeMar DeRozan,DET,Under 1.5 3PTM,-182,Hit in 7 of his last 9 games vs DET,78%,True,1.0
+Keon Ellis,DET,Over 2.5 Rebounds,-130,Hit in 7 of his last 9 games,78%,True,5.0
+DeMar DeRozan,DET,Over 22.5 Points,-118,Hit in 7 of his last 9 away games,78%,True,39.0
+Tyler Herro,PHI,Under 11.5 REB+AST,-110,Hit in 7 of his last 9 games vs PHI,78%,True,7.0
+Malik Beasley,SAC,Over 1.5 Assists,-110,Hit in 10 of his last 13 games,77%,True,2.0
+Domantas Sabonis,DET,Under 0.5 3PTM,-118,Hit in 10 of his last 13 games,77%,True,0.0
+Jalen Duren,SAC,Over 11.5 Rebounds,104,Hit in 3 of his last 4 games,75%,False,9.0
+Jalen Duren,SAC,Over 13.5 Points,-122,Hit in 6 of his last 8 games,75%,False,6.0
+Jalen Duren,SAC,Over 13.5 Points,-122,Hit in 3 of his last 4 games vs SAC,75%,False,6.0
+Cade Cunningham,SAC,Under 13.5 REB+AST,104,Hit in 3 of his last 4 games,75%,True,8.0
+Cade Cunningham,SAC,Over 31.5 PTS+REB,-122,Hit in 3 of his last 4 home games,75%,True,40.0
+Malik Beasley,SAC,Over 15.5 Points,-118,Hit in 3 of his last 4 games vs SAC,75%,True,22.0
+Domantas Sabonis,DET,Over 18.5 Points,-118,Hit in 3 of his last 4 games,75%,True,19.0
+DeMar DeRozan,DET,Over 27.5 PTS+AST,-120,Hit in 3 of his last 4 games vs DET,75%,True,41.0
+DeMar DeRozan,DET,Over 26.5 PTS+REB,-110,Hit in 3 of his last 4 games,75%,True,43.0
+DeMar DeRozan,DET,Over 22.5 Points,-118,Hit in 3 of his last 4 games,75%,True,39.0
+Jalen Duren,SAC,Under 16.5 PTS+AST,-120,Hit in 3 of his last 4 games,75%,True,12.0
+Jalen Duren,SAC,Over 27.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games,75%,False,12.0
+Jalen Duren,SAC,Over 27.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games vs SAC,75%,False,12.0
+Cade Cunningham,SAC,Over 0.5 Steals,-263,Hit in 3 of his last 4 games,75%,True,3.0
+Malik Beasley,SAC,Over 4.5 REB+AST,-123,Hit in 3 of his last 4 home games,75%,False,3.0
+Malik Beasley,SAC,Over 16.5 PTS+AST,-143,Hit in 3 of his last 4 games vs SAC,75%,True,24.0
+Malik Beasley,SAC,Over 19.5 PTS+AST+REB,-115,Hit in 3 of his last 4 games vs SAC,75%,True,24.0
+Domantas Sabonis,DET,Under 3.5 Turnovers,-200,Hit in 9 of his last 12 games,75%,True,2.0
+Domantas Sabonis,DET,Under 3.5 Turnovers,-200,Hit in 3 of his last 4 games vs DET,75%,True,2.0
+Domantas Sabonis,DET,Under 0.5 Blocks,-250,Hit in 3 of his last 4 games vs DET,75%,False,1.0
+Keon Ellis,DET,Under 2.5 STL+BLK,-133,Hit in 12 of his last 16 games,75%,False,3.0
+Domantas Sabonis,DET,Over 18.5 Points,-118,Hit in 3 of his last 4 away games,75%,True,19.0
+DeMar DeRozan,DET,Over 8.5 REB+AST,-112,Hit in 6 of his last 8 games,75%,False,6.0
+DeMar DeRozan,DET,Over 8.5 REB+AST,-112,Hit in 3 of his last 4 away games,75%,False,6.0
+DeMar DeRozan,DET,Over 27.5 PTS+AST,-120,Hit in 3 of his last 4 games,75%,True,41.0
+DeMar DeRozan,DET,Over 27.5 PTS+AST,-120,Hit in 3 of his last 4 away games,75%,True,41.0
+DeMar DeRozan,DET,Over 26.5 PTS+REB,-110,Hit in 3 of his last 4 games vs DET,75%,True,43.0
+DeMar DeRozan,DET,Over 26.5 PTS+REB,-110,Hit in 3 of his last 4 away games,75%,True,43.0
+DeMar DeRozan,DET,Over 31.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games,75%,True,41.0
+DeMar DeRozan,DET,Over 31.5 PTS+AST+REB,-112,Hit in 3 of his last 4 away games,75%,True,41.0
+DeMar DeRozan,DET,Over 22.5 Points,-118,Hit in 3 of his last 4 games vs DET,75%,True,39.0
+Keon Ellis,DET,Over 2.5 Rebounds,-130,Hit in 3 of his last 4 away games,75%,True,5.0
+Zach LaVine,DET,Over 2.5 3PTM,-102,Hit in 3 of his last 4 games,75%,True,8.0
+Zach LaVine,DET,Over 2.5 3PTM,-102,Hit in 3 of his last 4 away games,75%,True,8.0
+Jalen Duren,SAC,Over 25.5 PTS+REB,-106,Hit in 3 of his last 4 games,75%,False,15.0
+Jalen Duren,SAC,Over 25.5 PTS+REB,-106,Hit in 3 of his last 4 games vs SAC,75%,False,15.0
+Jalen Duren,SAC,Over 0.5 Blocks,-210,Hit in 3 of his last 4 games,75%,True,2.0
+Zach LaVine,DET,Over 23.5 PTS+REB,-128,Hit in 3 of his last 4 games,75%,True,62.0
+Malik Monk,DET,Over 7.5 REB+AST,105,Hit in 3 of his last 4 games vs DET,75%,False,1.0
+Jonas Valančiūnas,DET,Over 8.5 PTS+REB,-137,Hit in 15 of his last 20 games,75%,True,22.0
+Jonas Valančiūnas,DET,Over 4.5 Rebounds,115,Hit in 15 of his last 20 games,75%,True,12.0
+Jonas Valančiūnas,DET,Over 4.5 Rebounds,115,Hit in 9 of his last 12 away games,75%,True,12.0
+Jonas Valančiūnas,DET,Over 4.5 Points,-133,Hit in 15 of his last 20 games,75%,True,10.0
+Alec Burks,PHI,Under 12.5 PTS+REB,-114,Hit in 9 of his last 12 games,75%,False,17.0
+Alec Burks,PHI,Under 2.5 3PTM,-188,Hit in 3 of his last 4 games,75%,False,3.0
+Tyler Herro,PHI,Over 30.5 PTS+AST,-125,Hit in 3 of his last 4 games vs PHI,75%,False,26.0
+Tyler Herro,PHI,Over 30.5 PTS+AST,-125,Hit in 3 of his last 4 home games,75%,False,26.0
+Tyler Herro,PHI,Over 30.5 PTS+REB,-110,Hit in 3 of his last 4 home games,75%,False,29.0
+Tyler Herro,PHI,Over 36.5 PTS+AST+REB,-118,Hit in 3 of his last 4 home games,75%,False,26.0
+Tyler Herro,PHI,Under 5.5 Rebounds,-118,Hit in 9 of his last 12 games,75%,True,5.0
+Tyler Herro,PHI,Under 5.5 Rebounds,-118,Hit in 3 of his last 4 games vs PHI,75%,True,5.0
+Tyler Herro,PHI,Over 2.5 3PTM,-154,Hit in 3 of his last 4 games vs PHI,75%,False,2.0
+Tyler Herro,PHI,Over 24.5 Points,-118,Hit in 3 of his last 4 games vs PHI,75%,False,24.0
+Tyler Herro,PHI,Over 24.5 Points,-118,Hit in 3 of his last 4 home games,75%,False,24.0
+Kel'el Ware,PHI,Under 22.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%,False,36.0
+Kel'el Ware,PHI,Over 9.5 Rebounds,-132,Hit in 3 of his last 4 home games,75%,True,17.0
+Kel'el Ware,PHI,Under 12.5 Points,-122,Hit in 3 of his last 4 games,75%,False,19.0
+Kel'el Ware,PHI,Under 1.5 Blocks,-186,Hit in 6 of his last 8 games,75%,True,1.0
+Quentin Grimes,MIA,Under 3.5 3PTM,-178,Hit in 3 of his last 4 games,75%,False,4.0
+Quentin Grimes,MIA,Under 1.5 Steals,-186,Hit in 3 of his last 4 games,75%,True,1.0
+Davion Mitchell,PHI,Over 1.5 3PTM,100,Hit in 3 of his last 4 home games,75%,False,0.0
+Alec Burks,PHI,Under 12.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games,75%,False,19.0
+Adem Bona,MIA,Under 8.5 Rebounds,-154,Hit in 15 of his last 20 games,75%,False,11.0
+Cade Cunningham,SAC,Over 1.5 3PTM,-130,SAC rank 29th in 3PTM against,29th,False,1.0
+Cade Cunningham,SAC,Under 26.5 Points,-118,SAC rank 3rd in PTS versus PG,3rd,False,37.0
+Domantas Sabonis,DET,Over 5.5 Assists,-136,DET rank 27th in AST versus C,27th,True,10.0
+DeMar DeRozan,DET,Under 4.5 Assists,102,DET rank 5th in AST against,5th,True,2.0
+DeMar DeRozan,DET,Under 1.5 3PTM,-182,DET rank 5th in 3PTM versus SF,5th,True,1.0
+Keon Ellis,DET,Under 1.5 3PTM,-102,DET rank 4th in 3PTM versus SG,4th,True,0.0
+Zach LaVine,DET,Under 3.5 Assists,-172,DET rank 1st in AST versus SG,1st,False,4.0
+Zach LaVine,DET,Under 3.5 Rebounds,100,DET rank 5th in REB versus SG,5th,True,3.0
+Keon Ellis,DET,Under 2.5 Assists,-190,DET rank 1st in AST versus SG,1st,True,0.0
+Zach LaVine,DET,Over 0.5 Steals,-200,DET rank 26th in STL versus SG,26th,True,1.0
+Domantas Sabonis,DET,Under 12.5 Rebounds,-120,DET rank 3rd in REB versus C,3rd,False,15.0
+Keon Ellis,DET,Over 1.5 Steals,-122,DET rank 26th in STL versus SG,26th,True,3.0
+Cade Cunningham,SAC,Under 0.5 Blocks,-185,SAC rank 1st in BLK versus PG,1st,True,0.0
+Malik Monk,DET,Under 3.5 Assists,-110,DET rank 1st in AST versus SG,1st,True,1.0
+Malik Monk,DET,Under 3.5 Rebounds,-155,DET rank 5th in REB versus SG,5th,True,0.0
+Malik Monk,DET,Under 1.5 3PTM,150,DET rank 4th in 3PTM versus SG,4th,True,0.0
+Jonas Valančiūnas,DET,Over 1.5 Assists,180,DET rank 27th in AST versus C,27th,False,1.0
+Tyler Herro,PHI,Over 6.5 Assists,124,PHI rank 26th in AST versus SG,26th,False,2.0
+Tyler Herro,PHI,Under 1.5 Steals,-220,PHI rank 5th in STL versus SG,5th,True,1.0
+Tyler Herro,PHI,Under 0.5 Blocks,-225,PHI rank 5th in BLK versus SG,5th,True,0.0
+Davion Mitchell,PHI,Over 1.5 3PTM,100,PHI rank 26th in 3PTM versus PG,26th,False,0.0
