@@ -1,328 +1,238 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Paolo Banchero,ATL,Under 5.5 Assists,-166,Hit in 6 of his last 6 games vs ATL,100%
-Franz Wagner,ATL,Under 37.5 PTS+AST+REB,-130,Hit in 7 of his last 7 games,100%
-Caris LeVert,ORL,Over 12.5 Points,-114,Hit in 5 of his last 5 games vs ORL,100%
-Mouhamadou Gueye,ORL,Over 4.5 Rebounds,-125,Hit in 5 of his last 5 away games,100%
-Thaddeus Young,ORL,Over 9.5 Assists,-144,Hit in 4 of his last 4 games,100%
-Carmelo Anthony,ATL,Over 5.5 Points,-128,Hit in 15 of his last 19 games,79%
-Thaddeus Young,ORL,Over 9.5 Assists,-144,Hit in 7 of his last 7 away games,100%
-Thaddeus Young,ORL,Over 0.5 Double Double,-145,Hit in 4 of his last 4 games,100%
-Kentavious Caldwell-Pope,ATL,Under 0.5 Blocks,-190,Hit in 5 of his last 5 games vs ATL,100%
-Mouhamadou Gueye,ORL,Over 5.5 PTS+AST,-125,Hit in 5 of his last 5 away games,100%
-Caris LeVert,ORL,Over 16.5 PTS+REB,-120,Hit in 5 of his last 6 games,83%
-Mouhamadou Gueye,ORL,Over 10.5 PTS+AST+REB,-130,Hit in 5 of his last 5 away games,100%
-Jonathan Isaac,ATL,Over 0.5 Assists,135,Hit in 4 of his last 4 games,100%
-Jonathan Isaac,ATL,Over 8.5 PTS+AST+REB,-110,Hit in 4 of his last 4 games,100%
-Jonathan Isaac,ATL,Over 3.5 Rebounds,-145,Hit in 4 of his last 4 games,100%
-Jonathan Isaac,ATL,Over 3.5 Points,-130,Hit in 5 of his last 5 games,100%
-Thaddeus Young,ORL,Under 1.5 Steals,-270,Hit in 5 of his last 5 games vs ORL,100%
-Mouhamadou Gueye,ORL,Over 9.5 PTS+REB,-136,Hit in 5 of his last 5 away games,100%
-Cory Joseph,ATL,Under 9.5 PTS+AST,-135,Hit in 5 of his last 5 games,100%
-Brandin Podziemski,MEM,Under 2.5 3PTM,-162,Hit in 6 of his last 6 games vs MEM,100%
-Moses Moody,MEM,Under 9.5 Points,-114,Hit in 6 of his last 6 games,100%
-Jackie Butler,MEM,Under 12.5 REB+AST,-104,Hit in 9 of his last 9 games,100%
-Jackie Butler,MEM,Under 6.5 Assists,-114,Hit in 4 of his last 4 games vs MEM,100%
-Jackie Butler,MEM,Under 5.5 Rebounds,122,Hit in 7 of his last 7 games,100%
-Desmond Bane,GSW,Over 2.5 3PTM,-128,Hit in 4 of his last 4 games,100%
-Zach Edey,GSW,Over 10.5 Rebounds,-132,Hit in 4 of his last 4 away games,100%
-Buddy Hield,MEM,Under 1.5 Assists,-210,Hit in 4 of his last 4 games,100%
-Brandin Podziemski,MEM,Under 0.5 Blocks,-325,Hit in 4 of his last 4 games vs MEM,100%
-Danny Green,MEM,Under 1.5 Blocks,-220,Hit in 5 of his last 5 games vs MEM,100%
-Moses Moody,MEM,Under 12.5 PTS+AST,-135,Hit in 6 of his last 6 games,100%
-Moses Moody,MEM,Under 1.5 Assists,-135,Hit in 6 of his last 6 games vs MEM,100%
-Santi Aldama,GSW,Under 16.5 PTS+REB,-118,Hit in 4 of his last 4 games,100%
-Santi Aldama,GSW,Under 6.5 Rebounds,-158,Hit in 4 of his last 4 games,100%
-Santi Aldama,GSW,Under 18.5 PTS+AST+REB,-105,Hit in 4 of his last 4 games,100%
-Zach Edey,GSW,Over 19.5 PTS+REB,-122,Hit in 4 of his last 4 away games,100%
-Zach Edey,GSW,Over 11.5 REB+AST,-160,Hit in 4 of his last 4 away games,100%
-Kevon Looney,MEM,Under 5.5 Rebounds,-140,Hit in 4 of his last 4 games,100%
-Jackie Butler,MEM,Over 1.5 Steals,-158,Hit in 4 of his last 4 games vs MEM,100%
-Desmond Bane,GSW,Under 1.5 Steals,-200,Hit in 5 of his last 5 games,100%
-Ja Morant,GSW,Under 1.5 Steals,-200,Hit in 4 of his last 4 games,100%
-Buddy Hield,MEM,Over 10.5 PTS+REB,-118,Hit in 4 of his last 4 games vs MEM,100%
-Zach Edey,GSW,Over 21.5 PTS+AST+REB,-105,Hit in 4 of his last 4 away games,100%
-Brandin Podziemski,MEM,Under 0.5 Blocks,-325,Hit in 16 of his last 17 games,94%
-Carmelo Anthony,ATL,Over 0.5 3PTM,-125,Hit in 14 of his last 15 home games,93%
-Paolo Banchero,ATL,Under 1.5 Steals,-270,Hit in 12 of his last 13 games,92%
-Danny Green,MEM,Under 1.5 Blocks,-220,Hit in 12 of his last 13 games,92%
-Jonathan Isaac,ATL,Under 0.5 3PTM,-300,Hit in 11 of his last 12 games,92%
-Georges Niang,ORL,Under 1.5 3PTM,-118,Hit in 9 of his last 10 games vs ORL,90%
-Onyeka Okongwu,ORL,Under 16.5 PTS+AST,-105,Hit in 9 of his last 10 games vs ORL,90%
-Onyeka Okongwu,ORL,Under 15.5 Points,-125,Hit in 9 of his last 10 games vs ORL,90%
-Zach Edey,GSW,Over 0.5 Assists,-220,Hit in 9 of his last 10 away games,90%
-Paolo Banchero,ATL,Under 2.5 3PTM,-186,Hit in 8 of his last 9 games,89%
-Franz Wagner,ATL,Under 30.5 PTS+AST,-118,Hit in 8 of his last 9 games vs ATL,89%
-Franz Wagner,ATL,Under 5.5 Assists,-162,Hit in 8 of his last 9 games vs ATL,89%
-Franz Wagner,ATL,Under 37.5 PTS+AST+REB,-130,Hit in 8 of his last 9 games vs ATL,89%
-Franz Wagner,ATL,Under 25.5 Points,-130,Hit in 8 of his last 9 games vs ATL,89%
-Dyson Daniels,ORL,Over 10.5 REB+AST,-125,Hit in 8 of his last 9 away games,89%
-Franz Wagner,ATL,Under 0.5 Blocks,-175,Hit in 8 of his last 9 games,89%
-Onyeka Okongwu,ORL,Over 0.5 3PTM,-155,Hit in 8 of his last 9 away games,89%
-Carmelo Anthony,ATL,Over 5.5 Points,-128,Hit in 16 of his last 18 home games,89%
-Seth Curry,MEM,Under 5.5 3PTM,-154,Hit in 8 of his last 9 games vs MEM,89%
-Jackie Butler,MEM,Over 1.5 Steals,-158,Hit in 8 of his last 9 games,89%
-Dyson Daniels,ORL,Over 3.5 Assists,-168,Hit in 15 of his last 17 away games,88%
-Danny Green,MEM,Under 6.5 Assists,-138,Hit in 15 of his last 17 games,88%
-Anthony Black,ATL,Under 2.5 Assists,-110,Hit in 7 of his last 8 games vs ATL,88%
-Terance Mann,ORL,Over 0.5 3PTM,-175,Hit in 7 of his last 8 away games,88%
-Mouhamadou Gueye,ORL,Over 0.5 Assists,-105,Hit in 7 of his last 8 away games,88%
-Onyeka Okongwu,ORL,Over 1.5 Assists,-165,Hit in 7 of his last 8 games,88%
-Seth Curry,MEM,Under 34.5 PTS+AST,-125,Hit in 7 of his last 8 games vs MEM,88%
-Jackie Butler,MEM,Over 0.5 3PTM,-225,Hit in 7 of his last 8 home games,88%
-Franz Wagner,ATL,Under 31.5 PTS+REB,-114,Hit in 6 of his last 7 games,86%
-Franz Wagner,ATL,Under 25.5 Points,-130,Hit in 6 of his last 7 games,86%
-Terance Mann,ORL,Under 3.5 Rebounds,-120,Hit in 6 of his last 7 games vs ORL,86%
-Mouhamadou Gueye,ORL,Over 5.5 PTS+AST,-125,Hit in 6 of his last 7 games,86%
-Onyeka Okongwu,ORL,Over 0.5 Blocks,-220,Hit in 6 of his last 7 games vs ORL,86%
-Onyeka Okongwu,ORL,Under 10.5 Rebounds,-102,Hit in 6 of his last 7 games vs ORL,86%
-Danny Green,MEM,Under 24.5 PTS+AST+REB,-108,Hit in 6 of his last 7 games,86%
-Seth Curry,MEM,Under 28.5 Points,-125,Hit in 6 of his last 7 games vs MEM,86%
-Moses Moody,MEM,Under 3.5 Rebounds,-174,Hit in 6 of his last 7 games,86%
-Luke Kennard,GSW,Over 8.5 PTS+AST+REB,-115,Hit in 6 of his last 7 games vs GSW,86%
-Luke Kennard,GSW,Over 8.5 PTS+AST+REB,-115,Hit in 12 of his last 14 away games,86%
-Luke Kennard,GSW,Over 0.5 3PTM,-210,Hit in 6 of his last 7 games vs GSW,86%
-Luke Kennard,GSW,Under 4.5 Points,-115,Hit in 6 of his last 7 games,86%
-Kevon Looney,MEM,Under 5.5 Rebounds,-140,Hit in 6 of his last 7 games vs MEM,86%
-Caris LeVert,ORL,Under 4.5 Rebounds,-172,Hit in 17 of his last 20 games,85%
-Luke Kennard,GSW,Over 1.5 Assists,-135,Hit in 17 of his last 20 away games,85%
-Carmelo Anthony,ATL,Over 0.5 3PTM,-125,Hit in 16 of his last 19 games,84%
-Franz Wagner,ATL,Under 6.5 Rebounds,-132,Hit in 5 of his last 6 games,83%
-Franz Wagner,ATL,Under 2.5 3PTM,-200,Hit in 5 of his last 6 games vs ATL,83%
-Kentavious Caldwell-Pope,ATL,Over 2.5 Rebounds,-146,Hit in 5 of his last 6 home games,83%
-Caris LeVert,ORL,Over 12.5 Points,-114,Hit in 5 of his last 6 games,83%
-Zaccharie Risacher,ORL,Over 1.5 3PTM,110,Hit in 5 of his last 6 games,83%
-Thaddeus Young,ORL,Under 13.5 REB+AST,-138,Hit in 5 of his last 6 games vs ORL,83%
-Anthony Black,ATL,Over 0.5 3PTM,-150,Hit in 5 of his last 6 home games,83%
-Mouhamadou Gueye,ORL,Over 0.5 Assists,-105,Hit in 5 of his last 6 games,83%
-Zaccharie Risacher,ORL,Over 10.5 Points,-122,Hit in 15 of his last 18 away games,83%
-Onyeka Okongwu,ORL,Over 1.5 Assists,-165,Hit in 5 of his last 6 games vs ORL,83%
-Jonathan Isaac,ATL,Under 0.5 3PTM,-300,Hit in 5 of his last 6 games vs ATL,83%
-Carmelo Anthony,ATL,Over 5.5 Points,-128,Hit in 10 of his last 12 games vs ATL,83%
-Thaddeus Young,ORL,Over 36.5 PTS+AST,-114,Hit in 5 of his last 6 away games,83%
-Thaddeus Young,ORL,Under 29.5 PTS+REB,-114,Hit in 5 of his last 6 games,83%
-Thaddeus Young,ORL,Under 1.5 Steals,-270,Hit in 5 of his last 6 games,83%
-Zaccharie Risacher,ORL,Over 11.5 PTS+AST,-135,Hit in 15 of his last 18 away games,83%
-Cory Joseph,ATL,Under 9.5 PTS+AST,-135,Hit in 5 of his last 6 games vs ATL,83%
-Carmelo Anthony,ATL,Over 10.5 PTS+AST+REB,-105,Hit in 10 of his last 12 games vs ATL,83%
-Danny Green,MEM,Under 18.5 PTS+REB,-125,Hit in 5 of his last 6 games,83%
-Moses Moody,MEM,Under 12.5 PTS+REB,-106,Hit in 5 of his last 6 games,83%
-Moses Moody,MEM,Under 3.5 Rebounds,-174,Hit in 5 of his last 6 games vs MEM,83%
-Zach Edey,GSW,Over 10.5 Rebounds,-132,Hit in 5 of his last 6 games,83%
-Ja Morant,GSW,Under 11.5 REB+AST,-110,Hit in 5 of his last 6 games,83%
-Brandin Podziemski,MEM,Under 22.5 PTS+REB,-114,Hit in 5 of his last 6 games vs MEM,83%
-Brandin Podziemski,MEM,Under 15.5 Points,-106,Hit in 5 of his last 6 games vs MEM,83%
-Danny Green,MEM,Under 13.5 REB+AST,-118,Hit in 5 of his last 6 games,83%
-Moses Moody,MEM,Under 4.5 REB+AST,100,Hit in 5 of his last 6 games,83%
-Moses Moody,MEM,Under 4.5 REB+AST,100,Hit in 5 of his last 6 games vs MEM,83%
-Moses Moody,MEM,Under 12.5 PTS+AST,-135,Hit in 5 of his last 6 games vs MEM,83%
-Moses Moody,MEM,Under 1.5 Assists,-135,Hit in 5 of his last 6 games,83%
-Moses Moody,MEM,Under 15.5 PTS+AST+REB,-125,Hit in 5 of his last 6 games,83%
-Moses Moody,MEM,Under 15.5 PTS+AST+REB,-125,Hit in 5 of his last 6 games vs MEM,83%
-Jackie Butler,MEM,Under 0.5 Blocks,-250,Hit in 10 of his last 12 games,83%
-Zach Edey,GSW,Over 19.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%
-Zach Edey,GSW,Over 11.5 REB+AST,-160,Hit in 5 of his last 6 games,83%
-Ja Morant,GSW,Over 30.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%
-Ja Morant,GSW,Under 7.5 Assists,-136,Hit in 5 of his last 6 games,83%
-Zach Edey,GSW,Over 21.5 PTS+AST+REB,-105,Hit in 5 of his last 6 games,83%
-Franz Wagner,ATL,Under 2.5 3PTM,-200,Hit in 14 of his last 17 games,82%
-Danny Green,MEM,Under 1.5 3PTM,-114,Hit in 9 of his last 11 games vs MEM,82%
-Desmond Bane,GSW,Under 10.5 REB+AST,-122,Hit in 9 of his last 11 games,82%
-Seth Curry,MEM,Under 5.5 3PTM,-154,Hit in 13 of his last 16 games,81%
-Jackie Butler,MEM,Over 0.5 3PTM,-225,Hit in 13 of his last 16 games,81%
-Dyson Daniels,ORL,Over 10.5 REB+AST,-125,Hit in 12 of his last 15 games,80%
-Dyson Daniels,ORL,Under 18.5 PTS+AST,-132,Hit in 4 of his last 5 games vs ORL,80%
-Dyson Daniels,ORL,Under 20.5 PTS+REB,-110,Hit in 4 of his last 5 games,80%
-Dyson Daniels,ORL,Under 20.5 PTS+REB,-110,Hit in 4 of his last 5 games vs ORL,80%
-Dyson Daniels,ORL,Under 6.5 Rebounds,-114,Hit in 4 of his last 5 games vs ORL,80%
-Caris LeVert,ORL,Over 16.5 PTS+REB,-120,Hit in 4 of his last 5 games vs ORL,80%
-Mouhamadou Gueye,ORL,Over 5.5 Points,100,Hit in 4 of his last 5 away games,80%
-Zaccharie Risacher,ORL,Under 3.5 Rebounds,-172,Hit in 4 of his last 5 games,80%
-Thaddeus Young,ORL,Under 3.5 Rebounds,-172,Hit in 4 of his last 5 games,80%
-Thaddeus Young,ORL,Under 3.5 3PTM,-180,Hit in 4 of his last 5 games vs ORL,80%
-Paolo Banchero,ATL,Over 0.5 Blocks,100,Hit in 4 of his last 5 games vs ATL,80%
-Cory Joseph,ATL,Under 5.5 REB+AST,-135,Hit in 4 of his last 5 games vs ATL,80%
-Cory Joseph,ATL,Under 2.5 Assists,-110,Hit in 4 of his last 5 games vs ATL,80%
-Cory Joseph,ATL,Under 11.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%
-Cory Joseph,ATL,Under 2.5 Rebounds,-105,Hit in 4 of his last 5 games,80%
-Cory Joseph,ATL,Under 2.5 Rebounds,-105,Hit in 4 of his last 5 games vs ATL,80%
-Franz Wagner,ATL,Under 0.5 Blocks,-175,Hit in 4 of his last 5 games vs ATL,80%
-Kentavious Caldwell-Pope,ATL,Under 4.5 REB+AST,105,Hit in 4 of his last 5 games vs ATL,80%
-Kentavious Caldwell-Pope,ATL,Under 1.5 Assists,110,Hit in 4 of his last 5 games vs ATL,80%
-Kentavious Caldwell-Pope,ATL,Under 0.5 Blocks,-190,Hit in 4 of his last 5 games,80%
-Mouhamadou Gueye,ORL,Over 5.5 REB+AST,-120,Hit in 4 of his last 5 away games,80%
-Mouhamadou Gueye,ORL,Over 10.5 PTS+AST+REB,-130,Hit in 4 of his last 5 games,80%
-Mouhamadou Gueye,ORL,Over 0.5 3PTM,110,Hit in 4 of his last 5 games,80%
-Mouhamadou Gueye,ORL,Over 0.5 3PTM,110,Hit in 4 of his last 5 away games,80%
-Dyson Daniels,ORL,Over 24.5 PTS+AST+REB,-125,Hit in 4 of his last 5 away games,80%
-Dyson Daniels,ORL,Under 0.5 3PTM,130,Hit in 4 of his last 5 games vs ORL,80%
-Georges Niang,ORL,Over 0.5 Assists,-185,Hit in 16 of his last 20 games,80%
-Georges Niang,ORL,Over 10.5 PTS+AST+REB,-130,Hit in 4 of his last 5 games,80%
-Onyeka Okongwu,ORL,Over 1.5 Assists,-165,Hit in 4 of his last 5 away games,80%
-Paolo Banchero,ATL,Over 30.5 Points,-106,Hit in 4 of his last 5 games vs ATL,80%
-Anthony Black,ATL,Over 11.5 PTS+REB,-125,Hit in 4 of his last 5 games vs ATL,80%
-Carmelo Anthony,ATL,Over 2.5 Assists,120,Hit in 4 of his last 5 games vs ATL,80%
-Carmelo Anthony,ATL,Under 2.5 Rebounds,-160,Hit in 4 of his last 5 games,80%
-Caris LeVert,ORL,Under 4.5 Rebounds,-172,Hit in 12 of his last 15 games vs ORL,80%
-Georges Niang,ORL,Over 7.5 Points,-110,Hit in 4 of his last 5 games,80%
-Georges Niang,ORL,Over 7.5 Points,-110,Hit in 4 of his last 5 away games,80%
-Mouhamadou Gueye,ORL,Over 9.5 PTS+REB,-136,Hit in 4 of his last 5 games,80%
-Zaccharie Risacher,ORL,Under 4.5 REB+AST,-150,Hit in 4 of his last 5 games,80%
-Brandin Podziemski,MEM,Under 4.5 Assists,-180,Hit in 4 of his last 5 games,80%
-Moses Moody,MEM,Under 1.5 3PTM,-114,Hit in 4 of his last 5 games,80%
-Desmond Bane,GSW,Over 5.5 Rebounds,-125,Hit in 4 of his last 5 games,80%
-Desmond Bane,GSW,Under 19.5 Points,-130,Hit in 4 of his last 5 games vs GSW,80%
-Ja Morant,GSW,Over 2.5 3PTM,134,Hit in 4 of his last 5 games,80%
-Ja Morant,GSW,Over 26.5 Points,-114,Hit in 4 of his last 5 games,80%
-Ja Morant,GSW,Over 26.5 Points,-114,Hit in 4 of his last 5 away games,80%
-Buddy Hield,MEM,Over 2.5 Rebounds,-114,Hit in 8 of his last 10 games vs MEM,80%
-Brandin Podziemski,MEM,Under 10.5 REB+AST,-108,Hit in 4 of his last 5 games,80%
-Seth Curry,MEM,Under 34.5 PTS+AST,-125,Hit in 4 of his last 5 games,80%
-Jackie Butler,MEM,Over 0.5 3PTM,-225,Hit in 4 of his last 5 games vs MEM,80%
-Jackie Butler,MEM,Under 0.5 Blocks,-250,Hit in 4 of his last 5 games vs MEM,80%
-Santi Aldama,GSW,Under 2.5 Assists,-190,Hit in 8 of his last 10 games vs GSW,80%
-Desmond Bane,GSW,Over 24.5 PTS+REB,-125,Hit in 4 of his last 5 games,80%
-Desmond Bane,GSW,Under 0.5 Blocks,-325,Hit in 12 of his last 15 games,80%
-Zach Edey,GSW,Under 8.5 Points,-114,Hit in 4 of his last 5 games,80%
-Zach Edey,GSW,Over 0.5 Assists,-220,Hit in 12 of his last 15 games,80%
-Zach Edey,GSW,Under 1.5 Blocks,-158,Hit in 4 of his last 5 games,80%
-Luke Kennard,GSW,Under 2.5 Rebounds,-165,Hit in 4 of his last 5 games vs GSW,80%
-Kevon Looney,MEM,Under 1.5 Assists,-145,Hit in 4 of his last 5 games vs MEM,80%
-Kevon Looney,MEM,Under 11.5 PTS+AST+REB,-140,Hit in 4 of his last 5 games vs MEM,80%
-Jackie Butler,MEM,Under 29.5 PTS+AST,-128,Hit in 4 of his last 5 games vs MEM,80%
-Jackie Butler,MEM,Over 1.5 Steals,-158,Hit in 4 of his last 5 home games,80%
-Santi Aldama,GSW,Under 10.5 Points,-130,Hit in 4 of his last 5 games,80%
-Desmond Bane,GSW,Over 29.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games,80%
-Ja Morant,GSW,Over 30.5 PTS+REB,-122,Hit in 4 of his last 5 away games,80%
-Buddy Hield,MEM,Over 10.5 PTS+REB,-118,Hit in 4 of his last 5 games,80%
-Franz Wagner,ATL,Under 30.5 PTS+AST,-118,Hit in 15 of his last 19 games,79%
-Terance Mann,ORL,Over 0.5 3PTM,-175,Hit in 11 of his last 14 games,79%
-Onyeka Okongwu,ORL,Over 0.5 3PTM,-155,Hit in 11 of his last 14 games,79%
-Franz Wagner,ATL,Under 1.5 Steals,-220,Hit in 11 of his last 14 games,79%
-Franz Wagner,ATL,Under 31.5 PTS+REB,-114,Hit in 7 of his last 9 games vs ATL,78%
-Zaccharie Risacher,ORL,Over 0.5 Assists,-155,Hit in 14 of his last 18 away games,78%
-Zaccharie Risacher,ORL,Over 15.5 PTS+AST+REB,-110,Hit in 14 of his last 18 away games,78%
-Zaccharie Risacher,ORL,Over 13.5 PTS+REB,-132,Hit in 14 of his last 18 away games,78%
-Thaddeus Young,ORL,Over 36.5 PTS+AST,-114,Hit in 7 of his last 9 games,78%
-Carmelo Anthony,ATL,Over 10.5 PTS+AST+REB,-105,Hit in 14 of his last 18 home games,78%
-Desmond Bane,GSW,Under 10.5 REB+AST,-122,Hit in 7 of his last 9 games vs GSW,78%
-Kevon Looney,MEM,Under 1.5 Assists,-145,Hit in 13 of his last 17 games,76%
-Paolo Banchero,ATL,Over 8.5 Rebounds,-122,Hit in 3 of his last 4 games,75%
-Paolo Banchero,ATL,Over 0.5 Double Double,110,Hit in 3 of his last 4 games,75%
-Franz Wagner,ATL,Over 11.5 REB+AST,-120,Hit in 3 of his last 4 games vs ATL,75%
-Kentavious Caldwell-Pope,ATL,Under 12.5 PTS+REB,-130,Hit in 6 of his last 8 games vs ATL,75%
-Kentavious Caldwell-Pope,ATL,Under 1.5 3PTM,104,Hit in 3 of his last 4 games,75%
-Kentavious Caldwell-Pope,ATL,Under 1.5 3PTM,104,Hit in 6 of his last 8 games vs ATL,75%
-Kentavious Caldwell-Pope,ATL,Under 9.5 Points,-130,Hit in 6 of his last 8 games vs ATL,75%
-Dyson Daniels,ORL,Over 3.5 Assists,-168,Hit in 3 of his last 4 games,75%
-Caris LeVert,ORL,Over 16.5 PTS+REB,-120,Hit in 3 of his last 4 away games,75%
-Caris LeVert,ORL,Over 1.5 3PTM,-106,Hit in 3 of his last 4 games,75%
-Caris LeVert,ORL,Over 1.5 3PTM,-106,Hit in 3 of his last 4 games vs ORL,75%
-Caris LeVert,ORL,Over 12.5 Points,-114,Hit in 3 of his last 4 away games,75%
-Mouhamadou Gueye,ORL,Over 4.5 Rebounds,-125,Hit in 3 of his last 4 games,75%
-Zaccharie Risacher,ORL,Under 3.5 Rebounds,-172,Hit in 3 of his last 4 games vs ORL,75%
-Onyeka Okongwu,ORL,Over 26.5 PTS+REB,-102,Hit in 3 of his last 4 games,75%
-Onyeka Okongwu,ORL,Over 26.5 PTS+REB,-102,Hit in 3 of his last 4 away games,75%
-Onyeka Okongwu,ORL,Over 0.5 Double Double,-150,Hit in 3 of his last 4 games,75%
-Thaddeus Young,ORL,Under 3.5 Rebounds,-172,Hit in 3 of his last 4 games vs ORL,75%
-Thaddeus Young,ORL,Under 3.5 3PTM,-180,Hit in 15 of his last 20 games,75%
-Anthony Black,ATL,Under 8.5 Points,-122,Hit in 6 of his last 8 games,75%
-Anthony Black,ATL,Under 2.5 Assists,-110,Hit in 3 of his last 4 games,75%
-Anthony Black,ATL,Over 0.5 3PTM,-150,Hit in 3 of his last 4 games,75%
-Kentavious Caldwell-Pope,ATL,Under 11.5 PTS+AST,-120,Hit in 6 of his last 8 games vs ATL,75%
-Kentavious Caldwell-Pope,ATL,Under 14.5 PTS+AST+REB,-120,Hit in 6 of his last 8 games vs ATL,75%
-Mouhamadou Gueye,ORL,Over 5.5 REB+AST,-120,Hit in 3 of his last 4 games,75%
-Mouhamadou Gueye,ORL,Over 0.5 3PTM,110,Hit in 3 of his last 4 games vs ORL,75%
-Mouhamadou Gueye,ORL,Over 0.5 Blocks,-185,Hit in 6 of his last 8 games,75%
-Mouhamadou Gueye,ORL,Over 0.5 Blocks,-185,Hit in 3 of his last 4 games vs ORL,75%
-Mouhamadou Gueye,ORL,Over 0.5 Blocks,-185,Hit in 3 of his last 4 away games,75%
-Dyson Daniels,ORL,Over 24.5 PTS+AST+REB,-125,Hit in 6 of his last 8 games,75%
-Georges Niang,ORL,Over 0.5 Assists,-185,Hit in 3 of his last 4 games vs ORL,75%
-Georges Niang,ORL,Over 0.5 Assists,-185,Hit in 12 of his last 16 away games,75%
-Georges Niang,ORL,Over 10.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games vs ORL,75%
-Georges Niang,ORL,Under 2.5 Rebounds,-120,Hit in 6 of his last 8 games,75%
-Zaccharie Risacher,ORL,Over 0.5 Assists,-155,Hit in 9 of his last 12 games,75%
-Zaccharie Risacher,ORL,Over 0.5 Assists,-155,Hit in 3 of his last 4 games vs ORL,75%
-Onyeka Okongwu,ORL,Over 13.5 REB+AST,-105,Hit in 3 of his last 4 games,75%
-Onyeka Okongwu,ORL,Over 13.5 REB+AST,-105,Hit in 3 of his last 4 away games,75%
-Onyeka Okongwu,ORL,Over 28.5 PTS+AST+REB,-110,Hit in 3 of his last 4 games,75%
-Onyeka Okongwu,ORL,Over 28.5 PTS+AST+REB,-110,Hit in 3 of his last 4 away games,75%
-Paolo Banchero,ATL,Over 13.5 REB+AST,-138,Hit in 3 of his last 4 games,75%
-Paolo Banchero,ATL,Under 39.5 PTS+REB,-125,Hit in 9 of his last 12 games,75%
-Jonathan Isaac,ATL,Over 0.5 Assists,135,Hit in 3 of his last 4 home games,75%
-Jonathan Isaac,ATL,Over 8.5 PTS+AST+REB,-110,Hit in 3 of his last 4 games vs ATL,75%
-Jonathan Isaac,ATL,Over 3.5 Rebounds,-145,Hit in 3 of his last 4 games vs ATL,75%
-Jonathan Isaac,ATL,Over 3.5 Rebounds,-145,Hit in 15 of his last 20 home games,75%
-Jonathan Isaac,ATL,Over 3.5 Points,-130,Hit in 3 of his last 4 games vs ATL,75%
-Anthony Black,ATL,Under 15.5 PTS+AST+REB,-140,Hit in 6 of his last 8 games,75%
-Anthony Black,ATL,Under 15.5 PTS+AST+REB,-140,Hit in 6 of his last 8 games vs ATL,75%
-Carmelo Anthony,ATL,Under 2.5 Rebounds,-160,Hit in 3 of his last 4 games vs ATL,75%
-Dyson Daniels,ORL,Over 13.5 Points,-130,Hit in 9 of his last 12 away games,75%
-Dyson Daniels,ORL,Over 2.5 Steals,110,Hit in 12 of his last 16 games,75%
-Thaddeus Young,ORL,Under 29.5 PTS+REB,-114,Hit in 3 of his last 4 games vs ORL,75%
-Thaddeus Young,ORL,Under 39.5 PTS+AST+REB,-110,Hit in 3 of his last 4 games vs ORL,75%
-Franz Wagner,ATL,Under 1.5 Steals,-220,Hit in 6 of his last 8 games vs ATL,75%
-Cory Joseph,ATL,Over 9.5 PTS+REB,100,Hit in 3 of his last 4 home games,75%
-Brandin Podziemski,MEM,Under 20.5 PTS+AST,-130,Hit in 3 of his last 4 games vs MEM,75%
-Brandin Podziemski,MEM,Under 6.5 Rebounds,-118,Hit in 3 of his last 4 games vs MEM,75%
-Seth Curry,MEM,Over 10.5 REB+AST,-118,Hit in 6 of his last 8 games vs MEM,75%
-Seth Curry,MEM,Over 33.5 PTS+REB,-106,Hit in 6 of his last 8 games,75%
-Seth Curry,MEM,Over 33.5 PTS+REB,-106,Hit in 3 of his last 4 home games,75%
-Seth Curry,MEM,Under 5.5 Assists,102,Hit in 3 of his last 4 games vs MEM,75%
-Seth Curry,MEM,Over 39.5 PTS+AST+REB,-106,Hit in 6 of his last 8 games,75%
-Seth Curry,MEM,Over 39.5 PTS+AST+REB,-106,Hit in 3 of his last 4 home games,75%
-Seth Curry,MEM,Over 4.5 Rebounds,-136,Hit in 3 of his last 4 games,75%
-Desmond Bane,GSW,Over 5.5 Rebounds,-125,Hit in 3 of his last 4 away games,75%
-Ja Morant,GSW,Over 38.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games vs GSW,75%
-Ja Morant,GSW,Over 2.5 3PTM,134,Hit in 3 of his last 4 away games,75%
-Ja Morant,GSW,Over 26.5 Points,-114,Hit in 3 of his last 4 games vs GSW,75%
-Buddy Hield,MEM,Over 2.5 Rebounds,-114,Hit in 3 of his last 4 games,75%
-Buddy Hield,MEM,Over 8.5 Points,-102,Hit in 3 of his last 4 games vs MEM,75%
-Brandin Podziemski,MEM,Under 10.5 REB+AST,-108,Hit in 3 of his last 4 games vs MEM,75%
-Brandin Podziemski,MEM,Under 26.5 PTS+AST+REB,-110,Hit in 3 of his last 4 games vs MEM,75%
-Danny Green,MEM,Under 17.5 PTS+AST,-114,Hit in 12 of his last 16 games,75%
-Danny Green,MEM,Under 17.5 PTS+AST,-114,Hit in 6 of his last 8 games vs MEM,75%
-Danny Green,MEM,Under 11.5 Points,-136,Hit in 6 of his last 8 games vs MEM,75%
-Moses Moody,MEM,Under 0.5 Blocks,-190,Hit in 3 of his last 4 games vs MEM,75%
-Seth Curry,MEM,Over 0.5 Blocks,135,Hit in 3 of his last 4 games vs MEM,75%
-Santi Aldama,GSW,Over 1.5 3PTM,-146,Hit in 3 of his last 4 games vs GSW,75%
-Santi Aldama,GSW,Over 1.5 3PTM,-146,Hit in 6 of his last 8 away games,75%
-Desmond Bane,GSW,Over 24.5 PTS+REB,-125,Hit in 3 of his last 4 away games,75%
-Danny Green,MEM,Over 6.5 Rebounds,-154,Hit in 6 of his last 8 games vs MEM,75%
-Danny Green,MEM,Over 1.5 Steals,-114,Hit in 3 of his last 4 games,75%
-Seth Curry,MEM,Over 1.5 Steals,148,Hit in 3 of his last 4 home games,75%
-Kevon Looney,MEM,Under 11.5 PTS+AST+REB,-140,Hit in 3 of his last 4 games,75%
-Kevon Looney,MEM,Under 4.5 Points,-160,Hit in 3 of his last 4 games,75%
-Kevon Looney,MEM,Under 4.5 Points,-160,Hit in 3 of his last 4 games vs MEM,75%
-Desmond Bane,GSW,Over 23.5 PTS+AST,-125,Hit in 3 of his last 4 games,75%
-Desmond Bane,GSW,Under 4.5 Assists,-106,Hit in 3 of his last 4 games,75%
-Desmond Bane,GSW,Over 29.5 PTS+AST+REB,-122,Hit in 3 of his last 4 away games,75%
-Ja Morant,GSW,Over 34.5 PTS+AST,-104,Hit in 3 of his last 4 games vs GSW,75%
-Ja Morant,GSW,Over 30.5 PTS+REB,-122,Hit in 3 of his last 4 games vs GSW,75%
-Zach Edey,GSW,Over 10.5 PTS+AST,100,Hit in 3 of his last 4 games vs GSW,75%
-Dyson Daniels,ORL,Under 6.5 Rebounds,-114,ORL rank 3rd in REB against,3rd
-Zaccharie Risacher,ORL,Under 3.5 Rebounds,-172,ORL rank 3rd in REB against,3rd
-Thaddeus Young,ORL,Under 3.5 Rebounds,-172,ORL rank 5th in REB versus PG,5th
-Thaddeus Young,ORL,Under 3.5 3PTM,-180,ORL rank 4th in 3PTM versus PG,4th
-Terance Mann,ORL,Under 3.5 Rebounds,-120,ORL rank 3rd in REB against,3rd
-Terance Mann,ORL,Under 7.5 Points,-112,ORL rank 1st in PTS against,1st
-Terance Mann,ORL,Under 1.5 Assists,-190,ORL rank 1st in AST versus SG,1st
-Dyson Daniels,ORL,Under 0.5 3PTM,130,ORL rank 1st in 3PTM versus SG,1st
-Georges Niang,ORL,Under 2.5 Rebounds,-120,ORL rank 3rd in REB against,3rd
-Georges Niang,ORL,Under 1.5 3PTM,-118,ORL rank 4th in 3PTM versus PF,4th
-Paolo Banchero,ATL,Over 30.5 Points,-106,ATL rank 27th in PTS against,27th
-Cory Joseph,ATL,Over 5.5 Points,-136,ATL rank 27th in PTS against,27th
-Jonathan Isaac,ATL,Over 0.5 Assists,135,ATL rank 27th in AST versus PF,27th
-Jonathan Isaac,ATL,Over 3.5 Points,-130,ATL rank 27th in PTS against,27th
-Carmelo Anthony,ATL,Over 5.5 Points,-128,ATL rank 27th in PTS against,27th
-Thaddeus Young,ORL,Under 26.5 Points,-125,ORL rank 1st in PTS against,1st
-Onyeka Okongwu,ORL,Under 10.5 Rebounds,-102,ORL rank 4th in REB versus C,4th
-Caris LeVert,ORL,Under 4.5 Rebounds,-172,ORL rank 3rd in REB against,3rd
-Onyeka Okongwu,ORL,Under 15.5 Points,-125,ORL rank 1st in PTS against,1st
-Brandin Podziemski,MEM,Under 6.5 Rebounds,-118,MEM rank 4th in REB versus SG,4th
-Moses Moody,MEM,Under 3.5 Rebounds,-174,MEM rank 4th in REB versus SG,4th
-Zach Edey,GSW,Over 10.5 Rebounds,-132,GSW rank 26th in REB versus C,26th
-Seth Curry,MEM,Over 0.5 Blocks,135,MEM rank 26th in BLK versus PG,26th
-Jackie Butler,MEM,Over 0.5 3PTM,-225,MEM rank 28th in 3PTM versus SF,28th
-Ja Morant,GSW,Over 0.5 Blocks,400,GSW rank 29th in BLK versus PG,29th
-Jackie Butler,MEM,Over 1.5 Steals,-158,MEM rank 27th in STL versus SF,27th
-Jackie Butler,MEM,Over 22.5 Points,-108,MEM rank 30th in PTS versus SF,30th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Paolo Banchero,ATL,Under 5.5 Assists,-166,Hit in 6 of his last 6 games vs ATL,100%,False,7.0
+Franz Wagner,ATL,Under 37.5 PTS+AST+REB,-130,Hit in 7 of his last 7 games,100%,True,16.0
+Caris LeVert,ORL,Over 12.5 Points,-114,Hit in 5 of his last 5 games vs ORL,100%,False,7.0
+Kentavious Caldwell-Pope,ATL,Under 0.5 Blocks,-190,Hit in 5 of his last 5 games vs ATL,100%,True,0.0
+Caris LeVert,ORL,Over 16.5 PTS+REB,-120,Hit in 5 of his last 6 games,83%,False,13.0
+Jonathan Isaac,ATL,Over 0.5 Assists,135,Hit in 4 of his last 4 games,100%,True,2.0
+Jonathan Isaac,ATL,Over 8.5 PTS+AST+REB,-110,Hit in 4 of his last 4 games,100%,False,8.0
+Jonathan Isaac,ATL,Over 3.5 Rebounds,-145,Hit in 4 of his last 4 games,100%,True,8.0
+Jonathan Isaac,ATL,Over 3.5 Points,-130,Hit in 5 of his last 5 games,100%,True,6.0
+Cory Joseph,ATL,Under 9.5 PTS+AST,-135,Hit in 5 of his last 5 games,100%,False,13.0
+Brandin Podziemski,MEM,Under 2.5 3PTM,-162,Hit in 6 of his last 6 games vs MEM,100%,True,1.0
+Moses Moody,MEM,Under 9.5 Points,-114,Hit in 6 of his last 6 games,100%,False,11.0
+Desmond Bane,GSW,Over 2.5 3PTM,-128,Hit in 4 of his last 4 games,100%,True,5.0
+Zach Edey,GSW,Over 10.5 Rebounds,-132,Hit in 4 of his last 4 away games,100%,True,17.0
+Buddy Hield,MEM,Under 1.5 Assists,-210,Hit in 4 of his last 4 games,100%,True,1.0
+Brandin Podziemski,MEM,Under 0.5 Blocks,-325,Hit in 4 of his last 4 games vs MEM,100%,True,0.0
+Moses Moody,MEM,Under 12.5 PTS+AST,-135,Hit in 6 of his last 6 games,100%,True,12.0
+Moses Moody,MEM,Under 1.5 Assists,-135,Hit in 6 of his last 6 games vs MEM,100%,True,1.0
+Santi Aldama,GSW,Under 16.5 PTS+REB,-118,Hit in 4 of his last 4 games,100%,False,24.0
+Santi Aldama,GSW,Under 6.5 Rebounds,-158,Hit in 4 of his last 4 games,100%,False,8.0
+Santi Aldama,GSW,Under 18.5 PTS+AST+REB,-105,Hit in 4 of his last 4 games,100%,True,18.0
+Zach Edey,GSW,Over 19.5 PTS+REB,-122,Hit in 4 of his last 4 away games,100%,True,31.0
+Zach Edey,GSW,Over 11.5 REB+AST,-160,Hit in 4 of his last 4 away games,100%,True,19.0
+Kevon Looney,MEM,Under 5.5 Rebounds,-140,Hit in 4 of his last 4 games,100%,True,1.0
+Desmond Bane,GSW,Under 1.5 Steals,-200,Hit in 5 of his last 5 games,100%,True,1.0
+Ja Morant,GSW,Under 1.5 Steals,-200,Hit in 4 of his last 4 games,100%,True,1.0
+Buddy Hield,MEM,Over 10.5 PTS+REB,-118,Hit in 4 of his last 4 games vs MEM,100%,False,2.0
+Zach Edey,GSW,Over 21.5 PTS+AST+REB,-105,Hit in 4 of his last 4 away games,100%,False,16.0
+Brandin Podziemski,MEM,Under 0.5 Blocks,-325,Hit in 16 of his last 17 games,94%,True,0.0
+Paolo Banchero,ATL,Under 1.5 Steals,-270,Hit in 12 of his last 13 games,92%,True,1.0
+Jonathan Isaac,ATL,Under 0.5 3PTM,-300,Hit in 11 of his last 12 games,92%,True,0.0
+Georges Niang,ORL,Under 1.5 3PTM,-118,Hit in 9 of his last 10 games vs ORL,90%,True,1.0
+Onyeka Okongwu,ORL,Under 16.5 PTS+AST,-105,Hit in 9 of his last 10 games vs ORL,90%,True,16.0
+Onyeka Okongwu,ORL,Under 15.5 Points,-125,Hit in 9 of his last 10 games vs ORL,90%,True,13.0
+Zach Edey,GSW,Over 0.5 Assists,-220,Hit in 9 of his last 10 away games,90%,True,2.0
+Paolo Banchero,ATL,Under 2.5 3PTM,-186,Hit in 8 of his last 9 games,89%,True,0.0
+Franz Wagner,ATL,Under 30.5 PTS+AST,-118,Hit in 8 of his last 9 games vs ATL,89%,True,16.0
+Franz Wagner,ATL,Under 5.5 Assists,-162,Hit in 8 of his last 9 games vs ATL,89%,True,3.0
+Franz Wagner,ATL,Under 37.5 PTS+AST+REB,-130,Hit in 8 of his last 9 games vs ATL,89%,True,16.0
+Franz Wagner,ATL,Under 25.5 Points,-130,Hit in 8 of his last 9 games vs ATL,89%,True,13.0
+Dyson Daniels,ORL,Over 10.5 REB+AST,-125,Hit in 8 of his last 9 away games,89%,True,19.0
+Franz Wagner,ATL,Under 0.5 Blocks,-175,Hit in 8 of his last 9 games,89%,False,1.0
+Onyeka Okongwu,ORL,Over 0.5 3PTM,-155,Hit in 8 of his last 9 away games,89%,True,1.0
+Dyson Daniels,ORL,Over 3.5 Assists,-168,Hit in 15 of his last 17 away games,88%,True,7.0
+Anthony Black,ATL,Under 2.5 Assists,-110,Hit in 7 of his last 8 games vs ATL,88%,False,4.0
+Terance Mann,ORL,Over 0.5 3PTM,-175,Hit in 7 of his last 8 away games,88%,False,0.0
+Onyeka Okongwu,ORL,Over 1.5 Assists,-165,Hit in 7 of his last 8 games,88%,True,3.0
+Franz Wagner,ATL,Under 31.5 PTS+REB,-114,Hit in 6 of his last 7 games,86%,True,26.0
+Franz Wagner,ATL,Under 25.5 Points,-130,Hit in 6 of his last 7 games,86%,True,13.0
+Terance Mann,ORL,Under 3.5 Rebounds,-120,Hit in 6 of his last 7 games vs ORL,86%,True,0.0
+Onyeka Okongwu,ORL,Over 0.5 Blocks,-220,Hit in 6 of his last 7 games vs ORL,86%,True,1.0
+Onyeka Okongwu,ORL,Under 10.5 Rebounds,-102,Hit in 6 of his last 7 games vs ORL,86%,True,9.0
+Moses Moody,MEM,Under 3.5 Rebounds,-174,Hit in 6 of his last 7 games,86%,True,3.0
+Luke Kennard,GSW,Over 8.5 PTS+AST+REB,-115,Hit in 6 of his last 7 games vs GSW,86%,False,6.0
+Luke Kennard,GSW,Over 8.5 PTS+AST+REB,-115,Hit in 12 of his last 14 away games,86%,False,6.0
+Luke Kennard,GSW,Over 0.5 3PTM,-210,Hit in 6 of his last 7 games vs GSW,86%,True,1.0
+Luke Kennard,GSW,Under 4.5 Points,-115,Hit in 6 of his last 7 games,86%,False,5.0
+Kevon Looney,MEM,Under 5.5 Rebounds,-140,Hit in 6 of his last 7 games vs MEM,86%,True,1.0
+Caris LeVert,ORL,Under 4.5 Rebounds,-172,Hit in 17 of his last 20 games,85%,False,6.0
+Luke Kennard,GSW,Over 1.5 Assists,-135,Hit in 17 of his last 20 away games,85%,False,1.0
+Franz Wagner,ATL,Under 6.5 Rebounds,-132,Hit in 5 of his last 6 games,83%,False,13.0
+Franz Wagner,ATL,Under 2.5 3PTM,-200,Hit in 5 of his last 6 games vs ATL,83%,True,0.0
+Kentavious Caldwell-Pope,ATL,Over 2.5 Rebounds,-146,Hit in 5 of his last 6 home games,83%,True,5.0
+Caris LeVert,ORL,Over 12.5 Points,-114,Hit in 5 of his last 6 games,83%,False,7.0
+Zaccharie Risacher,ORL,Over 1.5 3PTM,110,Hit in 5 of his last 6 games,83%,False,1.0
+Anthony Black,ATL,Over 0.5 3PTM,-150,Hit in 5 of his last 6 home games,83%,True,3.0
+Zaccharie Risacher,ORL,Over 10.5 Points,-122,Hit in 15 of his last 18 away games,83%,False,9.0
+Onyeka Okongwu,ORL,Over 1.5 Assists,-165,Hit in 5 of his last 6 games vs ORL,83%,True,3.0
+Jonathan Isaac,ATL,Under 0.5 3PTM,-300,Hit in 5 of his last 6 games vs ATL,83%,True,0.0
+Zaccharie Risacher,ORL,Over 11.5 PTS+AST,-135,Hit in 15 of his last 18 away games,83%,False,9.0
+Cory Joseph,ATL,Under 9.5 PTS+AST,-135,Hit in 5 of his last 6 games vs ATL,83%,False,13.0
+Moses Moody,MEM,Under 12.5 PTS+REB,-106,Hit in 5 of his last 6 games,83%,False,14.0
+Moses Moody,MEM,Under 3.5 Rebounds,-174,Hit in 5 of his last 6 games vs MEM,83%,True,3.0
+Zach Edey,GSW,Over 10.5 Rebounds,-132,Hit in 5 of his last 6 games,83%,True,17.0
+Ja Morant,GSW,Under 11.5 REB+AST,-110,Hit in 5 of his last 6 games,83%,True,6.0
+Brandin Podziemski,MEM,Under 22.5 PTS+REB,-114,Hit in 5 of his last 6 games vs MEM,83%,True,9.0
+Brandin Podziemski,MEM,Under 15.5 Points,-106,Hit in 5 of his last 6 games vs MEM,83%,True,5.0
+Moses Moody,MEM,Under 4.5 REB+AST,100,Hit in 5 of his last 6 games,83%,True,4.0
+Moses Moody,MEM,Under 4.5 REB+AST,100,Hit in 5 of his last 6 games vs MEM,83%,True,4.0
+Moses Moody,MEM,Under 12.5 PTS+AST,-135,Hit in 5 of his last 6 games vs MEM,83%,True,12.0
+Moses Moody,MEM,Under 1.5 Assists,-135,Hit in 5 of his last 6 games,83%,True,1.0
+Moses Moody,MEM,Under 15.5 PTS+AST+REB,-125,Hit in 5 of his last 6 games,83%,True,12.0
+Moses Moody,MEM,Under 15.5 PTS+AST+REB,-125,Hit in 5 of his last 6 games vs MEM,83%,True,12.0
+Zach Edey,GSW,Over 19.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%,True,31.0
+Zach Edey,GSW,Over 11.5 REB+AST,-160,Hit in 5 of his last 6 games,83%,True,19.0
+Ja Morant,GSW,Over 30.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%,False,27.0
+Ja Morant,GSW,Under 7.5 Assists,-136,Hit in 5 of his last 6 games,83%,True,3.0
+Zach Edey,GSW,Over 21.5 PTS+AST+REB,-105,Hit in 5 of his last 6 games,83%,False,16.0
+Franz Wagner,ATL,Under 2.5 3PTM,-200,Hit in 14 of his last 17 games,82%,True,0.0
+Desmond Bane,GSW,Under 10.5 REB+AST,-122,Hit in 9 of his last 11 games,82%,True,10.0
+Dyson Daniels,ORL,Over 10.5 REB+AST,-125,Hit in 12 of his last 15 games,80%,True,19.0
+Dyson Daniels,ORL,Under 18.5 PTS+AST,-132,Hit in 4 of his last 5 games vs ORL,80%,True,14.0
+Dyson Daniels,ORL,Under 20.5 PTS+REB,-110,Hit in 4 of his last 5 games,80%,True,19.0
+Dyson Daniels,ORL,Under 20.5 PTS+REB,-110,Hit in 4 of his last 5 games vs ORL,80%,True,19.0
+Dyson Daniels,ORL,Under 6.5 Rebounds,-114,Hit in 4 of his last 5 games vs ORL,80%,False,12.0
+Caris LeVert,ORL,Over 16.5 PTS+REB,-120,Hit in 4 of his last 5 games vs ORL,80%,False,13.0
+Zaccharie Risacher,ORL,Under 3.5 Rebounds,-172,Hit in 4 of his last 5 games,80%,True,3.0
+Paolo Banchero,ATL,Over 0.5 Blocks,100,Hit in 4 of his last 5 games vs ATL,80%,True,1.0
+Cory Joseph,ATL,Under 5.5 REB+AST,-135,Hit in 4 of his last 5 games vs ATL,80%,True,2.0
+Cory Joseph,ATL,Under 2.5 Assists,-110,Hit in 4 of his last 5 games vs ATL,80%,True,2.0
+Cory Joseph,ATL,Under 11.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%,False,13.0
+Cory Joseph,ATL,Under 2.5 Rebounds,-105,Hit in 4 of his last 5 games,80%,True,0.0
+Cory Joseph,ATL,Under 2.5 Rebounds,-105,Hit in 4 of his last 5 games vs ATL,80%,True,0.0
+Franz Wagner,ATL,Under 0.5 Blocks,-175,Hit in 4 of his last 5 games vs ATL,80%,False,1.0
+Kentavious Caldwell-Pope,ATL,Under 4.5 REB+AST,105,Hit in 4 of his last 5 games vs ATL,80%,False,7.0
+Kentavious Caldwell-Pope,ATL,Under 1.5 Assists,110,Hit in 4 of his last 5 games vs ATL,80%,False,2.0
+Kentavious Caldwell-Pope,ATL,Under 0.5 Blocks,-190,Hit in 4 of his last 5 games,80%,True,0.0
+Dyson Daniels,ORL,Over 24.5 PTS+AST+REB,-125,Hit in 4 of his last 5 away games,80%,False,14.0
+Dyson Daniels,ORL,Under 0.5 3PTM,130,Hit in 4 of his last 5 games vs ORL,80%,True,0.0
+Georges Niang,ORL,Over 0.5 Assists,-185,Hit in 16 of his last 20 games,80%,False,0.0
+Georges Niang,ORL,Over 10.5 PTS+AST+REB,-130,Hit in 4 of his last 5 games,80%,True,17.0
+Onyeka Okongwu,ORL,Over 1.5 Assists,-165,Hit in 4 of his last 5 away games,80%,True,3.0
+Paolo Banchero,ATL,Over 30.5 Points,-106,Hit in 4 of his last 5 games vs ATL,80%,False,17.0
+Anthony Black,ATL,Over 11.5 PTS+REB,-125,Hit in 4 of his last 5 games vs ATL,80%,True,26.0
+Caris LeVert,ORL,Under 4.5 Rebounds,-172,Hit in 12 of his last 15 games vs ORL,80%,False,6.0
+Georges Niang,ORL,Over 7.5 Points,-110,Hit in 4 of his last 5 games,80%,True,17.0
+Georges Niang,ORL,Over 7.5 Points,-110,Hit in 4 of his last 5 away games,80%,True,17.0
+Zaccharie Risacher,ORL,Under 4.5 REB+AST,-150,Hit in 4 of his last 5 games,80%,True,3.0
+Brandin Podziemski,MEM,Under 4.5 Assists,-180,Hit in 4 of his last 5 games,80%,True,3.0
+Moses Moody,MEM,Under 1.5 3PTM,-114,Hit in 4 of his last 5 games,80%,True,1.0
+Desmond Bane,GSW,Over 5.5 Rebounds,-125,Hit in 4 of his last 5 games,80%,True,6.0
+Desmond Bane,GSW,Under 19.5 Points,-130,Hit in 4 of his last 5 games vs GSW,80%,False,40.0
+Ja Morant,GSW,Over 2.5 3PTM,134,Hit in 4 of his last 5 games,80%,False,1.0
+Ja Morant,GSW,Over 26.5 Points,-114,Hit in 4 of his last 5 games,80%,False,24.0
+Ja Morant,GSW,Over 26.5 Points,-114,Hit in 4 of his last 5 away games,80%,False,24.0
+Buddy Hield,MEM,Over 2.5 Rebounds,-114,Hit in 8 of his last 10 games vs MEM,80%,False,0.0
+Brandin Podziemski,MEM,Under 10.5 REB+AST,-108,Hit in 4 of his last 5 games,80%,True,7.0
+Santi Aldama,GSW,Under 2.5 Assists,-190,Hit in 8 of his last 10 games vs GSW,80%,True,2.0
+Desmond Bane,GSW,Over 24.5 PTS+REB,-125,Hit in 4 of his last 5 games,80%,True,46.0
+Desmond Bane,GSW,Under 0.5 Blocks,-325,Hit in 12 of his last 15 games,80%,False,1.0
+Zach Edey,GSW,Under 8.5 Points,-114,Hit in 4 of his last 5 games,80%,False,14.0
+Zach Edey,GSW,Over 0.5 Assists,-220,Hit in 12 of his last 15 games,80%,True,2.0
+Zach Edey,GSW,Under 1.5 Blocks,-158,Hit in 4 of his last 5 games,80%,True,0.0
+Luke Kennard,GSW,Under 2.5 Rebounds,-165,Hit in 4 of his last 5 games vs GSW,80%,True,1.0
+Kevon Looney,MEM,Under 1.5 Assists,-145,Hit in 4 of his last 5 games vs MEM,80%,True,1.0
+Kevon Looney,MEM,Under 11.5 PTS+AST+REB,-140,Hit in 4 of his last 5 games vs MEM,80%,True,3.0
+Santi Aldama,GSW,Under 10.5 Points,-130,Hit in 4 of his last 5 games,80%,False,16.0
+Desmond Bane,GSW,Over 29.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games,80%,True,44.0
+Ja Morant,GSW,Over 30.5 PTS+REB,-122,Hit in 4 of his last 5 away games,80%,False,27.0
+Buddy Hield,MEM,Over 10.5 PTS+REB,-118,Hit in 4 of his last 5 games,80%,False,2.0
+Franz Wagner,ATL,Under 30.5 PTS+AST,-118,Hit in 15 of his last 19 games,79%,True,16.0
+Terance Mann,ORL,Over 0.5 3PTM,-175,Hit in 11 of his last 14 games,79%,False,0.0
+Onyeka Okongwu,ORL,Over 0.5 3PTM,-155,Hit in 11 of his last 14 games,79%,True,1.0
+Franz Wagner,ATL,Under 1.5 Steals,-220,Hit in 11 of his last 14 games,79%,False,2.0
+Franz Wagner,ATL,Under 31.5 PTS+REB,-114,Hit in 7 of his last 9 games vs ATL,78%,True,26.0
+Zaccharie Risacher,ORL,Over 0.5 Assists,-155,Hit in 14 of his last 18 away games,78%,False,0.0
+Zaccharie Risacher,ORL,Over 15.5 PTS+AST+REB,-110,Hit in 14 of his last 18 away games,78%,False,9.0
+Zaccharie Risacher,ORL,Over 13.5 PTS+REB,-132,Hit in 14 of his last 18 away games,78%,False,12.0
+Desmond Bane,GSW,Under 10.5 REB+AST,-122,Hit in 7 of his last 9 games vs GSW,78%,True,10.0
+Kevon Looney,MEM,Under 1.5 Assists,-145,Hit in 13 of his last 17 games,76%,True,1.0
+Paolo Banchero,ATL,Over 8.5 Rebounds,-122,Hit in 3 of his last 4 games,75%,True,9.0
+Paolo Banchero,ATL,Over 0.5 Double Double,110,Hit in 3 of his last 4 games,75%,False,0.0
+Franz Wagner,ATL,Over 11.5 REB+AST,-120,Hit in 3 of his last 4 games vs ATL,75%,True,16.0
+Kentavious Caldwell-Pope,ATL,Under 12.5 PTS+REB,-130,Hit in 6 of his last 8 games vs ATL,75%,True,12.0
+Kentavious Caldwell-Pope,ATL,Under 1.5 3PTM,104,Hit in 3 of his last 4 games,75%,True,1.0
+Kentavious Caldwell-Pope,ATL,Under 1.5 3PTM,104,Hit in 6 of his last 8 games vs ATL,75%,True,1.0
+Kentavious Caldwell-Pope,ATL,Under 9.5 Points,-130,Hit in 6 of his last 8 games vs ATL,75%,True,7.0
+Dyson Daniels,ORL,Over 3.5 Assists,-168,Hit in 3 of his last 4 games,75%,True,7.0
+Caris LeVert,ORL,Over 16.5 PTS+REB,-120,Hit in 3 of his last 4 away games,75%,False,13.0
+Caris LeVert,ORL,Over 1.5 3PTM,-106,Hit in 3 of his last 4 games,75%,False,0.0
+Caris LeVert,ORL,Over 1.5 3PTM,-106,Hit in 3 of his last 4 games vs ORL,75%,False,0.0
+Caris LeVert,ORL,Over 12.5 Points,-114,Hit in 3 of his last 4 away games,75%,False,7.0
+Zaccharie Risacher,ORL,Under 3.5 Rebounds,-172,Hit in 3 of his last 4 games vs ORL,75%,True,3.0
+Onyeka Okongwu,ORL,Over 26.5 PTS+REB,-102,Hit in 3 of his last 4 games,75%,False,22.0
+Onyeka Okongwu,ORL,Over 26.5 PTS+REB,-102,Hit in 3 of his last 4 away games,75%,False,22.0
+Onyeka Okongwu,ORL,Over 0.5 Double Double,-150,Hit in 3 of his last 4 games,75%,False,0.0
+Anthony Black,ATL,Under 8.5 Points,-122,Hit in 6 of his last 8 games,75%,False,22.0
+Anthony Black,ATL,Under 2.5 Assists,-110,Hit in 3 of his last 4 games,75%,False,4.0
+Anthony Black,ATL,Over 0.5 3PTM,-150,Hit in 3 of his last 4 games,75%,True,3.0
+Kentavious Caldwell-Pope,ATL,Under 11.5 PTS+AST,-120,Hit in 6 of his last 8 games vs ATL,75%,True,9.0
+Kentavious Caldwell-Pope,ATL,Under 14.5 PTS+AST+REB,-120,Hit in 6 of his last 8 games vs ATL,75%,True,9.0
+Dyson Daniels,ORL,Over 24.5 PTS+AST+REB,-125,Hit in 6 of his last 8 games,75%,False,14.0
+Georges Niang,ORL,Over 0.5 Assists,-185,Hit in 3 of his last 4 games vs ORL,75%,False,0.0
+Georges Niang,ORL,Over 0.5 Assists,-185,Hit in 12 of his last 16 away games,75%,False,0.0
+Georges Niang,ORL,Over 10.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games vs ORL,75%,True,17.0
+Georges Niang,ORL,Under 2.5 Rebounds,-120,Hit in 6 of his last 8 games,75%,False,3.0
+Zaccharie Risacher,ORL,Over 0.5 Assists,-155,Hit in 9 of his last 12 games,75%,False,0.0
+Zaccharie Risacher,ORL,Over 0.5 Assists,-155,Hit in 3 of his last 4 games vs ORL,75%,False,0.0
+Onyeka Okongwu,ORL,Over 13.5 REB+AST,-105,Hit in 3 of his last 4 games,75%,False,12.0
+Onyeka Okongwu,ORL,Over 13.5 REB+AST,-105,Hit in 3 of his last 4 away games,75%,False,12.0
+Onyeka Okongwu,ORL,Over 28.5 PTS+AST+REB,-110,Hit in 3 of his last 4 games,75%,False,16.0
+Onyeka Okongwu,ORL,Over 28.5 PTS+AST+REB,-110,Hit in 3 of his last 4 away games,75%,False,16.0
+Paolo Banchero,ATL,Over 13.5 REB+AST,-138,Hit in 3 of his last 4 games,75%,True,16.0
+Paolo Banchero,ATL,Under 39.5 PTS+REB,-125,Hit in 9 of his last 12 games,75%,True,26.0
+Jonathan Isaac,ATL,Over 0.5 Assists,135,Hit in 3 of his last 4 home games,75%,True,2.0
+Jonathan Isaac,ATL,Over 8.5 PTS+AST+REB,-110,Hit in 3 of his last 4 games vs ATL,75%,False,8.0
+Jonathan Isaac,ATL,Over 3.5 Rebounds,-145,Hit in 3 of his last 4 games vs ATL,75%,True,8.0
+Jonathan Isaac,ATL,Over 3.5 Rebounds,-145,Hit in 15 of his last 20 home games,75%,True,8.0
+Jonathan Isaac,ATL,Over 3.5 Points,-130,Hit in 3 of his last 4 games vs ATL,75%,True,6.0
+Anthony Black,ATL,Under 15.5 PTS+AST+REB,-140,Hit in 6 of his last 8 games,75%,False,26.0
+Anthony Black,ATL,Under 15.5 PTS+AST+REB,-140,Hit in 6 of his last 8 games vs ATL,75%,False,26.0
+Dyson Daniels,ORL,Over 13.5 Points,-130,Hit in 9 of his last 12 away games,75%,False,7.0
+Dyson Daniels,ORL,Over 2.5 Steals,110,Hit in 12 of his last 16 games,75%,False,0.0
+Franz Wagner,ATL,Under 1.5 Steals,-220,Hit in 6 of his last 8 games vs ATL,75%,False,2.0
+Cory Joseph,ATL,Over 9.5 PTS+REB,100,Hit in 3 of his last 4 home games,75%,True,11.0
+Brandin Podziemski,MEM,Under 20.5 PTS+AST,-130,Hit in 3 of his last 4 games vs MEM,75%,True,8.0
+Brandin Podziemski,MEM,Under 6.5 Rebounds,-118,Hit in 3 of his last 4 games vs MEM,75%,True,4.0
+Desmond Bane,GSW,Over 5.5 Rebounds,-125,Hit in 3 of his last 4 away games,75%,True,6.0
+Ja Morant,GSW,Over 38.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games vs GSW,75%,False,27.0
+Ja Morant,GSW,Over 2.5 3PTM,134,Hit in 3 of his last 4 away games,75%,False,1.0
+Ja Morant,GSW,Over 26.5 Points,-114,Hit in 3 of his last 4 games vs GSW,75%,False,24.0
+Buddy Hield,MEM,Over 2.5 Rebounds,-114,Hit in 3 of his last 4 games,75%,False,0.0
+Buddy Hield,MEM,Over 8.5 Points,-102,Hit in 3 of his last 4 games vs MEM,75%,False,2.0
+Brandin Podziemski,MEM,Under 10.5 REB+AST,-108,Hit in 3 of his last 4 games vs MEM,75%,True,7.0
+Brandin Podziemski,MEM,Under 26.5 PTS+AST+REB,-110,Hit in 3 of his last 4 games vs MEM,75%,True,8.0
+Moses Moody,MEM,Under 0.5 Blocks,-190,Hit in 3 of his last 4 games vs MEM,75%,False,1.0
+Santi Aldama,GSW,Over 1.5 3PTM,-146,Hit in 3 of his last 4 games vs GSW,75%,False,1.0
+Santi Aldama,GSW,Over 1.5 3PTM,-146,Hit in 6 of his last 8 away games,75%,False,1.0
+Desmond Bane,GSW,Over 24.5 PTS+REB,-125,Hit in 3 of his last 4 away games,75%,True,46.0
+Kevon Looney,MEM,Under 11.5 PTS+AST+REB,-140,Hit in 3 of his last 4 games,75%,True,3.0
+Kevon Looney,MEM,Under 4.5 Points,-160,Hit in 3 of his last 4 games,75%,True,2.0
+Kevon Looney,MEM,Under 4.5 Points,-160,Hit in 3 of his last 4 games vs MEM,75%,True,2.0
+Desmond Bane,GSW,Over 23.5 PTS+AST,-125,Hit in 3 of his last 4 games,75%,True,44.0
+Desmond Bane,GSW,Under 4.5 Assists,-106,Hit in 3 of his last 4 games,75%,True,4.0
+Desmond Bane,GSW,Over 29.5 PTS+AST+REB,-122,Hit in 3 of his last 4 away games,75%,True,44.0
+Ja Morant,GSW,Over 34.5 PTS+AST,-104,Hit in 3 of his last 4 games vs GSW,75%,False,27.0
+Ja Morant,GSW,Over 30.5 PTS+REB,-122,Hit in 3 of his last 4 games vs GSW,75%,False,27.0
+Zach Edey,GSW,Over 10.5 PTS+AST,100,Hit in 3 of his last 4 games vs GSW,75%,True,16.0
+Dyson Daniels,ORL,Under 6.5 Rebounds,-114,ORL rank 3rd in REB against,3rd,False,12.0
+Zaccharie Risacher,ORL,Under 3.5 Rebounds,-172,ORL rank 3rd in REB against,3rd,True,3.0
+Terance Mann,ORL,Under 3.5 Rebounds,-120,ORL rank 3rd in REB against,3rd,True,0.0
+Terance Mann,ORL,Under 7.5 Points,-112,ORL rank 1st in PTS against,1st,True,2.0
+Terance Mann,ORL,Under 1.5 Assists,-190,ORL rank 1st in AST versus SG,1st,True,1.0
+Dyson Daniels,ORL,Under 0.5 3PTM,130,ORL rank 1st in 3PTM versus SG,1st,True,0.0
+Georges Niang,ORL,Under 2.5 Rebounds,-120,ORL rank 3rd in REB against,3rd,False,3.0
+Georges Niang,ORL,Under 1.5 3PTM,-118,ORL rank 4th in 3PTM versus PF,4th,True,1.0
+Paolo Banchero,ATL,Over 30.5 Points,-106,ATL rank 27th in PTS against,27th,False,17.0
+Cory Joseph,ATL,Over 5.5 Points,-136,ATL rank 27th in PTS against,27th,True,11.0
+Jonathan Isaac,ATL,Over 0.5 Assists,135,ATL rank 27th in AST versus PF,27th,True,2.0
+Jonathan Isaac,ATL,Over 3.5 Points,-130,ATL rank 27th in PTS against,27th,True,6.0
+Onyeka Okongwu,ORL,Under 10.5 Rebounds,-102,ORL rank 4th in REB versus C,4th,True,9.0
+Caris LeVert,ORL,Under 4.5 Rebounds,-172,ORL rank 3rd in REB against,3rd,False,6.0
+Onyeka Okongwu,ORL,Under 15.5 Points,-125,ORL rank 1st in PTS against,1st,True,13.0
+Brandin Podziemski,MEM,Under 6.5 Rebounds,-118,MEM rank 4th in REB versus SG,4th,True,4.0
+Moses Moody,MEM,Under 3.5 Rebounds,-174,MEM rank 4th in REB versus SG,4th,True,3.0
+Zach Edey,GSW,Over 10.5 Rebounds,-132,GSW rank 26th in REB versus C,26th,True,17.0
+Ja Morant,GSW,Over 0.5 Blocks,400,GSW rank 29th in BLK versus PG,29th,False,0.0
