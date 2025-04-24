@@ -1,587 +1,396 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Payton Pritchard,ORL,Over 15.5 PTS+AST,-108,Hit in 4 of his last 4 games,100%
-Payton Pritchard,ORL,Over 15.5 PTS+AST,-108,Hit in 4 of his last 4 home games,100%
-Payton Pritchard,ORL,Over 15.5 PTS+REB,-112,Hit in 4 of his last 4 games,100%
-Payton Pritchard,ORL,Over 15.5 PTS+REB,-112,Hit in 4 of his last 4 home games,100%
-Payton Pritchard,ORL,Over 19.5 PTS+AST+REB,-104,Hit in 4 of his last 4 games,100%
-Anthony Black,BOS,Over 2.5 Rebounds,-140,Hit in 5 of his last 5 games,100%
-Payton Pritchard,ORL,Over 19.5 PTS+AST+REB,-104,Hit in 4 of his last 4 home games,100%
-Payton Pritchard,ORL,Over 11.5 Points,-122,Hit in 4 of his last 4 games,100%
-Payton Pritchard,ORL,Over 11.5 Points,-122,Hit in 4 of his last 4 home games,100%
-Jrue Holiday,ORL,Over 1.5 3PTM,-112,Hit in 5 of his last 5 games vs ORL,100%
-Jrue Holiday,ORL,Under 0.5 Blocks,-285,Hit in 4 of his last 4 games,100%
-DJ White,ORL,Under 10.5 REB+AST,-130,Hit in 4 of his last 4 games vs ORL,100%
-DJ White,ORL,Over 22.5 PTS+AST,-108,Hit in 4 of his last 4 games,100%
-DJ White,ORL,Under 5.5 Assists,-125,Hit in 4 of his last 4 games vs ORL,100%
-DJ White,ORL,Over 0.5 Steals,-245,Hit in 4 of his last 4 games,100%
-Al Horford,ORL,Under 17.5 PTS+REB,-128,Hit in 8 of his last 8 games vs ORL,100%
-Al Horford,ORL,Under 9.5 Points,-140,Hit in 8 of his last 8 games vs ORL,100%
-Al Horford,ORL,Under 10.5 REB+AST,-130,Hit in 8 of his last 8 games vs ORL,100%
-Al Horford,ORL,Under 11.5 PTS+AST,-125,Hit in 8 of his last 8 games vs ORL,100%
-Al Horford,ORL,Under 19.5 PTS+AST+REB,-118,Hit in 8 of his last 8 games vs ORL,100%
-Sam Hauser,ORL,Under 3.5 Rebounds,-160,Hit in 5 of his last 5 games vs ORL,100%
-Jabari Brown,ORL,Under 10.5 REB+AST,-136,Hit in 4 of his last 4 games,100%
-Jabari Brown,ORL,Under 5.5 Rebounds,116,Hit in 4 of his last 4 games,100%
-Jabari Brown,ORL,Over 0.5 Steals,-245,Hit in 4 of his last 4 games vs ORL,100%
-Jabari Brown,ORL,Under 0.5 Blocks,-300,Hit in 8 of his last 8 games,100%
-Anthony Black,BOS,Over 2.5 Rebounds,-140,Hit in 4 of his last 4 games vs BOS,100%
-Anthony Black,BOS,Over 2.5 Rebounds,-140,Hit in 4 of his last 4 away games,100%
-Franz Wagner,BOS,Over 26.5 PTS+AST,-108,Hit in 4 of his last 4 away games,100%
-Franz Wagner,BOS,Over 21.5 Points,-125,Hit in 4 of his last 4 away games,100%
-Cory Joseph,BOS,Under 6.5 PTS+REB,-135,Hit in 4 of his last 4 games vs BOS,100%
-Cory Joseph,BOS,Over 1.5 Assists,-155,Hit in 4 of his last 4 games,100%
-Cory Joseph,BOS,Under 1.5 Rebounds,105,Hit in 4 of his last 4 games,100%
-Cory Joseph,BOS,Under 1.5 Rebounds,105,Hit in 7 of his last 7 games vs BOS,100%
-Jonathan Isaac,BOS,Over 4.5 Points,-125,Hit in 5 of his last 5 games,100%
-Carmelo Anthony,BOS,Over 1.5 Assists,-145,Hit in 6 of his last 6 games,100%
-Kentavious Caldwell-Pope,BOS,Under 10.5 PTS+REB,-132,Hit in 4 of his last 4 games,100%
-Kentavious Caldwell-Pope,BOS,Under 7.5 Points,-125,Hit in 4 of his last 4 games,100%
-Kentavious Caldwell-Pope,BOS,Under 9.5 PTS+AST,-120,Hit in 4 of his last 4 games,100%
-Kentavious Caldwell-Pope,BOS,Under 12.5 PTS+AST+REB,-120,Hit in 4 of his last 4 games,100%
-Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-350,Hit in 5 of his last 5 games,100%
-Cory Joseph,BOS,Under 8.5 PTS+AST+REB,-135,Hit in 4 of his last 4 games vs BOS,100%
-Ty Jerome,MIA,Over 5.5 REB+AST,-120,Hit in 4 of his last 4 games vs MIA,100%
-Ty Jerome,MIA,Over 14.5 PTS+AST,-122,Hit in 8 of his last 8 games,100%
-Ty Jerome,MIA,Over 2.5 Rebounds,-140,Hit in 4 of his last 4 games vs MIA,100%
-Ty Jerome,MIA,Over 11.5 Points,-125,Hit in 8 of his last 8 games,100%
-Ty Jerome,MIA,Over 11.5 Points,-125,Hit in 4 of his last 4 games vs MIA,100%
-Ty Jerome,MIA,Over 11.5 Points,-125,Hit in 9 of his last 9 home games,100%
-Jarrett Allen,MIA,Under 12.5 REB+AST,-110,Hit in 5 of his last 5 games vs MIA,100%
-Jarrett Allen,MIA,Under 13.5 PTS+AST,-110,Hit in 4 of his last 4 games,100%
-Jarrett Allen,MIA,Under 13.5 PTS+AST,-110,Hit in 5 of his last 5 games vs MIA,100%
-Jarrett Allen,MIA,Under 1.5 Assists,-110,Hit in 4 of his last 4 games vs MIA,100%
-Jarrett Allen,MIA,Under 24.5 PTS+AST+REB,-110,Hit in 5 of his last 5 games vs MIA,100%
-Davion Mitchell,MIA,Over 4.5 Rebounds,-146,Hit in 7 of his last 7 home games,100%
-Davion Mitchell,MIA,Over 1.5 Steals,162,Hit in 4 of his last 4 games vs MIA,100%
-Davion Mitchell,MIA,Under 0.5 Blocks,-350,Hit in 9 of his last 9 games vs MIA,100%
-Darius Garland,MIA,Under 3.5 Rebounds,-172,Hit in 5 of his last 5 games,100%
-Darius Garland,MIA,Under 1.5 Steals,-245,Hit in 5 of his last 5 games vs MIA,100%
-Isaac Okoro,MIA,Over 1.5 Rebounds,100,Hit in 4 of his last 4 home games,100%
-Isaac Okoro,MIA,Over 1.5 Rebounds,100,Hit in 7 of his last 7 games,100%
-Eric Mobley,MIA,Under 1.5 3PTM,-220,Hit in 4 of his last 4 games vs MIA,100%
-Eric Mobley,MIA,Under 1.5 Blocks,124,Hit in 7 of his last 7 games vs MIA,100%
-Max Strus,MIA,Over 1.5 3PTM,-144,Hit in 4 of his last 4 games,100%
-Max Strus,MIA,Over 1.5 3PTM,-144,Hit in 5 of his last 5 games vs MIA,100%
-Max Strus,MIA,Over 1.5 3PTM,-144,Hit in 4 of his last 4 home games,100%
-Max Strus,MIA,Over 7.5 Points,-120,Hit in 4 of his last 4 games,100%
-Max Strus,MIA,Over 7.5 Points,-120,Hit in 4 of his last 4 games vs MIA,100%
-Max Strus,MIA,Over 7.5 Points,-120,Hit in 4 of his last 4 home games,100%
-De'Andre Hunter,MIA,Over 0.5 Assists,-225,Hit in 10 of his last 10 games vs MIA,100%
-Aaron Wiggins,CLE,Under 8.5 REB+AST,-125,Hit in 6 of his last 6 games vs CLE,100%
-Aaron Wiggins,CLE,Under 20.5 PTS+AST,-114,Hit in 6 of his last 6 games vs CLE,100%
-Aaron Wiggins,CLE,Under 23.5 PTS+REB,-130,Hit in 5 of his last 5 games vs CLE,100%
-Aaron Wiggins,CLE,Under 26.5 PTS+AST+REB,-122,Hit in 6 of his last 6 games vs CLE,100%
-Aaron Wiggins,CLE,Under 17.5 Points,-114,Hit in 5 of his last 5 games vs CLE,100%
-Davion Mitchell,CLE,Over 10.5 Points,-136,Hit in 6 of his last 6 away games,100%
-Bam Adebayo,CLE,Over 28.5 PTS+REB,-118,Hit in 5 of his last 5 games vs CLE,100%
-Bam Adebayo,CLE,Over 32.5 PTS+AST+REB,-118,Hit in 5 of his last 5 games vs CLE,100%
-Bam Adebayo,CLE,Over 0.5 3PTM,-245,Hit in 4 of his last 4 games vs CLE,100%
-Bam Adebayo,CLE,Over 1.5 Steals,138,Hit in 4 of his last 4 games,100%
-Bam Adebayo,CLE,Over 1.5 Steals,138,Hit in 4 of his last 4 away games,100%
-David Robinson,CLE,Over 7.5 PTS+AST+REB,-125,Hit in 4 of his last 4 games vs CLE,100%
-David Robinson,CLE,Over 7.5 PTS+AST+REB,-125,Hit in 5 of his last 5 games,100%
-David Robinson,CLE,Over 7.5 PTS+AST+REB,-125,Hit in 4 of his last 4 away games,100%
-David Robinson,CLE,Over 1.5 Rebounds,100,Hit in 4 of his last 4 games vs CLE,100%
-David Robinson,CLE,Over 1.5 3PTM,130,Hit in 4 of his last 4 games vs CLE,100%
-David Robinson,CLE,Over 5.5 Points,-110,Hit in 5 of his last 5 games,100%
-David Robinson,CLE,Over 5.5 Points,-110,Hit in 4 of his last 4 games vs CLE,100%
-David Robinson,CLE,Over 5.5 Points,-110,Hit in 4 of his last 4 away games,100%
-Alec Burks,CLE,Over 2.5 REB+AST,-115,Hit in 4 of his last 4 games,100%
-Alec Burks,CLE,Over 2.5 REB+AST,-115,Hit in 4 of his last 4 away games,100%
-Alec Burks,CLE,Over 5.5 PTS+AST,-145,Hit in 5 of his last 5 games vs CLE,100%
-Alec Burks,CLE,Over 6.5 PTS+REB,-115,Hit in 5 of his last 5 games vs CLE,100%
-Alec Burks,CLE,Over 0.5 Assists,-200,Hit in 4 of his last 4 games,100%
-Alec Burks,CLE,Over 0.5 Assists,-200,Hit in 6 of his last 6 games vs CLE,100%
-Alec Burks,CLE,Over 0.5 Assists,-200,Hit in 4 of his last 4 away games,100%
-Alec Burks,CLE,Over 7.5 PTS+AST+REB,-115,Hit in 5 of his last 5 games vs CLE,100%
-Alec Burks,CLE,Over 1.5 Rebounds,-110,Hit in 5 of his last 5 games,100%
-Alec Burks,CLE,Over 1.5 Rebounds,-110,Hit in 10 of his last 10 away games,100%
-Tyler Herro,CLE,Over 2.5 3PTM,-110,Hit in 6 of his last 6 games vs CLE,100%
-Tyler Herro,CLE,Under 0.5 Blocks,-375,Hit in 6 of his last 6 games,100%
-Ty Jerome,MIA,Over 14.5 PTS+REB,-122,Hit in 8 of his last 8 games,100%
-Ty Jerome,MIA,Over 14.5 PTS+REB,-122,Hit in 4 of his last 4 games vs MIA,100%
-Ty Jerome,MIA,Over 17.5 PTS+AST+REB,-118,Hit in 8 of his last 8 games,100%
-Ty Jerome,MIA,Over 17.5 PTS+AST+REB,-118,Hit in 4 of his last 4 games vs MIA,100%
-JR Smith,GSW,Over 15.5 PTS+REB,-118,Hit in 8 of his last 8 games,100%
-JR Smith,GSW,Over 15.5 PTS+REB,-118,Hit in 4 of his last 4 home games,100%
-JR Smith,GSW,Over 5.5 Rebounds,-125,Hit in 7 of his last 7 games,100%
-Fred VanVleet,GSW,Under 19.5 PTS+AST,-125,Hit in 5 of his last 5 games,100%
-Fred VanVleet,GSW,Under 19.5 PTS+AST,-125,Hit in 6 of his last 6 games vs GSW,100%
-Fred VanVleet,GSW,Under 16.5 PTS+REB,-112,Hit in 7 of his last 7 games,100%
-Fred VanVleet,GSW,Under 21.5 PTS+AST+REB,-102,Hit in 5 of his last 5 games,100%
-Fred VanVleet,GSW,Under 2.5 Rebounds,-110,Hit in 4 of his last 4 games,100%
-Fred VanVleet,GSW,Under 13.5 Points,-102,Hit in 8 of his last 8 games vs GSW,100%
-Dillon Brooks,GSW,Over 1.5 3PTM,-188,Hit in 9 of his last 9 games,100%
-Dillon Brooks,GSW,Over 1.5 3PTM,-188,Hit in 6 of his last 6 home games,100%
-JaMychal Green,GSW,Under 21.5 PTS+AST,-125,Hit in 4 of his last 4 games,100%
-JaMychal Green,GSW,Under 22.5 PTS+REB,-110,Hit in 4 of his last 4 games,100%
-JaMychal Green,GSW,Under 3.5 Assists,-192,Hit in 4 of his last 4 games,100%
-JaMychal Green,GSW,Under 25.5 PTS+AST+REB,-106,Hit in 4 of his last 4 games,100%
-JaMychal Green,GSW,Under 1.5 3PTM,148,Hit in 4 of his last 4 games,100%
-JaMychal Green,GSW,Under 17.5 Points,-102,Hit in 4 of his last 4 games,100%
-JaMychal Green,GSW,Under 0.5 Blocks,-275,Hit in 4 of his last 4 games,100%
-Amen Thompson,GSW,Under 21.5 PTS+REB,-130,Hit in 4 of his last 4 games vs GSW,100%
-Amen Thompson,GSW,Over 4.5 Assists,-102,Hit in 5 of his last 5 games,100%
-Amen Thompson,GSW,Over 4.5 Assists,-102,Hit in 4 of his last 4 home games,100%
-Amen Thompson,GSW,Under 0.5 3PTM,-275,Hit in 4 of his last 4 games vs GSW,100%
-Brandin Podziemski,HOU,Over 3.5 Assists,-120,Hit in 4 of his last 4 games vs HOU,100%
-Brandin Podziemski,HOU,Over 0.5 Steals,-245,Hit in 4 of his last 4 games,100%
-Brandin Podziemski,HOU,Over 0.5 Steals,-245,Hit in 4 of his last 4 games vs HOU,100%
-Brandin Podziemski,HOU,Over 0.5 Steals,-245,Hit in 4 of his last 4 away games,100%
-Danny Green,HOU,Under 6.5 Rebounds,-166,Hit in 4 of his last 4 games vs HOU,100%
-Danny Green,HOU,Over 0.5 Blocks,-210,Hit in 5 of his last 5 games,100%
-Moses Moody,HOU,Under 1.5 3PTM,-154,Hit in 4 of his last 4 games vs HOU,100%
-Moses Moody,HOU,Under 4.5 REB+AST,-130,Hit in 4 of his last 4 games,100%
-Moses Moody,HOU,Under 1.5 Assists,-165,Hit in 4 of his last 4 games vs HOU,100%
-Moses Moody,HOU,Under 13.5 PTS+AST+REB,-135,Hit in 4 of his last 4 games,100%
-Jackie Butler,HOU,Over 28.5 PTS+AST,-125,Hit in 5 of his last 5 games,100%
-Jackie Butler,HOU,Over 28.5 PTS+REB,-122,Hit in 5 of his last 5 games,100%
-Jackie Butler,HOU,Over 34.5 PTS+AST+REB,-128,Hit in 5 of his last 5 games,100%
-Jackie Butler,HOU,Over 0.5 3PTM,-210,Hit in 4 of his last 4 games vs HOU,100%
-Jackie Butler,HOU,Over 1.5 Steals,-178,Hit in 6 of his last 6 away games,100%
-Brandin Podziemski,HOU,Under 0.5 Blocks,-350,Hit in 18 of his last 19 games,95%
-Davion Mitchell,MIA,Over 4.5 Assists,-158,Hit in 15 of his last 16 home games,94%
-Bam Adebayo,CLE,Over 0.5 3PTM,-245,Hit in 14 of his last 15 games,93%
-Isaac Okoro,MIA,Over 4.5 PTS+AST+REB,-135,Hit in 14 of his last 15 games,93%
-Sam Merrill,MIA,Over 8.5 PTS+AST+REB,-130,Hit in 11 of his last 12 games,92%
-De'Andre Hunter,MIA,Over 9.5 Points,-102,Hit in 11 of his last 12 games,92%
-Sam Merrill,MIA,Over 1.5 Rebounds,-190,Hit in 11 of his last 12 games,92%
-Moses Moody,HOU,Under 4.5 REB+AST,-130,Hit in 11 of his last 12 games vs HOU,92%
-Moses Moody,HOU,Under 13.5 PTS+AST+REB,-135,Hit in 11 of his last 12 games vs HOU,92%
-Anthony Black,BOS,Over 1.5 Assists,-165,Hit in 10 of his last 11 games,91%
-Paolo Banchero,BOS,Over 1.5 3PTM,-146,Hit in 10 of his last 11 away games,91%
-Carmelo Anthony,BOS,Over 1.5 Assists,-145,Hit in 10 of his last 11 games vs BOS,91%
-Carmelo Anthony,BOS,Over 9.5 PTS+AST+REB,100,Hit in 10 of his last 11 games vs BOS,91%
-Carmelo Anthony,BOS,Over 4.5 Points,-140,Hit in 10 of his last 11 games vs BOS,91%
-Eric Mobley,MIA,Over 2.5 Assists,-146,Hit in 10 of his last 11 home games,91%
-Jackie Butler,HOU,Over 1.5 Steals,-178,Hit in 10 of his last 11 games,91%
-DJ White,ORL,Over 0.5 Steals,-245,Hit in 9 of his last 10 games vs ORL,90%
-Paolo Banchero,BOS,Under 13.5 REB+AST,-128,Hit in 9 of his last 10 games vs BOS,90%
-Darius Garland,MIA,Under 3.5 Rebounds,-172,Hit in 9 of his last 10 games vs MIA,90%
-Davion Mitchell,CLE,Over 10.5 Points,-136,Hit in 9 of his last 10 games,90%
-Alec Burks,CLE,Over 7.5 PTS+AST+REB,-115,Hit in 9 of his last 10 away games,90%
-De'Andre Hunter,MIA,Over 13.5 PTS+AST+REB,-105,Hit in 9 of his last 10 games vs MIA,90%
-JR Smith,GSW,Over 15.5 PTS+REB,-118,Hit in 9 of his last 10 games vs GSW,90%
-JR Smith,GSW,Over 9.5 Points,-118,Hit in 9 of his last 10 games vs GSW,90%
-DJ White,ORL,Under 3.5 3PTM,110,Hit in 8 of his last 9 games vs ORL,89%
-Franz Wagner,BOS,Under 28.5 PTS+REB,-125,Hit in 8 of his last 9 games vs BOS,89%
-Franz Wagner,BOS,Under 32.5 PTS+AST+REB,-114,Hit in 8 of his last 9 games vs BOS,89%
-Cory Joseph,BOS,Over 6.5 PTS+AST,100,Hit in 8 of his last 9 away games,89%
-Ty Jerome,MIA,Over 2.5 Assists,-136,Hit in 8 of his last 9 games,89%
-Jarrett Allen,MIA,Over 11.5 Points,-136,Hit in 8 of his last 9 home games,89%
-Isaac Okoro,MIA,Over 0.5 3PTM,110,Hit in 8 of his last 9 games vs MIA,89%
-Isaac Okoro,MIA,Over 2.5 Points,-130,Hit in 8 of his last 9 games vs MIA,89%
-Aaron Wiggins,CLE,Over 1.5 3PTM,-158,Hit in 8 of his last 9 games,89%
-Ty Jerome,MIA,Over 14.5 PTS+REB,-122,Hit in 8 of his last 9 home games,89%
-Ty Jerome,MIA,Over 17.5 PTS+AST+REB,-118,Hit in 8 of his last 9 home games,89%
-Buddy Hield,HOU,Over 1.5 Rebounds,-175,Hit in 8 of his last 9 away games,89%
-Cory Joseph,BOS,Over 6.5 PTS+AST,100,Hit in 15 of his last 17 games,88%
-Max Strus,MIA,Over 6.5 REB+AST,102,Hit in 15 of his last 17 home games,88%
-Al Horford,ORL,Under 7.5 Rebounds,102,Hit in 7 of his last 8 games vs ORL,88%
-Paolo Banchero,BOS,Over 30.5 PTS+AST,-125,Hit in 7 of his last 8 away games,88%
-Paolo Banchero,BOS,Over 40.5 PTS+AST+REB,-106,Hit in 7 of his last 8 away games,88%
-Franz Wagner,BOS,Under 1.5 3PTM,-102,Hit in 7 of his last 8 games vs BOS,88%
-Jarrett Allen,MIA,Under 12.5 REB+AST,-110,Hit in 7 of his last 8 games,88%
-Darius Garland,MIA,Under 1.5 Steals,-245,Hit in 7 of his last 8 games,88%
-Eric Mobley,MIA,Under 16.5 Points,-118,Hit in 7 of his last 8 games vs MIA,88%
-Max Strus,MIA,Over 6.5 REB+AST,102,Hit in 7 of his last 8 games,88%
-Bam Adebayo,CLE,Over 0.5 3PTM,-245,Hit in 7 of his last 8 away games,88%
-De'Andre Hunter,MIA,Over 13.5 PTS+AST+REB,-105,Hit in 14 of his last 16 games,88%
-JR Smith,GSW,Over 9.5 Points,-118,Hit in 7 of his last 8 games,88%
-Fred VanVleet,GSW,Under 16.5 PTS+REB,-112,Hit in 7 of his last 8 games vs GSW,88%
-Fred VanVleet,GSW,Under 2.5 3PTM,106,Hit in 7 of his last 8 games vs GSW,88%
-JaMychal Green,GSW,Under 21.5 PTS+AST,-125,Hit in 7 of his last 8 games vs GSW,88%
-JaMychal Green,GSW,Under 22.5 PTS+REB,-110,Hit in 7 of his last 8 games vs GSW,88%
-JaMychal Green,GSW,Under 25.5 PTS+AST+REB,-106,Hit in 7 of his last 8 games vs GSW,88%
-JaMychal Green,GSW,Under 4.5 Rebounds,-114,Hit in 7 of his last 8 games vs GSW,88%
-JaMychal Green,GSW,Under 17.5 Points,-102,Hit in 7 of his last 8 games vs GSW,88%
-Amen Thompson,GSW,Under 1.5 Steals,-154,Hit in 7 of his last 8 games vs GSW,88%
-Tari Eason,GSW,Under 1.5 Assists,-220,Hit in 7 of his last 8 games vs GSW,88%
-Moses Moody,HOU,Under 1.5 Assists,-165,Hit in 7 of his last 8 games,88%
-Carmelo Anthony,BOS,Over 1.5 Assists,-145,Hit in 13 of his last 15 away games,87%
-DJ White,ORL,Over 0.5 Blocks,-225,Hit in 6 of his last 7 games vs ORL,86%
-Jonathan Isaac,BOS,Under 0.5 3PTM,-185,Hit in 12 of his last 14 games,86%
-Jonathan Isaac,BOS,Over 4.5 Points,-125,Hit in 6 of his last 7 games vs BOS,86%
-Ty Jerome,MIA,Over 1.5 3PTM,-136,Hit in 6 of his last 7 games,86%
-Sam Merrill,MIA,Over 1.5 Assists,-105,Hit in 6 of his last 7 games,86%
-Sam Merrill,MIA,Over 1.5 Assists,-105,Hit in 6 of his last 7 home games,86%
-Sam Merrill,MIA,Over 8.5 PTS+AST+REB,-130,Hit in 6 of his last 7 games vs MIA,86%
-Davion Mitchell,MIA,Over 9.5 REB+AST,-138,Hit in 6 of his last 7 home games,86%
-Davion Mitchell,MIA,Over 4.5 Rebounds,-146,Hit in 6 of his last 7 games,86%
-Davion Mitchell,MIA,Under 3.5 3PTM,-144,Hit in 12 of his last 14 games,86%
-Eric Mobley,MIA,Under 19.5 PTS+AST,-122,Hit in 6 of his last 7 games vs MIA,86%
-De'Andre Hunter,MIA,Over 12.5 PTS+REB,-114,Hit in 12 of his last 14 home games,86%
-De'Andre Hunter,MIA,Over 3.5 Rebounds,116,Hit in 6 of his last 7 games vs MIA,86%
-De'Andre Hunter,MIA,Over 1.5 3PTM,142,Hit in 6 of his last 7 games,86%
-De'Andre Hunter,MIA,Over 9.5 Points,-102,Hit in 12 of his last 14 home games,86%
-Alec Burks,CLE,Over 5.5 PTS+AST,-145,Hit in 6 of his last 7 games,86%
-Alec Burks,CLE,Over 6.5 PTS+REB,-115,Hit in 6 of his last 7 games,86%
-Alec Burks,CLE,Over 7.5 PTS+AST+REB,-115,Hit in 6 of his last 7 games,86%
-Tyler Herro,CLE,Under 4.5 Assists,-106,Hit in 6 of his last 7 games,86%
-Haywood Highsmith,CLE,Over 11.5 PTS+REB,-104,Hit in 6 of his last 7 games,86%
-Kel'el Ware,CLE,Over 13.5 PTS+REB,-108,Hit in 6 of his last 7 games,86%
-Fred VanVleet,GSW,Over 7.5 REB+AST,-138,Hit in 6 of his last 7 games vs GSW,86%
-Fred VanVleet,GSW,Under 13.5 Points,-102,Hit in 6 of his last 7 games,86%
-JaMychal Green,GSW,Under 4.5 Rebounds,-114,Hit in 6 of his last 7 games,86%
-Moses Moody,HOU,Under 1.5 3PTM,-154,Hit in 6 of his last 7 games,86%
-Moses Moody,HOU,Under 0.5 Blocks,-160,Hit in 6 of his last 7 games vs HOU,86%
-Jackie Butler,HOU,Over 0.5 3PTM,-210,Hit in 6 of his last 7 away games,86%
-Jackie Butler,HOU,Under 0.5 Blocks,-250,Hit in 12 of his last 14 games,86%
-Kel'el Ware,CLE,Over 6.5 Points,-114,Hit in 17 of his last 20 games,85%
-Isaac Okoro,MIA,Over 4.5 PTS+AST+REB,-135,Hit in 11 of his last 13 home games,85%
-Dillon Brooks,GSW,Over 2.5 Rebounds,-182,Hit in 11 of his last 13 games vs GSW,85%
-Jonathan Isaac,BOS,Under 4.5 Rebounds,-105,Hit in 16 of his last 19 games,84%
-Al Horford,ORL,Under 0.5 Blocks,115,Hit in 5 of his last 6 games vs ORL,83%
-Sam Hauser,ORL,Over 6.5 Points,100,Hit in 5 of his last 6 games,83%
-Jabari Brown,ORL,Under 4.5 Assists,-162,Hit in 5 of his last 6 games,83%
-Anthony Black,BOS,Over 1.5 Assists,-165,Hit in 5 of his last 6 games vs BOS,83%
-Anthony Black,BOS,Over 0.5 3PTM,-110,Hit in 5 of his last 6 games,83%
-Anthony Black,BOS,Over 0.5 3PTM,-110,Hit in 5 of his last 6 games vs BOS,83%
-Paolo Banchero,BOS,Over 8.5 Rebounds,-130,Hit in 5 of his last 6 games,83%
-Franz Wagner,BOS,Over 4.5 Assists,116,Hit in 5 of his last 6 games vs BOS,83%
-Franz Wagner,BOS,Over 21.5 Points,-125,Hit in 5 of his last 6 games,83%
-Jonathan Isaac,BOS,Over 0.5 Assists,115,Hit in 5 of his last 6 games,83%
-Sam Merrill,MIA,Over 8.5 PTS+AST+REB,-130,Hit in 5 of his last 6 home games,83%
-Davion Mitchell,MIA,Over 31.5 PTS+REB,-106,Hit in 5 of his last 6 games vs MIA,83%
-Davion Mitchell,MIA,Over 36.5 PTS+AST+REB,-110,Hit in 5 of his last 6 games vs MIA,83%
-Max Strus,MIA,Over 3.5 Rebounds,-144,Hit in 5 of his last 6 games,83%
-De'Andre Hunter,MIA,Over 12.5 PTS+REB,-114,Hit in 10 of his last 12 games,83%
-Aaron Wiggins,CLE,Under 2.5 Assists,116,Hit in 5 of his last 6 games vs CLE,83%
-Davion Mitchell,CLE,Under 9.5 REB+AST,-136,Hit in 5 of his last 6 games vs CLE,83%
-Davion Mitchell,CLE,Over 17.5 PTS+AST,-118,Hit in 5 of his last 6 away games,83%
-Davion Mitchell,CLE,Over 13.5 PTS+REB,-132,Hit in 5 of his last 6 away games,83%
-Davion Mitchell,CLE,Over 20.5 PTS+AST+REB,-114,Hit in 5 of his last 6 away games,83%
-Davion Mitchell,CLE,Under 2.5 Rebounds,104,Hit in 5 of his last 6 games vs CLE,83%
-Davion Mitchell,CLE,Over 1.5 3PTM,124,Hit in 5 of his last 6 away games,83%
-David Robinson,CLE,Over 0.5 Assists,-175,Hit in 5 of his last 6 games vs CLE,83%
-Alec Burks,CLE,Over 5.5 PTS+AST,-145,Hit in 5 of his last 6 away games,83%
-Alec Burks,CLE,Over 6.5 PTS+REB,-115,Hit in 5 of his last 6 away games,83%
-Tyler Herro,CLE,Under 9.5 REB+AST,-125,Hit in 5 of his last 6 games,83%
-Tyler Herro,CLE,Over 4.5 Rebounds,-120,Hit in 5 of his last 6 games vs CLE,83%
-Tyler Herro,CLE,Under 0.5 Blocks,-375,Hit in 5 of his last 6 games vs CLE,83%
-Haywood Highsmith,CLE,Over 11.5 PTS+REB,-104,Hit in 5 of his last 6 away games,83%
-Kel'el Ware,CLE,Over 13.5 PTS+REB,-108,Hit in 10 of his last 12 away games,83%
-Max Strus,MIA,Over 14.5 PTS+AST+REB,102,Hit in 10 of his last 12 home games,83%
-Sam Merrill,MIA,Over 1.5 Rebounds,-190,Hit in 5 of his last 6 home games,83%
-Fred VanVleet,GSW,Under 0.5 Blocks,-225,Hit in 5 of his last 6 games,83%
-JaMychal Green,GSW,Under 3.5 Assists,-192,Hit in 5 of his last 6 games vs GSW,83%
-Danny Green,HOU,Over 1.5 Steals,126,Hit in 5 of his last 6 games,83%
-Seth Curry,HOU,Over 30.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%
-Seth Curry,HOU,Over 35.5 PTS+AST+REB,-128,Hit in 5 of his last 6 games,83%
-Seth Curry,HOU,Over 4.5 Rebounds,-114,Hit in 5 of his last 6 games,83%
-Seth Curry,HOU,Over 0.5 Steals,-225,Hit in 5 of his last 6 games,83%
-Seth Curry,HOU,Under 0.5 Blocks,-200,Hit in 5 of his last 6 games vs HOU,83%
-Jackie Butler,HOU,Over 0.5 3PTM,-210,Hit in 15 of his last 18 games,83%
-Jackie Butler,HOU,Under 22.5 Points,-110,Hit in 5 of his last 6 games vs HOU,83%
-Darius Garland,MIA,Over 9.5 REB+AST,100,Hit in 14 of his last 17 games,82%
-Anthony Black,BOS,Over 1.5 Assists,-165,Hit in 9 of his last 11 away games,82%
-Sam Merrill,MIA,Over 1.5 3PTM,110,Hit in 9 of his last 11 games,82%
-Sam Merrill,MIA,Over 5.5 Points,-105,Hit in 9 of his last 11 games,82%
-Max Strus,MIA,Over 11.5 PTS+REB,-112,Hit in 9 of his last 11 home games,82%
-De'Andre Hunter,MIA,Over 13.5 PTS+AST+REB,-105,Hit in 9 of his last 11 home games,82%
-Sam Hauser,ORL,Over 1.5 3PTM,-150,Hit in 13 of his last 16 games,81%
-Buddy Hield,HOU,Over 1.5 Rebounds,-175,Hit in 13 of his last 16 games,81%
-Payton Pritchard,ORL,Under 3.5 Assists,-136,Hit in 4 of his last 5 games vs ORL,80%
-Payton Pritchard,ORL,Under 3.5 Rebounds,-114,Hit in 8 of his last 10 games vs ORL,80%
-Payton Pritchard,ORL,Under 2.5 3PTM,-118,Hit in 8 of his last 10 games vs ORL,80%
-Jrue Holiday,ORL,Under 9.5 REB+AST,-112,Hit in 4 of his last 5 games,80%
-Jrue Holiday,ORL,Under 9.5 REB+AST,-112,Hit in 4 of his last 5 games vs ORL,80%
-Jrue Holiday,ORL,Under 15.5 PTS+AST,-114,Hit in 4 of his last 5 games vs ORL,80%
-Jrue Holiday,ORL,Under 4.5 Assists,-108,Hit in 4 of his last 5 games vs ORL,80%
-Jrue Holiday,ORL,Under 20.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games vs ORL,80%
-DJ White,ORL,Over 27.5 PTS+AST+REB,-112,Hit in 4 of his last 5 games,80%
-DJ White,ORL,Under 4.5 Rebounds,102,Hit in 4 of his last 5 games vs ORL,80%
-DJ White,ORL,Over 0.5 Steals,-245,Hit in 4 of his last 5 home games,80%
-Sam Hauser,ORL,Over 0.5 Assists,-145,Hit in 4 of his last 5 games,80%
-Sam Hauser,ORL,Over 0.5 Assists,-145,Hit in 4 of his last 5 home games,80%
-Sam Hauser,ORL,Over 10.5 PTS+AST+REB,-120,Hit in 12 of his last 15 games,80%
-Sam Hauser,ORL,Over 10.5 PTS+AST+REB,-120,Hit in 4 of his last 5 home games,80%
-Sam Hauser,ORL,Under 3.5 Rebounds,-160,Hit in 4 of his last 5 games,80%
-Jabari Brown,ORL,Under 28.5 PTS+REB,-122,Hit in 8 of his last 10 games,80%
-Jabari Brown,ORL,Under 4.5 Assists,-162,Hit in 8 of his last 10 games vs ORL,80%
-Jabari Brown,ORL,Under 32.5 PTS+AST+REB,-118,Hit in 8 of his last 10 games,80%
-Jabari Brown,ORL,Under 1.5 3PTM,102,Hit in 4 of his last 5 games vs ORL,80%
-Anthony Black,BOS,Over 9.5 PTS+REB,-102,Hit in 4 of his last 5 games,80%
-Anthony Black,BOS,Over 11.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%
-Paolo Banchero,BOS,Over 35.5 PTS+REB,-114,Hit in 4 of his last 5 away games,80%
-Paolo Banchero,BOS,Over 1.5 3PTM,-146,Hit in 4 of his last 5 games,80%
-Paolo Banchero,BOS,Over 1.5 3PTM,-146,Hit in 8 of his last 10 games vs BOS,80%
-Paolo Banchero,BOS,Over 26.5 Points,-114,Hit in 4 of his last 5 away games,80%
-Franz Wagner,BOS,Over 4.5 Assists,116,Hit in 4 of his last 5 away games,80%
-Cory Joseph,BOS,Over 0.5 3PTM,-200,Hit in 12 of his last 15 games,80%
-Jonathan Isaac,BOS,Over 10.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%
-Jonathan Isaac,BOS,Under 4.5 Rebounds,-105,Hit in 4 of his last 5 games vs BOS,80%
-Carmelo Anthony,BOS,Over 0.5 3PTM,-115,Hit in 16 of his last 20 games,80%
-Carmelo Anthony,BOS,Over 4.5 Points,-140,Hit in 16 of his last 20 games,80%
-Carmelo Anthony,BOS,Over 4.5 Points,-140,Hit in 16 of his last 20 away games,80%
-Ty Jerome,MIA,Over 1.5 3PTM,-136,Hit in 4 of his last 5 games vs MIA,80%
-Jarrett Allen,MIA,Under 22.5 PTS+REB,-112,Hit in 4 of his last 5 games vs MIA,80%
-Jarrett Allen,MIA,Under 10.5 Rebounds,-114,Hit in 4 of his last 5 games vs MIA,80%
-Jarrett Allen,MIA,Under 24.5 PTS+AST+REB,-110,Hit in 4 of his last 5 games,80%
-Davion Mitchell,MIA,Over 9.5 REB+AST,-138,Hit in 4 of his last 5 games,80%
-Davion Mitchell,MIA,Over 31.5 PTS+REB,-106,Hit in 4 of his last 5 home games,80%
-Davion Mitchell,MIA,Over 4.5 Assists,-158,Hit in 4 of his last 5 games,80%
-Davion Mitchell,MIA,Over 4.5 Assists,-158,Hit in 4 of his last 5 games vs MIA,80%
-Davion Mitchell,MIA,Over 36.5 PTS+AST+REB,-110,Hit in 4 of his last 5 home games,80%
-Davion Mitchell,MIA,Under 26.5 Points,-128,Hit in 12 of his last 15 games,80%
-Isaac Okoro,MIA,Over 0.5 Assists,105,Hit in 4 of his last 5 games,80%
-Isaac Okoro,MIA,Over 2.5 Points,-130,Hit in 16 of his last 20 games,80%
-Eric Mobley,MIA,Under 26.5 PTS+REB,-110,Hit in 8 of his last 10 games vs MIA,80%
-Eric Mobley,MIA,Under 10.5 Rebounds,-132,Hit in 8 of his last 10 games vs MIA,80%
-Max Strus,MIA,Over 2.5 Assists,108,Hit in 4 of his last 5 games,80%
-De'Andre Hunter,MIA,Over 12.5 PTS+REB,-114,Hit in 8 of his last 10 games vs MIA,80%
-De'Andre Hunter,MIA,Over 1.5 3PTM,142,Hit in 4 of his last 5 home games,80%
-De'Andre Hunter,MIA,Over 9.5 Points,-102,Hit in 8 of his last 10 games vs MIA,80%
-De'Andre Hunter,MIA,Over 0.5 Assists,-225,Hit in 4 of his last 5 games,80%
-Aaron Wiggins,CLE,Over 5.5 Rebounds,-102,Hit in 4 of his last 5 away games,80%
-Aaron Wiggins,CLE,Over 5.5 Rebounds,-102,Hit in 4 of his last 5 games,80%
-Aaron Wiggins,CLE,Over 1.5 3PTM,-158,Hit in 4 of his last 5 away games,80%
-Aaron Wiggins,CLE,Under 0.5 Blocks,-115,Hit in 4 of his last 5 games vs CLE,80%
-Davion Mitchell,CLE,Over 17.5 PTS+AST,-118,Hit in 8 of his last 10 games,80%
-Davion Mitchell,CLE,Over 13.5 PTS+REB,-132,Hit in 12 of his last 15 games,80%
-Davion Mitchell,CLE,Over 20.5 PTS+AST+REB,-114,Hit in 8 of his last 10 games,80%
-David Robinson,CLE,Over 1.5 Rebounds,100,Hit in 8 of his last 10 games,80%
-David Robinson,CLE,Over 1.5 3PTM,130,Hit in 4 of his last 5 games,80%
-Alec Burks,CLE,Over 5.5 Points,-110,Hit in 4 of his last 5 games vs CLE,80%
-Alec Burks,CLE,Over 2.5 REB+AST,-115,Hit in 4 of his last 5 games vs CLE,80%
-Alec Burks,CLE,Over 1.5 Rebounds,-110,Hit in 4 of his last 5 games vs CLE,80%
-Haywood Highsmith,CLE,Over 11.5 PTS+REB,-104,Hit in 4 of his last 5 games vs CLE,80%
-Haywood Highsmith,CLE,Over 4.5 Rebounds,-130,Hit in 4 of his last 5 away games,80%
-Haywood Highsmith,CLE,Over 6.5 Points,-102,Hit in 4 of his last 5 games,80%
-Haywood Highsmith,CLE,Over 6.5 Points,-102,Hit in 4 of his last 5 games vs CLE,80%
-Kel'el Ware,CLE,Over 6.5 Rebounds,-114,Hit in 4 of his last 5 away games,80%
-JR Smith,GSW,Over 5.5 Rebounds,-125,Hit in 8 of his last 10 games vs GSW,80%
-Fred VanVleet,GSW,Under 21.5 PTS+AST+REB,-102,Hit in 4 of his last 5 games vs GSW,80%
-Fred VanVleet,GSW,Under 1.5 Steals,-158,Hit in 4 of his last 5 games,80%
-Fred VanVleet,GSW,Under 1.5 Steals,-158,Hit in 4 of his last 5 games vs GSW,80%
-Dillon Brooks,GSW,Over 1.5 3PTM,-188,Hit in 8 of his last 10 games vs GSW,80%
-JaMychal Green,GSW,Under 0.5 Blocks,-275,Hit in 4 of his last 5 games vs GSW,80%
-Amen Thompson,GSW,Over 12.5 REB+AST,-102,Hit in 12 of his last 15 home games,80%
-Amen Thompson,GSW,Under 17.5 PTS+AST,-114,Hit in 4 of his last 5 games vs GSW,80%
-Amen Thompson,GSW,Under 21.5 PTS+REB,-130,Hit in 4 of his last 5 games,80%
-Amen Thompson,GSW,Under 25.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games vs GSW,80%
-Amen Thompson,GSW,Over 7.5 Rebounds,-128,Hit in 12 of his last 15 home games,80%
-Amen Thompson,GSW,Under 1.5 Steals,-154,Hit in 4 of his last 5 games,80%
-Amen Thompson,GSW,Under 0.5 3PTM,-275,Hit in 4 of his last 5 games,80%
-Tari Eason,GSW,Under 8.5 Points,-118,Hit in 4 of his last 5 games,80%
-Buddy Hield,HOU,Over 8.5 PTS+AST+REB,-110,Hit in 8 of his last 10 games vs HOU,80%
-Buddy Hield,HOU,Over 1.5 Rebounds,-175,Hit in 8 of his last 10 games vs HOU,80%
-Brandin Podziemski,HOU,Over 18.5 PTS+REB,-125,Hit in 4 of his last 5 games vs HOU,80%
-Brandin Podziemski,HOU,Under 2.5 3PTM,-182,Hit in 4 of his last 5 games,80%
-Brandin Podziemski,HOU,Under 0.5 Blocks,-350,Hit in 4 of his last 5 games vs HOU,80%
-Danny Green,HOU,Under 4.5 Assists,120,Hit in 4 of his last 5 games vs HOU,80%
-Danny Green,HOU,Over 0.5 Blocks,-210,Hit in 4 of his last 5 away games,80%
-Danny Green,HOU,Over 1.5 Steals,126,Hit in 4 of his last 5 away games,80%
-Moses Moody,HOU,Under 11.5 PTS+REB,-118,Hit in 8 of his last 10 games vs HOU,80%
-Seth Curry,HOU,Over 31.5 PTS+AST,-112,Hit in 4 of his last 5 games,80%
-Seth Curry,HOU,Over 30.5 PTS+REB,-122,Hit in 4 of his last 5 away games,80%
-Seth Curry,HOU,Over 30.5 PTS+REB,-122,Hit in 8 of his last 10 games vs HOU,80%
-Seth Curry,HOU,Under 5.5 Assists,-166,Hit in 4 of his last 5 games,80%
-Seth Curry,HOU,Over 35.5 PTS+AST+REB,-128,Hit in 4 of his last 5 away games,80%
-Seth Curry,HOU,Over 4.5 Rebounds,-114,Hit in 4 of his last 5 away games,80%
-Seth Curry,HOU,Over 4.5 3PTM,104,Hit in 4 of his last 5 games,80%
-Seth Curry,HOU,Over 26.5 Points,-102,Hit in 4 of his last 5 games,80%
-Seth Curry,HOU,Under 0.5 Blocks,-200,Hit in 4 of his last 5 games,80%
-Jackie Butler,HOU,Under 5.5 Assists,108,Hit in 4 of his last 5 games vs HOU,80%
-Davion Mitchell,MIA,Under 0.5 Blocks,-350,Hit in 15 of his last 19 games,79%
-David Robinson,CLE,Over 0.5 Assists,-175,Hit in 11 of his last 14 games,79%
-Jrue Holiday,ORL,Under 1.5 Steals,-168,Hit in 7 of his last 9 games,78%
-DJ White,ORL,Under 21.5 PTS+REB,-112,Hit in 7 of his last 9 games vs ORL,78%
-DJ White,ORL,Over 0.5 Blocks,-225,Hit in 7 of his last 9 home games,78%
-Anthony Black,BOS,Over 11.5 PTS+AST+REB,-105,Hit in 7 of his last 9 away games,78%
-Paolo Banchero,BOS,Under 0.5 Blocks,-175,Hit in 7 of his last 9 games vs BOS,78%
-Franz Wagner,BOS,Under 0.5 Blocks,-210,Hit in 14 of his last 18 games,78%
-Franz Wagner,BOS,Under 0.5 Blocks,-210,Hit in 7 of his last 9 games vs BOS,78%
-Ty Jerome,MIA,Over 14.5 PTS+AST,-122,Hit in 7 of his last 9 home games,78%
-Ty Jerome,MIA,Over 1.5 3PTM,-136,Hit in 7 of his last 9 home games,78%
-Darius Garland,MIA,Over 9.5 REB+AST,100,Hit in 7 of his last 9 home games,78%
-Isaac Okoro,MIA,Over 0.5 Assists,105,Hit in 7 of his last 9 games vs MIA,78%
-Eric Mobley,MIA,Under 13.5 REB+AST,-138,Hit in 7 of his last 9 games vs MIA,78%
-Eric Mobley,MIA,Over 2.5 Assists,-146,Hit in 7 of his last 9 games,78%
-David Robinson,CLE,Over 0.5 Assists,-175,Hit in 7 of his last 9 away games,78%
-Max Strus,MIA,Over 10.5 PTS+AST,102,Hit in 14 of his last 18 home games,78%
-Isaac Okoro,MIA,Over 4.5 PTS+AST+REB,-135,Hit in 7 of his last 9 games vs MIA,78%
-Jackie Butler,HOU,Under 5.5 Rebounds,112,Hit in 7 of his last 9 games,78%
-Isaac Okoro,MIA,Over 2.5 Points,-130,Hit in 10 of his last 13 home games,77%
-Seth Curry,HOU,Over 0.5 Steals,-225,Hit in 10 of his last 13 away games,77%
-Kel'el Ware,CLE,Over 6.5 Rebounds,-114,Hit in 13 of his last 17 games,76%
-Tari Eason,GSW,Over 13.5 PTS+REB,-114,Hit in 13 of his last 17 home games,76%
-Payton Pritchard,ORL,Under 7.5 REB+AST,-146,Hit in 3 of his last 4 games vs ORL,75%
-Jrue Holiday,ORL,Over 4.5 Rebounds,-136,Hit in 3 of his last 4 games vs ORL,75%
-Jrue Holiday,ORL,Over 1.5 3PTM,-112,Hit in 6 of his last 8 games,75%
-DJ White,ORL,Under 10.5 REB+AST,-130,Hit in 3 of his last 4 games,75%
-DJ White,ORL,Over 27.5 PTS+AST+REB,-112,Hit in 3 of his last 4 home games,75%
-DJ White,ORL,Under 4.5 Rebounds,102,Hit in 3 of his last 4 games,75%
-DJ White,ORL,Over 16.5 Points,-118,Hit in 3 of his last 4 games,75%
-DJ White,ORL,Over 16.5 Points,-118,Hit in 6 of his last 8 home games,75%
-Al Horford,ORL,Under 2.5 Assists,-160,Hit in 3 of his last 4 games vs ORL,75%
-Sam Hauser,ORL,Over 0.5 Assists,-145,Hit in 3 of his last 4 games vs ORL,75%
-Sam Hauser,ORL,Over 1.5 3PTM,-150,Hit in 3 of his last 4 home games,75%
-Sam Hauser,ORL,Over 6.5 Points,100,Hit in 3 of his last 4 home games,75%
-Anthony Black,BOS,Over 9.5 PTS+REB,-102,Hit in 3 of his last 4 games vs BOS,75%
-Anthony Black,BOS,Over 6.5 Points,-106,Hit in 12 of his last 16 games,75%
-Anthony Black,BOS,Over 11.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games vs BOS,75%
-Paolo Banchero,BOS,Under 4.5 Assists,-144,Hit in 3 of his last 4 games vs BOS,75%
-Paolo Banchero,BOS,Over 8.5 Rebounds,-130,Hit in 6 of his last 8 away games,75%
-Franz Wagner,BOS,Under 10.5 REB+AST,-132,Hit in 3 of his last 4 games vs BOS,75%
-Franz Wagner,BOS,Under 28.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%
-Franz Wagner,BOS,Under 6.5 Rebounds,-166,Hit in 6 of his last 8 games,75%
-Cory Joseph,BOS,Under 3.5 Points,-114,Hit in 3 of his last 4 games,75%
-Cory Joseph,BOS,Under 3.5 REB+AST,-105,Hit in 3 of his last 4 games vs BOS,75%
-Cory Joseph,BOS,Under 6.5 PTS+REB,-135,Hit in 3 of his last 4 games,75%
-Jonathan Isaac,BOS,Over 0.5 Assists,115,Hit in 3 of his last 4 away games,75%
-Carmelo Anthony,BOS,Over 9.5 PTS+AST+REB,100,Hit in 15 of his last 20 away games,75%
-Carmelo Anthony,BOS,Over 1.5 Rebounds,-150,Hit in 3 of his last 4 games vs BOS,75%
-Carmelo Anthony,BOS,Over 1.5 Rebounds,-150,Hit in 15 of his last 20 away games,75%
-Kentavious Caldwell-Pope,BOS,Under 1.5 3PTM,-158,Hit in 3 of his last 4 games,75%
-Kentavious Caldwell-Pope,BOS,Over 1.5 Assists,-120,Hit in 3 of his last 4 away games,75%
-Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-350,Hit in 6 of his last 8 games vs BOS,75%
-Cory Joseph,BOS,Under 8.5 PTS+AST+REB,-135,Hit in 3 of his last 4 games,75%
-Ty Jerome,MIA,Over 5.5 REB+AST,-120,Hit in 6 of his last 8 games,75%
-Ty Jerome,MIA,Over 14.5 PTS+AST,-122,Hit in 3 of his last 4 games vs MIA,75%
-Ty Jerome,MIA,Over 2.5 Assists,-136,Hit in 3 of his last 4 games vs MIA,75%
-Ty Jerome,MIA,Over 2.5 Rebounds,-140,Hit in 6 of his last 8 home games,75%
-Sam Merrill,MIA,Over 1.5 Assists,-105,Hit in 3 of his last 4 games vs MIA,75%
-Jarrett Allen,MIA,Under 10.5 Rebounds,-114,Hit in 12 of his last 16 games,75%
-Jarrett Allen,MIA,Under 1.5 Assists,-110,Hit in 3 of his last 4 games,75%
-Jarrett Allen,MIA,Under 0.5 Blocks,110,Hit in 3 of his last 4 games,75%
-Jarrett Allen,MIA,Under 0.5 Blocks,110,Hit in 6 of his last 8 games vs MIA,75%
-Davion Mitchell,MIA,Over 31.5 PTS+AST,-108,Hit in 3 of his last 4 games,75%
-Davion Mitchell,MIA,Over 1.5 Steals,162,Hit in 3 of his last 4 home games,75%
-Darius Garland,MIA,Under 6.5 Assists,-166,Hit in 3 of his last 4 games vs MIA,75%
-Isaac Okoro,MIA,Over 0.5 Assists,105,Hit in 3 of his last 4 home games,75%
-Eric Mobley,MIA,Under 13.5 REB+AST,-138,Hit in 6 of his last 8 games,75%
-Eric Mobley,MIA,Under 26.5 PTS+REB,-110,Hit in 3 of his last 4 games,75%
-Eric Mobley,MIA,Under 29.5 PTS+AST+REB,-112,Hit in 6 of his last 8 games vs MIA,75%
-Eric Mobley,MIA,Under 29.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games,75%
-Eric Mobley,MIA,Under 10.5 Rebounds,-132,Hit in 6 of his last 8 games,75%
-Eric Mobley,MIA,Under 1.5 3PTM,-220,Hit in 3 of his last 4 games,75%
-Eric Mobley,MIA,Under 16.5 Points,-118,Hit in 3 of his last 4 games,75%
-Max Strus,MIA,Over 11.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%
-Max Strus,MIA,Over 2.5 Assists,108,Hit in 9 of his last 12 home games,75%
-Max Strus,MIA,Over 3.5 Rebounds,-144,Hit in 6 of his last 8 home games,75%
-De'Andre Hunter,MIA,Over 0.5 Assists,-225,Hit in 6 of his last 8 home games,75%
-Davion Mitchell,CLE,Over 6.5 Assists,100,Hit in 3 of his last 4 games,75%
-Bam Adebayo,CLE,Over 13.5 REB+AST,-112,Hit in 3 of his last 4 games,75%
-Bam Adebayo,CLE,Over 13.5 REB+AST,-112,Hit in 3 of his last 4 away games,75%
-Bam Adebayo,CLE,Over 32.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games,75%
-Bam Adebayo,CLE,Over 32.5 PTS+AST+REB,-118,Hit in 3 of his last 4 away games,75%
-Bam Adebayo,CLE,Over 9.5 Rebounds,-130,Hit in 3 of his last 4 games,75%
-Bam Adebayo,CLE,Over 9.5 Rebounds,-130,Hit in 3 of his last 4 away games,75%
-Bam Adebayo,CLE,Over 0.5 Double Double,-115,Hit in 3 of his last 4 games,75%
-Bam Adebayo,CLE,Over 0.5 Blocks,-155,Hit in 3 of his last 4 games vs CLE,75%
-David Robinson,CLE,Over 1.5 Rebounds,100,Hit in 3 of his last 4 away games,75%
-David Robinson,CLE,Over 1.5 3PTM,130,Hit in 3 of his last 4 away games,75%
-Alec Burks,CLE,Under 1.5 3PTM,-185,Hit in 3 of his last 4 games vs CLE,75%
-Tyler Herro,CLE,Over 28.5 PTS+AST,-112,Hit in 6 of his last 8 away games,75%
-Tyler Herro,CLE,Over 28.5 PTS+REB,-110,Hit in 6 of his last 8 away games,75%
-Tyler Herro,CLE,Over 33.5 PTS+AST+REB,-108,Hit in 6 of his last 8 away games,75%
-Tyler Herro,CLE,Over 23.5 Points,-114,Hit in 6 of his last 8 away games,75%
-Haywood Highsmith,CLE,Under 1.5 3PTM,-245,Hit in 3 of his last 4 games vs CLE,75%
-Haywood Highsmith,CLE,Over 6.5 Points,-102,Hit in 3 of his last 4 away games,75%
-Kel'el Ware,CLE,Over 6.5 Points,-114,Hit in 12 of his last 16 away games,75%
-Max Strus,MIA,Over 10.5 PTS+AST,102,Hit in 3 of his last 4 games,75%
-Max Strus,MIA,Over 10.5 PTS+AST,102,Hit in 3 of his last 4 games vs MIA,75%
-Max Strus,MIA,Over 14.5 PTS+AST+REB,102,Hit in 3 of his last 4 games,75%
-Max Strus,MIA,Over 14.5 PTS+AST+REB,102,Hit in 3 of his last 4 games vs MIA,75%
-JR Smith,GSW,Over 5.5 Rebounds,-125,Hit in 6 of his last 8 home games,75%
-JR Smith,GSW,Over 9.5 Points,-118,Hit in 6 of his last 8 home games,75%
-Dillon Brooks,GSW,Over 4.5 REB+AST,-118,Hit in 9 of his last 12 games vs GSW,75%
-Dillon Brooks,GSW,Under 13.5 PTS+AST,-108,Hit in 3 of his last 4 games vs GSW,75%
-Dillon Brooks,GSW,Under 15.5 PTS+REB,-125,Hit in 3 of his last 4 games vs GSW,75%
-Dillon Brooks,GSW,Under 16.5 PTS+AST+REB,-106,Hit in 3 of his last 4 games vs GSW,75%
-Dillon Brooks,GSW,Under 12.5 Points,-130,Hit in 3 of his last 4 games vs GSW,75%
-JaMychal Green,GSW,Under 7.5 REB+AST,-104,Hit in 3 of his last 4 games,75%
-JaMychal Green,GSW,Under 0.5 Steals,130,Hit in 3 of his last 4 games,75%
-Amen Thompson,GSW,Over 7.5 Rebounds,-128,Hit in 15 of his last 20 games,75%
-Amen Thompson,GSW,Over 13.5 Points,102,Hit in 3 of his last 4 games,75%
-Amen Thompson,GSW,Over 1.5 Blocks,148,Hit in 3 of his last 4 games vs GSW,75%
-Tari Eason,GSW,Over 13.5 PTS+REB,-114,Hit in 15 of his last 20 games,75%
-Tari Eason,GSW,Over 4.5 Rebounds,-138,Hit in 6 of his last 8 games vs GSW,75%
-Tari Eason,GSW,Under 0.5 3PTM,120,Hit in 3 of his last 4 games,75%
-Buddy Hield,HOU,Under 0.5 Assists,115,Hit in 3 of his last 4 games,75%
-Buddy Hield,HOU,Under 0.5 Assists,115,Hit in 3 of his last 4 games vs HOU,75%
-Buddy Hield,HOU,Over 8.5 PTS+AST+REB,-110,Hit in 6 of his last 8 away games,75%
-Buddy Hield,HOU,Over 5.5 Points,-110,Hit in 6 of his last 8 away games,75%
-Brandin Podziemski,HOU,Over 9.5 REB+AST,-112,Hit in 3 of his last 4 games,75%
-Brandin Podziemski,HOU,Over 9.5 REB+AST,-112,Hit in 3 of his last 4 away games,75%
-Brandin Podziemski,HOU,Over 16.5 PTS+AST,-118,Hit in 3 of his last 4 away games,75%
-Brandin Podziemski,HOU,Over 18.5 PTS+REB,-125,Hit in 3 of his last 4 away games,75%
-Brandin Podziemski,HOU,Over 22.5 PTS+AST+REB,-118,Hit in 3 of his last 4 away games,75%
-Brandin Podziemski,HOU,Over 5.5 Rebounds,-132,Hit in 3 of his last 4 away games,75%
-Brandin Podziemski,HOU,Over 5.5 Rebounds,-132,Hit in 3 of his last 4 games,75%
-Brandin Podziemski,HOU,Under 2.5 3PTM,-182,Hit in 6 of his last 8 games vs HOU,75%
-Brandin Podziemski,HOU,Over 12.5 Points,-128,Hit in 3 of his last 4 away games,75%
-Danny Green,HOU,Under 11.5 REB+AST,-140,Hit in 3 of his last 4 games vs HOU,75%
-Danny Green,HOU,Under 12.5 PTS+AST,100,Hit in 3 of his last 4 games vs HOU,75%
-Danny Green,HOU,Under 13.5 PTS+REB,100,Hit in 6 of his last 8 games,75%
-Danny Green,HOU,Under 13.5 PTS+REB,100,Hit in 3 of his last 4 games vs HOU,75%
-Danny Green,HOU,Under 19.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games vs HOU,75%
-Danny Green,HOU,Under 6.5 Rebounds,-166,Hit in 6 of his last 8 games,75%
-Danny Green,HOU,Under 7.5 Points,-104,Hit in 3 of his last 4 games,75%
-Danny Green,HOU,Over 0.5 Blocks,-210,Hit in 3 of his last 4 games vs HOU,75%
-Danny Green,HOU,Over 1.5 Steals,126,Hit in 3 of his last 4 games vs HOU,75%
-Danny Green,HOU,Under 0.5 3PTM,150,Hit in 6 of his last 8 games vs HOU,75%
-Moses Moody,HOU,Under 11.5 PTS+REB,-118,Hit in 6 of his last 8 games,75%
-Moses Moody,HOU,Under 2.5 Rebounds,106,Hit in 3 of his last 4 games,75%
-Moses Moody,HOU,Under 8.5 Points,-114,Hit in 6 of his last 8 games,75%
-Moses Moody,HOU,Under 8.5 Points,-114,Hit in 3 of his last 4 games vs HOU,75%
-Moses Moody,HOU,Under 9.5 PTS+AST,-105,Hit in 6 of his last 8 games,75%
-Moses Moody,HOU,Under 9.5 PTS+AST,-105,Hit in 3 of his last 4 games vs HOU,75%
-Seth Curry,HOU,Under 9.5 REB+AST,-104,Hit in 3 of his last 4 games vs HOU,75%
-Seth Curry,HOU,Under 5.5 Assists,-166,Hit in 3 of his last 4 games vs HOU,75%
-Seth Curry,HOU,Over 4.5 Rebounds,-114,Hit in 6 of his last 8 games vs HOU,75%
-Jackie Butler,HOU,Over 11.5 REB+AST,-138,Hit in 3 of his last 4 games,75%
-Jackie Butler,HOU,Under 0.5 Blocks,-250,Hit in 3 of his last 4 games vs HOU,75%
-Payton Pritchard,ORL,Under 3.5 Assists,-136,ORL rank 5th in AST versus PG,5th
-Payton Pritchard,ORL,Under 3.5 Rebounds,-114,ORL rank 5th in REB versus PG,5th
-Payton Pritchard,ORL,Under 2.5 3PTM,-118,ORL rank 4th in 3PTM versus PG,4th
-Jrue Holiday,ORL,Under 4.5 Assists,-108,ORL rank 5th in AST versus PG,5th
-Jrue Holiday,ORL,Under 10.5 Points,-108,ORL rank 1st in PTS against,1st
-Jrue Holiday,ORL,Under 0.5 Blocks,-285,ORL rank 3rd in BLK versus PG,3rd
-DJ White,ORL,Under 5.5 Assists,-125,ORL rank 1st in AST versus SG,1st
-DJ White,ORL,Under 4.5 Rebounds,102,ORL rank 3rd in REB against,3rd
-DJ White,ORL,Under 3.5 3PTM,110,ORL rank 1st in 3PTM versus SG,1st
-Al Horford,ORL,Under 7.5 Rebounds,102,ORL rank 4th in REB versus C,4th
-Al Horford,ORL,Under 9.5 Points,-140,ORL rank 1st in PTS against,1st
-Al Horford,ORL,Under 2.5 Assists,-160,ORL rank 2nd in AST versus C,2nd
-Al Horford,ORL,Under 1.5 3PTM,100,ORL rank 1st in 3PTM against,1st
-Sam Hauser,ORL,Under 3.5 Rebounds,-160,ORL rank 3rd in REB against,3rd
-Jabari Brown,ORL,Under 5.5 Rebounds,116,ORL rank 3rd in REB against,3rd
-Jabari Brown,ORL,Under 1.5 3PTM,102,ORL rank 1st in 3PTM versus SF,1st
-Anthony Black,BOS,Over 2.5 Rebounds,-140,BOS rank 28th in REB versus PG,28th
-Anthony Black,BOS,Over 6.5 Points,-106,BOS rank 28th in PTS versus PG,28th
-Paolo Banchero,BOS,Under 4.5 Assists,-144,BOS rank 3rd in AST against,3rd
-Paolo Banchero,BOS,Under 0.5 Blocks,-175,BOS rank 3rd in BLK versus PF,3rd
-Franz Wagner,BOS,Under 0.5 Blocks,-210,BOS rank 4th in BLK versus SF,4th
-Carmelo Anthony,BOS,Over 1.5 Rebounds,-150,BOS rank 28th in REB versus PG,28th
-Kentavious Caldwell-Pope,BOS,Under 1.5 3PTM,-158,BOS rank 2nd in 3PTM versus SG,2nd
-Kentavious Caldwell-Pope,BOS,Under 7.5 Points,-125,BOS rank 1st in PTS versus SG,1st
-Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-350,BOS rank 4th in BLK versus SG,4th
-Carmelo Anthony,BOS,Over 4.5 Points,-140,BOS rank 28th in PTS versus PG,28th
-Jabari Brown,ORL,Under 4.5 Assists,-162,ORL rank 2nd in AST versus SF,2nd
-Jabari Brown,ORL,Under 22.5 Points,-128,ORL rank 1st in PTS versus SF,1st
-Davion Mitchell,MIA,Under 3.5 3PTM,-144,MIA rank 3rd in 3PTM versus SG,3rd
-Davion Mitchell,MIA,Under 26.5 Points,-128,MIA rank 2nd in PTS versus SG,2nd
-Darius Garland,MIA,Over 2.5 3PTM,-138,MIA rank 30th in 3PTM versus PG,30th
-Davion Mitchell,CLE,Under 2.5 Rebounds,104,CLE rank 2nd in REB versus PG,2nd
-Tyler Herro,CLE,Under 4.5 Assists,-106,CLE rank 4th in AST versus SG,4th
-Tyler Herro,CLE,Under 0.5 Blocks,-375,CLE rank 5th in BLK versus SG,5th
-Fred VanVleet,GSW,Under 2.5 3PTM,106,GSW rank 2nd in 3PTM versus PG,2nd
-Fred VanVleet,GSW,Under 13.5 Points,-102,GSW rank 1st in PTS versus PG,1st
-Amen Thompson,GSW,Under 1.5 Steals,-154,GSW rank 2nd in STL versus SF,2nd
-Buddy Hield,HOU,Under 0.5 Assists,115,HOU rank 5th in AST versus SG,5th
-Buddy Hield,HOU,Under 1.5 3PTM,-190,HOU rank 2nd in 3PTM against,2nd
-Brandin Podziemski,HOU,Under 2.5 3PTM,-182,HOU rank 2nd in 3PTM against,2nd
-Danny Green,HOU,Under 6.5 Rebounds,-166,HOU rank 4th in REB against,4th
-Danny Green,HOU,Over 0.5 Blocks,-210,HOU rank 27th in BLK versus PF,27th
-Danny Green,HOU,Under 0.5 3PTM,150,HOU rank 2nd in 3PTM against,2nd
-Moses Moody,HOU,Under 2.5 Rebounds,106,HOU rank 4th in REB against,4th
-Moses Moody,HOU,Under 1.5 3PTM,-154,HOU rank 2nd in 3PTM against,2nd
-Moses Moody,HOU,Under 1.5 Assists,-165,HOU rank 5th in AST versus SG,5th
-Seth Curry,HOU,Under 5.5 Assists,-166,HOU rank 2nd in AST versus PG,2nd
-Jackie Butler,HOU,Under 5.5 Assists,108,HOU rank 1st in AST versus SF,1st
-Jackie Butler,HOU,Under 5.5 Rebounds,112,HOU rank 5th in REB versus SF,5th
-Jackie Butler,HOU,Under 22.5 Points,-110,HOU rank 3rd in PTS versus SF,3rd
-Danny Green,HOU,Under 4.5 Assists,120,HOU rank 2nd in AST against,2nd
-Seth Curry,HOU,Over 26.5 Points,-102,HOU rank 30th in PTS versus PG,30th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Payton Pritchard,ORL,Over 15.5 PTS+AST,-108,Hit in 4 of his last 4 games,100%,True,20.0
+Payton Pritchard,ORL,Over 15.5 PTS+AST,-108,Hit in 4 of his last 4 home games,100%,True,20.0
+Payton Pritchard,ORL,Over 15.5 PTS+REB,-112,Hit in 4 of his last 4 games,100%,True,23.0
+Payton Pritchard,ORL,Over 15.5 PTS+REB,-112,Hit in 4 of his last 4 home games,100%,True,23.0
+Payton Pritchard,ORL,Over 19.5 PTS+AST+REB,-104,Hit in 4 of his last 4 games,100%,True,20.0
+Anthony Black,BOS,Over 2.5 Rebounds,-140,Hit in 5 of his last 5 games,100%,True,4.0
+Payton Pritchard,ORL,Over 19.5 PTS+AST+REB,-104,Hit in 4 of his last 4 home games,100%,True,20.0
+Payton Pritchard,ORL,Over 11.5 Points,-122,Hit in 4 of his last 4 games,100%,True,20.0
+Payton Pritchard,ORL,Over 11.5 Points,-122,Hit in 4 of his last 4 home games,100%,True,20.0
+Jrue Holiday,ORL,Over 1.5 3PTM,-112,Hit in 5 of his last 5 games vs ORL,100%,False,0.0
+Jrue Holiday,ORL,Under 0.5 Blocks,-285,Hit in 4 of his last 4 games,100%,False,1.0
+Al Horford,ORL,Under 17.5 PTS+REB,-128,Hit in 8 of his last 8 games vs ORL,100%,False,21.0
+Al Horford,ORL,Under 9.5 Points,-140,Hit in 8 of his last 8 games vs ORL,100%,False,11.0
+Al Horford,ORL,Under 10.5 REB+AST,-130,Hit in 8 of his last 8 games vs ORL,100%,False,11.0
+Al Horford,ORL,Under 11.5 PTS+AST,-125,Hit in 8 of his last 8 games vs ORL,100%,False,12.0
+Al Horford,ORL,Under 19.5 PTS+AST+REB,-118,Hit in 8 of his last 8 games vs ORL,100%,True,12.0
+Sam Hauser,ORL,Under 3.5 Rebounds,-160,Hit in 5 of his last 5 games vs ORL,100%,True,1.0
+Anthony Black,BOS,Over 2.5 Rebounds,-140,Hit in 4 of his last 4 games vs BOS,100%,True,4.0
+Anthony Black,BOS,Over 2.5 Rebounds,-140,Hit in 4 of his last 4 away games,100%,True,4.0
+Franz Wagner,BOS,Over 26.5 PTS+AST,-108,Hit in 4 of his last 4 away games,100%,True,31.0
+Franz Wagner,BOS,Over 21.5 Points,-125,Hit in 4 of his last 4 away games,100%,True,27.0
+Cory Joseph,BOS,Under 6.5 PTS+REB,-135,Hit in 4 of his last 4 games vs BOS,100%,False,10.0
+Cory Joseph,BOS,Over 1.5 Assists,-155,Hit in 4 of his last 4 games,100%,True,3.0
+Cory Joseph,BOS,Under 1.5 Rebounds,105,Hit in 4 of his last 4 games,100%,True,1.0
+Cory Joseph,BOS,Under 1.5 Rebounds,105,Hit in 7 of his last 7 games vs BOS,100%,True,1.0
+Jonathan Isaac,BOS,Over 4.5 Points,-125,Hit in 5 of his last 5 games,100%,False,0.0
+Kentavious Caldwell-Pope,BOS,Under 10.5 PTS+REB,-132,Hit in 4 of his last 4 games,100%,True,7.0
+Kentavious Caldwell-Pope,BOS,Under 7.5 Points,-125,Hit in 4 of his last 4 games,100%,True,3.0
+Kentavious Caldwell-Pope,BOS,Under 9.5 PTS+AST,-120,Hit in 4 of his last 4 games,100%,True,3.0
+Kentavious Caldwell-Pope,BOS,Under 12.5 PTS+AST+REB,-120,Hit in 4 of his last 4 games,100%,True,3.0
+Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-350,Hit in 5 of his last 5 games,100%,True,0.0
+Cory Joseph,BOS,Under 8.5 PTS+AST+REB,-135,Hit in 4 of his last 4 games vs BOS,100%,False,12.0
+Ty Jerome,MIA,Over 5.5 REB+AST,-120,Hit in 4 of his last 4 games vs MIA,100%,False,3.0
+Ty Jerome,MIA,Over 14.5 PTS+AST,-122,Hit in 8 of his last 8 games,100%,False,8.0
+Ty Jerome,MIA,Over 2.5 Rebounds,-140,Hit in 4 of his last 4 games vs MIA,100%,True,3.0
+Ty Jerome,MIA,Over 11.5 Points,-125,Hit in 8 of his last 8 games,100%,False,8.0
+Ty Jerome,MIA,Over 11.5 Points,-125,Hit in 4 of his last 4 games vs MIA,100%,False,8.0
+Ty Jerome,MIA,Over 11.5 Points,-125,Hit in 9 of his last 9 home games,100%,False,8.0
+Jarrett Allen,MIA,Under 12.5 REB+AST,-110,Hit in 5 of his last 5 games vs MIA,100%,True,9.0
+Jarrett Allen,MIA,Under 13.5 PTS+AST,-110,Hit in 4 of his last 4 games,100%,True,10.0
+Jarrett Allen,MIA,Under 13.5 PTS+AST,-110,Hit in 5 of his last 5 games vs MIA,100%,True,10.0
+Jarrett Allen,MIA,Under 1.5 Assists,-110,Hit in 4 of his last 4 games vs MIA,100%,True,1.0
+Jarrett Allen,MIA,Under 24.5 PTS+AST+REB,-110,Hit in 5 of his last 5 games vs MIA,100%,True,10.0
+Davion Mitchell,MIA,Over 4.5 Rebounds,-146,Hit in 7 of his last 7 home games,100%,False,1.0
+Davion Mitchell,MIA,Over 1.5 Steals,162,Hit in 4 of his last 4 games vs MIA,100%,False,1.0
+Davion Mitchell,MIA,Under 0.5 Blocks,-350,Hit in 9 of his last 9 games vs MIA,100%,True,0.0
+Darius Garland,MIA,Under 3.5 Rebounds,-172,Hit in 5 of his last 5 games,100%,True,2.0
+Darius Garland,MIA,Under 1.5 Steals,-245,Hit in 5 of his last 5 games vs MIA,100%,True,0.0
+Isaac Okoro,MIA,Over 1.5 Rebounds,100,Hit in 4 of his last 4 home games,100%,False,1.0
+Isaac Okoro,MIA,Over 1.5 Rebounds,100,Hit in 7 of his last 7 games,100%,False,1.0
+Max Strus,MIA,Over 1.5 3PTM,-144,Hit in 4 of his last 4 games,100%,True,4.0
+Max Strus,MIA,Over 1.5 3PTM,-144,Hit in 5 of his last 5 games vs MIA,100%,True,4.0
+Max Strus,MIA,Over 1.5 3PTM,-144,Hit in 4 of his last 4 home games,100%,True,4.0
+Max Strus,MIA,Over 7.5 Points,-120,Hit in 4 of his last 4 games,100%,True,22.0
+Max Strus,MIA,Over 7.5 Points,-120,Hit in 4 of his last 4 games vs MIA,100%,True,22.0
+Max Strus,MIA,Over 7.5 Points,-120,Hit in 4 of his last 4 home games,100%,True,22.0
+De'Andre Hunter,MIA,Over 0.5 Assists,-225,Hit in 10 of his last 10 games vs MIA,100%,False,0.0
+Davion Mitchell,CLE,Over 10.5 Points,-136,Hit in 6 of his last 6 away games,100%,True,22.0
+Bam Adebayo,CLE,Over 28.5 PTS+REB,-118,Hit in 5 of his last 5 games vs CLE,100%,False,27.0
+Bam Adebayo,CLE,Over 32.5 PTS+AST+REB,-118,Hit in 5 of his last 5 games vs CLE,100%,False,22.0
+Bam Adebayo,CLE,Over 0.5 3PTM,-245,Hit in 4 of his last 4 games vs CLE,100%,True,1.0
+Bam Adebayo,CLE,Over 1.5 Steals,138,Hit in 4 of his last 4 games,100%,False,1.0
+Bam Adebayo,CLE,Over 1.5 Steals,138,Hit in 4 of his last 4 away games,100%,False,1.0
+Tyler Herro,CLE,Over 2.5 3PTM,-110,Hit in 6 of his last 6 games vs CLE,100%,True,4.0
+Tyler Herro,CLE,Under 0.5 Blocks,-375,Hit in 6 of his last 6 games,100%,True,0.0
+Ty Jerome,MIA,Over 14.5 PTS+REB,-122,Hit in 8 of his last 8 games,100%,False,11.0
+Ty Jerome,MIA,Over 14.5 PTS+REB,-122,Hit in 4 of his last 4 games vs MIA,100%,False,11.0
+Ty Jerome,MIA,Over 17.5 PTS+AST+REB,-118,Hit in 8 of his last 8 games,100%,False,8.0
+Ty Jerome,MIA,Over 17.5 PTS+AST+REB,-118,Hit in 4 of his last 4 games vs MIA,100%,False,8.0
+Fred VanVleet,GSW,Under 19.5 PTS+AST,-125,Hit in 5 of his last 5 games,100%,True,11.0
+Fred VanVleet,GSW,Under 19.5 PTS+AST,-125,Hit in 6 of his last 6 games vs GSW,100%,True,11.0
+Fred VanVleet,GSW,Under 16.5 PTS+REB,-112,Hit in 7 of his last 7 games,100%,True,15.0
+Fred VanVleet,GSW,Under 21.5 PTS+AST+REB,-102,Hit in 5 of his last 5 games,100%,True,11.0
+Fred VanVleet,GSW,Under 2.5 Rebounds,-110,Hit in 4 of his last 4 games,100%,False,6.0
+Fred VanVleet,GSW,Under 13.5 Points,-102,Hit in 8 of his last 8 games vs GSW,100%,True,9.0
+Dillon Brooks,GSW,Over 1.5 3PTM,-188,Hit in 9 of his last 9 games,100%,True,2.0
+Dillon Brooks,GSW,Over 1.5 3PTM,-188,Hit in 6 of his last 6 home games,100%,True,2.0
+Amen Thompson,GSW,Under 21.5 PTS+REB,-130,Hit in 4 of his last 4 games vs GSW,100%,True,12.0
+Amen Thompson,GSW,Over 4.5 Assists,-102,Hit in 5 of his last 5 games,100%,False,3.0
+Amen Thompson,GSW,Over 4.5 Assists,-102,Hit in 4 of his last 4 home games,100%,False,3.0
+Amen Thompson,GSW,Under 0.5 3PTM,-275,Hit in 4 of his last 4 games vs GSW,100%,True,0.0
+Brandin Podziemski,HOU,Over 3.5 Assists,-120,Hit in 4 of his last 4 games vs HOU,100%,False,0.0
+Brandin Podziemski,HOU,Over 0.5 Steals,-245,Hit in 4 of his last 4 games,100%,False,0.0
+Brandin Podziemski,HOU,Over 0.5 Steals,-245,Hit in 4 of his last 4 games vs HOU,100%,False,0.0
+Brandin Podziemski,HOU,Over 0.5 Steals,-245,Hit in 4 of his last 4 away games,100%,False,0.0
+Moses Moody,HOU,Under 1.5 3PTM,-154,Hit in 4 of his last 4 games vs HOU,100%,False,3.0
+Moses Moody,HOU,Under 4.5 REB+AST,-130,Hit in 4 of his last 4 games,100%,True,3.0
+Moses Moody,HOU,Under 1.5 Assists,-165,Hit in 4 of his last 4 games vs HOU,100%,True,1.0
+Moses Moody,HOU,Under 13.5 PTS+AST+REB,-135,Hit in 4 of his last 4 games,100%,False,19.0
+Brandin Podziemski,HOU,Under 0.5 Blocks,-350,Hit in 18 of his last 19 games,95%,True,0.0
+Davion Mitchell,MIA,Over 4.5 Assists,-158,Hit in 15 of his last 16 home games,94%,True,6.0
+Bam Adebayo,CLE,Over 0.5 3PTM,-245,Hit in 14 of his last 15 games,93%,True,1.0
+Isaac Okoro,MIA,Over 4.5 PTS+AST+REB,-135,Hit in 14 of his last 15 games,93%,True,5.0
+Sam Merrill,MIA,Over 8.5 PTS+AST+REB,-130,Hit in 11 of his last 12 games,92%,True,11.0
+De'Andre Hunter,MIA,Over 9.5 Points,-102,Hit in 11 of his last 12 games,92%,True,16.0
+Sam Merrill,MIA,Over 1.5 Rebounds,-190,Hit in 11 of his last 12 games,92%,True,4.0
+Moses Moody,HOU,Under 4.5 REB+AST,-130,Hit in 11 of his last 12 games vs HOU,92%,True,3.0
+Moses Moody,HOU,Under 13.5 PTS+AST+REB,-135,Hit in 11 of his last 12 games vs HOU,92%,False,19.0
+Anthony Black,BOS,Over 1.5 Assists,-165,Hit in 10 of his last 11 games,91%,False,0.0
+Paolo Banchero,BOS,Over 1.5 3PTM,-146,Hit in 10 of his last 11 away games,91%,True,2.0
+Paolo Banchero,BOS,Under 13.5 REB+AST,-128,Hit in 9 of his last 10 games vs BOS,90%,False,16.0
+Darius Garland,MIA,Under 3.5 Rebounds,-172,Hit in 9 of his last 10 games vs MIA,90%,True,2.0
+Davion Mitchell,CLE,Over 10.5 Points,-136,Hit in 9 of his last 10 games,90%,True,22.0
+De'Andre Hunter,MIA,Over 13.5 PTS+AST+REB,-105,Hit in 9 of his last 10 games vs MIA,90%,True,16.0
+Franz Wagner,BOS,Under 28.5 PTS+REB,-125,Hit in 8 of his last 9 games vs BOS,89%,False,31.0
+Franz Wagner,BOS,Under 32.5 PTS+AST+REB,-114,Hit in 8 of his last 9 games vs BOS,89%,True,31.0
+Cory Joseph,BOS,Over 6.5 PTS+AST,100,Hit in 8 of his last 9 away games,89%,True,12.0
+Ty Jerome,MIA,Over 2.5 Assists,-136,Hit in 8 of his last 9 games,89%,False,0.0
+Jarrett Allen,MIA,Over 11.5 Points,-136,Hit in 8 of his last 9 home games,89%,False,9.0
+Isaac Okoro,MIA,Over 0.5 3PTM,110,Hit in 8 of his last 9 games vs MIA,89%,True,1.0
+Isaac Okoro,MIA,Over 2.5 Points,-130,Hit in 8 of his last 9 games vs MIA,89%,True,5.0
+Ty Jerome,MIA,Over 14.5 PTS+REB,-122,Hit in 8 of his last 9 home games,89%,False,11.0
+Ty Jerome,MIA,Over 17.5 PTS+AST+REB,-118,Hit in 8 of his last 9 home games,89%,False,8.0
+Buddy Hield,HOU,Over 1.5 Rebounds,-175,Hit in 8 of his last 9 away games,89%,True,4.0
+Cory Joseph,BOS,Over 6.5 PTS+AST,100,Hit in 15 of his last 17 games,88%,True,12.0
+Max Strus,MIA,Over 6.5 REB+AST,102,Hit in 15 of his last 17 home games,88%,True,7.0
+Al Horford,ORL,Under 7.5 Rebounds,102,Hit in 7 of his last 8 games vs ORL,88%,False,10.0
+Paolo Banchero,BOS,Over 30.5 PTS+AST,-125,Hit in 7 of his last 8 away games,88%,True,43.0
+Paolo Banchero,BOS,Over 40.5 PTS+AST+REB,-106,Hit in 7 of his last 8 away games,88%,True,43.0
+Franz Wagner,BOS,Under 1.5 3PTM,-102,Hit in 7 of his last 8 games vs BOS,88%,True,1.0
+Jarrett Allen,MIA,Under 12.5 REB+AST,-110,Hit in 7 of his last 8 games,88%,True,9.0
+Darius Garland,MIA,Under 1.5 Steals,-245,Hit in 7 of his last 8 games,88%,True,0.0
+Max Strus,MIA,Over 6.5 REB+AST,102,Hit in 7 of his last 8 games,88%,True,7.0
+Bam Adebayo,CLE,Over 0.5 3PTM,-245,Hit in 7 of his last 8 away games,88%,True,1.0
+De'Andre Hunter,MIA,Over 13.5 PTS+AST+REB,-105,Hit in 14 of his last 16 games,88%,True,16.0
+Fred VanVleet,GSW,Under 16.5 PTS+REB,-112,Hit in 7 of his last 8 games vs GSW,88%,True,15.0
+Fred VanVleet,GSW,Under 2.5 3PTM,106,Hit in 7 of his last 8 games vs GSW,88%,True,1.0
+Amen Thompson,GSW,Under 1.5 Steals,-154,Hit in 7 of his last 8 games vs GSW,88%,True,0.0
+Tari Eason,GSW,Under 1.5 Assists,-220,Hit in 7 of his last 8 games vs GSW,88%,True,1.0
+Moses Moody,HOU,Under 1.5 Assists,-165,Hit in 7 of his last 8 games,88%,True,1.0
+Jonathan Isaac,BOS,Under 0.5 3PTM,-185,Hit in 12 of his last 14 games,86%,True,0.0
+Jonathan Isaac,BOS,Over 4.5 Points,-125,Hit in 6 of his last 7 games vs BOS,86%,False,0.0
+Ty Jerome,MIA,Over 1.5 3PTM,-136,Hit in 6 of his last 7 games,86%,False,1.0
+Sam Merrill,MIA,Over 1.5 Assists,-105,Hit in 6 of his last 7 games,86%,False,1.0
+Sam Merrill,MIA,Over 1.5 Assists,-105,Hit in 6 of his last 7 home games,86%,False,1.0
+Sam Merrill,MIA,Over 8.5 PTS+AST+REB,-130,Hit in 6 of his last 7 games vs MIA,86%,True,11.0
+Davion Mitchell,MIA,Over 9.5 REB+AST,-138,Hit in 6 of his last 7 home games,86%,False,7.0
+Davion Mitchell,MIA,Over 4.5 Rebounds,-146,Hit in 6 of his last 7 games,86%,False,1.0
+Davion Mitchell,MIA,Under 3.5 3PTM,-144,Hit in 12 of his last 14 games,86%,True,2.0
+De'Andre Hunter,MIA,Over 12.5 PTS+REB,-114,Hit in 12 of his last 14 home games,86%,True,19.0
+De'Andre Hunter,MIA,Over 3.5 Rebounds,116,Hit in 6 of his last 7 games vs MIA,86%,False,3.0
+De'Andre Hunter,MIA,Over 1.5 3PTM,142,Hit in 6 of his last 7 games,86%,True,2.0
+De'Andre Hunter,MIA,Over 9.5 Points,-102,Hit in 12 of his last 14 home games,86%,True,16.0
+Tyler Herro,CLE,Under 4.5 Assists,-106,Hit in 6 of his last 7 games,86%,False,5.0
+Haywood Highsmith,CLE,Over 11.5 PTS+REB,-104,Hit in 6 of his last 7 games,86%,True,29.0
+Kel'el Ware,CLE,Over 13.5 PTS+REB,-108,Hit in 6 of his last 7 games,86%,False,13.0
+Fred VanVleet,GSW,Over 7.5 REB+AST,-138,Hit in 6 of his last 7 games vs GSW,86%,True,8.0
+Fred VanVleet,GSW,Under 13.5 Points,-102,Hit in 6 of his last 7 games,86%,True,9.0
+Moses Moody,HOU,Under 1.5 3PTM,-154,Hit in 6 of his last 7 games,86%,False,3.0
+Moses Moody,HOU,Under 0.5 Blocks,-160,Hit in 6 of his last 7 games vs HOU,86%,False,1.0
+Kel'el Ware,CLE,Over 6.5 Points,-114,Hit in 17 of his last 20 games,85%,True,9.0
+Isaac Okoro,MIA,Over 4.5 PTS+AST+REB,-135,Hit in 11 of his last 13 home games,85%,True,5.0
+Dillon Brooks,GSW,Over 2.5 Rebounds,-182,Hit in 11 of his last 13 games vs GSW,85%,True,3.0
+Jonathan Isaac,BOS,Under 4.5 Rebounds,-105,Hit in 16 of his last 19 games,84%,True,1.0
+Al Horford,ORL,Under 0.5 Blocks,115,Hit in 5 of his last 6 games vs ORL,83%,False,1.0
+Sam Hauser,ORL,Over 6.5 Points,100,Hit in 5 of his last 6 games,83%,False,0.0
+Anthony Black,BOS,Over 1.5 Assists,-165,Hit in 5 of his last 6 games vs BOS,83%,False,0.0
+Anthony Black,BOS,Over 0.5 3PTM,-110,Hit in 5 of his last 6 games,83%,False,0.0
+Anthony Black,BOS,Over 0.5 3PTM,-110,Hit in 5 of his last 6 games vs BOS,83%,False,0.0
+Paolo Banchero,BOS,Over 8.5 Rebounds,-130,Hit in 5 of his last 6 games,83%,True,9.0
+Franz Wagner,BOS,Over 4.5 Assists,116,Hit in 5 of his last 6 games vs BOS,83%,False,4.0
+Franz Wagner,BOS,Over 21.5 Points,-125,Hit in 5 of his last 6 games,83%,True,27.0
+Jonathan Isaac,BOS,Over 0.5 Assists,115,Hit in 5 of his last 6 games,83%,False,0.0
+Sam Merrill,MIA,Over 8.5 PTS+AST+REB,-130,Hit in 5 of his last 6 home games,83%,True,11.0
+Davion Mitchell,MIA,Over 31.5 PTS+REB,-106,Hit in 5 of his last 6 games vs MIA,83%,False,23.0
+Davion Mitchell,MIA,Over 36.5 PTS+AST+REB,-110,Hit in 5 of his last 6 games vs MIA,83%,False,28.0
+Max Strus,MIA,Over 3.5 Rebounds,-144,Hit in 5 of his last 6 games,83%,False,1.0
+De'Andre Hunter,MIA,Over 12.5 PTS+REB,-114,Hit in 10 of his last 12 games,83%,True,19.0
+Davion Mitchell,CLE,Under 9.5 REB+AST,-136,Hit in 5 of his last 6 games vs CLE,83%,True,7.0
+Davion Mitchell,CLE,Over 17.5 PTS+AST,-118,Hit in 5 of his last 6 away games,83%,True,28.0
+Davion Mitchell,CLE,Over 13.5 PTS+REB,-132,Hit in 5 of his last 6 away games,83%,True,23.0
+Davion Mitchell,CLE,Over 20.5 PTS+AST+REB,-114,Hit in 5 of his last 6 away games,83%,True,28.0
+Davion Mitchell,CLE,Under 2.5 Rebounds,104,Hit in 5 of his last 6 games vs CLE,83%,True,1.0
+Davion Mitchell,CLE,Over 1.5 3PTM,124,Hit in 5 of his last 6 away games,83%,True,2.0
+Tyler Herro,CLE,Under 9.5 REB+AST,-125,Hit in 5 of his last 6 games,83%,False,11.0
+Tyler Herro,CLE,Over 4.5 Rebounds,-120,Hit in 5 of his last 6 games vs CLE,83%,True,6.0
+Tyler Herro,CLE,Under 0.5 Blocks,-375,Hit in 5 of his last 6 games vs CLE,83%,True,0.0
+Haywood Highsmith,CLE,Over 11.5 PTS+REB,-104,Hit in 5 of his last 6 away games,83%,True,29.0
+Kel'el Ware,CLE,Over 13.5 PTS+REB,-108,Hit in 10 of his last 12 away games,83%,False,13.0
+Max Strus,MIA,Over 14.5 PTS+AST+REB,102,Hit in 10 of his last 12 home games,83%,True,28.0
+Sam Merrill,MIA,Over 1.5 Rebounds,-190,Hit in 5 of his last 6 home games,83%,True,4.0
+Fred VanVleet,GSW,Under 0.5 Blocks,-225,Hit in 5 of his last 6 games,83%,False,1.0
+Darius Garland,MIA,Over 9.5 REB+AST,100,Hit in 14 of his last 17 games,82%,True,11.0
+Anthony Black,BOS,Over 1.5 Assists,-165,Hit in 9 of his last 11 away games,82%,False,0.0
+Sam Merrill,MIA,Over 1.5 3PTM,110,Hit in 9 of his last 11 games,82%,True,2.0
+Sam Merrill,MIA,Over 5.5 Points,-105,Hit in 9 of his last 11 games,82%,True,10.0
+Max Strus,MIA,Over 11.5 PTS+REB,-112,Hit in 9 of his last 11 home games,82%,True,23.0
+De'Andre Hunter,MIA,Over 13.5 PTS+AST+REB,-105,Hit in 9 of his last 11 home games,82%,True,16.0
+Sam Hauser,ORL,Over 1.5 3PTM,-150,Hit in 13 of his last 16 games,81%,False,0.0
+Buddy Hield,HOU,Over 1.5 Rebounds,-175,Hit in 13 of his last 16 games,81%,True,4.0
+Payton Pritchard,ORL,Under 3.5 Assists,-136,Hit in 4 of his last 5 games vs ORL,80%,True,0.0
+Payton Pritchard,ORL,Under 3.5 Rebounds,-114,Hit in 8 of his last 10 games vs ORL,80%,True,3.0
+Payton Pritchard,ORL,Under 2.5 3PTM,-118,Hit in 8 of his last 10 games vs ORL,80%,False,3.0
+Jrue Holiday,ORL,Under 9.5 REB+AST,-112,Hit in 4 of his last 5 games,80%,False,10.0
+Jrue Holiday,ORL,Under 9.5 REB+AST,-112,Hit in 4 of his last 5 games vs ORL,80%,False,10.0
+Jrue Holiday,ORL,Under 15.5 PTS+AST,-114,Hit in 4 of his last 5 games vs ORL,80%,False,17.0
+Jrue Holiday,ORL,Under 4.5 Assists,-108,Hit in 4 of his last 5 games vs ORL,80%,False,6.0
+Jrue Holiday,ORL,Under 20.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games vs ORL,80%,True,17.0
+Sam Hauser,ORL,Over 0.5 Assists,-145,Hit in 4 of his last 5 games,80%,False,0.0
+Sam Hauser,ORL,Over 0.5 Assists,-145,Hit in 4 of his last 5 home games,80%,False,0.0
+Sam Hauser,ORL,Over 10.5 PTS+AST+REB,-120,Hit in 12 of his last 15 games,80%,False,0.0
+Sam Hauser,ORL,Over 10.5 PTS+AST+REB,-120,Hit in 4 of his last 5 home games,80%,False,0.0
+Sam Hauser,ORL,Under 3.5 Rebounds,-160,Hit in 4 of his last 5 games,80%,True,1.0
+Anthony Black,BOS,Over 9.5 PTS+REB,-102,Hit in 4 of his last 5 games,80%,True,15.0
+Anthony Black,BOS,Over 11.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%,False,11.0
+Paolo Banchero,BOS,Over 35.5 PTS+REB,-114,Hit in 4 of his last 5 away games,80%,True,45.0
+Paolo Banchero,BOS,Over 1.5 3PTM,-146,Hit in 4 of his last 5 games,80%,True,2.0
+Paolo Banchero,BOS,Over 1.5 3PTM,-146,Hit in 8 of his last 10 games vs BOS,80%,True,2.0
+Paolo Banchero,BOS,Over 26.5 Points,-114,Hit in 4 of his last 5 away games,80%,True,36.0
+Franz Wagner,BOS,Over 4.5 Assists,116,Hit in 4 of his last 5 away games,80%,False,4.0
+Cory Joseph,BOS,Over 0.5 3PTM,-200,Hit in 12 of his last 15 games,80%,True,1.0
+Jonathan Isaac,BOS,Over 10.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%,False,0.0
+Jonathan Isaac,BOS,Under 4.5 Rebounds,-105,Hit in 4 of his last 5 games vs BOS,80%,True,1.0
+Ty Jerome,MIA,Over 1.5 3PTM,-136,Hit in 4 of his last 5 games vs MIA,80%,False,1.0
+Jarrett Allen,MIA,Under 22.5 PTS+REB,-112,Hit in 4 of his last 5 games vs MIA,80%,True,17.0
+Jarrett Allen,MIA,Under 10.5 Rebounds,-114,Hit in 4 of his last 5 games vs MIA,80%,True,8.0
+Jarrett Allen,MIA,Under 24.5 PTS+AST+REB,-110,Hit in 4 of his last 5 games,80%,True,10.0
+Davion Mitchell,MIA,Over 9.5 REB+AST,-138,Hit in 4 of his last 5 games,80%,False,7.0
+Davion Mitchell,MIA,Over 31.5 PTS+REB,-106,Hit in 4 of his last 5 home games,80%,False,23.0
+Davion Mitchell,MIA,Over 4.5 Assists,-158,Hit in 4 of his last 5 games,80%,True,6.0
+Davion Mitchell,MIA,Over 4.5 Assists,-158,Hit in 4 of his last 5 games vs MIA,80%,True,6.0
+Davion Mitchell,MIA,Over 36.5 PTS+AST+REB,-110,Hit in 4 of his last 5 home games,80%,False,28.0
+Davion Mitchell,MIA,Under 26.5 Points,-128,Hit in 12 of his last 15 games,80%,True,22.0
+Isaac Okoro,MIA,Over 0.5 Assists,105,Hit in 4 of his last 5 games,80%,False,0.0
+Isaac Okoro,MIA,Over 2.5 Points,-130,Hit in 16 of his last 20 games,80%,True,5.0
+Max Strus,MIA,Over 2.5 Assists,108,Hit in 4 of his last 5 games,80%,True,6.0
+De'Andre Hunter,MIA,Over 12.5 PTS+REB,-114,Hit in 8 of his last 10 games vs MIA,80%,True,19.0
+De'Andre Hunter,MIA,Over 1.5 3PTM,142,Hit in 4 of his last 5 home games,80%,True,2.0
+De'Andre Hunter,MIA,Over 9.5 Points,-102,Hit in 8 of his last 10 games vs MIA,80%,True,16.0
+De'Andre Hunter,MIA,Over 0.5 Assists,-225,Hit in 4 of his last 5 games,80%,False,0.0
+Davion Mitchell,CLE,Over 17.5 PTS+AST,-118,Hit in 8 of his last 10 games,80%,True,28.0
+Davion Mitchell,CLE,Over 13.5 PTS+REB,-132,Hit in 12 of his last 15 games,80%,True,23.0
+Davion Mitchell,CLE,Over 20.5 PTS+AST+REB,-114,Hit in 8 of his last 10 games,80%,True,28.0
+Haywood Highsmith,CLE,Over 11.5 PTS+REB,-104,Hit in 4 of his last 5 games vs CLE,80%,True,29.0
+Haywood Highsmith,CLE,Over 4.5 Rebounds,-130,Hit in 4 of his last 5 away games,80%,False,2.0
+Haywood Highsmith,CLE,Over 6.5 Points,-102,Hit in 4 of his last 5 games,80%,True,27.0
+Haywood Highsmith,CLE,Over 6.5 Points,-102,Hit in 4 of his last 5 games vs CLE,80%,True,27.0
+Kel'el Ware,CLE,Over 6.5 Rebounds,-114,Hit in 4 of his last 5 away games,80%,False,4.0
+Fred VanVleet,GSW,Under 21.5 PTS+AST+REB,-102,Hit in 4 of his last 5 games vs GSW,80%,True,11.0
+Fred VanVleet,GSW,Under 1.5 Steals,-158,Hit in 4 of his last 5 games,80%,False,3.0
+Fred VanVleet,GSW,Under 1.5 Steals,-158,Hit in 4 of his last 5 games vs GSW,80%,False,3.0
+Dillon Brooks,GSW,Over 1.5 3PTM,-188,Hit in 8 of his last 10 games vs GSW,80%,True,2.0
+Amen Thompson,GSW,Over 12.5 REB+AST,-102,Hit in 12 of his last 15 home games,80%,False,4.0
+Amen Thompson,GSW,Under 17.5 PTS+AST,-114,Hit in 4 of his last 5 games vs GSW,80%,True,14.0
+Amen Thompson,GSW,Under 21.5 PTS+REB,-130,Hit in 4 of his last 5 games,80%,True,12.0
+Amen Thompson,GSW,Under 25.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games vs GSW,80%,True,14.0
+Amen Thompson,GSW,Over 7.5 Rebounds,-128,Hit in 12 of his last 15 home games,80%,False,1.0
+Amen Thompson,GSW,Under 1.5 Steals,-154,Hit in 4 of his last 5 games,80%,True,0.0
+Amen Thompson,GSW,Under 0.5 3PTM,-275,Hit in 4 of his last 5 games,80%,True,0.0
+Tari Eason,GSW,Under 8.5 Points,-118,Hit in 4 of his last 5 games,80%,False,18.0
+Buddy Hield,HOU,Over 8.5 PTS+AST+REB,-110,Hit in 8 of his last 10 games vs HOU,80%,False,8.0
+Buddy Hield,HOU,Over 1.5 Rebounds,-175,Hit in 8 of his last 10 games vs HOU,80%,True,4.0
+Brandin Podziemski,HOU,Over 18.5 PTS+REB,-125,Hit in 4 of his last 5 games vs HOU,80%,False,0.0
+Brandin Podziemski,HOU,Under 2.5 3PTM,-182,Hit in 4 of his last 5 games,80%,True,0.0
+Brandin Podziemski,HOU,Under 0.5 Blocks,-350,Hit in 4 of his last 5 games vs HOU,80%,True,0.0
+Moses Moody,HOU,Under 11.5 PTS+REB,-118,Hit in 8 of his last 10 games vs HOU,80%,False,20.0
+Davion Mitchell,MIA,Under 0.5 Blocks,-350,Hit in 15 of his last 19 games,79%,True,0.0
+Jrue Holiday,ORL,Under 1.5 Steals,-168,Hit in 7 of his last 9 games,78%,True,0.0
+Anthony Black,BOS,Over 11.5 PTS+AST+REB,-105,Hit in 7 of his last 9 away games,78%,False,11.0
+Paolo Banchero,BOS,Under 0.5 Blocks,-175,Hit in 7 of his last 9 games vs BOS,78%,False,2.0
+Franz Wagner,BOS,Under 0.5 Blocks,-210,Hit in 14 of his last 18 games,78%,True,0.0
+Franz Wagner,BOS,Under 0.5 Blocks,-210,Hit in 7 of his last 9 games vs BOS,78%,True,0.0
+Ty Jerome,MIA,Over 14.5 PTS+AST,-122,Hit in 7 of his last 9 home games,78%,False,8.0
+Ty Jerome,MIA,Over 1.5 3PTM,-136,Hit in 7 of his last 9 home games,78%,False,1.0
+Darius Garland,MIA,Over 9.5 REB+AST,100,Hit in 7 of his last 9 home games,78%,True,11.0
+Isaac Okoro,MIA,Over 0.5 Assists,105,Hit in 7 of his last 9 games vs MIA,78%,False,0.0
+Max Strus,MIA,Over 10.5 PTS+AST,102,Hit in 14 of his last 18 home games,78%,True,28.0
+Isaac Okoro,MIA,Over 4.5 PTS+AST+REB,-135,Hit in 7 of his last 9 games vs MIA,78%,True,5.0
+Isaac Okoro,MIA,Over 2.5 Points,-130,Hit in 10 of his last 13 home games,77%,True,5.0
+Kel'el Ware,CLE,Over 6.5 Rebounds,-114,Hit in 13 of his last 17 games,76%,False,4.0
+Tari Eason,GSW,Over 13.5 PTS+REB,-114,Hit in 13 of his last 17 home games,76%,True,24.0
+Payton Pritchard,ORL,Under 7.5 REB+AST,-146,Hit in 3 of his last 4 games vs ORL,75%,True,3.0
+Jrue Holiday,ORL,Over 4.5 Rebounds,-136,Hit in 3 of his last 4 games vs ORL,75%,False,4.0
+Jrue Holiday,ORL,Over 1.5 3PTM,-112,Hit in 6 of his last 8 games,75%,False,0.0
+Al Horford,ORL,Under 2.5 Assists,-160,Hit in 3 of his last 4 games vs ORL,75%,True,1.0
+Sam Hauser,ORL,Over 0.5 Assists,-145,Hit in 3 of his last 4 games vs ORL,75%,False,0.0
+Sam Hauser,ORL,Over 1.5 3PTM,-150,Hit in 3 of his last 4 home games,75%,False,0.0
+Sam Hauser,ORL,Over 6.5 Points,100,Hit in 3 of his last 4 home games,75%,False,0.0
+Anthony Black,BOS,Over 9.5 PTS+REB,-102,Hit in 3 of his last 4 games vs BOS,75%,True,15.0
+Anthony Black,BOS,Over 6.5 Points,-106,Hit in 12 of his last 16 games,75%,True,11.0
+Anthony Black,BOS,Over 11.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games vs BOS,75%,False,11.0
+Paolo Banchero,BOS,Under 4.5 Assists,-144,Hit in 3 of his last 4 games vs BOS,75%,False,7.0
+Paolo Banchero,BOS,Over 8.5 Rebounds,-130,Hit in 6 of his last 8 away games,75%,True,9.0
+Franz Wagner,BOS,Under 10.5 REB+AST,-132,Hit in 3 of his last 4 games vs BOS,75%,True,8.0
+Franz Wagner,BOS,Under 28.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%,False,31.0
+Franz Wagner,BOS,Under 6.5 Rebounds,-166,Hit in 6 of his last 8 games,75%,True,4.0
+Cory Joseph,BOS,Under 3.5 Points,-114,Hit in 3 of his last 4 games,75%,False,9.0
+Cory Joseph,BOS,Under 3.5 REB+AST,-105,Hit in 3 of his last 4 games vs BOS,75%,False,4.0
+Cory Joseph,BOS,Under 6.5 PTS+REB,-135,Hit in 3 of his last 4 games,75%,False,10.0
+Jonathan Isaac,BOS,Over 0.5 Assists,115,Hit in 3 of his last 4 away games,75%,False,0.0
+Kentavious Caldwell-Pope,BOS,Under 1.5 3PTM,-158,Hit in 3 of his last 4 games,75%,True,0.0
+Kentavious Caldwell-Pope,BOS,Over 1.5 Assists,-120,Hit in 3 of his last 4 away games,75%,False,0.0
+Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-350,Hit in 6 of his last 8 games vs BOS,75%,True,0.0
+Cory Joseph,BOS,Under 8.5 PTS+AST+REB,-135,Hit in 3 of his last 4 games,75%,False,12.0
+Ty Jerome,MIA,Over 5.5 REB+AST,-120,Hit in 6 of his last 8 games,75%,False,3.0
+Ty Jerome,MIA,Over 14.5 PTS+AST,-122,Hit in 3 of his last 4 games vs MIA,75%,False,8.0
+Ty Jerome,MIA,Over 2.5 Assists,-136,Hit in 3 of his last 4 games vs MIA,75%,False,0.0
+Ty Jerome,MIA,Over 2.5 Rebounds,-140,Hit in 6 of his last 8 home games,75%,True,3.0
+Sam Merrill,MIA,Over 1.5 Assists,-105,Hit in 3 of his last 4 games vs MIA,75%,False,1.0
+Jarrett Allen,MIA,Under 10.5 Rebounds,-114,Hit in 12 of his last 16 games,75%,True,8.0
+Jarrett Allen,MIA,Under 1.5 Assists,-110,Hit in 3 of his last 4 games,75%,True,1.0
+Jarrett Allen,MIA,Under 0.5 Blocks,110,Hit in 3 of his last 4 games,75%,False,1.0
+Jarrett Allen,MIA,Under 0.5 Blocks,110,Hit in 6 of his last 8 games vs MIA,75%,False,1.0
+Davion Mitchell,MIA,Over 31.5 PTS+AST,-108,Hit in 3 of his last 4 games,75%,False,28.0
+Davion Mitchell,MIA,Over 1.5 Steals,162,Hit in 3 of his last 4 home games,75%,False,1.0
+Darius Garland,MIA,Under 6.5 Assists,-166,Hit in 3 of his last 4 games vs MIA,75%,False,9.0
+Isaac Okoro,MIA,Over 0.5 Assists,105,Hit in 3 of his last 4 home games,75%,False,0.0
+Max Strus,MIA,Over 11.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%,True,23.0
+Max Strus,MIA,Over 2.5 Assists,108,Hit in 9 of his last 12 home games,75%,True,6.0
+Max Strus,MIA,Over 3.5 Rebounds,-144,Hit in 6 of his last 8 home games,75%,False,1.0
+De'Andre Hunter,MIA,Over 0.5 Assists,-225,Hit in 6 of his last 8 home games,75%,False,0.0
+Davion Mitchell,CLE,Over 6.5 Assists,100,Hit in 3 of his last 4 games,75%,False,6.0
+Bam Adebayo,CLE,Over 13.5 REB+AST,-112,Hit in 3 of his last 4 games,75%,True,23.0
+Bam Adebayo,CLE,Over 13.5 REB+AST,-112,Hit in 3 of his last 4 away games,75%,True,23.0
+Bam Adebayo,CLE,Over 32.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games,75%,False,22.0
+Bam Adebayo,CLE,Over 32.5 PTS+AST+REB,-118,Hit in 3 of his last 4 away games,75%,False,22.0
+Bam Adebayo,CLE,Over 9.5 Rebounds,-130,Hit in 3 of his last 4 games,75%,True,14.0
+Bam Adebayo,CLE,Over 9.5 Rebounds,-130,Hit in 3 of his last 4 away games,75%,True,14.0
+Bam Adebayo,CLE,Over 0.5 Double Double,-115,Hit in 3 of his last 4 games,75%,True,1.0
+Bam Adebayo,CLE,Over 0.5 Blocks,-155,Hit in 3 of his last 4 games vs CLE,75%,False,0.0
+Tyler Herro,CLE,Over 28.5 PTS+AST,-112,Hit in 6 of his last 8 away games,75%,True,46.0
+Tyler Herro,CLE,Over 28.5 PTS+REB,-110,Hit in 6 of his last 8 away games,75%,True,47.0
+Tyler Herro,CLE,Over 33.5 PTS+AST+REB,-108,Hit in 6 of his last 8 away games,75%,True,46.0
+Tyler Herro,CLE,Over 23.5 Points,-114,Hit in 6 of his last 8 away games,75%,True,41.0
+Haywood Highsmith,CLE,Under 1.5 3PTM,-245,Hit in 3 of his last 4 games vs CLE,75%,False,5.0
+Haywood Highsmith,CLE,Over 6.5 Points,-102,Hit in 3 of his last 4 away games,75%,True,27.0
+Kel'el Ware,CLE,Over 6.5 Points,-114,Hit in 12 of his last 16 away games,75%,True,9.0
+Max Strus,MIA,Over 10.5 PTS+AST,102,Hit in 3 of his last 4 games,75%,True,28.0
+Max Strus,MIA,Over 10.5 PTS+AST,102,Hit in 3 of his last 4 games vs MIA,75%,True,28.0
+Max Strus,MIA,Over 14.5 PTS+AST+REB,102,Hit in 3 of his last 4 games,75%,True,28.0
+Max Strus,MIA,Over 14.5 PTS+AST+REB,102,Hit in 3 of his last 4 games vs MIA,75%,True,28.0
+Dillon Brooks,GSW,Over 4.5 REB+AST,-118,Hit in 9 of his last 12 games vs GSW,75%,False,4.0
+Dillon Brooks,GSW,Under 13.5 PTS+AST,-108,Hit in 3 of his last 4 games vs GSW,75%,False,21.0
+Dillon Brooks,GSW,Under 15.5 PTS+REB,-125,Hit in 3 of his last 4 games vs GSW,75%,False,23.0
+Dillon Brooks,GSW,Under 16.5 PTS+AST+REB,-106,Hit in 3 of his last 4 games vs GSW,75%,False,21.0
+Dillon Brooks,GSW,Under 12.5 Points,-130,Hit in 3 of his last 4 games vs GSW,75%,False,20.0
+Amen Thompson,GSW,Over 7.5 Rebounds,-128,Hit in 15 of his last 20 games,75%,False,1.0
+Amen Thompson,GSW,Over 13.5 Points,102,Hit in 3 of his last 4 games,75%,False,11.0
+Amen Thompson,GSW,Over 1.5 Blocks,148,Hit in 3 of his last 4 games vs GSW,75%,False,0.0
+Tari Eason,GSW,Over 13.5 PTS+REB,-114,Hit in 15 of his last 20 games,75%,True,24.0
+Tari Eason,GSW,Over 4.5 Rebounds,-138,Hit in 6 of his last 8 games vs GSW,75%,True,6.0
+Tari Eason,GSW,Under 0.5 3PTM,120,Hit in 3 of his last 4 games,75%,False,2.0
+Buddy Hield,HOU,Under 0.5 Assists,115,Hit in 3 of his last 4 games,75%,False,1.0
+Buddy Hield,HOU,Under 0.5 Assists,115,Hit in 3 of his last 4 games vs HOU,75%,False,1.0
+Buddy Hield,HOU,Over 8.5 PTS+AST+REB,-110,Hit in 6 of his last 8 away games,75%,False,8.0
+Buddy Hield,HOU,Over 5.5 Points,-110,Hit in 6 of his last 8 away games,75%,True,7.0
+Brandin Podziemski,HOU,Over 9.5 REB+AST,-112,Hit in 3 of his last 4 games,75%,False,0.0
+Brandin Podziemski,HOU,Over 9.5 REB+AST,-112,Hit in 3 of his last 4 away games,75%,False,0.0
+Brandin Podziemski,HOU,Over 16.5 PTS+AST,-118,Hit in 3 of his last 4 away games,75%,False,0.0
+Brandin Podziemski,HOU,Over 18.5 PTS+REB,-125,Hit in 3 of his last 4 away games,75%,False,0.0
+Brandin Podziemski,HOU,Over 22.5 PTS+AST+REB,-118,Hit in 3 of his last 4 away games,75%,False,0.0
+Brandin Podziemski,HOU,Over 5.5 Rebounds,-132,Hit in 3 of his last 4 away games,75%,False,0.0
+Brandin Podziemski,HOU,Over 5.5 Rebounds,-132,Hit in 3 of his last 4 games,75%,False,0.0
+Brandin Podziemski,HOU,Under 2.5 3PTM,-182,Hit in 6 of his last 8 games vs HOU,75%,True,0.0
+Brandin Podziemski,HOU,Over 12.5 Points,-128,Hit in 3 of his last 4 away games,75%,False,0.0
+Moses Moody,HOU,Under 11.5 PTS+REB,-118,Hit in 6 of his last 8 games,75%,False,20.0
+Moses Moody,HOU,Under 2.5 Rebounds,106,Hit in 3 of his last 4 games,75%,True,2.0
+Moses Moody,HOU,Under 8.5 Points,-114,Hit in 6 of his last 8 games,75%,False,18.0
+Moses Moody,HOU,Under 8.5 Points,-114,Hit in 3 of his last 4 games vs HOU,75%,False,18.0
+Moses Moody,HOU,Under 9.5 PTS+AST,-105,Hit in 6 of his last 8 games,75%,False,19.0
+Moses Moody,HOU,Under 9.5 PTS+AST,-105,Hit in 3 of his last 4 games vs HOU,75%,False,19.0
+Payton Pritchard,ORL,Under 3.5 Assists,-136,ORL rank 5th in AST versus PG,5th,True,0.0
+Payton Pritchard,ORL,Under 3.5 Rebounds,-114,ORL rank 5th in REB versus PG,5th,True,3.0
+Payton Pritchard,ORL,Under 2.5 3PTM,-118,ORL rank 4th in 3PTM versus PG,4th,False,3.0
+Jrue Holiday,ORL,Under 4.5 Assists,-108,ORL rank 5th in AST versus PG,5th,False,6.0
+Jrue Holiday,ORL,Under 10.5 Points,-108,ORL rank 1st in PTS against,1st,False,11.0
+Jrue Holiday,ORL,Under 0.5 Blocks,-285,ORL rank 3rd in BLK versus PG,3rd,False,1.0
+Al Horford,ORL,Under 7.5 Rebounds,102,ORL rank 4th in REB versus C,4th,False,10.0
+Al Horford,ORL,Under 9.5 Points,-140,ORL rank 1st in PTS against,1st,False,11.0
+Al Horford,ORL,Under 2.5 Assists,-160,ORL rank 2nd in AST versus C,2nd,True,1.0
+Al Horford,ORL,Under 1.5 3PTM,100,ORL rank 1st in 3PTM against,1st,True,1.0
+Sam Hauser,ORL,Under 3.5 Rebounds,-160,ORL rank 3rd in REB against,3rd,True,1.0
+Anthony Black,BOS,Over 2.5 Rebounds,-140,BOS rank 28th in REB versus PG,28th,True,4.0
+Anthony Black,BOS,Over 6.5 Points,-106,BOS rank 28th in PTS versus PG,28th,True,11.0
+Paolo Banchero,BOS,Under 4.5 Assists,-144,BOS rank 3rd in AST against,3rd,False,7.0
+Paolo Banchero,BOS,Under 0.5 Blocks,-175,BOS rank 3rd in BLK versus PF,3rd,False,2.0
+Franz Wagner,BOS,Under 0.5 Blocks,-210,BOS rank 4th in BLK versus SF,4th,True,0.0
+Kentavious Caldwell-Pope,BOS,Under 1.5 3PTM,-158,BOS rank 2nd in 3PTM versus SG,2nd,True,0.0
+Kentavious Caldwell-Pope,BOS,Under 7.5 Points,-125,BOS rank 1st in PTS versus SG,1st,True,3.0
+Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-350,BOS rank 4th in BLK versus SG,4th,True,0.0
+Davion Mitchell,MIA,Under 3.5 3PTM,-144,MIA rank 3rd in 3PTM versus SG,3rd,True,2.0
+Davion Mitchell,MIA,Under 26.5 Points,-128,MIA rank 2nd in PTS versus SG,2nd,True,22.0
+Darius Garland,MIA,Over 2.5 3PTM,-138,MIA rank 30th in 3PTM versus PG,30th,False,2.0
+Davion Mitchell,CLE,Under 2.5 Rebounds,104,CLE rank 2nd in REB versus PG,2nd,True,1.0
+Tyler Herro,CLE,Under 4.5 Assists,-106,CLE rank 4th in AST versus SG,4th,False,5.0
+Tyler Herro,CLE,Under 0.5 Blocks,-375,CLE rank 5th in BLK versus SG,5th,True,0.0
+Fred VanVleet,GSW,Under 2.5 3PTM,106,GSW rank 2nd in 3PTM versus PG,2nd,True,1.0
+Fred VanVleet,GSW,Under 13.5 Points,-102,GSW rank 1st in PTS versus PG,1st,True,9.0
+Amen Thompson,GSW,Under 1.5 Steals,-154,GSW rank 2nd in STL versus SF,2nd,True,0.0
+Buddy Hield,HOU,Under 0.5 Assists,115,HOU rank 5th in AST versus SG,5th,False,1.0
+Buddy Hield,HOU,Under 1.5 3PTM,-190,HOU rank 2nd in 3PTM against,2nd,True,1.0
+Brandin Podziemski,HOU,Under 2.5 3PTM,-182,HOU rank 2nd in 3PTM against,2nd,True,0.0
+Moses Moody,HOU,Under 2.5 Rebounds,106,HOU rank 4th in REB against,4th,True,2.0
+Moses Moody,HOU,Under 1.5 3PTM,-154,HOU rank 2nd in 3PTM against,2nd,False,3.0
+Moses Moody,HOU,Under 1.5 Assists,-165,HOU rank 5th in AST versus SG,5th,True,1.0
