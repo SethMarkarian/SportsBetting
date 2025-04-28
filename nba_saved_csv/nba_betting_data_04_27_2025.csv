@@ -1,696 +1,567 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Amen Thompson,NYK,Under 11.5 PTS+AST,-130,Hit in 4 of his last 4 games vs NYK,100%
-Amen Thompson,NYK,Under 0.5 Blocks,-140,Hit in 4 of his last 4 games,100%
-Cade Cunningham,NYK,Over 0.5 Double Double,-145,Hit in 4 of his last 4 games,100%
-Terrel Harris,NYK,Under 1.5 Assists,120,Hit in 4 of his last 4 games,100%
-Terrel Harris,NYK,Under 1.5 Steals,-270,Hit in 4 of his last 4 games vs NYK,100%
-Miles McBride,DET,Over 0.5 3PTM,-145,Hit in 9 of his last 9 away games,100%
-OG Anunoby,DET,Over 19.5 PTS+AST,-102,Hit in 5 of his last 5 away games,100%
-OG Anunoby,DET,Over 22.5 PTS+REB,-106,Hit in 5 of his last 5 away games,100%
-OG Anunoby,DET,Over 17.5 Points,-104,Hit in 5 of his last 5 away games,100%
-OG Anunoby,DET,Over 1.5 Steals,-146,Hit in 5 of his last 5 games,100%
-Karl-Anthony Towns,DET,Over 25.5 PTS+AST,-125,Hit in 4 of his last 4 away games,100%
-Karl-Anthony Towns,DET,Over 34.5 PTS+REB,-106,Hit in 4 of his last 4 away games,100%
-Karl-Anthony Towns,DET,Under 11.5 Rebounds,-125,Hit in 4 of his last 4 games,100%
-Karl-Anthony Towns,DET,Under 11.5 Rebounds,-125,Hit in 4 of his last 4 games vs DET,100%
-Karl-Anthony Towns,DET,Over 22.5 Points,-120,Hit in 4 of his last 4 away games,100%
-Jason Hart,DET,Under 20.5 PTS+REB,-128,Hit in 4 of his last 4 games,100%
-Jason Hart,DET,Over 25.5 PTS+AST+REB,-125,Hit in 4 of his last 4 away games,100%
-Jason Hart,DET,Over 1.5 Steals,126,Hit in 4 of his last 4 away games,100%
-R. Holland,NYK,Under 0.5 Assists,-185,Hit in 4 of his last 4 games vs NYK,100%
-R. Holland,NYK,Over 1.5 Rebounds,115,Hit in 4 of his last 4 home games,100%
-Karl-Anthony Towns,DET,Over 37.5 PTS+AST+REB,-106,Hit in 4 of his last 4 away games,100%
-Julius Randle,LAL,Under 11.5 REB+AST,102,Hit in 5 of his last 5 games vs LAL,100%
-Julius Randle,LAL,Under 6.5 Rebounds,118,Hit in 5 of his last 5 games vs LAL,100%
-Donte DiVincenzo,LAL,Under 10.5 Points,-128,Hit in 5 of his last 5 games vs LAL,100%
-Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-225,Hit in 6 of his last 6 home games,100%
-Rudy Gobert,LAL,Over 0.5 Blocks,-200,Hit in 5 of his last 5 home games,100%
-Anthony Edwards,LAL,Over 0.5 Blocks,100,Hit in 4 of his last 4 home games,100%
-LeBron James,MIN,Over 0.5 Blocks,-175,Hit in 4 of his last 4 games vs MIN,100%
-Rui Hachimura,MIN,Under 16.5 PTS+REB,-102,Hit in 6 of his last 6 games vs MIN,100%
-Rui Hachimura,MIN,Under 5.5 Rebounds,-136,Hit in 5 of his last 5 games,100%
-Rui Hachimura,MIN,Under 5.5 Rebounds,-136,Hit in 4 of his last 4 games vs MIN,100%
-Rui Hachimura,MIN,Over 1.5 3PTM,-125,Hit in 5 of his last 5 away games,100%
-Rui Hachimura,MIN,Under 11.5 Points,-122,Hit in 6 of his last 6 games vs MIN,100%
-Rui Hachimura,MIN,Under 12.5 PTS+AST,-125,Hit in 6 of his last 6 games vs MIN,100%
-Rui Hachimura,MIN,Under 17.5 PTS+AST+REB,-115,Hit in 4 of his last 4 games vs MIN,100%
-Dorian Finney-Smith,MIN,Over 1.5 Assists,165,Hit in 4 of his last 4 away games,100%
-Anthony Black,BOS,Over 10.5 PTS+AST+REB,-110,Hit in 10 of his last 10 home games,100%
-Paolo Banchero,BOS,Over 1.5 3PTM,-166,Hit in 4 of his last 4 games vs BOS,100%
-Cory Joseph,BOS,Under 4.5 REB+AST,102,Hit in 9 of his last 9 games vs BOS,100%
-Cory Joseph,BOS,Under 4.5 REB+AST,102,Hit in 4 of his last 4 games,100%
-Franz Wagner,BOS,Over 5.5 Rebounds,-158,Hit in 4 of his last 4 home games,100%
-Franz Wagner,BOS,Over 1.5 Steals,148,Hit in 5 of his last 5 home games,100%
-Jonathan Isaac,BOS,Under 3.5 Rebounds,115,Hit in 4 of his last 4 games vs BOS,100%
-Kentavious Caldwell-Pope,BOS,Under 10.5 PTS+REB,-136,Hit in 6 of his last 6 games,100%
-Kentavious Caldwell-Pope,BOS,Under 10.5 PTS+REB,-136,Hit in 5 of his last 5 games vs BOS,100%
-Kentavious Caldwell-Pope,BOS,Under 7.5 Points,-128,Hit in 6 of his last 6 games,100%
-Kentavious Caldwell-Pope,BOS,Under 7.5 Points,-128,Hit in 5 of his last 5 games vs BOS,100%
-Kentavious Caldwell-Pope,BOS,Under 8.5 PTS+AST,-110,Hit in 6 of his last 6 games,100%
-Kentavious Caldwell-Pope,BOS,Under 8.5 PTS+AST,-110,Hit in 5 of his last 5 games vs BOS,100%
-Jayson Tatum,ORL,Over 34.5 PTS+REB,-128,Hit in 4 of his last 4 away games,100%
-Jayson Tatum,ORL,Under 5.5 Assists,-112,Hit in 6 of his last 6 games vs ORL,100%
-Jayson Tatum,ORL,Over 0.5 Blocks,-120,Hit in 4 of his last 4 games vs ORL,100%
-Jayson Tatum,ORL,Over 0.5 Blocks,-120,Hit in 4 of his last 4 away games,100%
-DJ White,ORL,Over 19.5 PTS+AST,-114,Hit in 6 of his last 6 games,100%
-DJ White,ORL,Over 4.5 Assists,-110,Hit in 7 of his last 7 away games,100%
-DJ White,ORL,Over 14.5 Points,-125,Hit in 4 of his last 4 games,100%
-DJ White,ORL,Over 0.5 Steals,-225,Hit in 6 of his last 6 games,100%
-Al Horford,ORL,Under 10.5 PTS+AST,-125,Hit in 10 of his last 10 games vs ORL,100%
-Al Horford,ORL,Over 1.5 3PTM,108,Hit in 4 of his last 4 away games,100%
-Jabari Brown,ORL,Over 0.5 Steals,-188,Hit in 6 of his last 6 games vs ORL,100%
-Jayson Tatum,ORL,Over 40.5 PTS+AST+REB,-118,Hit in 4 of his last 4 away games,100%
-A.C. Green,IND,Over 2.5 Rebounds,-118,Hit in 4 of his last 4 home games,100%
-Giannis Antetokounmpo,IND,Over 33.5 Points,-118,Hit in 4 of his last 4 games vs IND,100%
-Giannis Antetokounmpo,IND,Under 0.5 3PTM,-350,Hit in 4 of his last 4 games,100%
-Giannis Antetokounmpo,IND,Under 0.5 3PTM,-350,Hit in 7 of his last 7 games vs IND,100%
-Brook Lopez,IND,Over 0.5 Assists,-190,Hit in 6 of his last 6 home games,100%
-Damian Lillard,IND,Under 25.5 PTS+AST,-114,Hit in 4 of his last 4 games,100%
-Damian Lillard,IND,Under 22.5 PTS+REB,-102,Hit in 4 of his last 4 games,100%
-Damian Lillard,IND,Under 29.5 PTS+AST+REB,-118,Hit in 4 of his last 4 games,100%
-Damian Lillard,IND,Under 3.5 Rebounds,100,Hit in 4 of his last 4 games,100%
-Damian Lillard,IND,Under 2.5 3PTM,-104,Hit in 4 of his last 4 games,100%
-Damian Lillard,IND,Under 19.5 Points,-128,Hit in 4 of his last 4 games,100%
-Kyle Kuzma,IND,Under 3.5 Rebounds,102,Hit in 6 of his last 6 games,100%
-Kyle Kuzma,IND,Under 1.5 3PTM,-245,Hit in 7 of his last 7 games vs IND,100%
-Kyle Kuzma,IND,Under 5.5 REB+AST,-118,Hit in 7 of his last 7 games,100%
-Tyrese Haliburton,MIL,Over 15.5 REB+AST,-102,Hit in 4 of his last 4 games,100%
-Tyrese Haliburton,MIL,Over 15.5 REB+AST,-102,Hit in 4 of his last 4 games vs MIL,100%
-Tyrese Haliburton,MIL,Over 4.5 Rebounds,-106,Hit in 4 of his last 4 games,100%
-Tyrese Haliburton,MIL,Over 4.5 Rebounds,-106,Hit in 4 of his last 4 games vs MIL,100%
-Tyrese Haliburton,MIL,Over 0.5 Double Double,-155,Hit in 4 of his last 4 games,100%
-Tyrese Haliburton,MIL,Over 0.5 Double Double,-155,Hit in 5 of his last 5 games vs MIL,100%
-Myles Turner,MIL,Under 5.5 Rebounds,116,Hit in 4 of his last 4 games,100%
-Myles Turner,MIL,Under 5.5 Rebounds,116,Hit in 4 of his last 4 games vs MIL,100%
-Myles Turner,MIL,Under 7.5 REB+AST,-130,Hit in 4 of his last 4 games,100%
-Myles Turner,MIL,Under 7.5 REB+AST,-130,Hit in 4 of his last 4 games vs MIL,100%
-Pascal Siakam,MIL,Over 23.5 PTS+AST,-122,Hit in 7 of his last 7 games vs MIL,100%
-Pascal Siakam,MIL,Over 28.5 PTS+REB,-114,Hit in 5 of his last 5 games vs MIL,100%
-Pascal Siakam,MIL,Over 31.5 PTS+AST+REB,-106,Hit in 5 of his last 5 games vs MIL,100%
-Pascal Siakam,MIL,Over 1.5 3PTM,-118,Hit in 6 of his last 6 games vs MIL,100%
-Pascal Siakam,MIL,Over 21.5 Points,-106,Hit in 5 of his last 5 games vs MIL,100%
-Bennedict Mathurin,MIL,Under 1.5 Assists,-220,Hit in 5 of his last 5 games vs MIL,100%
-Obi Toppin,MIL,Under 3.5 Rebounds,-154,Hit in 4 of his last 4 games,100%
-Obi Toppin,MIL,Under 3.5 Rebounds,-154,Hit in 6 of his last 6 games vs MIL,100%
-Obi Toppin,MIL,Under 1.5 3PTM,-270,Hit in 6 of his last 6 games,100%
-Obi Toppin,MIL,Under 1.5 Assists,-220,Hit in 4 of his last 4 games,100%
-R. Holland,NYK,Over 2.5 Points,110,Hit in 19 of his last 20 home games,95%
-Nickeil Alexander-Walker,LAL,Over 10.5 PTS+AST+REB,-110,Hit in 15 of his last 16 home games,94%
-Jarvis Hayes,MIN,Over 5.5 PTS+AST+REB,-110,Hit in 15 of his last 16 away games,94%
-Jarvis Hayes,MIN,Over 5.5 PTS+REB,105,Hit in 15 of his last 16 away games,94%
-Andrew Nembhard,MIL,Under 1.5 3PTM,-250,Hit in 15 of his last 16 games,94%
-Miles McBride,DET,Over 0.5 3PTM,-145,Hit in 14 of his last 15 games,93%
-Mikal Bridges,DET,Over 2.5 Assists,-162,Hit in 14 of his last 15 away games,93%
-Anthony Edwards,LAL,Under 34.5 PTS+REB,-118,Hit in 14 of his last 15 games vs LAL,93%
-Anthony Edwards,LAL,Under 39.5 PTS+AST+REB,-108,Hit in 14 of his last 15 games vs LAL,93%
-Jarvis Hayes,MIN,Over 2.5 REB+AST,-105,Hit in 14 of his last 15 away games,93%
-Brook Lopez,IND,Over 6.5 Points,100,Hit in 14 of his last 15 games vs IND,93%
-Brook Lopez,IND,Over 7.5 PTS+AST,-105,Hit in 14 of his last 15 games vs IND,93%
-Nickeil Alexander-Walker,LAL,Over 5.5 Points,-115,Hit in 13 of his last 14 home games,93%
-Miles McBride,DET,Over 1.5 Assists,130,Hit in 12 of his last 13 away games,92%
-Damian Lillard,IND,Under 0.5 Blocks,-400,Hit in 12 of his last 13 games vs IND,92%
-Miles McBride,DET,Over 6.5 PTS+AST+REB,-120,Hit in 11 of his last 12 away games,92%
-DJ White,ORL,Over 0.5 Steals,-225,Hit in 11 of his last 12 games vs ORL,92%
-LeBron James,MIN,Under 14.5 REB+AST,-128,Hit in 10 of his last 11 games,91%
-Franz Wagner,BOS,Under 34.5 PTS+AST+REB,-112,Hit in 10 of his last 11 games vs BOS,91%
-Franz Wagner,BOS,Under 2.5 3PTM,-182,Hit in 10 of his last 11 games vs BOS,91%
-DJ White,ORL,Over 19.5 PTS+REB,-114,Hit in 10 of his last 11 games,91%
-Miles McBride,DET,Over 6.5 PTS+AST+REB,-120,Hit in 18 of his last 20 games,90%
-Anthony Black,BOS,Over 1.5 Assists,-110,Hit in 9 of his last 10 home games,90%
-Anthony Black,BOS,Over 6.5 Points,-102,Hit in 9 of his last 10 home games,90%
-Al Horford,ORL,Under 8.5 Points,-128,Hit in 9 of his last 10 games vs ORL,90%
-Jabari Brown,ORL,Under 0.5 Blocks,-250,Hit in 9 of his last 10 games,90%
-Damian Lillard,IND,Under 0.5 Blocks,-400,Hit in 18 of his last 20 games,90%
-Obi Toppin,MIL,Over 10.5 PTS+REB,-122,Hit in 9 of his last 10 away games,90%
-Obi Toppin,MIL,Over 7.5 Points,-108,Hit in 9 of his last 10 away games,90%
-Obi Toppin,MIL,Over 11.5 PTS+AST+REB,-130,Hit in 9 of his last 10 away games,90%
-Donte DiVincenzo,LAL,Over 13.5 PTS+REB,-132,Hit in 17 of his last 19 home games,89%
-Donte DiVincenzo,LAL,Over 17.5 PTS+AST+REB,-114,Hit in 17 of his last 19 home games,89%
-Anthony Black,BOS,Over 10.5 PTS+AST+REB,-110,Hit in 17 of his last 19 games,89%
-Cory Joseph,BOS,Over 6.5 PTS+AST,-138,Hit in 17 of his last 19 games,89%
-Miles McBride,DET,Over 3.5 Points,-120,Hit in 8 of his last 9 away games,89%
-Jason Hart,DET,Over 0.5 3PTM,-155,Hit in 8 of his last 9 games vs DET,89%
-Julius Randle,LAL,Under 0.5 Blocks,-275,Hit in 8 of his last 9 games vs LAL,89%
-Jaden McDaniels,LAL,Under 5.5 Rebounds,-114,Hit in 8 of his last 9 games,89%
-Anthony Edwards,LAL,Under 28.5 Points,-130,Hit in 8 of his last 9 games vs LAL,89%
-Rui Hachimura,MIN,Over 0.5 Assists,-225,Hit in 8 of his last 9 games vs MIN,89%
-Cory Joseph,BOS,Over 6.5 PTS+AST,-138,Hit in 8 of his last 9 home games,89%
-Cory Joseph,BOS,Over 7.5 PTS+REB,-102,Hit in 8 of his last 9 home games,89%
-Cory Joseph,BOS,Under 2.5 Rebounds,-130,Hit in 8 of his last 9 games vs BOS,89%
-Jayson Tatum,ORL,Under 14.5 REB+AST,-106,Hit in 8 of his last 9 games vs ORL,89%
-A.C. Green,IND,Over 2.5 Rebounds,-118,Hit in 8 of his last 9 games,89%
-Bennedict Mathurin,MIL,Over 0.5 3PTM,-210,Hit in 8 of his last 9 games vs MIL,89%
-Jaden McDaniels,LAL,Under 1.5 Steals,-270,Hit in 15 of his last 17 games,88%
-Brook Lopez,IND,Over 0.5 Assists,-190,Hit in 15 of his last 17 games vs IND,88%
-Miles McBride,DET,Over 0.5 3PTM,-145,Hit in 7 of his last 8 games vs DET,88%
-OG Anunoby,DET,Over 6.5 REB+AST,-132,Hit in 7 of his last 8 games,88%
-Jason Hart,DET,Over 5.5 Assists,-122,Hit in 7 of his last 8 away games,88%
-Jason Hart,DET,Over 25.5 PTS+AST+REB,-125,Hit in 7 of his last 8 games vs DET,88%
-Paul Reed,NYK,Under 8.5 PTS+AST+REB,100,Hit in 7 of his last 8 games vs NYK,88%
-Donte DiVincenzo,LAL,Under 1.5 Steals,-270,Hit in 7 of his last 8 games,88%
-Jarvis Hayes,MIN,Over 2.5 Points,-105,Hit in 14 of his last 16 away games,88%
-Jonathan Isaac,BOS,Under 0.5 3PTM,-220,Hit in 14 of his last 16 games,88%
-Payton Pritchard,ORL,Over 12.5 PTS+REB,-130,Hit in 7 of his last 8 games,88%
-Payton Pritchard,ORL,Over 12.5 PTS+REB,-130,Hit in 14 of his last 16 away games,88%
-Kyle Kuzma,IND,Over 9.5 Points,-122,Hit in 7 of his last 8 home games,88%
-Kyle Kuzma,IND,Under 0.5 Blocks,-350,Hit in 7 of his last 8 games vs IND,88%
-Pascal Siakam,MIL,Over 6.5 Rebounds,-154,Hit in 7 of his last 8 games vs MIL,88%
-T.J. McConnell,MIL,Over 3.5 Assists,-144,Hit in 7 of his last 8 games vs MIL,88%
-Bennedict Mathurin,MIL,Over 2.5 Rebounds,-140,Hit in 7 of his last 8 games,88%
-T.J. McConnell,MIL,Over 6.5 REB+AST,104,Hit in 7 of his last 8 games vs MIL,88%
-Miles McBride,DET,Over 3.5 Points,-120,Hit in 13 of his last 15 games,87%
-Brook Lopez,IND,Over 9.5 PTS+REB,-102,Hit in 13 of his last 15 games vs IND,87%
-Brook Lopez,IND,Over 0.5 Assists,-190,Hit in 13 of his last 15 games,87%
-Brook Lopez,IND,Over 10.5 PTS+AST+REB,-110,Hit in 13 of his last 15 games vs IND,87%
-Bennedict Mathurin,MIL,Over 12.5 PTS+REB,-106,Hit in 13 of his last 15 games vs MIL,87%
-Bennedict Mathurin,MIL,Over 9.5 Points,-108,Hit in 13 of his last 15 games,87%
-Bennedict Mathurin,MIL,Over 13.5 PTS+AST+REB,-120,Hit in 13 of his last 15 games vs MIL,87%
-Jalen Duren,NYK,Over 14.5 PTS+AST,100,Hit in 6 of his last 7 home games,86%
-Amen Thompson,NYK,Over 6.5 REB+AST,-135,Hit in 6 of his last 7 home games,86%
-Amen Thompson,NYK,Under 0.5 Blocks,-140,Hit in 6 of his last 7 games vs NYK,86%
-Terrel Harris,NYK,Under 8.5 REB+AST,-113,Hit in 6 of his last 7 games,86%
-Terrel Harris,NYK,Under 6.5 Rebounds,-106,Hit in 6 of his last 7 games,86%
-Terrel Harris,NYK,Under 1.5 Steals,-270,Hit in 6 of his last 7 games,86%
-Malik Beasley,NYK,Under 2.5 Rebounds,-180,Hit in 6 of his last 7 games,86%
-Mikal Bridges,DET,Over 18.5 PTS+REB,-122,Hit in 6 of his last 7 games vs DET,86%
-Mikal Bridges,DET,Over 21.5 PTS+AST+REB,-125,Hit in 6 of his last 7 games vs DET,86%
-Mikal Bridges,DET,Over 0.5 Blocks,-165,Hit in 6 of his last 7 games vs DET,86%
-Jalen Brunson,DET,Over 36.5 PTS+AST,-118,Hit in 6 of his last 7 games vs DET,86%
-Jalen Brunson,DET,Over 32.5 PTS+REB,-120,Hit in 6 of his last 7 games vs DET,86%
-Jalen Brunson,DET,Over 39.5 PTS+AST+REB,-122,Hit in 6 of his last 7 games vs DET,86%
-Jalen Brunson,DET,Under 3.5 Rebounds,-150,Hit in 6 of his last 7 games,86%
-Jalen Brunson,DET,Over 29.5 Points,-113,Hit in 6 of his last 7 games vs DET,86%
-OG Anunoby,DET,Over 1.5 Steals,-146,Hit in 6 of his last 7 games vs DET,86%
-Karl-Anthony Towns,DET,Over 25.5 PTS+AST,-125,Hit in 6 of his last 7 games vs DET,86%
-Karl-Anthony Towns,DET,Over 0.5 Double Double,-240,Hit in 12 of his last 14 games,86%
-R. Holland,NYK,Over 1.5 Rebounds,115,Hit in 6 of his last 7 games vs NYK,86%
-Mike Conley,LAL,Under 1.5 3PTM,-220,Hit in 6 of his last 7 games,86%
-Jaden McDaniels,LAL,Under 1.5 Assists,-140,Hit in 6 of his last 7 games vs LAL,86%
-Rudy Gobert,LAL,Over 14.5 PTS+REB,-130,Hit in 6 of his last 7 home games,86%
-Rudy Gobert,LAL,Over 7.5 Rebounds,-108,Hit in 6 of his last 7 home games,86%
-Rudy Gobert,LAL,Over 7.5 Points,100,Hit in 6 of his last 7 home games,86%
-Rudy Gobert,LAL,Over 8.5 REB+AST,-115,Hit in 6 of his last 7 home games,86%
-Rudy Gobert,LAL,Over 8.5 PTS+AST,-105,Hit in 6 of his last 7 home games,86%
-Naz Reid,LAL,Under 17.5 PTS+REB,-118,Hit in 6 of his last 7 games vs LAL,86%
-Anthony Edwards,LAL,Under 33.5 PTS+AST,-118,Hit in 6 of his last 7 games vs LAL,86%
-Austin Reaves,MIN,Over 22.5 PTS+AST,-122,Hit in 6 of his last 7 away games,86%
-Austin Reaves,MIN,Over 18.5 Points,-108,Hit in 6 of his last 7 away games,86%
-Austin Reaves,MIN,Under 0.5 Blocks,-220,Hit in 12 of his last 14 games vs MIN,86%
-Rui Hachimura,MIN,Over 0.5 Assists,-225,Hit in 6 of his last 7 games,86%
-Rudy Gobert,LAL,Over 15.5 PTS+AST+REB,-118,Hit in 6 of his last 7 home games,86%
-Anthony Black,BOS,Over 2.5 Rebounds,-110,Hit in 6 of his last 7 games,86%
-Paolo Banchero,BOS,Over 1.5 3PTM,-166,Hit in 6 of his last 7 games,86%
-Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-250,Hit in 6 of his last 7 games,86%
-DJ White,ORL,Over 19.5 PTS+AST,-114,Hit in 6 of his last 7 away games,86%
-DJ White,ORL,Over 24.5 PTS+AST+REB,-104,Hit in 6 of his last 7 away games,86%
-DJ White,ORL,Over 2.5 3PTM,-174,Hit in 6 of his last 7 games,86%
-DJ White,ORL,Over 2.5 3PTM,-174,Hit in 6 of his last 7 away games,86%
-Al Horford,ORL,Over 9.5 REB+AST,-110,Hit in 6 of his last 7 away games,86%
-Jayson Tatum,ORL,Over 31.5 PTS+AST,-112,Hit in 6 of his last 7 away games,86%
-DJ White,ORL,Over 9.5 REB+AST,114,Hit in 6 of his last 7 away games,86%
-A.C. Green,IND,Over 1.5 3PTM,-190,Hit in 6 of his last 7 home games,86%
-Giannis Antetokounmpo,IND,Under 1.5 Blocks,-250,Hit in 12 of his last 14 games,86%
-Kyle Kuzma,IND,Over 13.5 PTS+REB,-120,Hit in 6 of his last 7 home games,86%
-Obi Toppin,MIL,Under 1.5 3PTM,-270,Hit in 6 of his last 7 games vs MIL,86%
-R. Holland,NYK,Over 2.5 Points,110,Hit in 17 of his last 20 games,85%
-Anthony Edwards,LAL,Under 11.5 REB+AST,-110,Hit in 17 of his last 20 games,85%
-Jarvis Hayes,MIN,Over 2.5 REB+AST,-105,Hit in 17 of his last 20 games,85%
-Brook Lopez,IND,Over 6.5 Points,100,Hit in 17 of his last 20 games,85%
-Brook Lopez,IND,Over 7.5 PTS+AST,-105,Hit in 17 of his last 20 games,85%
-Brook Lopez,IND,Over 0.5 Blocks,-125,Hit in 17 of his last 20 home games,85%
-Jaden McDaniels,LAL,Under 19.5 PTS+REB,-108,Hit in 11 of his last 13 games,85%
-Jaden McDaniels,LAL,Under 21.5 PTS+AST+REB,-110,Hit in 11 of his last 13 games,85%
-DJ White,ORL,Over 4.5 Assists,-110,Hit in 11 of his last 13 games,85%
-DJ White,ORL,Over 24.5 PTS+AST+REB,-104,Hit in 11 of his last 13 games,85%
-Bobby Portis,IND,Under 1.5 3PTM,-154,Hit in 11 of his last 13 games vs IND,85%
-Donte DiVincenzo,LAL,Over 13.5 PTS+AST,-125,Hit in 16 of his last 19 home games,84%
-Naz Reid,LAL,Over 1.5 Assists,-118,Hit in 16 of his last 19 home games,84%
-Kyle Kuzma,IND,Over 9.5 Points,-122,Hit in 16 of his last 19 games,84%
-Jalen Duren,NYK,Under 1.5 Blocks,-154,Hit in 10 of his last 12 games vs NYK,83%
-Terrel Harris,NYK,Under 16.5 PTS+AST,-132,Hit in 15 of his last 18 games vs NYK,83%
-Terrel Harris,NYK,Under 0.5 Blocks,110,Hit in 5 of his last 6 games vs NYK,83%
-Mikal Bridges,DET,Over 6.5 REB+AST,116,Hit in 10 of his last 12 away games,83%
-Mikal Bridges,DET,Over 18.5 PTS+AST,-120,Hit in 5 of his last 6 games vs DET,83%
-Mikal Bridges,DET,Over 18.5 PTS+AST,-120,Hit in 10 of his last 12 away games,83%
-Mikal Bridges,DET,Over 21.5 PTS+AST+REB,-125,Hit in 10 of his last 12 away games,83%
-Mikal Bridges,DET,Over 15.5 Points,-115,Hit in 5 of his last 6 games vs DET,83%
-Jalen Brunson,DET,Over 6.5 Assists,-148,Hit in 5 of his last 6 games vs DET,83%
-Mitchell Robinson,DET,Over 5.5 Rebounds,-105,Hit in 5 of his last 6 games vs DET,83%
-Karl-Anthony Towns,DET,Under 1.5 3PTM,-120,Hit in 5 of his last 6 games,83%
-Karl-Anthony Towns,DET,Over 0.5 Steals,-210,Hit in 5 of his last 6 games,83%
-Karl-Anthony Towns,DET,Over 0.5 Steals,-210,Hit in 5 of his last 6 games vs DET,83%
-Karl-Anthony Towns,DET,Over 0.5 Blocks,-250,Hit in 5 of his last 6 games,83%
-Karl-Anthony Towns,DET,Over 37.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games vs DET,83%
-Julius Randle,LAL,Over 23.5 PTS+AST,-130,Hit in 5 of his last 6 home games,83%
-Julius Randle,LAL,Under 31.5 PTS+AST+REB,-122,Hit in 5 of his last 6 games vs LAL,83%
-Julius Randle,LAL,Over 19.5 Points,-104,Hit in 5 of his last 6 home games,83%
-Donte DiVincenzo,LAL,Under 10.5 Points,-128,Hit in 5 of his last 6 games,83%
-Jaden McDaniels,LAL,Under 7.5 REB+AST,-145,Hit in 5 of his last 6 games,83%
-Nickeil Alexander-Walker,LAL,Over 2.5 Assists,120,Hit in 5 of his last 6 home games,83%
-Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-225,Hit in 5 of his last 6 games,83%
-Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-225,Hit in 10 of his last 12 games vs LAL,83%
-Nickeil Alexander-Walker,LAL,Over 5.5 Points,-115,Hit in 15 of his last 18 games,83%
-Naz Reid,LAL,Over 1.5 3PTM,-158,Hit in 10 of his last 12 games vs LAL,83%
-Anthony Edwards,LAL,Under 5.5 Assists,-144,Hit in 15 of his last 18 games,83%
-LeBron James,MIN,Under 8.5 Rebounds,-122,Hit in 10 of his last 12 games,83%
-Austin Reaves,MIN,Over 9.5 REB+AST,110,Hit in 5 of his last 6 games vs MIN,83%
-Austin Reaves,MIN,Over 27.5 PTS+AST+REB,-114,Hit in 15 of his last 18 away games,83%
-Austin Reaves,MIN,Over 4.5 Rebounds,-125,Hit in 5 of his last 6 games vs MIN,83%
-Austin Reaves,MIN,Over 2.5 3PTM,-125,Hit in 5 of his last 6 away games,83%
-Austin Reaves,MIN,Under 0.5 Blocks,-220,Hit in 5 of his last 6 games,83%
-Jarvis Hayes,MIN,Over 2.5 Rebounds,130,Hit in 5 of his last 6 away games,83%
-Anthony Black,BOS,Over 10.5 PTS+AST+REB,-110,Hit in 5 of his last 6 games vs BOS,83%
-Anthony Black,BOS,Over 2.5 Rebounds,-110,Hit in 5 of his last 6 games vs BOS,83%
-Anthony Black,BOS,Over 6.5 Points,-102,Hit in 5 of his last 6 games,83%
-Paolo Banchero,BOS,Under 13.5 REB+AST,-108,Hit in 10 of his last 12 games vs BOS,83%
-Cory Joseph,BOS,Over 9.5 PTS+AST+REB,-118,Hit in 5 of his last 6 home games,83%
-Cory Joseph,BOS,Under 2.5 Rebounds,-130,Hit in 5 of his last 6 games,83%
-Cory Joseph,BOS,Under 1.5 3PTM,-182,Hit in 5 of his last 6 games,83%
-Cory Joseph,BOS,Under 1.5 3PTM,-182,Hit in 5 of his last 6 games vs BOS,83%
-Franz Wagner,BOS,Under 34.5 PTS+AST+REB,-112,Hit in 5 of his last 6 games,83%
-Franz Wagner,BOS,Under 2.5 3PTM,-182,Hit in 5 of his last 6 games,83%
-Franz Wagner,BOS,Over 1.5 Steals,148,Hit in 5 of his last 6 games,83%
-Franz Wagner,BOS,Under 0.5 Blocks,-200,Hit in 5 of his last 6 games vs BOS,83%
-Jonathan Isaac,BOS,Over 0.5 Assists,-110,Hit in 5 of his last 6 home games,83%
-Kentavious Caldwell-Pope,BOS,Under 1.5 3PTM,-200,Hit in 5 of his last 6 games,83%
-Kentavious Caldwell-Pope,BOS,Under 1.5 Steals,-270,Hit in 5 of his last 6 games,83%
-Jayson Tatum,ORL,Over 0.5 Steals,-210,Hit in 5 of his last 6 games,83%
-Jabari Brown,ORL,Under 9.5 REB+AST,-128,Hit in 10 of his last 12 games,83%
-Payton Pritchard,ORL,Under 3.5 Rebounds,-154,Hit in 10 of his last 12 games vs ORL,83%
-Payton Pritchard,ORL,Over 9.5 Points,-118,Hit in 5 of his last 6 games,83%
-A.C. Green,IND,Under 1.5 Assists,-165,Hit in 15 of his last 18 games vs IND,83%
-A.C. Green,IND,Over 1.5 3PTM,-190,Hit in 10 of his last 12 games,83%
-A.C. Green,IND,Over 1.5 3PTM,-190,Hit in 5 of his last 6 games vs IND,83%
-Bobby Portis,IND,Under 1.5 Assists,-110,Hit in 5 of his last 6 games,83%
-Kyle Kuzma,IND,Under 11.5 PTS+AST,-120,Hit in 5 of his last 6 games vs IND,83%
-Andrew Nembhard,MIL,Under 3.5 Rebounds,-128,Hit in 5 of his last 6 games vs MIL,83%
-Tyrese Haliburton,MIL,Under 3.5 3PTM,-194,Hit in 5 of his last 6 games vs MIL,83%
-Myles Turner,MIL,Under 1.5 3PTM,116,Hit in 5 of his last 6 games,83%
-Pascal Siakam,MIL,Over 23.5 PTS+AST,-122,Hit in 5 of his last 6 games,83%
-Pascal Siakam,MIL,Over 31.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games,83%
-Pascal Siakam,MIL,Over 21.5 Points,-106,Hit in 5 of his last 6 games,83%
-T.J. McConnell,MIL,Over 6.5 Points,-106,Hit in 5 of his last 6 away games,83%
-Bennedict Mathurin,MIL,Over 12.5 PTS+REB,-106,Hit in 5 of his last 6 games,83%
-Bennedict Mathurin,MIL,Over 13.5 PTS+AST+REB,-120,Hit in 5 of his last 6 games,83%
-Bennedict Mathurin,MIL,Over 0.5 3PTM,-210,Hit in 5 of his last 6 games,83%
-Aaron Nesmith,MIL,Under 1.5 Assists,-210,Hit in 10 of his last 12 games,83%
-Aaron Nesmith,MIL,Under 0.5 Blocks,-285,Hit in 5 of his last 6 games,83%
-Aaron Nesmith,MIL,Under 0.5 Blocks,-285,Hit in 5 of his last 6 games vs MIL,83%
-Brook Lopez,IND,Over 3.5 REB+AST,-150,Hit in 14 of his last 17 games vs IND,82%
-Jaden McDaniels,LAL,Under 1.5 3PTM,-166,Hit in 9 of his last 11 games,82%
-Jaden McDaniels,LAL,Under 13.5 Points,100,Hit in 9 of his last 11 games,82%
-Austin Reaves,MIN,Over 23.5 PTS+REB,-102,Hit in 9 of his last 11 away games,82%
-Rui Hachimura,MIN,Over 0.5 Assists,-225,Hit in 9 of his last 11 away games,82%
-Franz Wagner,BOS,Under 28.5 PTS+AST,-114,Hit in 9 of his last 11 games vs BOS,82%
-Franz Wagner,BOS,Under 30.5 PTS+REB,-125,Hit in 9 of his last 11 games vs BOS,82%
-Franz Wagner,BOS,Under 24.5 Points,-128,Hit in 9 of his last 11 games vs BOS,82%
-Jason Hart,DET,Over 16.5 PTS+AST,-112,Hit in 13 of his last 16 away games,81%
-Jason Hart,DET,Over 10.5 Points,-113,Hit in 13 of his last 16 away games,81%
-Mike Conley,LAL,Over 6.5 Points,-104,Hit in 13 of his last 16 games vs LAL,81%
-Rudy Gobert,LAL,Over 0.5 Assists,-175,Hit in 13 of his last 16 games,81%
-Mike Conley,LAL,Over 9.5 PTS+AST,-130,Hit in 13 of his last 16 games vs LAL,81%
-Mike Conley,LAL,Over 9.5 PTS+AST,-130,Hit in 13 of his last 16 home games,81%
-Cory Joseph,BOS,Over 7.5 PTS+REB,-102,Hit in 13 of his last 16 games,81%
-Obi Toppin,MIL,Over 11.5 PTS+AST+REB,-130,Hit in 13 of his last 16 games,81%
-T.J. McConnell,MIL,Over 8.5 PTS+REB,-125,Hit in 17 of his last 21 games vs MIL,81%
-Jalen Duren,NYK,Over 22.5 PTS+REB,-120,Hit in 4 of his last 5 home games,80%
-Jalen Duren,NYK,Over 25.5 PTS+AST+REB,-104,Hit in 4 of his last 5 home games,80%
-Amen Thompson,NYK,Under 1.5 Steals,-194,Hit in 4 of his last 5 games,80%
-Amen Thompson,NYK,Under 11.5 PTS+AST,-130,Hit in 4 of his last 5 games,80%
-Amen Thompson,NYK,Under 1.5 Assists,-120,Hit in 4 of his last 5 games,80%
-Amen Thompson,NYK,Under 1.5 Assists,-120,Hit in 4 of his last 5 games vs NYK,80%
-Cade Cunningham,NYK,Over 1.5 3PTM,-128,Hit in 4 of his last 5 home games,80%
-Cade Cunningham,NYK,Over 0.5 Blocks,-155,Hit in 4 of his last 5 home games,80%
-Malik Beasley,NYK,Under 2.5 Rebounds,-180,Hit in 4 of his last 5 games vs NYK,80%
-Miles McBride,DET,Under 1.5 Rebounds,-200,Hit in 4 of his last 5 games,80%
-Miles McBride,DET,Under 1.5 Rebounds,-200,Hit in 4 of his last 5 games vs DET,80%
-Mikal Bridges,DET,Over 18.5 PTS+REB,-122,Hit in 8 of his last 10 away games,80%
-Mikal Bridges,DET,Over 2.5 Assists,-162,Hit in 16 of his last 20 games,80%
-Mikal Bridges,DET,Over 21.5 PTS+AST+REB,-125,Hit in 16 of his last 20 games,80%
-Jalen Brunson,DET,Under 10.5 REB+AST,-125,Hit in 4 of his last 5 games,80%
-Jalen Brunson,DET,Under 0.5 Blocks,-325,Hit in 8 of his last 10 games,80%
-Jalen Brunson,DET,Under 0.5 Blocks,-325,Hit in 8 of his last 10 games vs DET,80%
-OG Anunoby,DET,Over 19.5 PTS+AST,-102,Hit in 12 of his last 15 games,80%
-OG Anunoby,DET,Over 22.5 PTS+REB,-106,Hit in 12 of his last 15 games,80%
-OG Anunoby,DET,Over 1.5 Assists,-150,Hit in 4 of his last 5 away games,80%
-OG Anunoby,DET,Under 24.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games,80%
-OG Anunoby,DET,Under 24.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games vs DET,80%
-OG Anunoby,DET,Over 2.5 3PTM,140,Hit in 4 of his last 5 away games,80%
-OG Anunoby,DET,Over 17.5 Points,-104,Hit in 12 of his last 15 games,80%
-Mitchell Robinson,DET,Over 5.5 Rebounds,-105,Hit in 4 of his last 5 games,80%
-Karl-Anthony Towns,DET,Over 25.5 PTS+AST,-125,Hit in 4 of his last 5 games,80%
-Karl-Anthony Towns,DET,Over 22.5 Points,-120,Hit in 4 of his last 5 games,80%
-Karl-Anthony Towns,DET,Over 22.5 Points,-120,Hit in 4 of his last 5 games vs DET,80%
-Jason Hart,DET,Under 0.5 Blocks,-185,Hit in 12 of his last 15 games,80%
-Karl-Anthony Towns,DET,Over 37.5 PTS+AST+REB,-106,Hit in 4 of his last 5 games,80%
-Julius Randle,LAL,Under 11.5 REB+AST,102,Hit in 4 of his last 5 games,80%
-Julius Randle,LAL,Under 31.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games,80%
-Julius Randle,LAL,Under 6.5 Rebounds,118,Hit in 4 of his last 5 games,80%
-Julius Randle,LAL,Under 0.5 Blocks,-275,Hit in 8 of his last 10 games,80%
-Donte DiVincenzo,LAL,Over 13.5 PTS+REB,-132,Hit in 4 of his last 5 games,80%
-Donte DiVincenzo,LAL,Over 17.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games,80%
-Donte DiVincenzo,LAL,Under 2.5 3PTM,-174,Hit in 4 of his last 5 games,80%
-Donte DiVincenzo,LAL,Under 2.5 3PTM,-174,Hit in 4 of his last 5 games vs LAL,80%
-Jaden McDaniels,LAL,Under 1.5 3PTM,-166,Hit in 8 of his last 10 games vs LAL,80%
-Jaden McDaniels,LAL,Over 15.5 PTS+AST,-125,Hit in 4 of his last 5 games vs LAL,80%
-Nickeil Alexander-Walker,LAL,Over 2.5 Assists,120,Hit in 4 of his last 5 games,80%
-Rudy Gobert,LAL,Over 14.5 PTS+REB,-130,Hit in 12 of his last 15 games,80%
-Rudy Gobert,LAL,Over 7.5 Rebounds,-108,Hit in 12 of his last 15 games,80%
-Rudy Gobert,LAL,Over 8.5 REB+AST,-115,Hit in 12 of his last 15 games,80%
-Rudy Gobert,LAL,Over 0.5 Assists,-175,Hit in 16 of his last 20 home games,80%
-Rudy Gobert,LAL,Over 0.5 Blocks,-200,Hit in 4 of his last 5 games,80%
-Naz Reid,LAL,Under 11.5 Points,-118,Hit in 4 of his last 5 games,80%
-Naz Reid,LAL,Under 11.5 Points,-118,Hit in 4 of his last 5 games vs LAL,80%
-Naz Reid,LAL,Under 18.5 PTS+AST+REB,-115,Hit in 4 of his last 5 games vs LAL,80%
-Anthony Edwards,LAL,Under 6.5 Rebounds,-138,Hit in 16 of his last 20 games,80%
-Anthony Edwards,LAL,Over 3.5 3PTM,-152,Hit in 4 of his last 5 home games,80%
-Anthony Edwards,LAL,Under 1.5 Steals,-220,Hit in 4 of his last 5 games vs LAL,80%
-LeBron James,MIN,Over 29.5 PTS+AST,-120,Hit in 4 of his last 5 away games,80%
-LeBron James,MIN,Under 1.5 3PTM,116,Hit in 4 of his last 5 games,80%
-Jarvis Hayes,MIN,Over 5.5 PTS+AST+REB,-110,Hit in 16 of his last 20 games,80%
-Jarvis Hayes,MIN,Over 2.5 Rebounds,130,Hit in 16 of his last 20 games,80%
-Jarvis Hayes,MIN,Under 0.5 Blocks,-295,Hit in 4 of his last 5 games,80%
-Rui Hachimura,MIN,Under 6.5 REB+AST,-140,Hit in 12 of his last 15 games,80%
-Dorian Finney-Smith,MIN,Under 1.5 3PTM,-122,Hit in 4 of his last 5 games vs MIN,80%
-Dorian Finney-Smith,MIN,Over 6.5 Points,-120,Hit in 4 of his last 5 away games,80%
-Dorian Finney-Smith,MIN,Over 11.5 PTS+AST+REB,-130,Hit in 4 of his last 5 away games,80%
-Rudy Gobert,LAL,Over 15.5 PTS+AST+REB,-118,Hit in 12 of his last 15 games,80%
-Jarvis Hayes,MIN,Over 5.5 PTS+REB,105,Hit in 16 of his last 20 games,80%
-Anthony Black,BOS,Over 1.5 Assists,-110,Hit in 16 of his last 20 games,80%
-Cory Joseph,BOS,Over 4.5 Points,-130,Hit in 4 of his last 5 home games,80%
-Franz Wagner,BOS,Over 10.5 REB+AST,-102,Hit in 4 of his last 5 home games,80%
-Franz Wagner,BOS,Under 0.5 Blocks,-200,Hit in 16 of his last 20 games,80%
-Kentavious Caldwell-Pope,BOS,Under 1.5 3PTM,-200,Hit in 4 of his last 5 games vs BOS,80%
-Kentavious Caldwell-Pope,BOS,Under 1.5 Steals,-270,Hit in 4 of his last 5 games vs BOS,80%
-Kentavious Caldwell-Pope,BOS,Under 4.5 REB+AST,-155,Hit in 4 of his last 5 games vs BOS,80%
-Kentavious Caldwell-Pope,BOS,Under 11.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games vs BOS,80%
-Jayson Tatum,ORL,Over 0.5 Blocks,-120,Hit in 4 of his last 5 games,80%
-DJ White,ORL,Over 19.5 PTS+AST,-114,Hit in 4 of his last 5 games vs ORL,80%
-DJ White,ORL,Over 19.5 PTS+REB,-114,Hit in 4 of his last 5 away games,80%
-DJ White,ORL,Under 4.5 Rebounds,-130,Hit in 4 of his last 5 games vs ORL,80%
-DJ White,ORL,Over 14.5 Points,-125,Hit in 4 of his last 5 games vs ORL,80%
-Al Horford,ORL,Under 15.5 PTS+REB,-104,Hit in 8 of his last 10 games vs ORL,80%
-Al Horford,ORL,Under 7.5 Rebounds,-132,Hit in 8 of his last 10 games vs ORL,80%
-Al Horford,ORL,Over 9.5 REB+AST,-110,Hit in 12 of his last 15 games,80%
-Al Horford,ORL,Under 17.5 PTS+AST+REB,-110,Hit in 8 of his last 10 games vs ORL,80%
-Jabari Brown,ORL,Under 23.5 PTS+AST,-130,Hit in 4 of his last 5 games,80%
-Jabari Brown,ORL,Under 25.5 PTS+REB,-118,Hit in 4 of his last 5 games,80%
-Jabari Brown,ORL,Under 29.5 PTS+AST+REB,-130,Hit in 4 of his last 5 games,80%
-Jabari Brown,ORL,Over 5.5 Rebounds,-132,Hit in 4 of his last 5 games vs ORL,80%
-Jabari Brown,ORL,Under 1.5 3PTM,-114,Hit in 4 of his last 5 games vs ORL,80%
-Jabari Brown,ORL,Under 19.5 Points,-114,Hit in 4 of his last 5 games,80%
-Jabari Brown,ORL,Under 0.5 Blocks,-250,Hit in 4 of his last 5 games vs ORL,80%
-Payton Pritchard,ORL,Under 3.5 Rebounds,-154,Hit in 4 of his last 5 games,80%
-A.C. Green,IND,Over 11.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%
-Giannis Antetokounmpo,IND,Under 12.5 Rebounds,108,Hit in 4 of his last 5 games,80%
-Brook Lopez,IND,Over 9.5 PTS+REB,-102,Hit in 16 of his last 20 games,80%
-Brook Lopez,IND,Over 9.5 PTS+REB,-102,Hit in 16 of his last 20 home games,80%
-Brook Lopez,IND,Under 1.5 3PTM,-270,Hit in 4 of his last 5 games,80%
-Brook Lopez,IND,Over 10.5 PTS+AST+REB,-110,Hit in 16 of his last 20 games,80%
-Damian Lillard,IND,Under 22.5 PTS+REB,-102,Hit in 4 of his last 5 games vs IND,80%
-Damian Lillard,IND,Under 29.5 PTS+AST+REB,-118,Hit in 4 of his last 5 games vs IND,80%
-Damian Lillard,IND,Under 19.5 Points,-128,Hit in 4 of his last 5 games vs IND,80%
-Kyle Kuzma,IND,Over 15.5 PTS+AST+REB,-115,Hit in 16 of his last 20 home games,80%
-Andrew Nembhard,MIL,Over 7.5 REB+AST,-136,Hit in 12 of his last 15 games,80%
-Andrew Nembhard,MIL,Over 4.5 Assists,106,Hit in 4 of his last 5 games,80%
-Andrew Nembhard,MIL,Over 4.5 Assists,106,Hit in 4 of his last 5 away games,80%
-Andrew Nembhard,MIL,Under 3.5 Rebounds,-128,Hit in 4 of his last 5 games,80%
-Tyrese Haliburton,MIL,Under 29.5 PTS+AST,-120,Hit in 8 of his last 10 games vs MIL,80%
-Tyrese Haliburton,MIL,Under 33.5 PTS+AST+REB,-108,Hit in 8 of his last 10 games vs MIL,80%
-Tyrese Haliburton,MIL,Under 0.5 Blocks,-190,Hit in 8 of his last 10 games vs MIL,80%
-Myles Turner,MIL,Under 20.5 PTS+REB,-114,Hit in 4 of his last 5 games,80%
-Myles Turner,MIL,Under 20.5 PTS+REB,-114,Hit in 4 of his last 5 games vs MIL,80%
-Myles Turner,MIL,Under 21.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%
-Myles Turner,MIL,Under 21.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games vs MIL,80%
-Pascal Siakam,MIL,Over 28.5 PTS+REB,-114,Hit in 4 of his last 5 games,80%
-Pascal Siakam,MIL,Over 6.5 Rebounds,-154,Hit in 4 of his last 5 games,80%
-Bennedict Mathurin,MIL,Over 9.5 Points,-108,Hit in 12 of his last 15 games vs MIL,80%
-Bennedict Mathurin,MIL,Under 1.5 Assists,-220,Hit in 4 of his last 5 games,80%
-Bennedict Mathurin,MIL,Over 0.5 3PTM,-210,Hit in 16 of his last 20 away games,80%
-Obi Toppin,MIL,Under 1.5 Assists,-220,Hit in 4 of his last 5 games vs MIL,80%
-Miles McBride,DET,Over 1.5 Assists,130,Hit in 15 of his last 19 games,79%
-R. Holland,NYK,Over 1.5 Rebounds,115,Hit in 15 of his last 19 games,79%
-Mike Conley,LAL,Over 6.5 Points,-104,Hit in 11 of his last 14 home games,79%
-Jaden McDaniels,LAL,Under 7.5 REB+AST,-145,Hit in 11 of his last 14 games vs LAL,79%
-Myles Turner,MIL,Over 15.5 PTS+AST,-130,Hit in 11 of his last 14 games vs MIL,79%
-Amen Thompson,NYK,Over 6.5 REB+AST,-135,Hit in 7 of his last 9 games,78%
-Cade Cunningham,NYK,Over 1.5 3PTM,-128,Hit in 7 of his last 9 games vs NYK,78%
-Mikal Bridges,DET,Over 1.5 3PTM,-128,Hit in 7 of his last 9 games vs DET,78%
-Paul Reed,NYK,Under 4.5 Points,-150,Hit in 7 of his last 9 games vs NYK,78%
-Mike Conley,LAL,Over 3.5 Assists,104,Hit in 14 of his last 18 home games,78%
-Nickeil Alexander-Walker,LAL,Over 10.5 PTS+AST+REB,-110,Hit in 14 of his last 18 games,78%
-Rudy Gobert,LAL,Over 0.5 Blocks,-200,Hit in 7 of his last 9 games vs LAL,78%
-Naz Reid,LAL,Over 5.5 Rebounds,-114,Hit in 14 of his last 18 home games,78%
-Anthony Edwards,LAL,Over 0.5 Blocks,100,Hit in 7 of his last 9 games,78%
-Austin Reaves,MIN,Over 2.5 3PTM,-125,Hit in 7 of his last 9 games,78%
-Jarvis Hayes,MIN,Over 2.5 REB+AST,-105,Hit in 7 of his last 9 games vs MIN,78%
-Jarvis Hayes,MIN,Over 2.5 Rebounds,130,Hit in 7 of his last 9 games vs MIN,78%
-Dorian Finney-Smith,MIN,Over 6.5 Points,-120,Hit in 7 of his last 9 games vs MIN,78%
-Jayson Tatum,ORL,Under 8.5 Rebounds,106,Hit in 7 of his last 9 games vs ORL,78%
-Jayson Tatum,ORL,Over 25.5 Points,-118,Hit in 7 of his last 9 games vs ORL,78%
-Jayson Tatum,ORL,Over 0.5 Steals,-210,Hit in 7 of his last 9 games vs ORL,78%
-DJ White,ORL,Over 0.5 Blocks,-175,Hit in 7 of his last 9 games vs ORL,78%
-Brook Lopez,IND,Under 1.5 3PTM,-270,Hit in 7 of his last 9 games vs IND,78%
-Brook Lopez,IND,Over 3.5 REB+AST,-150,Hit in 14 of his last 18 games,78%
-Kyle Kuzma,IND,Over 13.5 PTS+REB,-120,Hit in 14 of his last 18 games,78%
-Kyle Kuzma,IND,Under 0.5 Blocks,-350,Hit in 7 of his last 9 games,78%
-Tyrese Haliburton,MIL,Under 18.5 Points,-125,Hit in 7 of his last 9 games vs MIL,78%
-Myles Turner,MIL,Over 1.5 Blocks,-138,Hit in 7 of his last 9 games,78%
-Pascal Siakam,MIL,Under 0.5 Blocks,-200,Hit in 7 of his last 9 games vs MIL,78%
-Mikal Bridges,DET,Over 2.5 Assists,-162,Hit in 10 of his last 13 games vs DET,77%
-OG Anunoby,DET,Over 0.5 Blocks,-250,Hit in 10 of his last 13 away games,77%
-Mike Conley,LAL,Over 3.5 Assists,104,Hit in 10 of his last 13 games vs LAL,77%
-Anthony Edwards,LAL,Under 1.5 Steals,-220,Hit in 10 of his last 13 games,77%
-DJ White,ORL,Over 9.5 REB+AST,114,Hit in 10 of his last 13 games,77%
-Brook Lopez,IND,Over 0.5 Blocks,-125,Hit in 10 of his last 13 games,77%
-T.J. McConnell,MIL,Over 8.5 PTS+REB,-125,Hit in 10 of his last 13 games,77%
-Terrel Harris,NYK,Under 1.5 3PTM,-194,Hit in 13 of his last 17 games vs NYK,76%
-Brook Lopez,IND,Over 2.5 Rebounds,-148,Hit in 13 of his last 17 games vs IND,76%
-T.J. McConnell,MIL,Over 12.5 PTS+AST+REB,-130,Hit in 16 of his last 21 games vs MIL,76%
-Jalen Duren,NYK,Under 13.5 REB+AST,-115,Hit in 3 of his last 4 games,75%
-Jalen Duren,NYK,Over 14.5 PTS+AST,100,Hit in 15 of his last 20 games,75%
-Jalen Duren,NYK,Over 22.5 PTS+REB,-120,Hit in 3 of his last 4 games vs NYK,75%
-Jalen Duren,NYK,Over 2.5 Assists,124,Hit in 3 of his last 4 home games,75%
-Jalen Duren,NYK,Over 25.5 PTS+AST+REB,-104,Hit in 3 of his last 4 games vs NYK,75%
-Jalen Duren,NYK,Under 11.5 Rebounds,-140,Hit in 3 of his last 4 games,75%
-Jalen Duren,NYK,Over 11.5 Points,-118,Hit in 3 of his last 4 games vs NYK,75%
-Jalen Duren,NYK,Over 11.5 Points,-118,Hit in 15 of his last 20 home games,75%
-Amen Thompson,NYK,Over 13.5 PTS+REB,-113,Hit in 9 of his last 12 games,75%
-Amen Thompson,NYK,Over 4.5 Rebounds,-128,Hit in 3 of his last 4 games,75%
-Amen Thompson,NYK,Over 8.5 Points,-118,Hit in 9 of his last 12 games,75%
-Amen Thompson,NYK,Under 1.5 Steals,-194,Hit in 3 of his last 4 games vs NYK,75%
-Amen Thompson,NYK,Over 16.5 PTS+AST+REB,-115,Hit in 9 of his last 12 games,75%
-Cade Cunningham,NYK,Over 15.5 REB+AST,-136,Hit in 3 of his last 4 games,75%
-Cade Cunningham,NYK,Over 37.5 PTS+AST,-108,Hit in 3 of his last 4 home games,75%
-Cade Cunningham,NYK,Over 34.5 PTS+REB,-115,Hit in 3 of his last 4 home games,75%
-Cade Cunningham,NYK,Over 9.5 Assists,-106,Hit in 3 of his last 4 games,75%
-Cade Cunningham,NYK,Over 27.5 Points,-115,Hit in 3 of his last 4 home games,75%
-Cade Cunningham,NYK,Under 1.5 Steals,-270,Hit in 6 of his last 8 games vs NYK,75%
-Terrel Harris,NYK,Under 8.5 REB+AST,-113,Hit in 3 of his last 4 games vs NYK,75%
-Terrel Harris,NYK,Under 16.5 PTS+AST,-132,Hit in 3 of his last 4 games,75%
-Terrel Harris,NYK,Under 21.5 PTS+REB,-128,Hit in 9 of his last 12 games,75%
-Terrel Harris,NYK,Under 6.5 Rebounds,-106,Hit in 3 of his last 4 games vs NYK,75%
-Terrel Harris,NYK,Under 1.5 3PTM,-194,Hit in 3 of his last 4 games,75%
-Terrel Harris,NYK,Over 14.5 Points,-102,Hit in 3 of his last 4 games vs NYK,75%
-Terrel Harris,NYK,Over 14.5 Points,-102,Hit in 3 of his last 4 home games,75%
-Terrel Harris,NYK,Under 0.5 Blocks,110,Hit in 3 of his last 4 games,75%
-Malik Beasley,NYK,Under 3.5 3PTM,-148,Hit in 3 of his last 4 games vs NYK,75%
-Malik Beasley,NYK,Under 13.5 Points,-113,Hit in 3 of his last 4 games vs NYK,75%
-Malik Beasley,NYK,Under 17.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games vs NYK,75%
-Miles McBride,DET,Over 1.5 Assists,130,Hit in 6 of his last 8 games vs DET,75%
-Mikal Bridges,DET,Over 18.5 PTS+AST,-120,Hit in 15 of his last 20 games,75%
-Mikal Bridges,DET,Over 18.5 PTS+REB,-122,Hit in 15 of his last 20 games,75%
-Mikal Bridges,DET,Over 15.5 Points,-115,Hit in 3 of his last 4 away games,75%
-Jalen Brunson,DET,Under 10.5 REB+AST,-125,Hit in 3 of his last 4 games vs DET,75%
-Jalen Brunson,DET,Over 36.5 PTS+AST,-118,Hit in 3 of his last 4 away games,75%
-Jalen Brunson,DET,Over 32.5 PTS+REB,-120,Hit in 3 of his last 4 away games,75%
-Jalen Brunson,DET,Over 39.5 PTS+AST+REB,-122,Hit in 3 of his last 4 away games,75%
-Jalen Brunson,DET,Under 3.5 Rebounds,-150,Hit in 3 of his last 4 games vs DET,75%
-Jalen Brunson,DET,Over 29.5 Points,-113,Hit in 3 of his last 4 away games,75%
-Karl-Anthony Towns,DET,Under 1.5 3PTM,-120,Hit in 3 of his last 4 games vs DET,75%
-Jason Hart,DET,Over 15.5 REB+AST,104,Hit in 3 of his last 4 away games,75%
-Jason Hart,DET,Over 16.5 PTS+AST,-112,Hit in 6 of his last 8 games vs DET,75%
-Jason Hart,DET,Over 10.5 Points,-113,Hit in 6 of his last 8 games vs DET,75%
-Jason Hart,DET,Over 0.5 3PTM,-155,Hit in 3 of his last 4 games,75%
-Malik Beasley,NYK,Under 15.5 PTS+REB,-106,Hit in 3 of his last 4 games vs NYK,75%
-Paul Reed,NYK,Under 0.5 Assists,-105,Hit in 3 of his last 4 games,75%
-Paul Reed,NYK,Under 0.5 Assists,-105,Hit in 12 of his last 16 games vs NYK,75%
-Paul Reed,NYK,Under 3.5 Rebounds,105,Hit in 6 of his last 8 games vs NYK,75%
-Julius Randle,LAL,Over 23.5 PTS+AST,-130,Hit in 3 of his last 4 games vs LAL,75%
-Julius Randle,LAL,Over 4.5 Assists,-125,Hit in 3 of his last 4 games,75%
-Julius Randle,LAL,Over 19.5 Points,-104,Hit in 3 of his last 4 games vs LAL,75%
-Donte DiVincenzo,LAL,Over 7.5 REB+AST,114,Hit in 3 of his last 4 games vs LAL,75%
-Donte DiVincenzo,LAL,Over 13.5 PTS+REB,-132,Hit in 3 of his last 4 games vs LAL,75%
-Donte DiVincenzo,LAL,Over 3.5 Assists,104,Hit in 3 of his last 4 games vs LAL,75%
-Donte DiVincenzo,LAL,Over 17.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games vs LAL,75%
-Donte DiVincenzo,LAL,Over 3.5 Rebounds,-120,Hit in 3 of his last 4 games vs LAL,75%
-Donte DiVincenzo,LAL,Under 1.5 Steals,-270,Hit in 3 of his last 4 games vs LAL,75%
-Jaden McDaniels,LAL,Under 1.5 Assists,-140,Hit in 3 of his last 4 games,75%
-Jaden McDaniels,LAL,Under 0.5 Blocks,135,Hit in 3 of his last 4 games vs LAL,75%
-Nickeil Alexander-Walker,LAL,Under 2.5 Rebounds,-145,Hit in 3 of his last 4 games vs LAL,75%
-Rudy Gobert,LAL,Over 14.5 PTS+REB,-130,Hit in 9 of his last 12 games vs LAL,75%
-Rudy Gobert,LAL,Over 7.5 Rebounds,-108,Hit in 9 of his last 12 games vs LAL,75%
-Rudy Gobert,LAL,Over 7.5 Points,100,Hit in 9 of his last 12 games vs LAL,75%
-Rudy Gobert,LAL,Over 0.5 Double Double,500,Hit in 9 of his last 12 games vs LAL,75%
-Rudy Gobert,LAL,Over 8.5 REB+AST,-115,Hit in 9 of his last 12 games vs LAL,75%
-Rudy Gobert,LAL,Over 8.5 PTS+AST,-105,Hit in 9 of his last 12 games vs LAL,75%
-Rudy Gobert,LAL,Over 0.5 Assists,-175,Hit in 9 of his last 12 games vs LAL,75%
-Naz Reid,LAL,Over 1.5 3PTM,-158,Hit in 15 of his last 20 home games,75%
-Naz Reid,LAL,Over 1.5 Assists,-118,Hit in 15 of his last 20 games,75%
-Anthony Edwards,LAL,Under 11.5 REB+AST,-110,Hit in 6 of his last 8 games vs LAL,75%
-Anthony Edwards,LAL,Over 3.5 3PTM,-152,Hit in 9 of his last 12 games,75%
-LeBron James,MIN,Under 32.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%
-LeBron James,MIN,Over 5.5 Assists,-122,Hit in 15 of his last 20 away games,75%
-LeBron James,MIN,Under 38.5 PTS+AST+REB,-118,Hit in 6 of his last 8 games,75%
-LeBron James,MIN,Over 0.5 Double Double,115,Hit in 3 of his last 4 games vs MIN,75%
-Austin Reaves,MIN,Over 9.5 REB+AST,110,Hit in 3 of his last 4 games,75%
-Austin Reaves,MIN,Over 22.5 PTS+AST,-122,Hit in 15 of his last 20 games,75%
-Austin Reaves,MIN,Over 23.5 PTS+REB,-102,Hit in 15 of his last 20 games,75%
-Austin Reaves,MIN,Over 27.5 PTS+AST+REB,-114,Hit in 15 of his last 20 games,75%
-Austin Reaves,MIN,Over 4.5 Rebounds,-125,Hit in 3 of his last 4 games,75%
-Austin Reaves,MIN,Over 18.5 Points,-108,Hit in 15 of his last 20 games,75%
-Jarvis Hayes,MIN,Over 2.5 Points,-105,Hit in 15 of his last 20 games,75%
-Rui Hachimura,MIN,Under 6.5 REB+AST,-140,Hit in 9 of his last 12 games vs MIN,75%
-Rui Hachimura,MIN,Under 0.5 Blocks,-160,Hit in 9 of his last 12 games vs MIN,75%
-Dorian Finney-Smith,MIN,Under 10.5 PTS+REB,-106,Hit in 3 of his last 4 games vs MIN,75%
-Dorian Finney-Smith,MIN,Under 3.5 Rebounds,102,Hit in 3 of his last 4 games,75%
-Dorian Finney-Smith,MIN,Under 3.5 Rebounds,102,Hit in 3 of his last 4 games vs MIN,75%
-Dorian Finney-Smith,MIN,Over 6.5 Points,-120,Hit in 3 of his last 4 games,75%
-Dorian Finney-Smith,MIN,Over 1.5 Assists,165,Hit in 6 of his last 8 games,75%
-Rudy Gobert,LAL,Over 15.5 PTS+AST+REB,-118,Hit in 9 of his last 12 games vs LAL,75%
-Mike Conley,LAL,Over 9.5 PTS+AST,-130,Hit in 15 of his last 20 games,75%
-LeBron James,MIN,Under 24.5 Points,-132,Hit in 3 of his last 4 games,75%
-Anthony Black,BOS,Over 0.5 3PTM,-105,Hit in 6 of his last 8 home games,75%
-Paolo Banchero,BOS,Under 34.5 PTS+AST,-125,Hit in 9 of his last 12 games vs BOS,75%
-Paolo Banchero,BOS,Under 38.5 PTS+REB,-125,Hit in 9 of his last 12 games vs BOS,75%
-Paolo Banchero,BOS,Under 43.5 PTS+AST+REB,-122,Hit in 9 of his last 12 games vs BOS,75%
-Paolo Banchero,BOS,Over 8.5 Rebounds,-122,Hit in 6 of his last 8 games,75%
-Paolo Banchero,BOS,Over 1.5 3PTM,-166,Hit in 3 of his last 4 home games,75%
-Paolo Banchero,BOS,Over 0.5 Blocks,-110,Hit in 3 of his last 4 games,75%
-Cory Joseph,BOS,Under 2.5 Assists,-172,Hit in 3 of his last 4 games,75%
-Cory Joseph,BOS,Over 9.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games,75%
-Cory Joseph,BOS,Over 4.5 Points,-130,Hit in 12 of his last 16 games,75%
-Franz Wagner,BOS,Under 30.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%
-Franz Wagner,BOS,Over 4.5 Assists,120,Hit in 6 of his last 8 games vs BOS,75%
-Franz Wagner,BOS,Over 1.5 Steals,148,Hit in 3 of his last 4 games vs BOS,75%
-Jonathan Isaac,BOS,Over 0.5 Assists,-110,Hit in 6 of his last 8 games,75%
-Jonathan Isaac,BOS,Over 8.5 PTS+AST+REB,-105,Hit in 6 of his last 8 games,75%
-Jonathan Isaac,BOS,Under 0.5 3PTM,-220,Hit in 3 of his last 4 games vs BOS,75%
-Jonathan Isaac,BOS,Under 3.5 Points,-130,Hit in 3 of his last 4 games vs BOS,75%
-Kentavious Caldwell-Pope,BOS,Over 2.5 Rebounds,-140,Hit in 3 of his last 4 games,75%
-Kentavious Caldwell-Pope,BOS,Over 2.5 Rebounds,-140,Hit in 6 of his last 8 home games,75%
-Kentavious Caldwell-Pope,BOS,Over 1.5 Assists,100,Hit in 3 of his last 4 games,75%
-Kentavious Caldwell-Pope,BOS,Over 1.5 Assists,100,Hit in 3 of his last 4 home games,75%
-Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-250,Hit in 3 of his last 4 games vs BOS,75%
-Jayson Tatum,ORL,Under 5.5 Assists,-112,Hit in 3 of his last 4 games,75%
-Jayson Tatum,ORL,Over 2.5 3PTM,-140,Hit in 3 of his last 4 games,75%
-Jayson Tatum,ORL,Over 2.5 3PTM,-140,Hit in 3 of his last 4 games vs ORL,75%
-Jayson Tatum,ORL,Over 25.5 Points,-118,Hit in 3 of his last 4 away games,75%
-DJ White,ORL,Under 4.5 Rebounds,-130,Hit in 3 of his last 4 games,75%
-DJ White,ORL,Over 0.5 Blocks,-175,Hit in 3 of his last 4 games,75%
-DJ White,ORL,Over 0.5 Blocks,-175,Hit in 3 of his last 4 away games,75%
-Al Horford,ORL,Over 0.5 Blocks,-190,Hit in 3 of his last 4 games,75%
-Al Horford,ORL,Over 0.5 Blocks,-190,Hit in 3 of his last 4 away games,75%
-Jabari Brown,ORL,Under 3.5 Assists,-120,Hit in 3 of his last 4 games,75%
-Jabari Brown,ORL,Under 1.5 3PTM,-114,Hit in 3 of his last 4 games,75%
-Payton Pritchard,ORL,Over 12.5 PTS+REB,-130,Hit in 3 of his last 4 games vs ORL,75%
-Payton Pritchard,ORL,Over 9.5 Points,-118,Hit in 3 of his last 4 games vs ORL,75%
-A.C. Green,IND,Over 11.5 PTS+AST+REB,-105,Hit in 3 of his last 4 home games,75%
-Giannis Antetokounmpo,IND,Under 19.5 REB+AST,-104,Hit in 3 of his last 4 games vs IND,75%
-Giannis Antetokounmpo,IND,Over 40.5 PTS+AST,-120,Hit in 3 of his last 4 games,75%
-Giannis Antetokounmpo,IND,Over 40.5 PTS+AST,-120,Hit in 3 of his last 4 games vs IND,75%
-Giannis Antetokounmpo,IND,Under 12.5 Rebounds,108,Hit in 6 of his last 8 games vs IND,75%
-Giannis Antetokounmpo,IND,Over 53.5 PTS+AST+REB,-110,Hit in 3 of his last 4 games,75%
-Giannis Antetokounmpo,IND,Under 1.5 Blocks,-250,Hit in 6 of his last 8 games vs IND,75%
-Brook Lopez,IND,Over 6.5 Points,100,Hit in 15 of his last 20 home games,75%
-Brook Lopez,IND,Over 7.5 PTS+AST,-105,Hit in 15 of his last 20 home games,75%
-Brook Lopez,IND,Over 10.5 PTS+AST+REB,-110,Hit in 15 of his last 20 home games,75%
-Damian Lillard,IND,Under 9.5 REB+AST,114,Hit in 3 of his last 4 games,75%
-Damian Lillard,IND,Under 6.5 Assists,-146,Hit in 3 of his last 4 games,75%
-Damian Lillard,IND,Under 3.5 Rebounds,100,Hit in 3 of his last 4 games vs IND,75%
-Damian Lillard,IND,Under 2.5 3PTM,-104,Hit in 3 of his last 4 games vs IND,75%
-Bobby Portis,IND,Under 1.5 3PTM,-154,Hit in 3 of his last 4 games,75%
-Kyle Kuzma,IND,Under 1.5 Assists,-135,Hit in 3 of his last 4 games vs IND,75%
-Andrew Nembhard,MIL,Under 1.5 3PTM,-250,Hit in 3 of his last 4 games vs MIL,75%
-Tyrese Haliburton,MIL,Over 10.5 Assists,-125,Hit in 3 of his last 4 games vs MIL,75%
-Myles Turner,MIL,Under 1.5 Assists,-165,Hit in 6 of his last 8 games,75%
-Pascal Siakam,MIL,Under 9.5 REB+AST,-110,Hit in 3 of his last 4 games vs MIL,75%
-Pascal Siakam,MIL,Under 2.5 Assists,-130,Hit in 3 of his last 4 games,75%
-Pascal Siakam,MIL,Under 2.5 Assists,-130,Hit in 3 of his last 4 games vs MIL,75%
-T.J. McConnell,MIL,Under 10.5 PTS+AST,-118,Hit in 3 of his last 4 games,75%
-T.J. McConnell,MIL,Under 10.5 PTS+AST,-118,Hit in 3 of his last 4 games vs MIL,75%
-Bennedict Mathurin,MIL,Over 2.5 Rebounds,-140,Hit in 3 of his last 4 away games,75%
-Aaron Nesmith,MIL,Over 16.5 PTS+REB,-130,Hit in 3 of his last 4 games vs MIL,75%
-Aaron Nesmith,MIL,Under 4.5 Rebounds,-130,Hit in 6 of his last 8 games vs MIL,75%
-Aaron Nesmith,MIL,Over 2.5 3PTM,152,Hit in 3 of his last 4 games vs MIL,75%
-Aaron Nesmith,MIL,Over 2.5 3PTM,152,Hit in 6 of his last 8 away games,75%
-Aaron Nesmith,MIL,Over 12.5 Points,-112,Hit in 3 of his last 4 games vs MIL,75%
-Aaron Nesmith,MIL,Over 5.5 REB+AST,-140,Hit in 3 of his last 4 games vs MIL,75%
-Aaron Nesmith,MIL,Over 14.5 PTS+AST,105,Hit in 3 of his last 4 games vs MIL,75%
-Aaron Nesmith,MIL,Over 19.5 PTS+AST+REB,-115,Hit in 3 of his last 4 games vs MIL,75%
-Jalen Duren,NYK,Under 11.5 Rebounds,-140,NYK rank 2nd in REB versus C,2nd
-Amen Thompson,NYK,Under 1.5 Steals,-194,NYK rank 1st in STL versus SF,1st
-Amen Thompson,NYK,Under 1.5 Assists,-120,NYK rank 3rd in AST versus SF,3rd
-Cade Cunningham,NYK,Under 6.5 Rebounds,-113,NYK rank 2nd in REB against,2nd
-Cade Cunningham,NYK,Under 1.5 Steals,-270,NYK rank 3rd in STL versus PG,3rd
-Terrel Harris,NYK,Under 6.5 Rebounds,-106,NYK rank 2nd in REB versus PF,2nd
-Terrel Harris,NYK,Under 1.5 Steals,-270,NYK rank 3rd in STL versus PF,3rd
-Malik Beasley,NYK,Under 2.5 Rebounds,-180,NYK rank 2nd in REB against,2nd
-OG Anunoby,DET,Over 2.5 3PTM,140,DET rank 28th in 3PTM versus PF,28th
-OG Anunoby,DET,Over 17.5 Points,-104,DET rank 28th in PTS versus PF,28th
-Mitchell Robinson,DET,Over 0.5 Assists,130,DET rank 27th in AST versus C,27th
-Karl-Anthony Towns,DET,Over 2.5 Assists,-150,DET rank 27th in AST versus C,27th
-Karl-Anthony Towns,DET,Under 11.5 Rebounds,-125,DET rank 5th in REB versus C,5th
-Jason Hart,DET,Under 9.5 Rebounds,-120,DET rank 2nd in REB versus SG,2nd
-Jason Hart,DET,Over 1.5 Steals,126,DET rank 26th in STL versus SG,26th
-R. Holland,NYK,Under 0.5 Assists,-185,NYK rank 3rd in AST versus SF,3rd
-Paul Reed,NYK,Under 3.5 Rebounds,105,NYK rank 2nd in REB versus C,2nd
-Paul Reed,NYK,Under 4.5 Points,-150,NYK rank 5th in PTS versus C,5th
-Julius Randle,LAL,Under 0.5 Blocks,-275,LAL rank 4th in BLK against,4th
-Jaden McDaniels,LAL,Under 5.5 Rebounds,-114,LAL rank 4th in REB versus PF,4th
-Jaden McDaniels,LAL,Under 0.5 Blocks,135,LAL rank 4th in BLK against,4th
-Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-225,LAL rank 27th in 3PTM versus SG,27th
-Anthony Edwards,LAL,Over 3.5 3PTM,-152,LAL rank 27th in 3PTM versus SG,27th
-LeBron James,MIN,Under 1.5 3PTM,116,MIN rank 3rd in 3PTM against,3rd
-LeBron James,MIN,Over 1.5 Steals,178,MIN rank 29th in STL versus SF,29th
-Austin Reaves,MIN,Under 4.5 Assists,-136,MIN rank 5th in AST against,5th
-Rui Hachimura,MIN,Under 5.5 Rebounds,-136,MIN rank 5th in REB versus PF,5th
-Rui Hachimura,MIN,Under 11.5 Points,-122,MIN rank 5th in PTS against,5th
-Dorian Finney-Smith,MIN,Under 3.5 Rebounds,102,MIN rank 5th in REB versus PF,5th
-Dorian Finney-Smith,MIN,Under 1.5 3PTM,-122,MIN rank 3rd in 3PTM against,3rd
-Julius Randle,LAL,Under 6.5 Rebounds,118,LAL rank 4th in REB versus PF,4th
-LeBron James,MIN,Under 24.5 Points,-132,MIN rank 5th in PTS against,5th
-Anthony Black,BOS,Over 2.5 Rebounds,-110,BOS rank 28th in REB versus PG,28th
-Anthony Black,BOS,Over 6.5 Points,-102,BOS rank 28th in PTS versus PG,28th
-Paolo Banchero,BOS,Under 4.5 Assists,102,BOS rank 3rd in AST against,3rd
-Paolo Banchero,BOS,Under 28.5 Points,-102,BOS rank 2nd in PTS against,2nd
-Cory Joseph,BOS,Under 2.5 Assists,-172,BOS rank 3rd in AST against,3rd
-Cory Joseph,BOS,Over 4.5 Points,-130,BOS rank 28th in PTS versus PG,28th
-Franz Wagner,BOS,Under 24.5 Points,-128,BOS rank 4th in PTS versus SF,4th
-Franz Wagner,BOS,Under 0.5 Blocks,-200,BOS rank 4th in BLK versus SF,4th
-Jonathan Isaac,BOS,Under 3.5 Points,-130,BOS rank 2nd in PTS against,2nd
-Kentavious Caldwell-Pope,BOS,Under 1.5 3PTM,-200,BOS rank 2nd in 3PTM versus SG,2nd
-Kentavious Caldwell-Pope,BOS,Under 7.5 Points,-128,BOS rank 1st in PTS versus SG,1st
-Kentavious Caldwell-Pope,BOS,Under 1.5 Steals,-270,BOS rank 4th in STL versus SG,4th
-Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-250,BOS rank 4th in BLK versus SG,4th
-Jayson Tatum,ORL,Under 5.5 Assists,-112,ORL rank 1st in AST versus PF,1st
-Jayson Tatum,ORL,Under 8.5 Rebounds,106,ORL rank 3rd in REB against,3rd
-DJ White,ORL,Under 4.5 Rebounds,-130,ORL rank 3rd in REB against,3rd
-Al Horford,ORL,Under 7.5 Rebounds,-132,ORL rank 4th in REB versus C,4th
-Al Horford,ORL,Under 8.5 Points,-128,ORL rank 1st in PTS against,1st
-Al Horford,ORL,Under 2.5 Assists,-190,ORL rank 2nd in AST versus C,2nd
-Jabari Brown,ORL,Under 3.5 Assists,-120,ORL rank 2nd in AST versus SF,2nd
-Jabari Brown,ORL,Under 1.5 3PTM,-114,ORL rank 1st in 3PTM versus SF,1st
-Jabari Brown,ORL,Under 19.5 Points,-114,ORL rank 1st in PTS versus SF,1st
-Payton Pritchard,ORL,Under 3.5 Rebounds,-154,ORL rank 5th in REB versus PG,5th
-Bobby Portis,IND,Over 8.5 Rebounds,-140,IND rank 26th in REB versus PF,26th
-Tyrese Haliburton,MIL,Over 4.5 Rebounds,-106,MIL rank 29th in REB versus PG,29th
-Tyrese Haliburton,MIL,Under 0.5 Blocks,-190,MIL rank 2nd in BLK against,2nd
-Myles Turner,MIL,Under 1.5 Assists,-165,MIL rank 5th in AST versus C,5th
-Pascal Siakam,MIL,Under 2.5 Assists,-130,MIL rank 5th in AST versus PF,5th
-Pascal Siakam,MIL,Under 0.5 Blocks,-200,MIL rank 5th in BLK versus PF,5th
-T.J. McConnell,MIL,Over 6.5 Points,-106,MIL rank 29th in PTS versus PG,29th
-T.J. McConnell,MIL,Over 2.5 Rebounds,122,MIL rank 29th in REB versus PG,29th
-Bennedict Mathurin,MIL,Over 2.5 Rebounds,-140,MIL rank 29th in REB versus SF,29th
-Aaron Nesmith,MIL,Under 0.5 Blocks,-285,MIL rank 1st in BLK versus SF,1st
-Obi Toppin,MIL,Under 1.5 Assists,-220,MIL rank 5th in AST versus PF,5th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Cade Cunningham,NYK,Over 0.5 Double Double,-145,Hit in 4 of his last 4 games,100%,True,1.0
+Miles McBride,DET,Over 0.5 3PTM,-145,Hit in 9 of his last 9 away games,100%,True,1.0
+OG Anunoby,DET,Over 19.5 PTS+AST,-102,Hit in 5 of his last 5 away games,100%,False,8.0
+OG Anunoby,DET,Over 22.5 PTS+REB,-106,Hit in 5 of his last 5 away games,100%,False,10.0
+OG Anunoby,DET,Over 17.5 Points,-104,Hit in 5 of his last 5 away games,100%,False,8.0
+OG Anunoby,DET,Over 1.5 Steals,-146,Hit in 5 of his last 5 games,100%,True,3.0
+Karl-Anthony Towns,DET,Over 25.5 PTS+AST,-125,Hit in 4 of his last 4 away games,100%,True,38.0
+Karl-Anthony Towns,DET,Over 34.5 PTS+REB,-106,Hit in 4 of his last 4 away games,100%,True,46.0
+Karl-Anthony Towns,DET,Under 11.5 Rebounds,-125,Hit in 4 of his last 4 games,100%,True,9.0
+Karl-Anthony Towns,DET,Under 11.5 Rebounds,-125,Hit in 4 of his last 4 games vs DET,100%,True,9.0
+Karl-Anthony Towns,DET,Over 22.5 Points,-120,Hit in 4 of his last 4 away games,100%,True,37.0
+Karl-Anthony Towns,DET,Over 37.5 PTS+AST+REB,-106,Hit in 4 of his last 4 away games,100%,True,38.0
+Julius Randle,LAL,Under 11.5 REB+AST,102,Hit in 5 of his last 5 games vs LAL,100%,True,10.0
+Julius Randle,LAL,Under 6.5 Rebounds,118,Hit in 5 of his last 5 games vs LAL,100%,False,7.0
+Donte DiVincenzo,LAL,Under 10.5 Points,-128,Hit in 5 of his last 5 games vs LAL,100%,True,10.0
+Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-225,Hit in 6 of his last 6 home games,100%,True,1.0
+Rudy Gobert,LAL,Over 0.5 Blocks,-200,Hit in 5 of his last 5 home games,100%,False,0.0
+Anthony Edwards,LAL,Over 0.5 Blocks,100,Hit in 4 of his last 4 home games,100%,True,1.0
+LeBron James,MIN,Over 0.5 Blocks,-175,Hit in 4 of his last 4 games vs MIN,100%,True,3.0
+Rui Hachimura,MIN,Under 16.5 PTS+REB,-102,Hit in 6 of his last 6 games vs MIN,100%,False,38.0
+Rui Hachimura,MIN,Under 5.5 Rebounds,-136,Hit in 5 of his last 5 games,100%,True,5.0
+Rui Hachimura,MIN,Under 5.5 Rebounds,-136,Hit in 4 of his last 4 games vs MIN,100%,True,5.0
+Rui Hachimura,MIN,Over 1.5 3PTM,-125,Hit in 5 of his last 5 away games,100%,True,5.0
+Rui Hachimura,MIN,Under 11.5 Points,-122,Hit in 6 of his last 6 games vs MIN,100%,False,33.0
+Rui Hachimura,MIN,Under 12.5 PTS+AST,-125,Hit in 6 of his last 6 games vs MIN,100%,False,34.0
+Rui Hachimura,MIN,Under 17.5 PTS+AST+REB,-115,Hit in 4 of his last 4 games vs MIN,100%,False,34.0
+Dorian Finney-Smith,MIN,Over 1.5 Assists,165,Hit in 4 of his last 4 away games,100%,True,6.0
+Anthony Black,BOS,Over 10.5 PTS+AST+REB,-110,Hit in 10 of his last 10 home games,100%,False,10.0
+Paolo Banchero,BOS,Over 1.5 3PTM,-166,Hit in 4 of his last 4 games vs BOS,100%,True,2.0
+Cory Joseph,BOS,Under 4.5 REB+AST,102,Hit in 9 of his last 9 games vs BOS,100%,False,9.0
+Cory Joseph,BOS,Under 4.5 REB+AST,102,Hit in 4 of his last 4 games,100%,False,9.0
+Franz Wagner,BOS,Over 5.5 Rebounds,-158,Hit in 4 of his last 4 home games,100%,True,6.0
+Franz Wagner,BOS,Over 1.5 Steals,148,Hit in 5 of his last 5 home games,100%,False,0.0
+Jonathan Isaac,BOS,Under 3.5 Rebounds,115,Hit in 4 of his last 4 games vs BOS,100%,True,3.0
+Kentavious Caldwell-Pope,BOS,Under 10.5 PTS+REB,-136,Hit in 6 of his last 6 games,100%,False,14.0
+Kentavious Caldwell-Pope,BOS,Under 10.5 PTS+REB,-136,Hit in 5 of his last 5 games vs BOS,100%,False,14.0
+Kentavious Caldwell-Pope,BOS,Under 7.5 Points,-128,Hit in 6 of his last 6 games,100%,False,12.0
+Kentavious Caldwell-Pope,BOS,Under 7.5 Points,-128,Hit in 5 of his last 5 games vs BOS,100%,False,12.0
+Kentavious Caldwell-Pope,BOS,Under 8.5 PTS+AST,-110,Hit in 6 of his last 6 games,100%,False,16.0
+Kentavious Caldwell-Pope,BOS,Under 8.5 PTS+AST,-110,Hit in 5 of his last 5 games vs BOS,100%,False,16.0
+Jayson Tatum,ORL,Over 34.5 PTS+REB,-128,Hit in 4 of his last 4 away games,100%,True,57.0
+Jayson Tatum,ORL,Under 5.5 Assists,-112,Hit in 6 of his last 6 games vs ORL,100%,True,3.0
+Jayson Tatum,ORL,Over 0.5 Blocks,-120,Hit in 4 of his last 4 games vs ORL,100%,False,0.0
+Jayson Tatum,ORL,Over 0.5 Blocks,-120,Hit in 4 of his last 4 away games,100%,False,0.0
+Al Horford,ORL,Under 10.5 PTS+AST,-125,Hit in 10 of his last 10 games vs ORL,100%,True,8.0
+Al Horford,ORL,Over 1.5 3PTM,108,Hit in 4 of his last 4 away games,100%,False,0.0
+Jayson Tatum,ORL,Over 40.5 PTS+AST+REB,-118,Hit in 4 of his last 4 away games,100%,True,46.0
+Giannis Antetokounmpo,IND,Over 33.5 Points,-118,Hit in 4 of his last 4 games vs IND,100%,False,28.0
+Giannis Antetokounmpo,IND,Under 0.5 3PTM,-350,Hit in 4 of his last 4 games,100%,True,0.0
+Giannis Antetokounmpo,IND,Under 0.5 3PTM,-350,Hit in 7 of his last 7 games vs IND,100%,True,0.0
+Brook Lopez,IND,Over 0.5 Assists,-190,Hit in 6 of his last 6 home games,100%,True,1.0
+Damian Lillard,IND,Under 25.5 PTS+AST,-114,Hit in 4 of his last 4 games,100%,True,2.0
+Damian Lillard,IND,Under 22.5 PTS+REB,-102,Hit in 4 of his last 4 games,100%,True,2.0
+Damian Lillard,IND,Under 29.5 PTS+AST+REB,-118,Hit in 4 of his last 4 games,100%,True,2.0
+Damian Lillard,IND,Under 3.5 Rebounds,100,Hit in 4 of his last 4 games,100%,True,2.0
+Damian Lillard,IND,Under 2.5 3PTM,-104,Hit in 4 of his last 4 games,100%,True,0.0
+Damian Lillard,IND,Under 19.5 Points,-128,Hit in 4 of his last 4 games,100%,True,0.0
+Kyle Kuzma,IND,Under 3.5 Rebounds,102,Hit in 6 of his last 6 games,100%,True,0.0
+Kyle Kuzma,IND,Under 1.5 3PTM,-245,Hit in 7 of his last 7 games vs IND,100%,True,0.0
+Kyle Kuzma,IND,Under 5.5 REB+AST,-118,Hit in 7 of his last 7 games,100%,True,1.0
+Tyrese Haliburton,MIL,Over 15.5 REB+AST,-102,Hit in 4 of his last 4 games,100%,True,23.0
+Tyrese Haliburton,MIL,Over 15.5 REB+AST,-102,Hit in 4 of his last 4 games vs MIL,100%,True,23.0
+Tyrese Haliburton,MIL,Over 4.5 Rebounds,-106,Hit in 4 of his last 4 games,100%,True,8.0
+Tyrese Haliburton,MIL,Over 4.5 Rebounds,-106,Hit in 4 of his last 4 games vs MIL,100%,True,8.0
+Tyrese Haliburton,MIL,Over 0.5 Double Double,-155,Hit in 4 of his last 4 games,100%,True,1.0
+Tyrese Haliburton,MIL,Over 0.5 Double Double,-155,Hit in 5 of his last 5 games vs MIL,100%,True,1.0
+Myles Turner,MIL,Under 5.5 Rebounds,116,Hit in 4 of his last 4 games,100%,True,5.0
+Myles Turner,MIL,Under 5.5 Rebounds,116,Hit in 4 of his last 4 games vs MIL,100%,True,5.0
+Myles Turner,MIL,Under 7.5 REB+AST,-130,Hit in 4 of his last 4 games,100%,False,8.0
+Myles Turner,MIL,Under 7.5 REB+AST,-130,Hit in 4 of his last 4 games vs MIL,100%,False,8.0
+Pascal Siakam,MIL,Over 23.5 PTS+AST,-122,Hit in 7 of his last 7 games vs MIL,100%,False,16.0
+Pascal Siakam,MIL,Over 28.5 PTS+REB,-114,Hit in 5 of his last 5 games vs MIL,100%,False,15.0
+Pascal Siakam,MIL,Over 31.5 PTS+AST+REB,-106,Hit in 5 of his last 5 games vs MIL,100%,False,16.0
+Pascal Siakam,MIL,Over 1.5 3PTM,-118,Hit in 6 of his last 6 games vs MIL,100%,False,0.0
+Pascal Siakam,MIL,Over 21.5 Points,-106,Hit in 5 of his last 5 games vs MIL,100%,False,12.0
+Obi Toppin,MIL,Under 3.5 Rebounds,-154,Hit in 4 of his last 4 games,100%,True,1.0
+Obi Toppin,MIL,Under 3.5 Rebounds,-154,Hit in 6 of his last 6 games vs MIL,100%,True,1.0
+Obi Toppin,MIL,Under 1.5 3PTM,-270,Hit in 6 of his last 6 games,100%,False,3.0
+Obi Toppin,MIL,Under 1.5 Assists,-220,Hit in 4 of his last 4 games,100%,True,1.0
+Nickeil Alexander-Walker,LAL,Over 10.5 PTS+AST+REB,-110,Hit in 15 of his last 16 home games,94%,False,7.0
+Andrew Nembhard,MIL,Under 1.5 3PTM,-250,Hit in 15 of his last 16 games,94%,False,4.0
+Miles McBride,DET,Over 0.5 3PTM,-145,Hit in 14 of his last 15 games,93%,True,1.0
+Mikal Bridges,DET,Over 2.5 Assists,-162,Hit in 14 of his last 15 away games,93%,False,1.0
+Anthony Edwards,LAL,Under 34.5 PTS+REB,-118,Hit in 14 of his last 15 games vs LAL,93%,False,62.0
+Anthony Edwards,LAL,Under 39.5 PTS+AST+REB,-108,Hit in 14 of his last 15 games vs LAL,93%,False,59.0
+Brook Lopez,IND,Over 6.5 Points,100,Hit in 14 of his last 15 games vs IND,93%,True,10.0
+Brook Lopez,IND,Over 7.5 PTS+AST,-105,Hit in 14 of his last 15 games vs IND,93%,True,11.0
+Nickeil Alexander-Walker,LAL,Over 5.5 Points,-115,Hit in 13 of his last 14 home games,93%,True,7.0
+Miles McBride,DET,Over 1.5 Assists,130,Hit in 12 of his last 13 away games,92%,False,0.0
+Damian Lillard,IND,Under 0.5 Blocks,-400,Hit in 12 of his last 13 games vs IND,92%,True,0.0
+Miles McBride,DET,Over 6.5 PTS+AST+REB,-120,Hit in 11 of his last 12 away games,92%,True,7.0
+LeBron James,MIN,Under 14.5 REB+AST,-128,Hit in 10 of his last 11 games,91%,False,20.0
+Franz Wagner,BOS,Under 34.5 PTS+AST+REB,-112,Hit in 10 of his last 11 games vs BOS,91%,False,35.0
+Franz Wagner,BOS,Under 2.5 3PTM,-182,Hit in 10 of his last 11 games vs BOS,91%,True,2.0
+Miles McBride,DET,Over 6.5 PTS+AST+REB,-120,Hit in 18 of his last 20 games,90%,True,7.0
+Anthony Black,BOS,Over 1.5 Assists,-110,Hit in 9 of his last 10 home games,90%,False,0.0
+Anthony Black,BOS,Over 6.5 Points,-102,Hit in 9 of his last 10 home games,90%,True,10.0
+Al Horford,ORL,Under 8.5 Points,-128,Hit in 9 of his last 10 games vs ORL,90%,True,6.0
+Damian Lillard,IND,Under 0.5 Blocks,-400,Hit in 18 of his last 20 games,90%,True,0.0
+Obi Toppin,MIL,Over 10.5 PTS+REB,-122,Hit in 9 of his last 10 away games,90%,True,20.0
+Obi Toppin,MIL,Over 7.5 Points,-108,Hit in 9 of his last 10 away games,90%,True,19.0
+Obi Toppin,MIL,Over 11.5 PTS+AST+REB,-130,Hit in 9 of his last 10 away games,90%,True,20.0
+Donte DiVincenzo,LAL,Over 13.5 PTS+REB,-132,Hit in 17 of his last 19 home games,89%,False,12.0
+Donte DiVincenzo,LAL,Over 17.5 PTS+AST+REB,-114,Hit in 17 of his last 19 home games,89%,False,12.0
+Anthony Black,BOS,Over 10.5 PTS+AST+REB,-110,Hit in 17 of his last 19 games,89%,False,10.0
+Cory Joseph,BOS,Over 6.5 PTS+AST,-138,Hit in 17 of his last 19 games,89%,True,22.0
+Miles McBride,DET,Over 3.5 Points,-120,Hit in 8 of his last 9 away games,89%,True,7.0
+Julius Randle,LAL,Under 0.5 Blocks,-275,Hit in 8 of his last 9 games vs LAL,89%,True,0.0
+Jaden McDaniels,LAL,Under 5.5 Rebounds,-114,Hit in 8 of his last 9 games,89%,False,11.0
+Anthony Edwards,LAL,Under 28.5 Points,-130,Hit in 8 of his last 9 games vs LAL,89%,False,53.0
+Rui Hachimura,MIN,Over 0.5 Assists,-225,Hit in 8 of his last 9 games vs MIN,89%,True,1.0
+Cory Joseph,BOS,Over 6.5 PTS+AST,-138,Hit in 8 of his last 9 home games,89%,True,22.0
+Cory Joseph,BOS,Over 7.5 PTS+REB,-102,Hit in 8 of his last 9 home games,89%,True,19.0
+Cory Joseph,BOS,Under 2.5 Rebounds,-130,Hit in 8 of his last 9 games vs BOS,89%,False,3.0
+Jayson Tatum,ORL,Under 14.5 REB+AST,-106,Hit in 8 of his last 9 games vs ORL,89%,False,17.0
+Jaden McDaniels,LAL,Under 1.5 Steals,-270,Hit in 15 of his last 17 games,88%,True,1.0
+Brook Lopez,IND,Over 0.5 Assists,-190,Hit in 15 of his last 17 games vs IND,88%,True,1.0
+Miles McBride,DET,Over 0.5 3PTM,-145,Hit in 7 of his last 8 games vs DET,88%,True,1.0
+OG Anunoby,DET,Over 6.5 REB+AST,-132,Hit in 7 of his last 8 games,88%,False,2.0
+Paul Reed,NYK,Under 8.5 PTS+AST+REB,100,Hit in 7 of his last 8 games vs NYK,88%,True,2.0
+Donte DiVincenzo,LAL,Under 1.5 Steals,-270,Hit in 7 of his last 8 games,88%,False,5.0
+Jonathan Isaac,BOS,Under 0.5 3PTM,-220,Hit in 14 of his last 16 games,88%,True,0.0
+Payton Pritchard,ORL,Over 12.5 PTS+REB,-130,Hit in 7 of his last 8 games,88%,False,1.0
+Payton Pritchard,ORL,Over 12.5 PTS+REB,-130,Hit in 14 of his last 16 away games,88%,False,1.0
+Kyle Kuzma,IND,Over 9.5 Points,-122,Hit in 7 of his last 8 home games,88%,False,3.0
+Kyle Kuzma,IND,Under 0.5 Blocks,-350,Hit in 7 of his last 8 games vs IND,88%,True,0.0
+Pascal Siakam,MIL,Over 6.5 Rebounds,-154,Hit in 7 of his last 8 games vs MIL,88%,False,3.0
+T.J. McConnell,MIL,Over 3.5 Assists,-144,Hit in 7 of his last 8 games vs MIL,88%,True,6.0
+T.J. McConnell,MIL,Over 6.5 REB+AST,104,Hit in 7 of his last 8 games vs MIL,88%,True,9.0
+Miles McBride,DET,Over 3.5 Points,-120,Hit in 13 of his last 15 games,87%,True,7.0
+Brook Lopez,IND,Over 9.5 PTS+REB,-102,Hit in 13 of his last 15 games vs IND,87%,True,11.0
+Brook Lopez,IND,Over 0.5 Assists,-190,Hit in 13 of his last 15 games,87%,True,1.0
+Brook Lopez,IND,Over 10.5 PTS+AST+REB,-110,Hit in 13 of his last 15 games vs IND,87%,True,11.0
+Jalen Duren,NYK,Over 14.5 PTS+AST,100,Hit in 6 of his last 7 home games,86%,False,10.0
+Malik Beasley,NYK,Under 2.5 Rebounds,-180,Hit in 6 of his last 7 games,86%,False,5.0
+Mikal Bridges,DET,Over 18.5 PTS+REB,-122,Hit in 6 of his last 7 games vs DET,86%,False,18.0
+Mikal Bridges,DET,Over 21.5 PTS+AST+REB,-125,Hit in 6 of his last 7 games vs DET,86%,False,13.0
+Mikal Bridges,DET,Over 0.5 Blocks,-165,Hit in 6 of his last 7 games vs DET,86%,True,1.0
+Jalen Brunson,DET,Over 36.5 PTS+AST,-118,Hit in 6 of his last 7 games vs DET,86%,True,51.0
+Jalen Brunson,DET,Over 32.5 PTS+REB,-120,Hit in 6 of his last 7 games vs DET,86%,True,45.0
+Jalen Brunson,DET,Over 39.5 PTS+AST+REB,-122,Hit in 6 of his last 7 games vs DET,86%,True,51.0
+Jalen Brunson,DET,Under 3.5 Rebounds,-150,Hit in 6 of his last 7 games,86%,False,5.0
+Jalen Brunson,DET,Over 29.5 Points,-113,Hit in 6 of his last 7 games vs DET,86%,True,40.0
+OG Anunoby,DET,Over 1.5 Steals,-146,Hit in 6 of his last 7 games vs DET,86%,True,3.0
+Karl-Anthony Towns,DET,Over 25.5 PTS+AST,-125,Hit in 6 of his last 7 games vs DET,86%,True,38.0
+Karl-Anthony Towns,DET,Over 0.5 Double Double,-240,Hit in 12 of his last 14 games,86%,False,0.0
+Mike Conley,LAL,Under 1.5 3PTM,-220,Hit in 6 of his last 7 games,86%,True,0.0
+Jaden McDaniels,LAL,Under 1.5 Assists,-140,Hit in 6 of his last 7 games vs LAL,86%,False,3.0
+Rudy Gobert,LAL,Over 14.5 PTS+REB,-130,Hit in 6 of his last 7 home games,86%,True,15.0
+Rudy Gobert,LAL,Over 7.5 Rebounds,-108,Hit in 6 of his last 7 home games,86%,True,10.0
+Rudy Gobert,LAL,Over 7.5 Points,100,Hit in 6 of his last 7 home games,86%,False,5.0
+Rudy Gobert,LAL,Over 8.5 REB+AST,-115,Hit in 6 of his last 7 home games,86%,True,10.0
+Rudy Gobert,LAL,Over 8.5 PTS+AST,-105,Hit in 6 of his last 7 home games,86%,False,5.0
+Naz Reid,LAL,Under 17.5 PTS+REB,-118,Hit in 6 of his last 7 games vs LAL,86%,False,20.0
+Anthony Edwards,LAL,Under 33.5 PTS+AST,-118,Hit in 6 of his last 7 games vs LAL,86%,False,59.0
+Austin Reaves,MIN,Over 22.5 PTS+AST,-122,Hit in 6 of his last 7 away games,86%,True,31.0
+Austin Reaves,MIN,Over 18.5 Points,-108,Hit in 6 of his last 7 away games,86%,True,27.0
+Austin Reaves,MIN,Under 0.5 Blocks,-220,Hit in 12 of his last 14 games vs MIN,86%,False,2.0
+Rui Hachimura,MIN,Over 0.5 Assists,-225,Hit in 6 of his last 7 games,86%,True,1.0
+Rudy Gobert,LAL,Over 15.5 PTS+AST+REB,-118,Hit in 6 of his last 7 home games,86%,False,5.0
+Anthony Black,BOS,Over 2.5 Rebounds,-110,Hit in 6 of his last 7 games,86%,True,4.0
+Paolo Banchero,BOS,Over 1.5 3PTM,-166,Hit in 6 of his last 7 games,86%,True,2.0
+Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-250,Hit in 6 of his last 7 games,86%,False,2.0
+Al Horford,ORL,Over 9.5 REB+AST,-110,Hit in 6 of his last 7 away games,86%,False,8.0
+Jayson Tatum,ORL,Over 31.5 PTS+AST,-112,Hit in 6 of his last 7 away games,86%,True,46.0
+Giannis Antetokounmpo,IND,Under 1.5 Blocks,-250,Hit in 12 of his last 14 games,86%,True,0.0
+Kyle Kuzma,IND,Over 13.5 PTS+REB,-120,Hit in 6 of his last 7 home games,86%,False,3.0
+Obi Toppin,MIL,Under 1.5 3PTM,-270,Hit in 6 of his last 7 games vs MIL,86%,False,3.0
+Anthony Edwards,LAL,Under 11.5 REB+AST,-110,Hit in 17 of his last 20 games,85%,False,15.0
+Brook Lopez,IND,Over 6.5 Points,100,Hit in 17 of his last 20 games,85%,True,10.0
+Brook Lopez,IND,Over 7.5 PTS+AST,-105,Hit in 17 of his last 20 games,85%,True,11.0
+Brook Lopez,IND,Over 0.5 Blocks,-125,Hit in 17 of his last 20 home games,85%,True,1.0
+Jaden McDaniels,LAL,Under 19.5 PTS+REB,-108,Hit in 11 of his last 13 games,85%,False,31.0
+Jaden McDaniels,LAL,Under 21.5 PTS+AST+REB,-110,Hit in 11 of his last 13 games,85%,False,23.0
+Bobby Portis,IND,Under 1.5 3PTM,-154,Hit in 11 of his last 13 games vs IND,85%,False,2.0
+Donte DiVincenzo,LAL,Over 13.5 PTS+AST,-125,Hit in 16 of his last 19 home games,84%,False,12.0
+Naz Reid,LAL,Over 1.5 Assists,-118,Hit in 16 of his last 19 home games,84%,True,2.0
+Kyle Kuzma,IND,Over 9.5 Points,-122,Hit in 16 of his last 19 games,84%,False,3.0
+Jalen Duren,NYK,Under 1.5 Blocks,-154,Hit in 10 of his last 12 games vs NYK,83%,False,2.0
+Mikal Bridges,DET,Over 6.5 REB+AST,116,Hit in 10 of his last 12 away games,83%,True,7.0
+Mikal Bridges,DET,Over 18.5 PTS+AST,-120,Hit in 5 of his last 6 games vs DET,83%,False,13.0
+Mikal Bridges,DET,Over 18.5 PTS+AST,-120,Hit in 10 of his last 12 away games,83%,False,13.0
+Mikal Bridges,DET,Over 21.5 PTS+AST+REB,-125,Hit in 10 of his last 12 away games,83%,False,13.0
+Mikal Bridges,DET,Over 15.5 Points,-115,Hit in 5 of his last 6 games vs DET,83%,False,12.0
+Jalen Brunson,DET,Over 6.5 Assists,-148,Hit in 5 of his last 6 games vs DET,83%,True,11.0
+Mitchell Robinson,DET,Over 5.5 Rebounds,-105,Hit in 5 of his last 6 games vs DET,83%,False,3.0
+Karl-Anthony Towns,DET,Under 1.5 3PTM,-120,Hit in 5 of his last 6 games,83%,False,5.0
+Karl-Anthony Towns,DET,Over 0.5 Steals,-210,Hit in 5 of his last 6 games,83%,False,0.0
+Karl-Anthony Towns,DET,Over 0.5 Steals,-210,Hit in 5 of his last 6 games vs DET,83%,False,0.0
+Karl-Anthony Towns,DET,Over 0.5 Blocks,-250,Hit in 5 of his last 6 games,83%,True,1.0
+Karl-Anthony Towns,DET,Over 37.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games vs DET,83%,True,38.0
+Julius Randle,LAL,Over 23.5 PTS+AST,-130,Hit in 5 of his last 6 home games,83%,True,34.0
+Julius Randle,LAL,Under 31.5 PTS+AST+REB,-122,Hit in 5 of his last 6 games vs LAL,83%,False,34.0
+Julius Randle,LAL,Over 19.5 Points,-104,Hit in 5 of his last 6 home games,83%,True,31.0
+Donte DiVincenzo,LAL,Under 10.5 Points,-128,Hit in 5 of his last 6 games,83%,True,10.0
+Jaden McDaniels,LAL,Under 7.5 REB+AST,-145,Hit in 5 of his last 6 games,83%,False,14.0
+Nickeil Alexander-Walker,LAL,Over 2.5 Assists,120,Hit in 5 of his last 6 home games,83%,False,0.0
+Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-225,Hit in 5 of his last 6 games,83%,True,1.0
+Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-225,Hit in 10 of his last 12 games vs LAL,83%,True,1.0
+Nickeil Alexander-Walker,LAL,Over 5.5 Points,-115,Hit in 15 of his last 18 games,83%,True,7.0
+Naz Reid,LAL,Over 1.5 3PTM,-158,Hit in 10 of his last 12 games vs LAL,83%,True,2.0
+Anthony Edwards,LAL,Under 5.5 Assists,-144,Hit in 15 of his last 18 games,83%,False,6.0
+LeBron James,MIN,Under 8.5 Rebounds,-122,Hit in 10 of his last 12 games,83%,False,12.0
+Austin Reaves,MIN,Over 9.5 REB+AST,110,Hit in 5 of his last 6 games vs MIN,83%,True,11.0
+Austin Reaves,MIN,Over 27.5 PTS+AST+REB,-114,Hit in 15 of his last 18 away games,83%,True,31.0
+Austin Reaves,MIN,Over 4.5 Rebounds,-125,Hit in 5 of his last 6 games vs MIN,83%,True,7.0
+Austin Reaves,MIN,Over 2.5 3PTM,-125,Hit in 5 of his last 6 away games,83%,True,5.0
+Austin Reaves,MIN,Under 0.5 Blocks,-220,Hit in 5 of his last 6 games,83%,False,2.0
+Anthony Black,BOS,Over 10.5 PTS+AST+REB,-110,Hit in 5 of his last 6 games vs BOS,83%,False,10.0
+Anthony Black,BOS,Over 2.5 Rebounds,-110,Hit in 5 of his last 6 games vs BOS,83%,True,4.0
+Anthony Black,BOS,Over 6.5 Points,-102,Hit in 5 of his last 6 games,83%,True,10.0
+Paolo Banchero,BOS,Under 13.5 REB+AST,-108,Hit in 10 of his last 12 games vs BOS,83%,True,10.0
+Cory Joseph,BOS,Over 9.5 PTS+AST+REB,-118,Hit in 5 of his last 6 home games,83%,True,22.0
+Cory Joseph,BOS,Under 2.5 Rebounds,-130,Hit in 5 of his last 6 games,83%,False,3.0
+Cory Joseph,BOS,Under 1.5 3PTM,-182,Hit in 5 of his last 6 games,83%,False,2.0
+Cory Joseph,BOS,Under 1.5 3PTM,-182,Hit in 5 of his last 6 games vs BOS,83%,False,2.0
+Franz Wagner,BOS,Under 34.5 PTS+AST+REB,-112,Hit in 5 of his last 6 games,83%,False,35.0
+Franz Wagner,BOS,Under 2.5 3PTM,-182,Hit in 5 of his last 6 games,83%,True,2.0
+Franz Wagner,BOS,Over 1.5 Steals,148,Hit in 5 of his last 6 games,83%,False,0.0
+Franz Wagner,BOS,Under 0.5 Blocks,-200,Hit in 5 of his last 6 games vs BOS,83%,True,0.0
+Jonathan Isaac,BOS,Over 0.5 Assists,-110,Hit in 5 of his last 6 home games,83%,False,0.0
+Kentavious Caldwell-Pope,BOS,Under 1.5 3PTM,-200,Hit in 5 of his last 6 games,83%,False,2.0
+Kentavious Caldwell-Pope,BOS,Under 1.5 Steals,-270,Hit in 5 of his last 6 games,83%,False,2.0
+Jayson Tatum,ORL,Over 0.5 Steals,-210,Hit in 5 of his last 6 games,83%,True,3.0
+Payton Pritchard,ORL,Under 3.5 Rebounds,-154,Hit in 10 of his last 12 games vs ORL,83%,True,1.0
+Payton Pritchard,ORL,Over 9.5 Points,-118,Hit in 5 of his last 6 games,83%,False,0.0
+Bobby Portis,IND,Under 1.5 Assists,-110,Hit in 5 of his last 6 games,83%,True,1.0
+Kyle Kuzma,IND,Under 11.5 PTS+AST,-120,Hit in 5 of his last 6 games vs IND,83%,True,4.0
+Andrew Nembhard,MIL,Under 3.5 Rebounds,-128,Hit in 5 of his last 6 games vs MIL,83%,True,3.0
+Tyrese Haliburton,MIL,Under 3.5 3PTM,-194,Hit in 5 of his last 6 games vs MIL,83%,True,2.0
+Myles Turner,MIL,Under 1.5 3PTM,116,Hit in 5 of his last 6 games,83%,True,1.0
+Pascal Siakam,MIL,Over 23.5 PTS+AST,-122,Hit in 5 of his last 6 games,83%,False,16.0
+Pascal Siakam,MIL,Over 31.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games,83%,False,16.0
+Pascal Siakam,MIL,Over 21.5 Points,-106,Hit in 5 of his last 6 games,83%,False,12.0
+T.J. McConnell,MIL,Over 6.5 Points,-106,Hit in 5 of his last 6 away games,83%,True,17.0
+Aaron Nesmith,MIL,Under 1.5 Assists,-210,Hit in 10 of his last 12 games,83%,True,0.0
+Aaron Nesmith,MIL,Under 0.5 Blocks,-285,Hit in 5 of his last 6 games,83%,False,1.0
+Aaron Nesmith,MIL,Under 0.5 Blocks,-285,Hit in 5 of his last 6 games vs MIL,83%,False,1.0
+Brook Lopez,IND,Over 3.5 REB+AST,-150,Hit in 14 of his last 17 games vs IND,82%,False,2.0
+Jaden McDaniels,LAL,Under 1.5 3PTM,-166,Hit in 9 of his last 11 games,82%,False,2.0
+Jaden McDaniels,LAL,Under 13.5 Points,100,Hit in 9 of his last 11 games,82%,False,20.0
+Austin Reaves,MIN,Over 23.5 PTS+REB,-102,Hit in 9 of his last 11 away games,82%,True,34.0
+Rui Hachimura,MIN,Over 0.5 Assists,-225,Hit in 9 of his last 11 away games,82%,True,1.0
+Franz Wagner,BOS,Under 28.5 PTS+AST,-114,Hit in 9 of his last 11 games vs BOS,82%,False,35.0
+Franz Wagner,BOS,Under 30.5 PTS+REB,-125,Hit in 9 of his last 11 games vs BOS,82%,False,34.0
+Franz Wagner,BOS,Under 24.5 Points,-128,Hit in 9 of his last 11 games vs BOS,82%,False,28.0
+Mike Conley,LAL,Over 6.5 Points,-104,Hit in 13 of his last 16 games vs LAL,81%,False,2.0
+Rudy Gobert,LAL,Over 0.5 Assists,-175,Hit in 13 of his last 16 games,81%,False,0.0
+Mike Conley,LAL,Over 9.5 PTS+AST,-130,Hit in 13 of his last 16 games vs LAL,81%,False,4.0
+Mike Conley,LAL,Over 9.5 PTS+AST,-130,Hit in 13 of his last 16 home games,81%,False,4.0
+Cory Joseph,BOS,Over 7.5 PTS+REB,-102,Hit in 13 of his last 16 games,81%,True,19.0
+Obi Toppin,MIL,Over 11.5 PTS+AST+REB,-130,Hit in 13 of his last 16 games,81%,True,20.0
+T.J. McConnell,MIL,Over 8.5 PTS+REB,-125,Hit in 17 of his last 21 games vs MIL,81%,True,20.0
+Jalen Duren,NYK,Over 22.5 PTS+REB,-120,Hit in 4 of his last 5 home games,80%,True,23.0
+Jalen Duren,NYK,Over 25.5 PTS+AST+REB,-104,Hit in 4 of his last 5 home games,80%,False,10.0
+Cade Cunningham,NYK,Over 1.5 3PTM,-128,Hit in 4 of his last 5 home games,80%,False,0.0
+Cade Cunningham,NYK,Over 0.5 Blocks,-155,Hit in 4 of his last 5 home games,80%,True,4.0
+Malik Beasley,NYK,Under 2.5 Rebounds,-180,Hit in 4 of his last 5 games vs NYK,80%,False,5.0
+Miles McBride,DET,Under 1.5 Rebounds,-200,Hit in 4 of his last 5 games,80%,True,1.0
+Miles McBride,DET,Under 1.5 Rebounds,-200,Hit in 4 of his last 5 games vs DET,80%,True,1.0
+Mikal Bridges,DET,Over 18.5 PTS+REB,-122,Hit in 8 of his last 10 away games,80%,False,18.0
+Mikal Bridges,DET,Over 2.5 Assists,-162,Hit in 16 of his last 20 games,80%,False,1.0
+Mikal Bridges,DET,Over 21.5 PTS+AST+REB,-125,Hit in 16 of his last 20 games,80%,False,13.0
+Jalen Brunson,DET,Under 10.5 REB+AST,-125,Hit in 4 of his last 5 games,80%,False,16.0
+Jalen Brunson,DET,Under 0.5 Blocks,-325,Hit in 8 of his last 10 games,80%,False,1.0
+Jalen Brunson,DET,Under 0.5 Blocks,-325,Hit in 8 of his last 10 games vs DET,80%,False,1.0
+OG Anunoby,DET,Over 19.5 PTS+AST,-102,Hit in 12 of his last 15 games,80%,False,8.0
+OG Anunoby,DET,Over 22.5 PTS+REB,-106,Hit in 12 of his last 15 games,80%,False,10.0
+OG Anunoby,DET,Over 1.5 Assists,-150,Hit in 4 of his last 5 away games,80%,False,0.0
+OG Anunoby,DET,Under 24.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games,80%,True,8.0
+OG Anunoby,DET,Under 24.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games vs DET,80%,True,8.0
+OG Anunoby,DET,Over 2.5 3PTM,140,Hit in 4 of his last 5 away games,80%,False,0.0
+OG Anunoby,DET,Over 17.5 Points,-104,Hit in 12 of his last 15 games,80%,False,8.0
+Mitchell Robinson,DET,Over 5.5 Rebounds,-105,Hit in 4 of his last 5 games,80%,False,3.0
+Karl-Anthony Towns,DET,Over 25.5 PTS+AST,-125,Hit in 4 of his last 5 games,80%,True,38.0
+Karl-Anthony Towns,DET,Over 22.5 Points,-120,Hit in 4 of his last 5 games,80%,True,37.0
+Karl-Anthony Towns,DET,Over 22.5 Points,-120,Hit in 4 of his last 5 games vs DET,80%,True,37.0
+Karl-Anthony Towns,DET,Over 37.5 PTS+AST+REB,-106,Hit in 4 of his last 5 games,80%,True,38.0
+Julius Randle,LAL,Under 11.5 REB+AST,102,Hit in 4 of his last 5 games,80%,True,10.0
+Julius Randle,LAL,Under 31.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games,80%,False,34.0
+Julius Randle,LAL,Under 6.5 Rebounds,118,Hit in 4 of his last 5 games,80%,False,7.0
+Julius Randle,LAL,Under 0.5 Blocks,-275,Hit in 8 of his last 10 games,80%,True,0.0
+Donte DiVincenzo,LAL,Over 13.5 PTS+REB,-132,Hit in 4 of his last 5 games,80%,False,12.0
+Donte DiVincenzo,LAL,Over 17.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games,80%,False,12.0
+Donte DiVincenzo,LAL,Under 2.5 3PTM,-174,Hit in 4 of his last 5 games,80%,True,1.0
+Donte DiVincenzo,LAL,Under 2.5 3PTM,-174,Hit in 4 of his last 5 games vs LAL,80%,True,1.0
+Jaden McDaniels,LAL,Under 1.5 3PTM,-166,Hit in 8 of his last 10 games vs LAL,80%,False,2.0
+Jaden McDaniels,LAL,Over 15.5 PTS+AST,-125,Hit in 4 of his last 5 games vs LAL,80%,True,23.0
+Nickeil Alexander-Walker,LAL,Over 2.5 Assists,120,Hit in 4 of his last 5 games,80%,False,0.0
+Rudy Gobert,LAL,Over 14.5 PTS+REB,-130,Hit in 12 of his last 15 games,80%,True,15.0
+Rudy Gobert,LAL,Over 7.5 Rebounds,-108,Hit in 12 of his last 15 games,80%,True,10.0
+Rudy Gobert,LAL,Over 8.5 REB+AST,-115,Hit in 12 of his last 15 games,80%,True,10.0
+Rudy Gobert,LAL,Over 0.5 Assists,-175,Hit in 16 of his last 20 home games,80%,False,0.0
+Rudy Gobert,LAL,Over 0.5 Blocks,-200,Hit in 4 of his last 5 games,80%,False,0.0
+Naz Reid,LAL,Under 11.5 Points,-118,Hit in 4 of his last 5 games,80%,False,16.0
+Naz Reid,LAL,Under 11.5 Points,-118,Hit in 4 of his last 5 games vs LAL,80%,False,16.0
+Naz Reid,LAL,Under 18.5 PTS+AST+REB,-115,Hit in 4 of his last 5 games vs LAL,80%,True,18.0
+Anthony Edwards,LAL,Under 6.5 Rebounds,-138,Hit in 16 of his last 20 games,80%,False,9.0
+Anthony Edwards,LAL,Over 3.5 3PTM,-152,Hit in 4 of his last 5 home games,80%,True,5.0
+Anthony Edwards,LAL,Under 1.5 Steals,-220,Hit in 4 of his last 5 games vs LAL,80%,True,0.0
+LeBron James,MIN,Over 29.5 PTS+AST,-120,Hit in 4 of his last 5 away games,80%,True,39.0
+LeBron James,MIN,Under 1.5 3PTM,116,Hit in 4 of his last 5 games,80%,False,2.0
+Rui Hachimura,MIN,Under 6.5 REB+AST,-140,Hit in 12 of his last 15 games,80%,True,6.0
+Dorian Finney-Smith,MIN,Under 1.5 3PTM,-122,Hit in 4 of his last 5 games vs MIN,80%,False,2.0
+Dorian Finney-Smith,MIN,Over 6.5 Points,-120,Hit in 4 of his last 5 away games,80%,True,10.0
+Dorian Finney-Smith,MIN,Over 11.5 PTS+AST+REB,-130,Hit in 4 of his last 5 away games,80%,True,16.0
+Rudy Gobert,LAL,Over 15.5 PTS+AST+REB,-118,Hit in 12 of his last 15 games,80%,False,5.0
+Anthony Black,BOS,Over 1.5 Assists,-110,Hit in 16 of his last 20 games,80%,False,0.0
+Cory Joseph,BOS,Over 4.5 Points,-130,Hit in 4 of his last 5 home games,80%,True,16.0
+Franz Wagner,BOS,Over 10.5 REB+AST,-102,Hit in 4 of his last 5 home games,80%,True,13.0
+Franz Wagner,BOS,Under 0.5 Blocks,-200,Hit in 16 of his last 20 games,80%,True,0.0
+Kentavious Caldwell-Pope,BOS,Under 1.5 3PTM,-200,Hit in 4 of his last 5 games vs BOS,80%,False,2.0
+Kentavious Caldwell-Pope,BOS,Under 1.5 Steals,-270,Hit in 4 of his last 5 games vs BOS,80%,False,2.0
+Kentavious Caldwell-Pope,BOS,Under 4.5 REB+AST,-155,Hit in 4 of his last 5 games vs BOS,80%,False,6.0
+Kentavious Caldwell-Pope,BOS,Under 11.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games vs BOS,80%,False,16.0
+Jayson Tatum,ORL,Over 0.5 Blocks,-120,Hit in 4 of his last 5 games,80%,False,0.0
+Al Horford,ORL,Under 15.5 PTS+REB,-104,Hit in 8 of his last 10 games vs ORL,80%,True,12.0
+Al Horford,ORL,Under 7.5 Rebounds,-132,Hit in 8 of his last 10 games vs ORL,80%,True,6.0
+Al Horford,ORL,Over 9.5 REB+AST,-110,Hit in 12 of his last 15 games,80%,False,8.0
+Al Horford,ORL,Under 17.5 PTS+AST+REB,-110,Hit in 8 of his last 10 games vs ORL,80%,True,8.0
+Payton Pritchard,ORL,Under 3.5 Rebounds,-154,Hit in 4 of his last 5 games,80%,True,1.0
+Giannis Antetokounmpo,IND,Under 12.5 Rebounds,108,Hit in 4 of his last 5 games,80%,False,15.0
+Brook Lopez,IND,Over 9.5 PTS+REB,-102,Hit in 16 of his last 20 games,80%,True,11.0
+Brook Lopez,IND,Over 9.5 PTS+REB,-102,Hit in 16 of his last 20 home games,80%,True,11.0
+Brook Lopez,IND,Under 1.5 3PTM,-270,Hit in 4 of his last 5 games,80%,False,2.0
+Brook Lopez,IND,Over 10.5 PTS+AST+REB,-110,Hit in 16 of his last 20 games,80%,True,11.0
+Damian Lillard,IND,Under 22.5 PTS+REB,-102,Hit in 4 of his last 5 games vs IND,80%,True,2.0
+Damian Lillard,IND,Under 29.5 PTS+AST+REB,-118,Hit in 4 of his last 5 games vs IND,80%,True,2.0
+Damian Lillard,IND,Under 19.5 Points,-128,Hit in 4 of his last 5 games vs IND,80%,True,0.0
+Kyle Kuzma,IND,Over 15.5 PTS+AST+REB,-115,Hit in 16 of his last 20 home games,80%,False,4.0
+Andrew Nembhard,MIL,Over 7.5 REB+AST,-136,Hit in 12 of his last 15 games,80%,False,5.0
+Andrew Nembhard,MIL,Over 4.5 Assists,106,Hit in 4 of his last 5 games,80%,False,2.0
+Andrew Nembhard,MIL,Over 4.5 Assists,106,Hit in 4 of his last 5 away games,80%,False,2.0
+Andrew Nembhard,MIL,Under 3.5 Rebounds,-128,Hit in 4 of his last 5 games,80%,True,3.0
+Tyrese Haliburton,MIL,Under 29.5 PTS+AST,-120,Hit in 8 of his last 10 games vs MIL,80%,False,36.0
+Tyrese Haliburton,MIL,Under 33.5 PTS+AST+REB,-108,Hit in 8 of his last 10 games vs MIL,80%,False,36.0
+Tyrese Haliburton,MIL,Under 0.5 Blocks,-190,Hit in 8 of his last 10 games vs MIL,80%,True,0.0
+Myles Turner,MIL,Under 20.5 PTS+REB,-114,Hit in 4 of his last 5 games,80%,False,30.0
+Myles Turner,MIL,Under 20.5 PTS+REB,-114,Hit in 4 of his last 5 games vs MIL,80%,False,30.0
+Myles Turner,MIL,Under 21.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games,80%,False,28.0
+Myles Turner,MIL,Under 21.5 PTS+AST+REB,-105,Hit in 4 of his last 5 games vs MIL,80%,False,28.0
+Pascal Siakam,MIL,Over 28.5 PTS+REB,-114,Hit in 4 of his last 5 games,80%,False,15.0
+Pascal Siakam,MIL,Over 6.5 Rebounds,-154,Hit in 4 of his last 5 games,80%,False,3.0
+Obi Toppin,MIL,Under 1.5 Assists,-220,Hit in 4 of his last 5 games vs MIL,80%,True,1.0
+Miles McBride,DET,Over 1.5 Assists,130,Hit in 15 of his last 19 games,79%,False,0.0
+Mike Conley,LAL,Over 6.5 Points,-104,Hit in 11 of his last 14 home games,79%,False,2.0
+Jaden McDaniels,LAL,Under 7.5 REB+AST,-145,Hit in 11 of his last 14 games vs LAL,79%,False,14.0
+Myles Turner,MIL,Over 15.5 PTS+AST,-130,Hit in 11 of his last 14 games vs MIL,79%,True,28.0
+Cade Cunningham,NYK,Over 1.5 3PTM,-128,Hit in 7 of his last 9 games vs NYK,78%,False,0.0
+Mikal Bridges,DET,Over 1.5 3PTM,-128,Hit in 7 of his last 9 games vs DET,78%,True,2.0
+Paul Reed,NYK,Under 4.5 Points,-150,Hit in 7 of his last 9 games vs NYK,78%,True,2.0
+Mike Conley,LAL,Over 3.5 Assists,104,Hit in 14 of his last 18 home games,78%,False,2.0
+Nickeil Alexander-Walker,LAL,Over 10.5 PTS+AST+REB,-110,Hit in 14 of his last 18 games,78%,False,7.0
+Rudy Gobert,LAL,Over 0.5 Blocks,-200,Hit in 7 of his last 9 games vs LAL,78%,False,0.0
+Naz Reid,LAL,Over 5.5 Rebounds,-114,Hit in 14 of his last 18 home games,78%,False,4.0
+Anthony Edwards,LAL,Over 0.5 Blocks,100,Hit in 7 of his last 9 games,78%,True,1.0
+Austin Reaves,MIN,Over 2.5 3PTM,-125,Hit in 7 of his last 9 games,78%,True,5.0
+Dorian Finney-Smith,MIN,Over 6.5 Points,-120,Hit in 7 of his last 9 games vs MIN,78%,True,10.0
+Jayson Tatum,ORL,Under 8.5 Rebounds,106,Hit in 7 of his last 9 games vs ORL,78%,False,14.0
+Jayson Tatum,ORL,Over 25.5 Points,-118,Hit in 7 of his last 9 games vs ORL,78%,True,43.0
+Jayson Tatum,ORL,Over 0.5 Steals,-210,Hit in 7 of his last 9 games vs ORL,78%,True,3.0
+Brook Lopez,IND,Under 1.5 3PTM,-270,Hit in 7 of his last 9 games vs IND,78%,False,2.0
+Brook Lopez,IND,Over 3.5 REB+AST,-150,Hit in 14 of his last 18 games,78%,False,2.0
+Kyle Kuzma,IND,Over 13.5 PTS+REB,-120,Hit in 14 of his last 18 games,78%,False,3.0
+Kyle Kuzma,IND,Under 0.5 Blocks,-350,Hit in 7 of his last 9 games,78%,True,0.0
+Tyrese Haliburton,MIL,Under 18.5 Points,-125,Hit in 7 of his last 9 games vs MIL,78%,False,21.0
+Myles Turner,MIL,Over 1.5 Blocks,-138,Hit in 7 of his last 9 games,78%,True,4.0
+Pascal Siakam,MIL,Under 0.5 Blocks,-200,Hit in 7 of his last 9 games vs MIL,78%,False,1.0
+Mikal Bridges,DET,Over 2.5 Assists,-162,Hit in 10 of his last 13 games vs DET,77%,False,1.0
+OG Anunoby,DET,Over 0.5 Blocks,-250,Hit in 10 of his last 13 away games,77%,False,0.0
+Mike Conley,LAL,Over 3.5 Assists,104,Hit in 10 of his last 13 games vs LAL,77%,False,2.0
+Anthony Edwards,LAL,Under 1.5 Steals,-220,Hit in 10 of his last 13 games,77%,True,0.0
+Brook Lopez,IND,Over 0.5 Blocks,-125,Hit in 10 of his last 13 games,77%,True,1.0
+T.J. McConnell,MIL,Over 8.5 PTS+REB,-125,Hit in 10 of his last 13 games,77%,True,20.0
+Brook Lopez,IND,Over 2.5 Rebounds,-148,Hit in 13 of his last 17 games vs IND,76%,False,1.0
+T.J. McConnell,MIL,Over 12.5 PTS+AST+REB,-130,Hit in 16 of his last 21 games vs MIL,76%,True,23.0
+Jalen Duren,NYK,Under 13.5 REB+AST,-115,Hit in 3 of his last 4 games,75%,False,21.0
+Jalen Duren,NYK,Over 14.5 PTS+AST,100,Hit in 15 of his last 20 games,75%,False,10.0
+Jalen Duren,NYK,Over 22.5 PTS+REB,-120,Hit in 3 of his last 4 games vs NYK,75%,True,23.0
+Jalen Duren,NYK,Over 2.5 Assists,124,Hit in 3 of his last 4 home games,75%,True,4.0
+Jalen Duren,NYK,Over 25.5 PTS+AST+REB,-104,Hit in 3 of his last 4 games vs NYK,75%,False,10.0
+Jalen Duren,NYK,Under 11.5 Rebounds,-140,Hit in 3 of his last 4 games,75%,False,17.0
+Jalen Duren,NYK,Over 11.5 Points,-118,Hit in 3 of his last 4 games vs NYK,75%,False,6.0
+Jalen Duren,NYK,Over 11.5 Points,-118,Hit in 15 of his last 20 home games,75%,False,6.0
+Cade Cunningham,NYK,Over 15.5 REB+AST,-136,Hit in 3 of his last 4 games,75%,True,20.0
+Cade Cunningham,NYK,Over 37.5 PTS+AST,-108,Hit in 3 of his last 4 home games,75%,False,35.0
+Cade Cunningham,NYK,Over 34.5 PTS+REB,-115,Hit in 3 of his last 4 home games,75%,True,35.0
+Cade Cunningham,NYK,Over 9.5 Assists,-106,Hit in 3 of his last 4 games,75%,True,10.0
+Cade Cunningham,NYK,Over 27.5 Points,-115,Hit in 3 of his last 4 home games,75%,False,25.0
+Cade Cunningham,NYK,Under 1.5 Steals,-270,Hit in 6 of his last 8 games vs NYK,75%,True,0.0
+Malik Beasley,NYK,Under 3.5 3PTM,-148,Hit in 3 of his last 4 games vs NYK,75%,True,3.0
+Malik Beasley,NYK,Under 13.5 Points,-113,Hit in 3 of his last 4 games vs NYK,75%,False,19.0
+Malik Beasley,NYK,Under 17.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games vs NYK,75%,False,20.0
+Miles McBride,DET,Over 1.5 Assists,130,Hit in 6 of his last 8 games vs DET,75%,False,0.0
+Mikal Bridges,DET,Over 18.5 PTS+AST,-120,Hit in 15 of his last 20 games,75%,False,13.0
+Mikal Bridges,DET,Over 18.5 PTS+REB,-122,Hit in 15 of his last 20 games,75%,False,18.0
+Mikal Bridges,DET,Over 15.5 Points,-115,Hit in 3 of his last 4 away games,75%,False,12.0
+Jalen Brunson,DET,Under 10.5 REB+AST,-125,Hit in 3 of his last 4 games vs DET,75%,False,16.0
+Jalen Brunson,DET,Over 36.5 PTS+AST,-118,Hit in 3 of his last 4 away games,75%,True,51.0
+Jalen Brunson,DET,Over 32.5 PTS+REB,-120,Hit in 3 of his last 4 away games,75%,True,45.0
+Jalen Brunson,DET,Over 39.5 PTS+AST+REB,-122,Hit in 3 of his last 4 away games,75%,True,51.0
+Jalen Brunson,DET,Under 3.5 Rebounds,-150,Hit in 3 of his last 4 games vs DET,75%,False,5.0
+Jalen Brunson,DET,Over 29.5 Points,-113,Hit in 3 of his last 4 away games,75%,True,40.0
+Karl-Anthony Towns,DET,Under 1.5 3PTM,-120,Hit in 3 of his last 4 games vs DET,75%,False,5.0
+Malik Beasley,NYK,Under 15.5 PTS+REB,-106,Hit in 3 of his last 4 games vs NYK,75%,False,24.0
+Paul Reed,NYK,Under 0.5 Assists,-105,Hit in 3 of his last 4 games,75%,True,0.0
+Paul Reed,NYK,Under 0.5 Assists,-105,Hit in 12 of his last 16 games vs NYK,75%,True,0.0
+Paul Reed,NYK,Under 3.5 Rebounds,105,Hit in 6 of his last 8 games vs NYK,75%,False,4.0
+Julius Randle,LAL,Over 23.5 PTS+AST,-130,Hit in 3 of his last 4 games vs LAL,75%,True,34.0
+Julius Randle,LAL,Over 4.5 Assists,-125,Hit in 3 of his last 4 games,75%,False,3.0
+Julius Randle,LAL,Over 19.5 Points,-104,Hit in 3 of his last 4 games vs LAL,75%,True,31.0
+Donte DiVincenzo,LAL,Over 7.5 REB+AST,114,Hit in 3 of his last 4 games vs LAL,75%,False,4.0
+Donte DiVincenzo,LAL,Over 13.5 PTS+REB,-132,Hit in 3 of his last 4 games vs LAL,75%,False,12.0
+Donte DiVincenzo,LAL,Over 3.5 Assists,104,Hit in 3 of his last 4 games vs LAL,75%,False,2.0
+Donte DiVincenzo,LAL,Over 17.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games vs LAL,75%,False,12.0
+Donte DiVincenzo,LAL,Over 3.5 Rebounds,-120,Hit in 3 of his last 4 games vs LAL,75%,False,2.0
+Donte DiVincenzo,LAL,Under 1.5 Steals,-270,Hit in 3 of his last 4 games vs LAL,75%,False,5.0
+Jaden McDaniels,LAL,Under 1.5 Assists,-140,Hit in 3 of his last 4 games,75%,False,3.0
+Jaden McDaniels,LAL,Under 0.5 Blocks,135,Hit in 3 of his last 4 games vs LAL,75%,True,0.0
+Nickeil Alexander-Walker,LAL,Under 2.5 Rebounds,-145,Hit in 3 of his last 4 games vs LAL,75%,True,1.0
+Rudy Gobert,LAL,Over 14.5 PTS+REB,-130,Hit in 9 of his last 12 games vs LAL,75%,True,15.0
+Rudy Gobert,LAL,Over 7.5 Rebounds,-108,Hit in 9 of his last 12 games vs LAL,75%,True,10.0
+Rudy Gobert,LAL,Over 7.5 Points,100,Hit in 9 of his last 12 games vs LAL,75%,False,5.0
+Rudy Gobert,LAL,Over 0.5 Double Double,500,Hit in 9 of his last 12 games vs LAL,75%,False,0.0
+Rudy Gobert,LAL,Over 8.5 REB+AST,-115,Hit in 9 of his last 12 games vs LAL,75%,True,10.0
+Rudy Gobert,LAL,Over 8.5 PTS+AST,-105,Hit in 9 of his last 12 games vs LAL,75%,False,5.0
+Rudy Gobert,LAL,Over 0.5 Assists,-175,Hit in 9 of his last 12 games vs LAL,75%,False,0.0
+Naz Reid,LAL,Over 1.5 3PTM,-158,Hit in 15 of his last 20 home games,75%,True,2.0
+Naz Reid,LAL,Over 1.5 Assists,-118,Hit in 15 of his last 20 games,75%,True,2.0
+Anthony Edwards,LAL,Under 11.5 REB+AST,-110,Hit in 6 of his last 8 games vs LAL,75%,False,15.0
+Anthony Edwards,LAL,Over 3.5 3PTM,-152,Hit in 9 of his last 12 games,75%,True,5.0
+LeBron James,MIN,Under 32.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%,False,43.0
+LeBron James,MIN,Over 5.5 Assists,-122,Hit in 15 of his last 20 away games,75%,True,8.0
+LeBron James,MIN,Under 38.5 PTS+AST+REB,-118,Hit in 6 of his last 8 games,75%,False,39.0
+LeBron James,MIN,Over 0.5 Double Double,115,Hit in 3 of his last 4 games vs MIN,75%,True,1.0
+Austin Reaves,MIN,Over 9.5 REB+AST,110,Hit in 3 of his last 4 games,75%,True,11.0
+Austin Reaves,MIN,Over 22.5 PTS+AST,-122,Hit in 15 of his last 20 games,75%,True,31.0
+Austin Reaves,MIN,Over 23.5 PTS+REB,-102,Hit in 15 of his last 20 games,75%,True,34.0
+Austin Reaves,MIN,Over 27.5 PTS+AST+REB,-114,Hit in 15 of his last 20 games,75%,True,31.0
+Austin Reaves,MIN,Over 4.5 Rebounds,-125,Hit in 3 of his last 4 games,75%,True,7.0
+Austin Reaves,MIN,Over 18.5 Points,-108,Hit in 15 of his last 20 games,75%,True,27.0
+Rui Hachimura,MIN,Under 6.5 REB+AST,-140,Hit in 9 of his last 12 games vs MIN,75%,True,6.0
+Rui Hachimura,MIN,Under 0.5 Blocks,-160,Hit in 9 of his last 12 games vs MIN,75%,True,0.0
+Dorian Finney-Smith,MIN,Under 10.5 PTS+REB,-106,Hit in 3 of his last 4 games vs MIN,75%,False,18.0
+Dorian Finney-Smith,MIN,Under 3.5 Rebounds,102,Hit in 3 of his last 4 games,75%,False,8.0
+Dorian Finney-Smith,MIN,Under 3.5 Rebounds,102,Hit in 3 of his last 4 games vs MIN,75%,False,8.0
+Dorian Finney-Smith,MIN,Over 6.5 Points,-120,Hit in 3 of his last 4 games,75%,True,10.0
+Dorian Finney-Smith,MIN,Over 1.5 Assists,165,Hit in 6 of his last 8 games,75%,True,6.0
+Rudy Gobert,LAL,Over 15.5 PTS+AST+REB,-118,Hit in 9 of his last 12 games vs LAL,75%,False,5.0
+Mike Conley,LAL,Over 9.5 PTS+AST,-130,Hit in 15 of his last 20 games,75%,False,4.0
+LeBron James,MIN,Under 24.5 Points,-132,Hit in 3 of his last 4 games,75%,False,31.0
+Anthony Black,BOS,Over 0.5 3PTM,-105,Hit in 6 of his last 8 home games,75%,False,0.0
+Paolo Banchero,BOS,Under 34.5 PTS+AST,-125,Hit in 9 of his last 12 games vs BOS,75%,False,38.0
+Paolo Banchero,BOS,Under 38.5 PTS+REB,-125,Hit in 9 of his last 12 games vs BOS,75%,False,42.0
+Paolo Banchero,BOS,Under 43.5 PTS+AST+REB,-122,Hit in 9 of his last 12 games vs BOS,75%,True,38.0
+Paolo Banchero,BOS,Over 8.5 Rebounds,-122,Hit in 6 of his last 8 games,75%,False,7.0
+Paolo Banchero,BOS,Over 1.5 3PTM,-166,Hit in 3 of his last 4 home games,75%,True,2.0
+Paolo Banchero,BOS,Over 0.5 Blocks,-110,Hit in 3 of his last 4 games,75%,True,1.0
+Cory Joseph,BOS,Under 2.5 Assists,-172,Hit in 3 of his last 4 games,75%,False,6.0
+Cory Joseph,BOS,Over 9.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games,75%,True,22.0
+Cory Joseph,BOS,Over 4.5 Points,-130,Hit in 12 of his last 16 games,75%,True,16.0
+Franz Wagner,BOS,Under 30.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%,False,34.0
+Franz Wagner,BOS,Over 4.5 Assists,120,Hit in 6 of his last 8 games vs BOS,75%,True,7.0
+Franz Wagner,BOS,Over 1.5 Steals,148,Hit in 3 of his last 4 games vs BOS,75%,False,0.0
+Jonathan Isaac,BOS,Over 0.5 Assists,-110,Hit in 6 of his last 8 games,75%,False,0.0
+Jonathan Isaac,BOS,Over 8.5 PTS+AST+REB,-105,Hit in 6 of his last 8 games,75%,False,4.0
+Jonathan Isaac,BOS,Under 0.5 3PTM,-220,Hit in 3 of his last 4 games vs BOS,75%,True,0.0
+Jonathan Isaac,BOS,Under 3.5 Points,-130,Hit in 3 of his last 4 games vs BOS,75%,False,4.0
+Kentavious Caldwell-Pope,BOS,Over 2.5 Rebounds,-140,Hit in 3 of his last 4 games,75%,False,2.0
+Kentavious Caldwell-Pope,BOS,Over 2.5 Rebounds,-140,Hit in 6 of his last 8 home games,75%,False,2.0
+Kentavious Caldwell-Pope,BOS,Over 1.5 Assists,100,Hit in 3 of his last 4 games,75%,True,4.0
+Kentavious Caldwell-Pope,BOS,Over 1.5 Assists,100,Hit in 3 of his last 4 home games,75%,True,4.0
+Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-250,Hit in 3 of his last 4 games vs BOS,75%,False,2.0
+Jayson Tatum,ORL,Under 5.5 Assists,-112,Hit in 3 of his last 4 games,75%,True,3.0
+Jayson Tatum,ORL,Over 2.5 3PTM,-140,Hit in 3 of his last 4 games,75%,True,3.0
+Jayson Tatum,ORL,Over 2.5 3PTM,-140,Hit in 3 of his last 4 games vs ORL,75%,True,3.0
+Jayson Tatum,ORL,Over 25.5 Points,-118,Hit in 3 of his last 4 away games,75%,True,43.0
+Al Horford,ORL,Over 0.5 Blocks,-190,Hit in 3 of his last 4 games,75%,True,5.0
+Al Horford,ORL,Over 0.5 Blocks,-190,Hit in 3 of his last 4 away games,75%,True,5.0
+Payton Pritchard,ORL,Over 12.5 PTS+REB,-130,Hit in 3 of his last 4 games vs ORL,75%,False,1.0
+Payton Pritchard,ORL,Over 9.5 Points,-118,Hit in 3 of his last 4 games vs ORL,75%,False,0.0
+Giannis Antetokounmpo,IND,Under 19.5 REB+AST,-104,Hit in 3 of his last 4 games vs IND,75%,False,21.0
+Giannis Antetokounmpo,IND,Over 40.5 PTS+AST,-120,Hit in 3 of his last 4 games,75%,False,34.0
+Giannis Antetokounmpo,IND,Over 40.5 PTS+AST,-120,Hit in 3 of his last 4 games vs IND,75%,False,34.0
+Giannis Antetokounmpo,IND,Under 12.5 Rebounds,108,Hit in 6 of his last 8 games vs IND,75%,False,15.0
+Giannis Antetokounmpo,IND,Over 53.5 PTS+AST+REB,-110,Hit in 3 of his last 4 games,75%,False,34.0
+Giannis Antetokounmpo,IND,Under 1.5 Blocks,-250,Hit in 6 of his last 8 games vs IND,75%,True,0.0
+Brook Lopez,IND,Over 6.5 Points,100,Hit in 15 of his last 20 home games,75%,True,10.0
+Brook Lopez,IND,Over 7.5 PTS+AST,-105,Hit in 15 of his last 20 home games,75%,True,11.0
+Brook Lopez,IND,Over 10.5 PTS+AST+REB,-110,Hit in 15 of his last 20 home games,75%,True,11.0
+Damian Lillard,IND,Under 9.5 REB+AST,114,Hit in 3 of his last 4 games,75%,True,4.0
+Damian Lillard,IND,Under 6.5 Assists,-146,Hit in 3 of his last 4 games,75%,True,2.0
+Damian Lillard,IND,Under 3.5 Rebounds,100,Hit in 3 of his last 4 games vs IND,75%,True,2.0
+Damian Lillard,IND,Under 2.5 3PTM,-104,Hit in 3 of his last 4 games vs IND,75%,True,0.0
+Bobby Portis,IND,Under 1.5 3PTM,-154,Hit in 3 of his last 4 games,75%,False,2.0
+Kyle Kuzma,IND,Under 1.5 Assists,-135,Hit in 3 of his last 4 games vs IND,75%,True,1.0
+Andrew Nembhard,MIL,Under 1.5 3PTM,-250,Hit in 3 of his last 4 games vs MIL,75%,False,4.0
+Tyrese Haliburton,MIL,Over 10.5 Assists,-125,Hit in 3 of his last 4 games vs MIL,75%,True,15.0
+Myles Turner,MIL,Under 1.5 Assists,-165,Hit in 6 of his last 8 games,75%,False,3.0
+Pascal Siakam,MIL,Under 9.5 REB+AST,-110,Hit in 3 of his last 4 games vs MIL,75%,True,7.0
+Pascal Siakam,MIL,Under 2.5 Assists,-130,Hit in 3 of his last 4 games,75%,False,4.0
+Pascal Siakam,MIL,Under 2.5 Assists,-130,Hit in 3 of his last 4 games vs MIL,75%,False,4.0
+T.J. McConnell,MIL,Under 10.5 PTS+AST,-118,Hit in 3 of his last 4 games,75%,False,23.0
+T.J. McConnell,MIL,Under 10.5 PTS+AST,-118,Hit in 3 of his last 4 games vs MIL,75%,False,23.0
+Aaron Nesmith,MIL,Over 16.5 PTS+REB,-130,Hit in 3 of his last 4 games vs MIL,75%,True,23.0
+Aaron Nesmith,MIL,Under 4.5 Rebounds,-130,Hit in 6 of his last 8 games vs MIL,75%,False,5.0
+Aaron Nesmith,MIL,Over 2.5 3PTM,152,Hit in 3 of his last 4 games vs MIL,75%,False,2.0
+Aaron Nesmith,MIL,Over 2.5 3PTM,152,Hit in 6 of his last 8 away games,75%,False,2.0
+Aaron Nesmith,MIL,Over 12.5 Points,-112,Hit in 3 of his last 4 games vs MIL,75%,True,18.0
+Aaron Nesmith,MIL,Over 5.5 REB+AST,-140,Hit in 3 of his last 4 games vs MIL,75%,False,5.0
+Aaron Nesmith,MIL,Over 14.5 PTS+AST,105,Hit in 3 of his last 4 games vs MIL,75%,True,18.0
+Aaron Nesmith,MIL,Over 19.5 PTS+AST+REB,-115,Hit in 3 of his last 4 games vs MIL,75%,False,18.0
+Jalen Duren,NYK,Under 11.5 Rebounds,-140,NYK rank 2nd in REB versus C,2nd,False,17.0
+Cade Cunningham,NYK,Under 6.5 Rebounds,-113,NYK rank 2nd in REB against,2nd,False,10.0
+Cade Cunningham,NYK,Under 1.5 Steals,-270,NYK rank 3rd in STL versus PG,3rd,True,0.0
+Malik Beasley,NYK,Under 2.5 Rebounds,-180,NYK rank 2nd in REB against,2nd,False,5.0
+OG Anunoby,DET,Over 2.5 3PTM,140,DET rank 28th in 3PTM versus PF,28th,False,0.0
+OG Anunoby,DET,Over 17.5 Points,-104,DET rank 28th in PTS versus PF,28th,False,8.0
+Mitchell Robinson,DET,Over 0.5 Assists,130,DET rank 27th in AST versus C,27th,False,0.0
+Karl-Anthony Towns,DET,Over 2.5 Assists,-150,DET rank 27th in AST versus C,27th,False,1.0
+Karl-Anthony Towns,DET,Under 11.5 Rebounds,-125,DET rank 5th in REB versus C,5th,True,9.0
+Paul Reed,NYK,Under 3.5 Rebounds,105,NYK rank 2nd in REB versus C,2nd,False,4.0
+Paul Reed,NYK,Under 4.5 Points,-150,NYK rank 5th in PTS versus C,5th,True,2.0
+Julius Randle,LAL,Under 0.5 Blocks,-275,LAL rank 4th in BLK against,4th,True,0.0
+Jaden McDaniels,LAL,Under 5.5 Rebounds,-114,LAL rank 4th in REB versus PF,4th,False,11.0
+Jaden McDaniels,LAL,Under 0.5 Blocks,135,LAL rank 4th in BLK against,4th,True,0.0
+Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-225,LAL rank 27th in 3PTM versus SG,27th,True,1.0
+Anthony Edwards,LAL,Over 3.5 3PTM,-152,LAL rank 27th in 3PTM versus SG,27th,True,5.0
+LeBron James,MIN,Under 1.5 3PTM,116,MIN rank 3rd in 3PTM against,3rd,False,2.0
+LeBron James,MIN,Over 1.5 Steals,178,MIN rank 29th in STL versus SF,29th,True,3.0
+Austin Reaves,MIN,Under 4.5 Assists,-136,MIN rank 5th in AST against,5th,True,4.0
+Rui Hachimura,MIN,Under 5.5 Rebounds,-136,MIN rank 5th in REB versus PF,5th,True,5.0
+Rui Hachimura,MIN,Under 11.5 Points,-122,MIN rank 5th in PTS against,5th,False,33.0
+Dorian Finney-Smith,MIN,Under 3.5 Rebounds,102,MIN rank 5th in REB versus PF,5th,False,8.0
+Dorian Finney-Smith,MIN,Under 1.5 3PTM,-122,MIN rank 3rd in 3PTM against,3rd,False,2.0
+Julius Randle,LAL,Under 6.5 Rebounds,118,LAL rank 4th in REB versus PF,4th,False,7.0
+LeBron James,MIN,Under 24.5 Points,-132,MIN rank 5th in PTS against,5th,False,31.0
+Anthony Black,BOS,Over 2.5 Rebounds,-110,BOS rank 28th in REB versus PG,28th,True,4.0
+Anthony Black,BOS,Over 6.5 Points,-102,BOS rank 28th in PTS versus PG,28th,True,10.0
+Paolo Banchero,BOS,Under 4.5 Assists,102,BOS rank 3rd in AST against,3rd,True,3.0
+Paolo Banchero,BOS,Under 28.5 Points,-102,BOS rank 2nd in PTS against,2nd,False,35.0
+Cory Joseph,BOS,Under 2.5 Assists,-172,BOS rank 3rd in AST against,3rd,False,6.0
+Cory Joseph,BOS,Over 4.5 Points,-130,BOS rank 28th in PTS versus PG,28th,True,16.0
+Franz Wagner,BOS,Under 24.5 Points,-128,BOS rank 4th in PTS versus SF,4th,False,28.0
+Franz Wagner,BOS,Under 0.5 Blocks,-200,BOS rank 4th in BLK versus SF,4th,True,0.0
+Jonathan Isaac,BOS,Under 3.5 Points,-130,BOS rank 2nd in PTS against,2nd,False,4.0
+Kentavious Caldwell-Pope,BOS,Under 1.5 3PTM,-200,BOS rank 2nd in 3PTM versus SG,2nd,False,2.0
+Kentavious Caldwell-Pope,BOS,Under 7.5 Points,-128,BOS rank 1st in PTS versus SG,1st,False,12.0
+Kentavious Caldwell-Pope,BOS,Under 1.5 Steals,-270,BOS rank 4th in STL versus SG,4th,False,2.0
+Kentavious Caldwell-Pope,BOS,Under 0.5 Blocks,-250,BOS rank 4th in BLK versus SG,4th,False,2.0
+Jayson Tatum,ORL,Under 5.5 Assists,-112,ORL rank 1st in AST versus PF,1st,True,3.0
+Jayson Tatum,ORL,Under 8.5 Rebounds,106,ORL rank 3rd in REB against,3rd,False,14.0
+Al Horford,ORL,Under 7.5 Rebounds,-132,ORL rank 4th in REB versus C,4th,True,6.0
+Al Horford,ORL,Under 8.5 Points,-128,ORL rank 1st in PTS against,1st,True,6.0
+Al Horford,ORL,Under 2.5 Assists,-190,ORL rank 2nd in AST versus C,2nd,True,2.0
+Payton Pritchard,ORL,Under 3.5 Rebounds,-154,ORL rank 5th in REB versus PG,5th,True,1.0
+Bobby Portis,IND,Over 8.5 Rebounds,-140,IND rank 26th in REB versus PF,26th,False,3.0
+Tyrese Haliburton,MIL,Over 4.5 Rebounds,-106,MIL rank 29th in REB versus PG,29th,True,8.0
+Tyrese Haliburton,MIL,Under 0.5 Blocks,-190,MIL rank 2nd in BLK against,2nd,True,0.0
+Myles Turner,MIL,Under 1.5 Assists,-165,MIL rank 5th in AST versus C,5th,False,3.0
+Pascal Siakam,MIL,Under 2.5 Assists,-130,MIL rank 5th in AST versus PF,5th,False,4.0
+Pascal Siakam,MIL,Under 0.5 Blocks,-200,MIL rank 5th in BLK versus PF,5th,False,1.0
+T.J. McConnell,MIL,Over 6.5 Points,-106,MIL rank 29th in PTS versus PG,29th,True,17.0
+T.J. McConnell,MIL,Over 2.5 Rebounds,122,MIL rank 29th in REB versus PG,29th,True,3.0
+Aaron Nesmith,MIL,Under 0.5 Blocks,-285,MIL rank 1st in BLK versus SF,1st,False,1.0
+Obi Toppin,MIL,Under 1.5 Assists,-220,MIL rank 5th in AST versus PF,5th,True,1.0
