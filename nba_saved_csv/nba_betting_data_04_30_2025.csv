@@ -1,339 +1,272 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Dillon Brooks,GSW,Over 1.5 3PTM,-158,Hit in 7 of his last 7 home games,100%
-JaMychal Green,GSW,Under 0.5 Blocks,-400,Hit in 7 of his last 7 games,100%
-JaMychal Green,GSW,Under 0.5 Blocks,-400,Hit in 4 of his last 4 games vs GSW,100%
-Amen Thompson,GSW,Under 1.5 Blocks,-270,Hit in 5 of his last 5 games,100%
-Amen Thompson,GSW,Under 1.5 Blocks,-270,Hit in 4 of his last 4 games vs GSW,100%
-Amen Thompson,GSW,Under 1.5 Steals,-245,Hit in 5 of his last 5 games,100%
-Amen Thompson,GSW,Under 1.5 Steals,-245,Hit in 4 of his last 4 games vs GSW,100%
-Amen Thompson,GSW,Under 0.5 3PTM,-295,Hit in 6 of his last 6 games,100%
-Amen Thompson,GSW,Under 0.5 3PTM,-295,Hit in 7 of his last 7 games vs GSW,100%
-Buddy Hield,HOU,Under 0.5 Blocks,-375,Hit in 6 of his last 6 games,100%
-Buddy Hield,HOU,Under 0.5 Blocks,-375,Hit in 5 of his last 5 games vs HOU,100%
-Danny Green,HOU,Over 1.5 Steals,-130,Hit in 4 of his last 4 away games,100%
-Moses Moody,HOU,Over 0.5 Assists,-145,Hit in 8 of his last 8 games,100%
-Moses Moody,HOU,Over 0.5 Assists,-145,Hit in 4 of his last 4 games vs HOU,100%
-Moses Moody,HOU,Over 7.5 PTS+AST+REB,-130,Hit in 19 of his last 19 away games,100%
-Moses Moody,HOU,Over 1.5 Rebounds,-130,Hit in 7 of his last 7 away games,100%
-Seth Curry,HOU,Over 4.5 Rebounds,-114,Hit in 4 of his last 4 away games,100%
-Seth Curry,HOU,Under 1.5 Steals,-270,Hit in 5 of his last 5 games,100%
-Seth Curry,HOU,Under 1.5 Steals,-270,Hit in 6 of his last 6 games vs HOU,100%
-Danny Green,HOU,Under 11.5 PTS+AST,104,Hit in 4 of his last 4 games,100%
-Danny Green,HOU,Under 11.5 PTS+AST,104,Hit in 5 of his last 5 games vs HOU,100%
-Moses Moody,HOU,Over 4.5 Points,-136,Hit in 19 of his last 19 away games,100%
-Moses Moody,HOU,Over 0.5 3PTM,-235,Hit in 5 of his last 5 games,100%
-Moses Moody,HOU,Over 0.5 3PTM,-235,Hit in 14 of his last 14 games vs HOU,100%
-Moses Moody,HOU,Over 0.5 3PTM,-235,Hit in 8 of his last 8 away games,100%
-Rui Hachimura,MIN,Under 5.5 Rebounds,-122,Hit in 6 of his last 6 games,100%
-Rui Hachimura,MIN,Under 5.5 Rebounds,-122,Hit in 5 of his last 5 games vs MIN,100%
-Julius Randle,LAL,Under 11.5 REB+AST,-102,Hit in 4 of his last 4 games,100%
-Julius Randle,LAL,Under 11.5 REB+AST,-102,Hit in 6 of his last 6 games vs LAL,100%
-Julius Randle,LAL,Over 4.5 Assists,-130,Hit in 4 of his last 4 away games,100%
-Nickeil Alexander-Walker,LAL,Over 7.5 PTS+AST+REB,-120,Hit in 20 of his last 20 away games,100%
-Rudy Gobert,LAL,Under 15.5 PTS+REB,-110,Hit in 4 of his last 4 games,100%
-Rudy Gobert,LAL,Under 15.5 PTS+REB,-110,Hit in 4 of his last 4 games vs LAL,100%
-Rudy Gobert,LAL,Under 6.5 Points,-108,Hit in 4 of his last 4 games,100%
-Rudy Gobert,LAL,Under 6.5 Points,-108,Hit in 4 of his last 4 games vs LAL,100%
-Rudy Gobert,LAL,Under 7.5 PTS+AST,100,Hit in 4 of his last 4 games,100%
-Rudy Gobert,LAL,Under 7.5 PTS+AST,100,Hit in 4 of his last 4 games vs LAL,100%
-Rudy Gobert,LAL,Under 16.5 PTS+AST+REB,100,Hit in 4 of his last 4 games,100%
-Rudy Gobert,LAL,Under 16.5 PTS+AST+REB,100,Hit in 4 of his last 4 games vs LAL,100%
-Nickeil Alexander-Walker,LAL,Over 7.5 PTS+AST+REB,-120,Hit in 19 of his last 20 games,95%
-Nickeil Alexander-Walker,LAL,Over 1.5 Rebounds,-140,Hit in 19 of his last 20 away games,95%
-Rudy Gobert,LAL,Over 0.5 Assists,-105,Hit in 17 of his last 18 away games,94%
-Danny Green,HOU,Under 1.5 Blocks,-245,Hit in 12 of his last 13 games vs HOU,92%
-Buddy Hield,HOU,Under 5.5 REB+AST,-155,Hit in 12 of his last 13 games,92%
-Dillon Brooks,GSW,Over 1.5 3PTM,-158,Hit in 11 of his last 12 games,92%
-Moses Moody,HOU,Over 0.5 Assists,-145,Hit in 11 of his last 12 away games,92%
-Tari Eason,GSW,Over 0.5 Assists,-185,Hit in 18 of his last 20 home games,90%
-Brandin Podziemski,HOU,Under 0.5 Blocks,-295,Hit in 18 of his last 20 games,90%
-Julius Randle,LAL,Under 0.5 Blocks,-300,Hit in 9 of his last 10 games vs LAL,90%
-Nickeil Alexander-Walker,LAL,Over 1.5 Rebounds,-140,Hit in 18 of his last 20 games,90%
-Danny Green,HOU,Under 1.5 Blocks,-245,Hit in 16 of his last 18 games,89%
-Jaden McDaniels,LAL,Under 1.5 Steals,-245,Hit in 16 of his last 18 games,89%
-Nickeil Alexander-Walker,LAL,Over 1.5 Assists,105,Hit in 16 of his last 18 games,89%
-Nickeil Alexander-Walker,LAL,Over 1.5 Assists,105,Hit in 16 of his last 18 away games,89%
-Naz Reid,LAL,Over 1.5 Assists,-105,Hit in 15 of his last 17 away games,88%
-Mike Conley,LAL,Under 1.5 3PTM,-188,Hit in 7 of his last 8 games,88%
-Anthony Edwards,LAL,Under 34.5 PTS+AST,-128,Hit in 14 of his last 16 games vs LAL,88%
-Anthony Edwards,LAL,Under 35.5 PTS+REB,-118,Hit in 14 of his last 16 games vs LAL,88%
-Anthony Edwards,LAL,Under 40.5 PTS+AST+REB,-110,Hit in 14 of his last 16 games vs LAL,88%
-JaMychal Green,GSW,Under 24.5 PTS+AST+REB,-122,Hit in 6 of his last 7 games,86%
-JaMychal Green,GSW,Under 16.5 Points,-122,Hit in 6 of his last 7 games,86%
-Amen Thompson,GSW,Over 10.5 REB+AST,-130,Hit in 6 of his last 7 games,86%
-Moses Moody,HOU,Over 1.5 Rebounds,-130,Hit in 12 of his last 14 games,86%
-Jackie Butler,HOU,Over 5.5 Assists,118,Hit in 6 of his last 7 games,86%
-Jackie Butler,HOU,Over 1.5 Steals,108,Hit in 6 of his last 7 away games,86%
-JaMychal Green,GSW,Under 19.5 PTS+AST,-112,Hit in 6 of his last 7 games,86%
-JaMychal Green,GSW,Under 20.5 PTS+REB,-106,Hit in 6 of his last 7 games,86%
-JaMychal Green,GSW,Under 1.5 3PTM,142,Hit in 6 of his last 7 games,86%
-Jackie Butler,HOU,Over 25.5 PTS+AST,-112,Hit in 6 of his last 7 games,86%
-Jackie Butler,HOU,Over 25.5 PTS+REB,-118,Hit in 6 of his last 7 games,86%
-Jackie Butler,HOU,Over 30.5 PTS+AST+REB,-130,Hit in 6 of his last 7 games,86%
-Jackie Butler,HOU,Over 20.5 Points,100,Hit in 6 of his last 7 games,86%
-Buddy Hield,HOU,Under 5.5 REB+AST,-155,Hit in 6 of his last 7 games vs HOU,86%
-Rui Hachimura,MIN,Under 19.5 PTS+REB,-130,Hit in 6 of his last 7 games vs MIN,86%
-Rui Hachimura,MIN,Under 13.5 Points,-120,Hit in 6 of his last 7 games vs MIN,86%
-Rui Hachimura,MIN,Under 14.5 PTS+AST,-118,Hit in 6 of his last 7 games vs MIN,86%
-Rui Hachimura,MIN,Under 19.5 PTS+AST+REB,-105,Hit in 6 of his last 7 games vs MIN,86%
-Austin Reaves,MIN,Over 9.5 REB+AST,102,Hit in 6 of his last 7 games vs MIN,86%
-Austin Reaves,MIN,Over 3.5 Assists,-172,Hit in 6 of his last 7 games,86%
-Austin Reaves,MIN,Over 3.5 Assists,-172,Hit in 6 of his last 7 games vs MIN,86%
-Nickeil Alexander-Walker,LAL,Over 1.5 Assists,105,Hit in 6 of his last 7 games vs LAL,86%
-Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-160,Hit in 6 of his last 7 games,86%
-Danny Green,HOU,Under 1.5 3PTM,-235,Hit in 11 of his last 13 games vs HOU,85%
-Nickeil Alexander-Walker,LAL,Over 7.5 PTS+AST+REB,-120,Hit in 11 of his last 13 games vs LAL,85%
-Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-160,Hit in 11 of his last 13 games vs LAL,85%
-Naz Reid,LAL,Over 1.5 3PTM,-130,Hit in 11 of his last 13 games vs LAL,85%
-Amen Thompson,GSW,Over 10.5 REB+AST,-130,Hit in 16 of his last 19 home games,84%
-Nickeil Alexander-Walker,LAL,Over 4.5 Points,-105,Hit in 16 of his last 19 games,84%
-Dillon Brooks,GSW,Over 1.5 3PTM,-158,Hit in 5 of his last 6 games vs GSW,83%
-Amen Thompson,GSW,Over 10.5 REB+AST,-130,Hit in 5 of his last 6 games vs GSW,83%
-Amen Thompson,GSW,Over 3.5 Assists,-136,Hit in 15 of his last 18 home games,83%
-Quinten Post,HOU,Under 4.5 Rebounds,-152,Hit in 15 of his last 18 games,83%
-Quinten Post,HOU,Under 4.5 Rebounds,-152,Hit in 5 of his last 6 games vs HOU,83%
-Moses Moody,HOU,Over 1.5 Rebounds,-130,Hit in 5 of his last 6 games vs HOU,83%
-Jackie Butler,HOU,Over 0.5 3PTM,-165,Hit in 5 of his last 6 games vs HOU,83%
-LeBron James,MIN,Under 16.5 REB+AST,-118,Hit in 10 of his last 12 games,83%
-Rui Hachimura,MIN,Under 6.5 REB+AST,-125,Hit in 5 of his last 6 games,83%
-Julius Randle,LAL,Under 6.5 Rebounds,106,Hit in 5 of his last 6 games vs LAL,83%
-Donte DiVincenzo,LAL,Under 9.5 Points,-106,Hit in 5 of his last 6 games vs LAL,83%
-Jaden McDaniels,LAL,Over 19.5 PTS+REB,-128,Hit in 5 of his last 6 games vs LAL,83%
-Jaden McDaniels,LAL,Over 13.5 Points,-125,Hit in 5 of his last 6 games vs LAL,83%
-Jaden McDaniels,LAL,Over 15.5 PTS+AST,-105,Hit in 5 of his last 6 games vs LAL,83%
-Jaden McDaniels,LAL,Over 21.5 PTS+AST+REB,-105,Hit in 5 of his last 6 games vs LAL,83%
-Naz Reid,LAL,Under 18.5 PTS+AST+REB,-118,Hit in 5 of his last 6 games vs LAL,83%
-Anthony Edwards,LAL,Under 1.5 Steals,-220,Hit in 5 of his last 6 games vs LAL,83%
-Moses Moody,HOU,Over 7.5 PTS+AST+REB,-130,Hit in 14 of his last 17 games,82%
-JR Smith,GSW,Over 8.5 Points,-110,Hit in 14 of his last 17 games,82%
-Moses Moody,HOU,Over 4.5 Points,-136,Hit in 14 of his last 17 games,82%
-JaMychal Green,GSW,Under 24.5 PTS+AST+REB,-122,Hit in 9 of his last 11 games vs GSW,82%
-JaMychal Green,GSW,Under 4.5 Rebounds,-125,Hit in 9 of his last 11 games vs GSW,82%
-JaMychal Green,GSW,Under 16.5 Points,-122,Hit in 9 of his last 11 games vs GSW,82%
-Amen Thompson,GSW,Over 3.5 Assists,-136,Hit in 9 of his last 11 games,82%
-Tari Eason,GSW,Over 0.5 Assists,-185,Hit in 9 of his last 11 games vs GSW,82%
-Moses Moody,HOU,Over 7.5 PTS+AST+REB,-130,Hit in 9 of his last 11 games vs HOU,82%
-Jackie Butler,HOU,Under 5.5 Rebounds,-125,Hit in 9 of his last 11 games,82%
-JaMychal Green,GSW,Under 20.5 PTS+REB,-106,Hit in 9 of his last 11 games vs GSW,82%
-Fred VanVleet,GSW,Under 17.5 PTS+REB,-112,Hit in 9 of his last 11 games vs GSW,82%
-Fred VanVleet,GSW,Under 14.5 Points,-130,Hit in 9 of his last 11 games vs GSW,82%
-Moses Moody,HOU,Over 4.5 Points,-136,Hit in 9 of his last 11 games vs HOU,82%
-Julius Randle,LAL,Under 0.5 Blocks,-300,Hit in 9 of his last 11 games,82%
-Jackie Butler,HOU,Under 0.5 Blocks,-250,Hit in 13 of his last 16 games,81%
-LeBron James,MIN,Under 35.5 PTS+REB,-118,Hit in 13 of his last 16 games,81%
-LeBron James,MIN,Under 42.5 PTS+AST+REB,-114,Hit in 13 of his last 16 games,81%
-Rudy Gobert,LAL,Over 9.5 REB+AST,-120,Hit in 13 of his last 16 games,81%
-Dillon Brooks,GSW,Over 16.5 PTS+REB,-104,Hit in 4 of his last 5 games vs GSW,80%
-Dillon Brooks,GSW,Under 14.5 PTS+AST,-120,Hit in 4 of his last 5 games,80%
-Dillon Brooks,GSW,Under 1.5 Assists,-130,Hit in 4 of his last 5 games,80%
-JaMychal Green,GSW,Over 7.5 REB+AST,-130,Hit in 4 of his last 5 games vs GSW,80%
-JaMychal Green,GSW,Under 4.5 Rebounds,-125,Hit in 8 of his last 10 games,80%
-Fred VanVleet,GSW,Over 7.5 REB+AST,-140,Hit in 8 of his last 10 games vs GSW,80%
-Fred VanVleet,GSW,Under 1.5 Steals,-144,Hit in 4 of his last 5 games,80%
-Fred VanVleet,GSW,Under 0.5 Blocks,-235,Hit in 4 of his last 5 games,80%
-Tari Eason,GSW,Over 0.5 Assists,-185,Hit in 16 of his last 20 games,80%
-Tari Eason,GSW,Under 14.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games vs GSW,80%
-Quinten Post,HOU,Over 13.5 PTS+AST+REB,-110,Hit in 4 of his last 5 games,80%
-Brandin Podziemski,HOU,Under 5.5 Rebounds,-125,Hit in 4 of his last 5 games,80%
-Brandin Podziemski,HOU,Over 1.5 3PTM,-172,Hit in 4 of his last 5 away games,80%
-Brandin Podziemski,HOU,Under 0.5 Blocks,-295,Hit in 4 of his last 5 games vs HOU,80%
-Danny Green,HOU,Over 1.5 Steals,-130,Hit in 4 of his last 5 games,80%
-Seth Curry,HOU,Over 4.5 Rebounds,-114,Hit in 4 of his last 5 games,80%
-Jackie Butler,HOU,Over 0.5 3PTM,-165,Hit in 16 of his last 20 games,80%
-JR Smith,GSW,Over 8.5 Points,-110,Hit in 4 of his last 5 home games,80%
-Steven Adams,GSW,Under 7.5 Rebounds,-114,Hit in 4 of his last 5 games,80%
-Tari Eason,GSW,Over 7.5 Points,-132,Hit in 16 of his last 20 home games,80%
-Fred VanVleet,GSW,Under 17.5 PTS+REB,-112,Hit in 8 of his last 10 games,80%
-Fred VanVleet,GSW,Under 22.5 PTS+AST+REB,-118,Hit in 8 of his last 10 games,80%
-Quinten Post,HOU,Over 11.5 PTS+REB,-104,Hit in 4 of his last 5 games,80%
-Danny Green,HOU,Under 10.5 REB+AST,102,Hit in 4 of his last 5 games vs HOU,80%
-Danny Green,HOU,Under 14.5 PTS+REB,-106,Hit in 4 of his last 5 games,80%
-Danny Green,HOU,Under 14.5 PTS+REB,-106,Hit in 4 of his last 5 games vs HOU,80%
-Danny Green,HOU,Under 18.5 PTS+AST+REB,100,Hit in 4 of his last 5 games vs HOU,80%
-Danny Green,HOU,Under 7.5 Points,-104,Hit in 4 of his last 5 games,80%
-Danny Green,HOU,Under 7.5 Points,-104,Hit in 4 of his last 5 games vs HOU,80%
-LeBron James,MIN,Over 9.5 Rebounds,-130,Hit in 4 of his last 5 games vs MIN,80%
-LeBron James,MIN,Over 0.5 Double Double,-160,Hit in 4 of his last 5 games vs MIN,80%
-Jarred Vanderbilt,MIN,Under 0.5 Assists,-130,Hit in 4 of his last 5 games,80%
-Jarred Vanderbilt,MIN,Under 4.5 Rebounds,-145,Hit in 4 of his last 5 games,80%
-Jarred Vanderbilt,MIN,Under 4.5 Rebounds,-145,Hit in 4 of his last 5 games vs MIN,80%
-Dorian Finney-Smith,MIN,Under 7.5 Points,-118,Hit in 4 of his last 5 games vs MIN,80%
-Dorian Finney-Smith,MIN,Under 6.5 REB+AST,-145,Hit in 4 of his last 5 games,80%
-Dorian Finney-Smith,MIN,Under 6.5 REB+AST,-145,Hit in 4 of his last 5 games vs MIN,80%
-Dorian Finney-Smith,MIN,Under 12.5 PTS+REB,-115,Hit in 4 of his last 5 games vs MIN,80%
-Dorian Finney-Smith,MIN,Under 14.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games vs MIN,80%
-Rui Hachimura,MIN,Under 6.5 REB+AST,-125,Hit in 4 of his last 5 games vs MIN,80%
-Austin Reaves,MIN,Over 9.5 REB+AST,102,Hit in 4 of his last 5 games,80%
-Austin Reaves,MIN,Over 2.5 3PTM,-158,Hit in 8 of his last 10 games,80%
-Austin Reaves,MIN,Over 2.5 3PTM,-158,Hit in 4 of his last 5 home games,80%
-Austin Reaves,MIN,Under 0.5 Blocks,-165,Hit in 12 of his last 15 games vs MIN,80%
-Julius Randle,LAL,Over 20.5 Points,100,Hit in 4 of his last 5 games vs LAL,80%
-Mike Conley,LAL,Over 9.5 PTS+AST,-118,Hit in 8 of his last 10 away games,80%
-Mike Conley,LAL,Under 3.5 Assists,-162,Hit in 4 of his last 5 games,80%
-Jaden McDaniels,LAL,Under 5.5 Rebounds,108,Hit in 8 of his last 10 games,80%
-Jaden McDaniels,LAL,Under 0.5 Blocks,115,Hit in 4 of his last 5 games vs LAL,80%
-Anthony Edwards,LAL,Over 3.5 3PTM,-148,Hit in 4 of his last 5 games,80%
-Anthony Edwards,LAL,Under 28.5 Points,-112,Hit in 12 of his last 15 games vs LAL,80%
-Anthony Edwards,LAL,Over 0.5 Blocks,-110,Hit in 8 of his last 10 games,80%
-Donte DiVincenzo,LAL,Over 13.5 PTS+REB,-114,Hit in 12 of his last 15 away games,80%
-Dillon Brooks,GSW,Under 3.5 Rebounds,-128,Hit in 11 of his last 14 games,79%
-Rui Hachimura,MIN,Under 19.5 PTS+REB,-130,Hit in 11 of his last 14 games,79%
-Rui Hachimura,MIN,Under 19.5 PTS+AST+REB,-105,Hit in 11 of his last 14 games,79%
-Anthony Edwards,LAL,Under 1.5 Steals,-220,Hit in 11 of his last 14 games,79%
-Buddy Hield,HOU,Under 1.5 Assists,-105,Hit in 7 of his last 9 games,78%
-JaMychal Green,GSW,Under 19.5 PTS+AST,-112,Hit in 7 of his last 9 games vs GSW,78%
-Dorian Finney-Smith,MIN,Over 1.5 Assists,-110,Hit in 7 of his last 9 games,78%
-Rudy Gobert,LAL,Over 9.5 REB+AST,-120,Hit in 7 of his last 9 away games,78%
-Dillon Brooks,GSW,Under 0.5 Blocks,-375,Hit in 10 of his last 13 games vs GSW,77%
-JaMychal Green,GSW,Over 7.5 REB+AST,-130,Hit in 10 of his last 13 home games,77%
-Steven Adams,GSW,Over 0.5 Assists,-220,Hit in 10 of his last 13 home games,77%
-Jackie Butler,HOU,Over 1.5 Steals,108,Hit in 10 of his last 13 games,77%
-JR Smith,GSW,Over 8.5 Points,-110,Hit in 10 of his last 13 games vs GSW,77%
-Rui Hachimura,MIN,Under 0.5 Blocks,-160,Hit in 10 of his last 13 games vs MIN,77%
-Nickeil Alexander-Walker,LAL,Over 4.5 Points,-105,Hit in 10 of his last 13 games vs LAL,77%
-Rudy Gobert,LAL,Over 8.5 Rebounds,-118,Hit in 10 of his last 13 games vs LAL,77%
-Rudy Gobert,LAL,Over 9.5 REB+AST,-120,Hit in 10 of his last 13 games vs LAL,77%
-Donte DiVincenzo,LAL,Over 16.5 PTS+AST+REB,-128,Hit in 10 of his last 13 away games,77%
-Mike Conley,LAL,Over 9.5 PTS+AST,-118,Hit in 13 of his last 17 games vs LAL,76%
-Mike Conley,LAL,Over 6.5 Points,102,Hit in 13 of his last 17 games vs LAL,76%
-Rudy Gobert,LAL,Over 0.5 Assists,-105,Hit in 13 of his last 17 games,76%
-Dillon Brooks,GSW,Over 16.5 PTS+REB,-104,Hit in 6 of his last 8 games,75%
-Dillon Brooks,GSW,Under 5.5 REB+AST,-125,Hit in 6 of his last 8 games vs GSW,75%
-Dillon Brooks,GSW,Under 14.5 PTS+AST,-120,Hit in 3 of his last 4 games vs GSW,75%
-Dillon Brooks,GSW,Under 1.5 Assists,-130,Hit in 6 of his last 8 games vs GSW,75%
-Dillon Brooks,GSW,Under 0.5 Blocks,-375,Hit in 15 of his last 20 games,75%
-JaMychal Green,GSW,Over 7.5 REB+AST,-130,Hit in 3 of his last 4 games,75%
-Fred VanVleet,GSW,Over 7.5 REB+AST,-140,Hit in 3 of his last 4 games,75%
-Fred VanVleet,GSW,Under 18.5 PTS+AST,-102,Hit in 6 of his last 8 games vs GSW,75%
-Fred VanVleet,GSW,Under 1.5 Steals,-144,Hit in 6 of his last 8 games vs GSW,75%
-Fred VanVleet,GSW,Under 0.5 Blocks,-235,Hit in 3 of his last 4 games vs GSW,75%
-Amen Thompson,GSW,Under 15.5 PTS+AST,100,Hit in 3 of his last 4 games,75%
-Amen Thompson,GSW,Under 15.5 PTS+AST,100,Hit in 6 of his last 8 games vs GSW,75%
-Amen Thompson,GSW,Under 19.5 PTS+REB,-130,Hit in 3 of his last 4 games,75%
-Amen Thompson,GSW,Under 19.5 PTS+REB,-130,Hit in 3 of his last 4 games vs GSW,75%
-Amen Thompson,GSW,Under 23.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games,75%
-Amen Thompson,GSW,Under 23.5 PTS+AST+REB,-130,Hit in 6 of his last 8 games vs GSW,75%
-Amen Thompson,GSW,Over 6.5 Rebounds,-146,Hit in 3 of his last 4 games,75%
-Amen Thompson,GSW,Over 6.5 Rebounds,-146,Hit in 3 of his last 4 games vs GSW,75%
-Amen Thompson,GSW,Over 6.5 Rebounds,-146,Hit in 12 of his last 16 home games,75%
-Amen Thompson,GSW,Under 12.5 Points,-136,Hit in 3 of his last 4 games,75%
-Amen Thompson,GSW,Under 12.5 Points,-136,Hit in 3 of his last 4 games vs GSW,75%
-Tari Eason,GSW,Under 14.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games,75%
-Quinten Post,HOU,Under 1.5 Assists,-120,Hit in 9 of his last 12 games,75%
-Buddy Hield,HOU,Over 3.5 Rebounds,110,Hit in 3 of his last 4 away games,75%
-Danny Green,HOU,Over 1.5 Steals,-130,Hit in 3 of his last 4 games vs HOU,75%
-Seth Curry,HOU,Over 5.5 Assists,110,Hit in 9 of his last 12 away games,75%
-Seth Curry,HOU,Over 4.5 Rebounds,-114,Hit in 3 of his last 4 games vs HOU,75%
-Seth Curry,HOU,Over 0.5 Blocks,140,Hit in 3 of his last 4 away games,75%
-Jackie Butler,HOU,Over 10.5 REB+AST,-125,Hit in 3 of his last 4 games,75%
-Jackie Butler,HOU,Under 5.5 Rebounds,-125,Hit in 3 of his last 4 games vs HOU,75%
-Jackie Butler,HOU,Over 0.5 3PTM,-165,Hit in 6 of his last 8 away games,75%
-JaMychal Green,GSW,Under 1.5 3PTM,142,Hit in 3 of his last 4 games vs GSW,75%
-Fred VanVleet,GSW,Under 22.5 PTS+AST+REB,-118,Hit in 6 of his last 8 games vs GSW,75%
-Danny Green,HOU,Under 10.5 REB+AST,102,Hit in 3 of his last 4 games,75%
-Danny Green,HOU,Under 3.5 Assists,128,Hit in 3 of his last 4 games,75%
-Danny Green,HOU,Under 3.5 Assists,128,Hit in 3 of his last 4 games vs HOU,75%
-Danny Green,HOU,Under 18.5 PTS+AST+REB,100,Hit in 3 of his last 4 games,75%
-Seth Curry,HOU,Over 9.5 REB+AST,-138,Hit in 3 of his last 4 away games,75%
-LeBron James,MIN,Under 32.5 PTS+AST,-106,Hit in 6 of his last 8 games,75%
-LeBron James,MIN,Under 6.5 Assists,100,Hit in 9 of his last 12 games vs MIN,75%
-LeBron James,MIN,Over 1.5 Blocks,138,Hit in 3 of his last 4 games,75%
-LeBron James,MIN,Over 1.5 Blocks,138,Hit in 3 of his last 4 games vs MIN,75%
-LeBron James,MIN,Over 1.5 Steals,178,Hit in 3 of his last 4 games,75%
-LeBron James,MIN,Over 1.5 Steals,178,Hit in 3 of his last 4 games vs MIN,75%
-Jarred Vanderbilt,MIN,Under 2.5 Points,-165,Hit in 3 of his last 4 games,75%
-Jarred Vanderbilt,MIN,Under 2.5 Points,-165,Hit in 3 of his last 4 games vs MIN,75%
-Dorian Finney-Smith,MIN,Under 7.5 Points,-118,Hit in 3 of his last 4 games,75%
-Dorian Finney-Smith,MIN,Over 9.5 PTS+AST,-115,Hit in 6 of his last 8 games,75%
-Dorian Finney-Smith,MIN,Under 12.5 PTS+REB,-115,Hit in 3 of his last 4 games,75%
-Dorian Finney-Smith,MIN,Over 1.5 Assists,-110,Hit in 3 of his last 4 games vs MIN,75%
-Dorian Finney-Smith,MIN,Under 14.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%
-Dorian Finney-Smith,MIN,Under 0.5 Blocks,-225,Hit in 6 of his last 8 games vs MIN,75%
-Rui Hachimura,MIN,Over 1.5 3PTM,-180,Hit in 6 of his last 8 games,75%
-Rui Hachimura,MIN,Over 1.5 3PTM,-180,Hit in 3 of his last 4 games vs MIN,75%
-Rui Hachimura,MIN,Under 13.5 Points,-120,Hit in 3 of his last 4 games,75%
-Rui Hachimura,MIN,Under 14.5 PTS+AST,-118,Hit in 3 of his last 4 games,75%
-Austin Reaves,MIN,Over 9.5 REB+AST,102,Hit in 3 of his last 4 home games,75%
-Austin Reaves,MIN,Under 22.5 PTS+AST,-102,Hit in 3 of his last 4 games,75%
-Austin Reaves,MIN,Under 22.5 PTS+AST,-102,Hit in 3 of his last 4 games vs MIN,75%
-Austin Reaves,MIN,Over 23.5 PTS+REB,-130,Hit in 15 of his last 20 games,75%
-Austin Reaves,MIN,Over 3.5 Assists,-172,Hit in 3 of his last 4 home games,75%
-Austin Reaves,MIN,Under 28.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%
-Austin Reaves,MIN,Under 28.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games vs MIN,75%
-Austin Reaves,MIN,Over 2.5 3PTM,-158,Hit in 3 of his last 4 games vs MIN,75%
-Austin Reaves,MIN,Under 18.5 Points,-106,Hit in 3 of his last 4 games,75%
-Austin Reaves,MIN,Under 18.5 Points,-106,Hit in 6 of his last 8 games vs MIN,75%
-Julius Randle,LAL,Under 6.5 Rebounds,106,Hit in 3 of his last 4 games,75%
-Julius Randle,LAL,Over 1.5 3PTM,-130,Hit in 3 of his last 4 games,75%
-Julius Randle,LAL,Over 1.5 3PTM,-130,Hit in 3 of his last 4 games vs LAL,75%
-Mike Conley,LAL,Under 3.5 Assists,-162,Hit in 3 of his last 4 games vs LAL,75%
-Donte DiVincenzo,LAL,Over 1.5 3PTM,-200,Hit in 15 of his last 20 games,75%
-Donte DiVincenzo,LAL,Over 1.5 3PTM,-200,Hit in 15 of his last 20 away games,75%
-Donte DiVincenzo,LAL,Under 9.5 Points,-106,Hit in 3 of his last 4 games,75%
-Jaden McDaniels,LAL,Over 19.5 PTS+REB,-128,Hit in 3 of his last 4 games,75%
-Jaden McDaniels,LAL,Under 1.5 3PTM,-270,Hit in 9 of his last 12 games,75%
-Jaden McDaniels,LAL,Over 13.5 Points,-125,Hit in 3 of his last 4 games,75%
-Jaden McDaniels,LAL,Under 1.5 Steals,-245,Hit in 3 of his last 4 games vs LAL,75%
-Jaden McDaniels,LAL,Under 7.5 REB+AST,-125,Hit in 12 of his last 16 games,75%
-Jaden McDaniels,LAL,Over 15.5 PTS+AST,-105,Hit in 3 of his last 4 games,75%
-Jaden McDaniels,LAL,Over 21.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games,75%
-Jaden McDaniels,LAL,Under 1.5 Assists,-130,Hit in 6 of his last 8 games vs LAL,75%
-Jaden McDaniels,LAL,Under 0.5 Blocks,115,Hit in 3 of his last 4 games,75%
-Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-160,Hit in 15 of his last 20 away games,75%
-Nickeil Alexander-Walker,LAL,Over 4.5 Points,-105,Hit in 15 of his last 20 away games,75%
-Rudy Gobert,LAL,Over 8.5 Rebounds,-118,Hit in 12 of his last 16 games,75%
-Naz Reid,LAL,Over 16.5 PTS+REB,-112,Hit in 3 of his last 4 away games,75%
-Naz Reid,LAL,Under 5.5 Rebounds,-146,Hit in 3 of his last 4 games,75%
-Naz Reid,LAL,Under 5.5 Rebounds,-146,Hit in 9 of his last 12 games vs LAL,75%
-Naz Reid,LAL,Over 1.5 3PTM,-130,Hit in 3 of his last 4 games,75%
-Naz Reid,LAL,Over 11.5 Points,100,Hit in 3 of his last 4 away games,75%
-Naz Reid,LAL,Over 1.5 Assists,-105,Hit in 15 of his last 20 games,75%
-Anthony Edwards,LAL,Over 11.5 REB+AST,-132,Hit in 3 of his last 4 games,75%
-Anthony Edwards,LAL,Over 11.5 REB+AST,-132,Hit in 3 of his last 4 games vs LAL,75%
-Anthony Edwards,LAL,Over 5.5 Assists,110,Hit in 3 of his last 4 games,75%
-Anthony Edwards,LAL,Over 5.5 Assists,110,Hit in 3 of his last 4 games vs LAL,75%
-Anthony Edwards,LAL,Over 6.5 Rebounds,-112,Hit in 3 of his last 4 games,75%
-Anthony Edwards,LAL,Over 6.5 Rebounds,-112,Hit in 3 of his last 4 games vs LAL,75%
-Anthony Edwards,LAL,Over 3.5 3PTM,-148,Hit in 3 of his last 4 games vs LAL,75%
-Donte DiVincenzo,LAL,Over 16.5 PTS+AST+REB,-128,Hit in 15 of his last 20 games,75%
-Donte DiVincenzo,LAL,Under 13.5 PTS+AST,-130,Hit in 3 of his last 4 games,75%
-Donte DiVincenzo,LAL,Under 13.5 PTS+AST,-130,Hit in 3 of his last 4 games vs LAL,75%
-Fred VanVleet,GSW,Under 2.5 3PTM,130,GSW rank 2nd in 3PTM versus PG,2nd
-Amen Thompson,GSW,Under 1.5 Steals,-245,GSW rank 2nd in STL versus SF,2nd
-Quinten Post,HOU,Under 1.5 Assists,-120,HOU rank 2nd in AST against,2nd
-Quinten Post,HOU,Under 4.5 Rebounds,-152,HOU rank 4th in REB against,4th
-Quinten Post,HOU,Under 1.5 3PTM,-138,HOU rank 2nd in 3PTM against,2nd
-Buddy Hield,HOU,Under 1.5 Assists,-105,HOU rank 5th in AST versus SG,5th
-Buddy Hield,HOU,Under 2.5 3PTM,-166,HOU rank 2nd in 3PTM against,2nd
-Brandin Podziemski,HOU,Under 3.5 Assists,-130,HOU rank 5th in AST versus SG,5th
-Brandin Podziemski,HOU,Under 5.5 Rebounds,-125,HOU rank 4th in REB against,4th
-Danny Green,HOU,Under 6.5 Rebounds,-104,HOU rank 4th in REB against,4th
-Danny Green,HOU,Under 1.5 3PTM,-235,HOU rank 2nd in 3PTM against,2nd
-Seth Curry,HOU,Under 4.5 3PTM,-154,HOU rank 2nd in 3PTM against,2nd
-Seth Curry,HOU,Over 0.5 Blocks,140,HOU rank 28th in BLK against,28th
-Jackie Butler,HOU,Under 5.5 Rebounds,-125,HOU rank 5th in REB versus SF,5th
-Seth Curry,HOU,Over 25.5 Points,-130,HOU rank 30th in PTS versus PG,30th
-Fred VanVleet,GSW,Under 14.5 Points,-130,GSW rank 1st in PTS versus PG,1st
-Danny Green,HOU,Under 3.5 Assists,128,HOU rank 2nd in AST against,2nd
-LeBron James,MIN,Under 6.5 Assists,100,MIN rank 4th in AST versus SF,4th
-LeBron James,MIN,Under 1.5 3PTM,126,MIN rank 3rd in 3PTM against,3rd
-LeBron James,MIN,Under 25.5 Points,-108,MIN rank 5th in PTS against,5th
-LeBron James,MIN,Over 1.5 Steals,178,MIN rank 29th in STL versus SF,29th
-Jarred Vanderbilt,MIN,Under 0.5 Assists,-130,MIN rank 3rd in AST versus PF,3rd
-Jarred Vanderbilt,MIN,Under 4.5 Rebounds,-145,MIN rank 5th in REB versus PF,5th
-Jarred Vanderbilt,MIN,Under 2.5 Points,-165,MIN rank 5th in PTS against,5th
-Dorian Finney-Smith,MIN,Under 7.5 Points,-118,MIN rank 5th in PTS against,5th
-Dorian Finney-Smith,MIN,Under 4.5 Rebounds,-110,MIN rank 5th in REB versus PF,5th
-Dorian Finney-Smith,MIN,Under 1.5 3PTM,115,MIN rank 3rd in 3PTM against,3rd
-Rui Hachimura,MIN,Under 5.5 Rebounds,-122,MIN rank 5th in REB versus PF,5th
-Rui Hachimura,MIN,Under 13.5 Points,-120,MIN rank 5th in PTS against,5th
-Rui Hachimura,MIN,Under 1.5 Assists,-250,MIN rank 3rd in AST versus PF,3rd
-Austin Reaves,MIN,Under 18.5 Points,-106,MIN rank 5th in PTS against,5th
-Julius Randle,LAL,Under 6.5 Rebounds,106,LAL rank 4th in REB versus PF,4th
-Julius Randle,LAL,Under 0.5 Blocks,-300,LAL rank 4th in BLK against,4th
-Donte DiVincenzo,LAL,Over 1.5 3PTM,-200,LAL rank 27th in 3PTM versus SG,27th
-Jaden McDaniels,LAL,Under 5.5 Rebounds,108,LAL rank 4th in REB versus PF,4th
-Jaden McDaniels,LAL,Under 0.5 Blocks,115,LAL rank 4th in BLK against,4th
-Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-160,LAL rank 27th in 3PTM versus SG,27th
-Rudy Gobert,LAL,Under 0.5 Blocks,110,LAL rank 4th in BLK against,4th
-Anthony Edwards,LAL,Over 3.5 3PTM,-148,LAL rank 27th in 3PTM versus SG,27th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Dillon Brooks,GSW,Over 1.5 3PTM,-158,Hit in 7 of his last 7 home games,100%,True,2.0
+Amen Thompson,GSW,Under 1.5 Blocks,-270,Hit in 5 of his last 5 games,100%,False,3.0
+Amen Thompson,GSW,Under 1.5 Blocks,-270,Hit in 4 of his last 4 games vs GSW,100%,False,3.0
+Amen Thompson,GSW,Under 1.5 Steals,-245,Hit in 5 of his last 5 games,100%,False,5.0
+Amen Thompson,GSW,Under 1.5 Steals,-245,Hit in 4 of his last 4 games vs GSW,100%,False,5.0
+Amen Thompson,GSW,Under 0.5 3PTM,-295,Hit in 6 of his last 6 games,100%,False,1.0
+Amen Thompson,GSW,Under 0.5 3PTM,-295,Hit in 7 of his last 7 games vs GSW,100%,False,1.0
+Buddy Hield,HOU,Under 0.5 Blocks,-375,Hit in 6 of his last 6 games,100%,False,1.0
+Buddy Hield,HOU,Under 0.5 Blocks,-375,Hit in 5 of his last 5 games vs HOU,100%,False,1.0
+Moses Moody,HOU,Over 0.5 Assists,-145,Hit in 8 of his last 8 games,100%,True,2.0
+Moses Moody,HOU,Over 0.5 Assists,-145,Hit in 4 of his last 4 games vs HOU,100%,True,2.0
+Moses Moody,HOU,Over 7.5 PTS+AST+REB,-130,Hit in 19 of his last 19 away games,100%,True,33.0
+Moses Moody,HOU,Over 1.5 Rebounds,-130,Hit in 7 of his last 7 away games,100%,True,9.0
+Moses Moody,HOU,Over 4.5 Points,-136,Hit in 19 of his last 19 away games,100%,True,31.0
+Moses Moody,HOU,Over 0.5 3PTM,-235,Hit in 5 of his last 5 games,100%,True,3.0
+Moses Moody,HOU,Over 0.5 3PTM,-235,Hit in 14 of his last 14 games vs HOU,100%,True,3.0
+Moses Moody,HOU,Over 0.5 3PTM,-235,Hit in 8 of his last 8 away games,100%,True,3.0
+Rui Hachimura,MIN,Under 5.5 Rebounds,-122,Hit in 6 of his last 6 games,100%,True,4.0
+Rui Hachimura,MIN,Under 5.5 Rebounds,-122,Hit in 5 of his last 5 games vs MIN,100%,True,4.0
+Julius Randle,LAL,Under 11.5 REB+AST,-102,Hit in 4 of his last 4 games,100%,True,9.0
+Julius Randle,LAL,Under 11.5 REB+AST,-102,Hit in 6 of his last 6 games vs LAL,100%,True,9.0
+Julius Randle,LAL,Over 4.5 Assists,-130,Hit in 4 of his last 4 away games,100%,False,4.0
+Nickeil Alexander-Walker,LAL,Over 7.5 PTS+AST+REB,-120,Hit in 20 of his last 20 away games,100%,True,17.0
+Rudy Gobert,LAL,Under 15.5 PTS+REB,-110,Hit in 4 of his last 4 games,100%,False,51.0
+Rudy Gobert,LAL,Under 15.5 PTS+REB,-110,Hit in 4 of his last 4 games vs LAL,100%,False,51.0
+Rudy Gobert,LAL,Under 6.5 Points,-108,Hit in 4 of his last 4 games,100%,False,27.0
+Rudy Gobert,LAL,Under 6.5 Points,-108,Hit in 4 of his last 4 games vs LAL,100%,False,27.0
+Rudy Gobert,LAL,Under 7.5 PTS+AST,100,Hit in 4 of his last 4 games,100%,False,27.0
+Rudy Gobert,LAL,Under 7.5 PTS+AST,100,Hit in 4 of his last 4 games vs LAL,100%,False,27.0
+Rudy Gobert,LAL,Under 16.5 PTS+AST+REB,100,Hit in 4 of his last 4 games,100%,False,27.0
+Rudy Gobert,LAL,Under 16.5 PTS+AST+REB,100,Hit in 4 of his last 4 games vs LAL,100%,False,27.0
+Nickeil Alexander-Walker,LAL,Over 7.5 PTS+AST+REB,-120,Hit in 19 of his last 20 games,95%,True,17.0
+Nickeil Alexander-Walker,LAL,Over 1.5 Rebounds,-140,Hit in 19 of his last 20 away games,95%,False,1.0
+Rudy Gobert,LAL,Over 0.5 Assists,-105,Hit in 17 of his last 18 away games,94%,False,0.0
+Buddy Hield,HOU,Under 5.5 REB+AST,-155,Hit in 12 of his last 13 games,92%,True,3.0
+Dillon Brooks,GSW,Over 1.5 3PTM,-158,Hit in 11 of his last 12 games,92%,True,2.0
+Moses Moody,HOU,Over 0.5 Assists,-145,Hit in 11 of his last 12 away games,92%,True,2.0
+Tari Eason,GSW,Over 0.5 Assists,-185,Hit in 18 of his last 20 home games,90%,True,1.0
+Brandin Podziemski,HOU,Under 0.5 Blocks,-295,Hit in 18 of his last 20 games,90%,True,0.0
+Julius Randle,LAL,Under 0.5 Blocks,-300,Hit in 9 of his last 10 games vs LAL,90%,True,0.0
+Nickeil Alexander-Walker,LAL,Over 1.5 Rebounds,-140,Hit in 18 of his last 20 games,90%,False,1.0
+Jaden McDaniels,LAL,Under 1.5 Steals,-245,Hit in 16 of his last 18 games,89%,True,1.0
+Nickeil Alexander-Walker,LAL,Over 1.5 Assists,105,Hit in 16 of his last 18 games,89%,True,3.0
+Nickeil Alexander-Walker,LAL,Over 1.5 Assists,105,Hit in 16 of his last 18 away games,89%,True,3.0
+Naz Reid,LAL,Over 1.5 Assists,-105,Hit in 15 of his last 17 away games,88%,True,2.0
+Mike Conley,LAL,Under 1.5 3PTM,-188,Hit in 7 of his last 8 games,88%,False,2.0
+Anthony Edwards,LAL,Under 34.5 PTS+AST,-128,Hit in 14 of his last 16 games vs LAL,88%,True,23.0
+Anthony Edwards,LAL,Under 35.5 PTS+REB,-118,Hit in 14 of his last 16 games vs LAL,88%,True,26.0
+Anthony Edwards,LAL,Under 40.5 PTS+AST+REB,-110,Hit in 14 of his last 16 games vs LAL,88%,True,23.0
+Amen Thompson,GSW,Over 10.5 REB+AST,-130,Hit in 6 of his last 7 games,86%,False,9.0
+Moses Moody,HOU,Over 1.5 Rebounds,-130,Hit in 12 of his last 14 games,86%,True,9.0
+Buddy Hield,HOU,Under 5.5 REB+AST,-155,Hit in 6 of his last 7 games vs HOU,86%,True,3.0
+Rui Hachimura,MIN,Under 19.5 PTS+REB,-130,Hit in 6 of his last 7 games vs MIN,86%,False,37.0
+Rui Hachimura,MIN,Under 13.5 Points,-120,Hit in 6 of his last 7 games vs MIN,86%,False,33.0
+Rui Hachimura,MIN,Under 14.5 PTS+AST,-118,Hit in 6 of his last 7 games vs MIN,86%,False,33.0
+Rui Hachimura,MIN,Under 19.5 PTS+AST+REB,-105,Hit in 6 of his last 7 games vs MIN,86%,False,33.0
+Austin Reaves,MIN,Over 9.5 REB+AST,102,Hit in 6 of his last 7 games vs MIN,86%,False,7.0
+Austin Reaves,MIN,Over 3.5 Assists,-172,Hit in 6 of his last 7 games,86%,False,2.0
+Austin Reaves,MIN,Over 3.5 Assists,-172,Hit in 6 of his last 7 games vs MIN,86%,False,2.0
+Nickeil Alexander-Walker,LAL,Over 1.5 Assists,105,Hit in 6 of his last 7 games vs LAL,86%,True,3.0
+Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-160,Hit in 6 of his last 7 games,86%,True,2.0
+Nickeil Alexander-Walker,LAL,Over 7.5 PTS+AST+REB,-120,Hit in 11 of his last 13 games vs LAL,85%,True,17.0
+Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-160,Hit in 11 of his last 13 games vs LAL,85%,True,2.0
+Naz Reid,LAL,Over 1.5 3PTM,-130,Hit in 11 of his last 13 games vs LAL,85%,False,0.0
+Amen Thompson,GSW,Over 10.5 REB+AST,-130,Hit in 16 of his last 19 home games,84%,False,9.0
+Nickeil Alexander-Walker,LAL,Over 4.5 Points,-105,Hit in 16 of his last 19 games,84%,True,14.0
+Dillon Brooks,GSW,Over 1.5 3PTM,-158,Hit in 5 of his last 6 games vs GSW,83%,True,2.0
+Amen Thompson,GSW,Over 10.5 REB+AST,-130,Hit in 5 of his last 6 games vs GSW,83%,False,9.0
+Amen Thompson,GSW,Over 3.5 Assists,-136,Hit in 15 of his last 18 home games,83%,False,3.0
+Quinten Post,HOU,Under 4.5 Rebounds,-152,Hit in 15 of his last 18 games,83%,True,2.0
+Quinten Post,HOU,Under 4.5 Rebounds,-152,Hit in 5 of his last 6 games vs HOU,83%,True,2.0
+Moses Moody,HOU,Over 1.5 Rebounds,-130,Hit in 5 of his last 6 games vs HOU,83%,True,9.0
+LeBron James,MIN,Under 16.5 REB+AST,-118,Hit in 10 of his last 12 games,83%,True,13.0
+Rui Hachimura,MIN,Under 6.5 REB+AST,-125,Hit in 5 of his last 6 games,83%,True,4.0
+Julius Randle,LAL,Under 6.5 Rebounds,106,Hit in 5 of his last 6 games vs LAL,83%,True,5.0
+Donte DiVincenzo,LAL,Under 9.5 Points,-106,Hit in 5 of his last 6 games vs LAL,83%,False,13.0
+Jaden McDaniels,LAL,Over 19.5 PTS+REB,-128,Hit in 5 of his last 6 games vs LAL,83%,False,11.0
+Jaden McDaniels,LAL,Over 13.5 Points,-125,Hit in 5 of his last 6 games vs LAL,83%,False,8.0
+Jaden McDaniels,LAL,Over 15.5 PTS+AST,-105,Hit in 5 of his last 6 games vs LAL,83%,False,8.0
+Jaden McDaniels,LAL,Over 21.5 PTS+AST+REB,-105,Hit in 5 of his last 6 games vs LAL,83%,False,8.0
+Naz Reid,LAL,Under 18.5 PTS+AST+REB,-118,Hit in 5 of his last 6 games vs LAL,83%,True,5.0
+Anthony Edwards,LAL,Under 1.5 Steals,-220,Hit in 5 of his last 6 games vs LAL,83%,False,3.0
+Moses Moody,HOU,Over 7.5 PTS+AST+REB,-130,Hit in 14 of his last 17 games,82%,True,33.0
+Moses Moody,HOU,Over 4.5 Points,-136,Hit in 14 of his last 17 games,82%,True,31.0
+Amen Thompson,GSW,Over 3.5 Assists,-136,Hit in 9 of his last 11 games,82%,False,3.0
+Tari Eason,GSW,Over 0.5 Assists,-185,Hit in 9 of his last 11 games vs GSW,82%,True,1.0
+Moses Moody,HOU,Over 7.5 PTS+AST+REB,-130,Hit in 9 of his last 11 games vs HOU,82%,True,33.0
+Fred VanVleet,GSW,Under 17.5 PTS+REB,-112,Hit in 9 of his last 11 games vs GSW,82%,False,35.0
+Fred VanVleet,GSW,Under 14.5 Points,-130,Hit in 9 of his last 11 games vs GSW,82%,False,34.0
+Moses Moody,HOU,Over 4.5 Points,-136,Hit in 9 of his last 11 games vs HOU,82%,True,31.0
+Julius Randle,LAL,Under 0.5 Blocks,-300,Hit in 9 of his last 11 games,82%,True,0.0
+LeBron James,MIN,Under 35.5 PTS+REB,-118,Hit in 13 of his last 16 games,81%,True,31.0
+LeBron James,MIN,Under 42.5 PTS+AST+REB,-114,Hit in 13 of his last 16 games,81%,True,30.0
+Rudy Gobert,LAL,Over 9.5 REB+AST,-120,Hit in 13 of his last 16 games,81%,True,24.0
+Dillon Brooks,GSW,Over 16.5 PTS+REB,-104,Hit in 4 of his last 5 games vs GSW,80%,True,29.0
+Dillon Brooks,GSW,Under 14.5 PTS+AST,-120,Hit in 4 of his last 5 games,80%,False,30.0
+Dillon Brooks,GSW,Under 1.5 Assists,-130,Hit in 4 of his last 5 games,80%,False,2.0
+Fred VanVleet,GSW,Over 7.5 REB+AST,-140,Hit in 8 of his last 10 games vs GSW,80%,False,3.0
+Fred VanVleet,GSW,Under 1.5 Steals,-144,Hit in 4 of his last 5 games,80%,True,0.0
+Fred VanVleet,GSW,Under 0.5 Blocks,-235,Hit in 4 of his last 5 games,80%,False,1.0
+Tari Eason,GSW,Over 0.5 Assists,-185,Hit in 16 of his last 20 games,80%,True,1.0
+Tari Eason,GSW,Under 14.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games vs GSW,80%,True,12.0
+Quinten Post,HOU,Over 13.5 PTS+AST+REB,-110,Hit in 4 of his last 5 games,80%,False,7.0
+Brandin Podziemski,HOU,Under 5.5 Rebounds,-125,Hit in 4 of his last 5 games,80%,True,2.0
+Brandin Podziemski,HOU,Over 1.5 3PTM,-172,Hit in 4 of his last 5 away games,80%,True,2.0
+Brandin Podziemski,HOU,Under 0.5 Blocks,-295,Hit in 4 of his last 5 games vs HOU,80%,True,0.0
+Steven Adams,GSW,Under 7.5 Rebounds,-114,Hit in 4 of his last 5 games,80%,True,6.0
+Tari Eason,GSW,Over 7.5 Points,-132,Hit in 16 of his last 20 home games,80%,True,11.0
+Fred VanVleet,GSW,Under 17.5 PTS+REB,-112,Hit in 8 of his last 10 games,80%,False,35.0
+Fred VanVleet,GSW,Under 22.5 PTS+AST+REB,-118,Hit in 8 of his last 10 games,80%,False,36.0
+Quinten Post,HOU,Over 11.5 PTS+REB,-104,Hit in 4 of his last 5 games,80%,False,9.0
+LeBron James,MIN,Over 9.5 Rebounds,-130,Hit in 4 of his last 5 games vs MIN,80%,False,7.0
+LeBron James,MIN,Over 0.5 Double Double,-160,Hit in 4 of his last 5 games vs MIN,80%,False,0.0
+Jarred Vanderbilt,MIN,Under 0.5 Assists,-130,Hit in 4 of his last 5 games,80%,False,3.0
+Jarred Vanderbilt,MIN,Under 4.5 Rebounds,-145,Hit in 4 of his last 5 games,80%,False,7.0
+Jarred Vanderbilt,MIN,Under 4.5 Rebounds,-145,Hit in 4 of his last 5 games vs MIN,80%,False,7.0
+Dorian Finney-Smith,MIN,Under 7.5 Points,-118,Hit in 4 of his last 5 games vs MIN,80%,False,9.0
+Dorian Finney-Smith,MIN,Under 6.5 REB+AST,-145,Hit in 4 of his last 5 games,80%,True,6.0
+Dorian Finney-Smith,MIN,Under 6.5 REB+AST,-145,Hit in 4 of his last 5 games vs MIN,80%,True,6.0
+Dorian Finney-Smith,MIN,Under 12.5 PTS+REB,-115,Hit in 4 of his last 5 games vs MIN,80%,False,13.0
+Dorian Finney-Smith,MIN,Under 14.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games vs MIN,80%,True,11.0
+Rui Hachimura,MIN,Under 6.5 REB+AST,-125,Hit in 4 of his last 5 games vs MIN,80%,True,4.0
+Austin Reaves,MIN,Over 9.5 REB+AST,102,Hit in 4 of his last 5 games,80%,False,7.0
+Austin Reaves,MIN,Over 2.5 3PTM,-158,Hit in 8 of his last 10 games,80%,False,2.0
+Austin Reaves,MIN,Over 2.5 3PTM,-158,Hit in 4 of his last 5 home games,80%,False,2.0
+Austin Reaves,MIN,Under 0.5 Blocks,-165,Hit in 12 of his last 15 games vs MIN,80%,True,0.0
+Julius Randle,LAL,Over 20.5 Points,100,Hit in 4 of his last 5 games vs LAL,80%,True,25.0
+Mike Conley,LAL,Over 9.5 PTS+AST,-118,Hit in 8 of his last 10 away games,80%,True,15.0
+Mike Conley,LAL,Under 3.5 Assists,-162,Hit in 4 of his last 5 games,80%,True,3.0
+Jaden McDaniels,LAL,Under 5.5 Rebounds,108,Hit in 8 of his last 10 games,80%,True,3.0
+Jaden McDaniels,LAL,Under 0.5 Blocks,115,Hit in 4 of his last 5 games vs LAL,80%,True,0.0
+Anthony Edwards,LAL,Over 3.5 3PTM,-148,Hit in 4 of his last 5 games,80%,False,0.0
+Anthony Edwards,LAL,Under 28.5 Points,-112,Hit in 12 of his last 15 games vs LAL,80%,True,15.0
+Anthony Edwards,LAL,Over 0.5 Blocks,-110,Hit in 8 of his last 10 games,80%,False,0.0
+Donte DiVincenzo,LAL,Over 13.5 PTS+REB,-114,Hit in 12 of his last 15 away games,80%,True,17.0
+Dillon Brooks,GSW,Under 3.5 Rebounds,-128,Hit in 11 of his last 14 games,79%,True,1.0
+Rui Hachimura,MIN,Under 19.5 PTS+REB,-130,Hit in 11 of his last 14 games,79%,False,37.0
+Rui Hachimura,MIN,Under 19.5 PTS+AST+REB,-105,Hit in 11 of his last 14 games,79%,False,33.0
+Anthony Edwards,LAL,Under 1.5 Steals,-220,Hit in 11 of his last 14 games,79%,False,3.0
+Buddy Hield,HOU,Under 1.5 Assists,-105,Hit in 7 of his last 9 games,78%,True,1.0
+Dorian Finney-Smith,MIN,Over 1.5 Assists,-110,Hit in 7 of his last 9 games,78%,True,2.0
+Rudy Gobert,LAL,Over 9.5 REB+AST,-120,Hit in 7 of his last 9 away games,78%,True,24.0
+Dillon Brooks,GSW,Under 0.5 Blocks,-375,Hit in 10 of his last 13 games vs GSW,77%,True,0.0
+Steven Adams,GSW,Over 0.5 Assists,-220,Hit in 10 of his last 13 home games,77%,True,1.0
+Rui Hachimura,MIN,Under 0.5 Blocks,-160,Hit in 10 of his last 13 games vs MIN,77%,False,1.0
+Nickeil Alexander-Walker,LAL,Over 4.5 Points,-105,Hit in 10 of his last 13 games vs LAL,77%,True,14.0
+Rudy Gobert,LAL,Over 8.5 Rebounds,-118,Hit in 10 of his last 13 games vs LAL,77%,True,24.0
+Rudy Gobert,LAL,Over 9.5 REB+AST,-120,Hit in 10 of his last 13 games vs LAL,77%,True,24.0
+Donte DiVincenzo,LAL,Over 16.5 PTS+AST+REB,-128,Hit in 10 of his last 13 away games,77%,True,18.0
+Mike Conley,LAL,Over 9.5 PTS+AST,-118,Hit in 13 of his last 17 games vs LAL,76%,True,15.0
+Mike Conley,LAL,Over 6.5 Points,102,Hit in 13 of his last 17 games vs LAL,76%,True,12.0
+Rudy Gobert,LAL,Over 0.5 Assists,-105,Hit in 13 of his last 17 games,76%,False,0.0
+Dillon Brooks,GSW,Over 16.5 PTS+REB,-104,Hit in 6 of his last 8 games,75%,True,29.0
+Dillon Brooks,GSW,Under 5.5 REB+AST,-125,Hit in 6 of his last 8 games vs GSW,75%,True,3.0
+Dillon Brooks,GSW,Under 14.5 PTS+AST,-120,Hit in 3 of his last 4 games vs GSW,75%,False,30.0
+Dillon Brooks,GSW,Under 1.5 Assists,-130,Hit in 6 of his last 8 games vs GSW,75%,False,2.0
+Dillon Brooks,GSW,Under 0.5 Blocks,-375,Hit in 15 of his last 20 games,75%,True,0.0
+Fred VanVleet,GSW,Over 7.5 REB+AST,-140,Hit in 3 of his last 4 games,75%,False,3.0
+Fred VanVleet,GSW,Under 18.5 PTS+AST,-102,Hit in 6 of his last 8 games vs GSW,75%,False,36.0
+Fred VanVleet,GSW,Under 1.5 Steals,-144,Hit in 6 of his last 8 games vs GSW,75%,True,0.0
+Fred VanVleet,GSW,Under 0.5 Blocks,-235,Hit in 3 of his last 4 games vs GSW,75%,False,1.0
+Amen Thompson,GSW,Under 15.5 PTS+AST,100,Hit in 3 of his last 4 games,75%,False,30.0
+Amen Thompson,GSW,Under 15.5 PTS+AST,100,Hit in 6 of his last 8 games vs GSW,75%,False,30.0
+Amen Thompson,GSW,Under 19.5 PTS+REB,-130,Hit in 3 of his last 4 games,75%,False,33.0
+Amen Thompson,GSW,Under 19.5 PTS+REB,-130,Hit in 3 of his last 4 games vs GSW,75%,False,33.0
+Amen Thompson,GSW,Under 23.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games,75%,False,30.0
+Amen Thompson,GSW,Under 23.5 PTS+AST+REB,-130,Hit in 6 of his last 8 games vs GSW,75%,False,30.0
+Amen Thompson,GSW,Over 6.5 Rebounds,-146,Hit in 3 of his last 4 games,75%,False,6.0
+Amen Thompson,GSW,Over 6.5 Rebounds,-146,Hit in 3 of his last 4 games vs GSW,75%,False,6.0
+Amen Thompson,GSW,Over 6.5 Rebounds,-146,Hit in 12 of his last 16 home games,75%,False,6.0
+Amen Thompson,GSW,Under 12.5 Points,-136,Hit in 3 of his last 4 games,75%,False,27.0
+Amen Thompson,GSW,Under 12.5 Points,-136,Hit in 3 of his last 4 games vs GSW,75%,False,27.0
+Tari Eason,GSW,Under 14.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games,75%,True,12.0
+Quinten Post,HOU,Under 1.5 Assists,-120,Hit in 9 of his last 12 games,75%,True,0.0
+Buddy Hield,HOU,Over 3.5 Rebounds,110,Hit in 3 of his last 4 away games,75%,False,2.0
+Fred VanVleet,GSW,Under 22.5 PTS+AST+REB,-118,Hit in 6 of his last 8 games vs GSW,75%,False,36.0
+LeBron James,MIN,Under 32.5 PTS+AST,-106,Hit in 6 of his last 8 games,75%,True,30.0
+LeBron James,MIN,Under 6.5 Assists,100,Hit in 9 of his last 12 games vs MIN,75%,True,6.0
+LeBron James,MIN,Over 1.5 Blocks,138,Hit in 3 of his last 4 games,75%,False,0.0
+LeBron James,MIN,Over 1.5 Blocks,138,Hit in 3 of his last 4 games vs MIN,75%,False,0.0
+LeBron James,MIN,Over 1.5 Steals,178,Hit in 3 of his last 4 games,75%,True,2.0
+LeBron James,MIN,Over 1.5 Steals,178,Hit in 3 of his last 4 games vs MIN,75%,True,2.0
+Jarred Vanderbilt,MIN,Under 2.5 Points,-165,Hit in 3 of his last 4 games,75%,True,2.0
+Jarred Vanderbilt,MIN,Under 2.5 Points,-165,Hit in 3 of his last 4 games vs MIN,75%,True,2.0
+Dorian Finney-Smith,MIN,Under 7.5 Points,-118,Hit in 3 of his last 4 games,75%,False,9.0
+Dorian Finney-Smith,MIN,Over 9.5 PTS+AST,-115,Hit in 6 of his last 8 games,75%,True,11.0
+Dorian Finney-Smith,MIN,Under 12.5 PTS+REB,-115,Hit in 3 of his last 4 games,75%,False,13.0
+Dorian Finney-Smith,MIN,Over 1.5 Assists,-110,Hit in 3 of his last 4 games vs MIN,75%,True,2.0
+Dorian Finney-Smith,MIN,Under 14.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%,True,11.0
+Dorian Finney-Smith,MIN,Under 0.5 Blocks,-225,Hit in 6 of his last 8 games vs MIN,75%,True,0.0
+Rui Hachimura,MIN,Over 1.5 3PTM,-180,Hit in 6 of his last 8 games,75%,True,5.0
+Rui Hachimura,MIN,Over 1.5 3PTM,-180,Hit in 3 of his last 4 games vs MIN,75%,True,5.0
+Rui Hachimura,MIN,Under 13.5 Points,-120,Hit in 3 of his last 4 games,75%,False,33.0
+Rui Hachimura,MIN,Under 14.5 PTS+AST,-118,Hit in 3 of his last 4 games,75%,False,33.0
+Austin Reaves,MIN,Over 9.5 REB+AST,102,Hit in 3 of his last 4 home games,75%,False,7.0
+Austin Reaves,MIN,Under 22.5 PTS+AST,-102,Hit in 3 of his last 4 games,75%,True,18.0
+Austin Reaves,MIN,Under 22.5 PTS+AST,-102,Hit in 3 of his last 4 games vs MIN,75%,True,18.0
+Austin Reaves,MIN,Over 23.5 PTS+REB,-130,Hit in 15 of his last 20 games,75%,False,21.0
+Austin Reaves,MIN,Over 3.5 Assists,-172,Hit in 3 of his last 4 home games,75%,False,2.0
+Austin Reaves,MIN,Under 28.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%,True,18.0
+Austin Reaves,MIN,Under 28.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games vs MIN,75%,True,18.0
+Austin Reaves,MIN,Over 2.5 3PTM,-158,Hit in 3 of his last 4 games vs MIN,75%,False,2.0
+Austin Reaves,MIN,Under 18.5 Points,-106,Hit in 3 of his last 4 games,75%,True,16.0
+Austin Reaves,MIN,Under 18.5 Points,-106,Hit in 6 of his last 8 games vs MIN,75%,True,16.0
+Julius Randle,LAL,Under 6.5 Rebounds,106,Hit in 3 of his last 4 games,75%,True,5.0
+Julius Randle,LAL,Over 1.5 3PTM,-130,Hit in 3 of his last 4 games,75%,False,1.0
+Julius Randle,LAL,Over 1.5 3PTM,-130,Hit in 3 of his last 4 games vs LAL,75%,False,1.0
+Mike Conley,LAL,Under 3.5 Assists,-162,Hit in 3 of his last 4 games vs LAL,75%,True,3.0
+Donte DiVincenzo,LAL,Over 1.5 3PTM,-200,Hit in 15 of his last 20 games,75%,True,2.0
+Donte DiVincenzo,LAL,Over 1.5 3PTM,-200,Hit in 15 of his last 20 away games,75%,True,2.0
+Donte DiVincenzo,LAL,Under 9.5 Points,-106,Hit in 3 of his last 4 games,75%,False,13.0
+Jaden McDaniels,LAL,Over 19.5 PTS+REB,-128,Hit in 3 of his last 4 games,75%,False,11.0
+Jaden McDaniels,LAL,Under 1.5 3PTM,-270,Hit in 9 of his last 12 games,75%,True,0.0
+Jaden McDaniels,LAL,Over 13.5 Points,-125,Hit in 3 of his last 4 games,75%,False,8.0
+Jaden McDaniels,LAL,Under 1.5 Steals,-245,Hit in 3 of his last 4 games vs LAL,75%,True,1.0
+Jaden McDaniels,LAL,Under 7.5 REB+AST,-125,Hit in 12 of his last 16 games,75%,True,3.0
+Jaden McDaniels,LAL,Over 15.5 PTS+AST,-105,Hit in 3 of his last 4 games,75%,False,8.0
+Jaden McDaniels,LAL,Over 21.5 PTS+AST+REB,-105,Hit in 3 of his last 4 games,75%,False,8.0
+Jaden McDaniels,LAL,Under 1.5 Assists,-130,Hit in 6 of his last 8 games vs LAL,75%,True,0.0
+Jaden McDaniels,LAL,Under 0.5 Blocks,115,Hit in 3 of his last 4 games,75%,True,0.0
+Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-160,Hit in 15 of his last 20 away games,75%,True,2.0
+Nickeil Alexander-Walker,LAL,Over 4.5 Points,-105,Hit in 15 of his last 20 away games,75%,True,14.0
+Rudy Gobert,LAL,Over 8.5 Rebounds,-118,Hit in 12 of his last 16 games,75%,True,24.0
+Naz Reid,LAL,Over 16.5 PTS+REB,-112,Hit in 3 of his last 4 away games,75%,False,5.0
+Naz Reid,LAL,Under 5.5 Rebounds,-146,Hit in 3 of his last 4 games,75%,True,2.0
+Naz Reid,LAL,Under 5.5 Rebounds,-146,Hit in 9 of his last 12 games vs LAL,75%,True,2.0
+Naz Reid,LAL,Over 1.5 3PTM,-130,Hit in 3 of his last 4 games,75%,False,0.0
+Naz Reid,LAL,Over 11.5 Points,100,Hit in 3 of his last 4 away games,75%,False,3.0
+Naz Reid,LAL,Over 1.5 Assists,-105,Hit in 15 of his last 20 games,75%,True,2.0
+Anthony Edwards,LAL,Over 11.5 REB+AST,-132,Hit in 3 of his last 4 games,75%,True,19.0
+Anthony Edwards,LAL,Over 11.5 REB+AST,-132,Hit in 3 of his last 4 games vs LAL,75%,True,19.0
+Anthony Edwards,LAL,Over 5.5 Assists,110,Hit in 3 of his last 4 games,75%,True,8.0
+Anthony Edwards,LAL,Over 5.5 Assists,110,Hit in 3 of his last 4 games vs LAL,75%,True,8.0
+Anthony Edwards,LAL,Over 6.5 Rebounds,-112,Hit in 3 of his last 4 games,75%,True,11.0
+Anthony Edwards,LAL,Over 6.5 Rebounds,-112,Hit in 3 of his last 4 games vs LAL,75%,True,11.0
+Anthony Edwards,LAL,Over 3.5 3PTM,-148,Hit in 3 of his last 4 games vs LAL,75%,False,0.0
+Donte DiVincenzo,LAL,Over 16.5 PTS+AST+REB,-128,Hit in 15 of his last 20 games,75%,True,18.0
+Donte DiVincenzo,LAL,Under 13.5 PTS+AST,-130,Hit in 3 of his last 4 games,75%,False,18.0
+Donte DiVincenzo,LAL,Under 13.5 PTS+AST,-130,Hit in 3 of his last 4 games vs LAL,75%,False,18.0
+Fred VanVleet,GSW,Under 2.5 3PTM,130,GSW rank 2nd in 3PTM versus PG,2nd,False,4.0
+Amen Thompson,GSW,Under 1.5 Steals,-245,GSW rank 2nd in STL versus SF,2nd,False,5.0
+Quinten Post,HOU,Under 1.5 Assists,-120,HOU rank 2nd in AST against,2nd,True,0.0
+Quinten Post,HOU,Under 4.5 Rebounds,-152,HOU rank 4th in REB against,4th,True,2.0
+Quinten Post,HOU,Under 1.5 3PTM,-138,HOU rank 2nd in 3PTM against,2nd,True,1.0
+Buddy Hield,HOU,Under 1.5 Assists,-105,HOU rank 5th in AST versus SG,5th,True,1.0
+Buddy Hield,HOU,Under 2.5 3PTM,-166,HOU rank 2nd in 3PTM against,2nd,True,0.0
+Brandin Podziemski,HOU,Under 3.5 Assists,-130,HOU rank 5th in AST versus SG,5th,False,4.0
+Brandin Podziemski,HOU,Under 5.5 Rebounds,-125,HOU rank 4th in REB against,4th,True,2.0
+Fred VanVleet,GSW,Under 14.5 Points,-130,GSW rank 1st in PTS versus PG,1st,False,34.0
+LeBron James,MIN,Under 6.5 Assists,100,MIN rank 4th in AST versus SF,4th,True,6.0
+LeBron James,MIN,Under 1.5 3PTM,126,MIN rank 3rd in 3PTM against,3rd,True,1.0
+LeBron James,MIN,Under 25.5 Points,-108,MIN rank 5th in PTS against,5th,True,24.0
+LeBron James,MIN,Over 1.5 Steals,178,MIN rank 29th in STL versus SF,29th,True,2.0
+Jarred Vanderbilt,MIN,Under 0.5 Assists,-130,MIN rank 3rd in AST versus PF,3rd,False,3.0
+Jarred Vanderbilt,MIN,Under 4.5 Rebounds,-145,MIN rank 5th in REB versus PF,5th,False,7.0
+Jarred Vanderbilt,MIN,Under 2.5 Points,-165,MIN rank 5th in PTS against,5th,True,2.0
+Dorian Finney-Smith,MIN,Under 7.5 Points,-118,MIN rank 5th in PTS against,5th,False,9.0
+Dorian Finney-Smith,MIN,Under 4.5 Rebounds,-110,MIN rank 5th in REB versus PF,5th,True,4.0
+Dorian Finney-Smith,MIN,Under 1.5 3PTM,115,MIN rank 3rd in 3PTM against,3rd,True,1.0
+Rui Hachimura,MIN,Under 5.5 Rebounds,-122,MIN rank 5th in REB versus PF,5th,True,4.0
+Rui Hachimura,MIN,Under 13.5 Points,-120,MIN rank 5th in PTS against,5th,False,33.0
+Rui Hachimura,MIN,Under 1.5 Assists,-250,MIN rank 3rd in AST versus PF,3rd,True,0.0
+Austin Reaves,MIN,Under 18.5 Points,-106,MIN rank 5th in PTS against,5th,True,16.0
+Julius Randle,LAL,Under 6.5 Rebounds,106,LAL rank 4th in REB versus PF,4th,True,5.0
+Julius Randle,LAL,Under 0.5 Blocks,-300,LAL rank 4th in BLK against,4th,True,0.0
+Donte DiVincenzo,LAL,Over 1.5 3PTM,-200,LAL rank 27th in 3PTM versus SG,27th,True,2.0
+Jaden McDaniels,LAL,Under 5.5 Rebounds,108,LAL rank 4th in REB versus PF,4th,True,3.0
+Jaden McDaniels,LAL,Under 0.5 Blocks,115,LAL rank 4th in BLK against,4th,True,0.0
+Nickeil Alexander-Walker,LAL,Over 0.5 3PTM,-160,LAL rank 27th in 3PTM versus SG,27th,True,2.0
+Rudy Gobert,LAL,Under 0.5 Blocks,110,LAL rank 4th in BLK against,4th,False,2.0
+Anthony Edwards,LAL,Over 3.5 3PTM,-148,LAL rank 27th in 3PTM versus SG,27th,False,0.0
