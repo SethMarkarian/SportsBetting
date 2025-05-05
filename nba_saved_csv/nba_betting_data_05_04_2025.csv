@@ -1,380 +1,258 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Ty Jerome,IND,Over 2.5 Rebounds,-162,Hit in 4 of his last 4 games,100%
-Jarrett Allen,IND,Under 10.5 Rebounds,-122,Hit in 4 of his last 4 games vs IND,100%
-Jarrett Allen,IND,Under 1.5 Steals,-220,Hit in 11 of his last 11 games vs IND,100%
-Jarrett Allen,IND,Under 12.5 REB+AST,-138,Hit in 4 of his last 4 games vs IND,100%
-Jarrett Allen,IND,Under 1.5 Steals,-220,Hit in 16 of his last 20 games,80%
-Davion Mitchell,IND,Over 4.5 Rebounds,-152,Hit in 8 of his last 8 home games,100%
-Davion Mitchell,IND,Under 0.5 Blocks,-325,Hit in 5 of his last 5 games,100%
-Davion Mitchell,IND,Under 0.5 Blocks,-325,Hit in 8 of his last 8 games vs IND,100%
-Darius Garland,IND,Over 23.5 PTS+AST,-120,Hit in 4 of his last 4 games,100%
-Darius Garland,IND,Over 20.5 PTS+REB,-122,Hit in 4 of his last 4 games,100%
-Darius Garland,IND,Over 26.5 PTS+AST+REB,-122,Hit in 4 of his last 4 games,100%
-Darius Garland,IND,Over 17.5 Points,-120,Hit in 4 of his last 4 games,100%
-Eric Mobley,IND,Under 12.5 REB+AST,-106,Hit in 5 of his last 5 games,100%
-Eric Mobley,IND,Under 27.5 PTS+REB,-130,Hit in 5 of his last 5 games,100%
-Eric Mobley,IND,Under 3.5 Assists,-146,Hit in 5 of his last 5 games,100%
-Eric Mobley,IND,Under 30.5 PTS+AST+REB,102,Hit in 5 of his last 5 games,100%
-Tyrese Haliburton,CLE,Over 4.5 Rebounds,110,Hit in 6 of his last 6 games,100%
-Tyrese Haliburton,CLE,Under 1.5 Steals,-186,Hit in 4 of his last 4 games vs CLE,100%
-Myles Turner,CLE,Under 1.5 Assists,-210,Hit in 4 of his last 4 games vs CLE,100%
-T.J. McConnell,CLE,Over 2.5 Rebounds,-102,Hit in 4 of his last 4 games,100%
-Bennedict Mathurin,CLE,Over 0.5 3PTM,-160,Hit in 6 of his last 6 games vs CLE,100%
-Bennedict Mathurin,CLE,Over 0.5 Assists,-165,Hit in 5 of his last 5 games vs CLE,100%
-Aaron Nesmith,CLE,Over 16.5 PTS+REB,-125,Hit in 4 of his last 4 games,100%
-Aaron Nesmith,CLE,Over 1.5 3PTM,-200,Hit in 4 of his last 4 games,100%
-Aaron Nesmith,CLE,Over 12.5 Points,-106,Hit in 4 of his last 4 games,100%
-Aaron Nesmith,CLE,Over 13.5 PTS+AST,-125,Hit in 4 of his last 4 games,100%
-Aaron Nesmith,CLE,Over 18.5 PTS+AST+REB,-120,Hit in 4 of his last 4 games,100%
-Aaron Nesmith,CLE,Under 0.5 Blocks,-295,Hit in 4 of his last 4 games vs CLE,100%
-Obi Toppin,CLE,Over 9.5 PTS+REB,-110,Hit in 7 of his last 7 games vs CLE,100%
-Obi Toppin,CLE,Over 9.5 PTS+REB,-110,Hit in 11 of his last 11 away games,100%
-Obi Toppin,CLE,Over 0.5 3PTM,-210,Hit in 4 of his last 4 games vs CLE,100%
-Obi Toppin,CLE,Over 6.5 Points,100,Hit in 6 of his last 6 games vs CLE,100%
-Obi Toppin,CLE,Over 6.5 Points,100,Hit in 11 of his last 11 away games,100%
-Obi Toppin,CLE,Under 1.5 Assists,-220,Hit in 6 of his last 6 games,100%
-Jabari Walker,CLE,Over 6.5 PTS+AST+REB,-110,Hit in 4 of his last 4 games vs CLE,100%
-Jabari Walker,CLE,Over 2.5 Rebounds,100,Hit in 4 of his last 4 games vs CLE,100%
-Jabari Walker,CLE,Over 0.5 3PTM,100,Hit in 4 of his last 4 games vs CLE,100%
-Jabari Walker,CLE,Over 2.5 Points,-145,Hit in 4 of his last 4 games vs CLE,100%
-JaMychal Green,GSW,Under 17.5 PTS+AST,-106,Hit in 4 of his last 4 games,100%
-JaMychal Green,GSW,Under 17.5 PTS+AST,-106,Hit in 4 of his last 4 games vs GSW,100%
-JaMychal Green,GSW,Under 19.5 PTS+REB,-120,Hit in 4 of his last 4 games,100%
-JaMychal Green,GSW,Under 19.5 PTS+REB,-120,Hit in 4 of his last 4 games vs GSW,100%
-JaMychal Green,GSW,Under 22.5 PTS+AST+REB,-125,Hit in 4 of his last 4 games,100%
-JaMychal Green,GSW,Under 22.5 PTS+AST+REB,-125,Hit in 4 of his last 4 games vs GSW,100%
-JaMychal Green,GSW,Under 15.5 Points,-132,Hit in 4 of his last 4 games,100%
-JaMychal Green,GSW,Under 15.5 Points,-132,Hit in 4 of his last 4 games vs GSW,100%
-Steven Adams,GSW,Under 7.5 Rebounds,-114,Hit in 5 of his last 5 games vs GSW,100%
-Steven Adams,GSW,Under 7.5 Rebounds,-114,Hit in 5 of his last 5 games,100%
-Tari Eason,GSW,Over 9.5 PTS+REB,-125,Hit in 4 of his last 4 home games,100%
-Tari Eason,GSW,Over 3.5 Rebounds,100,Hit in 7 of his last 7 home games,100%
-Fred VanVleet,GSW,Over 20.5 PTS+REB,-118,Hit in 4 of his last 4 games,100%
-Fred VanVleet,GSW,Over 20.5 PTS+REB,-118,Hit in 4 of his last 4 games vs GSW,100%
-Fred VanVleet,GSW,Under 1.5 Steals,-186,Hit in 4 of his last 4 games vs GSW,100%
-Fred VanVleet,GSW,Under 1.5 Steals,-186,Hit in 4 of his last 4 games,100%
-Dillon Brooks,GSW,Over 1.5 3PTM,-114,Hit in 8 of his last 8 home games,100%
-Danny Green,HOU,Under 8.5 Points,-132,Hit in 7 of his last 7 games,100%
-Danny Green,HOU,Under 8.5 Points,-132,Hit in 7 of his last 7 games vs HOU,100%
-Danny Green,HOU,Over 1.5 Steals,108,Hit in 5 of his last 5 away games,100%
-Moses Moody,HOU,Over 0.5 Assists,-235,Hit in 10 of his last 10 games,100%
-Moses Moody,HOU,Over 0.5 Assists,-235,Hit in 6 of his last 6 games vs HOU,100%
-Moses Moody,HOU,Over 0.5 Assists,-235,Hit in 4 of his last 4 away games,100%
-Bennedict Mathurin,CLE,Over 0.5 Assists,-165,Hit in 15 of his last 16 games,94%
-Dillon Brooks,GSW,Over 9.5 Points,-128,Hit in 15 of his last 16 home games,94%
-Dillon Brooks,GSW,Over 11.5 PTS+AST,-115,Hit in 15 of his last 16 home games,94%
-Andrew Nembhard,CLE,Under 15.5 PTS+REB,-128,Hit in 11 of his last 12 games vs CLE,92%
-Andrew Nembhard,CLE,Under 3.5 Rebounds,-152,Hit in 11 of his last 12 games vs CLE,92%
-Andrew Nembhard,CLE,Under 1.5 3PTM,-188,Hit in 11 of his last 12 games vs CLE,92%
-T.J. McConnell,CLE,Over 3.5 Assists,-144,Hit in 10 of his last 11 games vs CLE,91%
-Obi Toppin,CLE,Over 11.5 PTS+AST+REB,-105,Hit in 10 of his last 11 away games,91%
-De'Andre Hunter,IND,Over 1.5 3PTM,-166,Hit in 9 of his last 10 games,90%
-Tari Eason,GSW,Over 0.5 Assists,-165,Hit in 18 of his last 20 home games,90%
-Brandin Podziemski,HOU,Under 0.5 Blocks,-350,Hit in 18 of his last 20 games,90%
-Darius Garland,IND,Over 8.5 REB+AST,-132,Hit in 16 of his last 18 games,89%
-Darius Garland,IND,Over 5.5 Assists,-132,Hit in 8 of his last 9 games vs IND,89%
-Darius Garland,IND,Under 1.5 Steals,-270,Hit in 8 of his last 9 games,89%
-Eric Mobley,IND,Under 1.5 3PTM,-158,Hit in 8 of his last 9 games vs IND,89%
-Tyrese Haliburton,CLE,Under 1.5 Steals,-186,Hit in 8 of his last 9 games,89%
-T.J. McConnell,CLE,Over 6.5 REB+AST,-108,Hit in 8 of his last 9 games vs CLE,89%
-Bennedict Mathurin,CLE,Over 12.5 PTS+REB,-102,Hit in 8 of his last 9 games vs CLE,89%
-Bennedict Mathurin,CLE,Over 8.5 Points,-128,Hit in 8 of his last 9 games vs CLE,89%
-Bennedict Mathurin,CLE,Over 13.5 PTS+AST+REB,-115,Hit in 8 of his last 9 games vs CLE,89%
-Obi Toppin,CLE,Over 0.5 3PTM,-210,Hit in 16 of his last 18 games,89%
-JaMychal Green,GSW,Under 0.5 Blocks,-300,Hit in 8 of his last 9 games,89%
-Amen Thompson,GSW,Under 0.5 3PTM,-325,Hit in 8 of his last 9 games vs GSW,89%
-Fred VanVleet,GSW,Under 8.5 REB+AST,-136,Hit in 8 of his last 9 games,89%
-Jackie Butler,HOU,Under 6.5 Assists,-158,Hit in 8 of his last 9 games vs HOU,89%
-Dillon Brooks,GSW,Over 12.5 PTS+REB,-118,Hit in 15 of his last 17 home games,88%
-Andrew Nembhard,CLE,Under 11.5 Points,-114,Hit in 7 of his last 8 games vs CLE,88%
-Bennedict Mathurin,CLE,Over 8.5 Points,-128,Hit in 14 of his last 16 games,88%
-Obi Toppin,CLE,Over 0.5 3PTM,-210,Hit in 7 of his last 8 away games,88%
-Ty Jerome,IND,Over 17.5 PTS+AST,-114,Hit in 7 of his last 8 games,88%
-Ty Jerome,IND,Over 20.5 PTS+AST+REB,-118,Hit in 7 of his last 8 games,88%
-Jabari Walker,CLE,Over 0.5 Assists,-118,Hit in 7 of his last 8 away games,88%
-Jabari Walker,CLE,Over 6.5 PTS+AST+REB,-110,Hit in 7 of his last 8 away games,88%
-Jabari Walker,CLE,Over 0.5 3PTM,100,Hit in 7 of his last 8 away games,88%
-Jabari Walker,CLE,Over 2.5 Points,-145,Hit in 7 of his last 8 away games,88%
-Amen Thompson,GSW,Under 0.5 3PTM,-325,Hit in 7 of his last 8 games,88%
-Tari Eason,GSW,Over 9.5 PTS+REB,-125,Hit in 7 of his last 8 games,88%
-Seth Curry,HOU,Under 1.5 Steals,-220,Hit in 7 of his last 8 games vs HOU,88%
-Sam Merrill,IND,Over 9.5 PTS+AST+REB,-118,Hit in 13 of his last 15 games,87%
-Danny Green,HOU,Under 1.5 3PTM,-240,Hit in 13 of his last 15 games vs HOU,87%
-Danny Green,HOU,Under 1.5 Blocks,-168,Hit in 13 of his last 15 games vs HOU,87%
-Eric Mobley,IND,Over 9.5 Rebounds,-118,Hit in 6 of his last 7 games vs IND,86%
-Eric Mobley,IND,Over 0.5 Double Double,-105,Hit in 6 of his last 7 games vs IND,86%
-Tyrese Haliburton,CLE,Over 14.5 REB+AST,-102,Hit in 6 of his last 7 games vs CLE,86%
-Tyrese Haliburton,CLE,Over 9.5 Assists,-136,Hit in 6 of his last 7 games vs CLE,86%
-Tyrese Haliburton,CLE,Over 0.5 Double Double,-110,Hit in 6 of his last 7 games vs CLE,86%
-T.J. McConnell,CLE,Over 7.5 Points,-114,Hit in 6 of his last 7 away games,86%
-Sam Merrill,IND,Over 9.5 PTS+AST+REB,-118,Hit in 6 of his last 7 home games,86%
-Jabari Walker,CLE,Over 2.5 Rebounds,100,Hit in 6 of his last 7 away games,86%
-JaMychal Green,GSW,Over 7.5 REB+AST,110,Hit in 6 of his last 7 games vs GSW,86%
-Amen Thompson,GSW,Under 1.5 Blocks,-220,Hit in 6 of his last 7 games,86%
-Fred VanVleet,GSW,Under 8.5 REB+AST,-136,Hit in 6 of his last 7 games vs GSW,86%
-Dillon Brooks,GSW,Over 12.5 PTS+REB,-118,Hit in 6 of his last 7 games vs GSW,86%
-Dillon Brooks,GSW,Over 1.5 3PTM,-114,Hit in 12 of his last 14 games,86%
-Dillon Brooks,GSW,Over 9.5 Points,-128,Hit in 6 of his last 7 games vs GSW,86%
-Dillon Brooks,GSW,Over 14.5 PTS+AST+REB,-110,Hit in 6 of his last 7 games vs GSW,86%
-Brandin Podziemski,HOU,Under 0.5 Blocks,-350,Hit in 6 of his last 7 games vs HOU,86%
-Danny Green,HOU,Under 12.5 PTS+AST,-104,Hit in 6 of his last 7 games vs HOU,86%
-Danny Green,HOU,Under 14.5 PTS+REB,-104,Hit in 6 of his last 7 games,86%
-Danny Green,HOU,Under 14.5 PTS+REB,-104,Hit in 6 of his last 7 games vs HOU,86%
-Danny Green,HOU,Under 4.5 Assists,-125,Hit in 6 of his last 7 games vs HOU,86%
-Danny Green,HOU,Under 19.5 PTS+AST+REB,-114,Hit in 6 of his last 7 games vs HOU,86%
-Seth Curry,HOU,Under 1.5 Steals,-220,Hit in 6 of his last 7 games,86%
-Obi Toppin,CLE,Over 9.5 PTS+REB,-110,Hit in 17 of his last 20 games,85%
-Tari Eason,GSW,Over 11.5 PTS+AST+REB,-110,Hit in 17 of his last 20 home games,85%
-Dillon Brooks,GSW,Over 9.5 Points,-128,Hit in 17 of his last 20 games,85%
-Danny Green,HOU,Under 1.5 Blocks,-168,Hit in 17 of his last 20 games,85%
-Tari Eason,GSW,Over 9.5 PTS+REB,-125,Hit in 11 of his last 13 games vs GSW,85%
-Tari Eason,GSW,Over 0.5 Assists,-165,Hit in 11 of his last 13 games vs GSW,85%
-Dillon Brooks,GSW,Over 14.5 PTS+AST+REB,-110,Hit in 11 of his last 13 home games,85%
-Davion Mitchell,IND,Over 31.5 PTS+REB,-125,Hit in 5 of his last 6 home games,83%
-Davion Mitchell,IND,Over 37.5 PTS+AST+REB,-118,Hit in 5 of his last 6 home games,83%
-Darius Garland,IND,Over 8.5 REB+AST,-132,Hit in 10 of his last 12 home games,83%
-Darius Garland,IND,Over 20.5 PTS+REB,-122,Hit in 5 of his last 6 home games,83%
-Darius Garland,IND,Over 26.5 PTS+AST+REB,-122,Hit in 5 of his last 6 home games,83%
-Eric Mobley,IND,Under 1.5 Blocks,-132,Hit in 5 of his last 6 games,83%
-Max Strus,IND,Over 2.5 3PTM,116,Hit in 5 of his last 6 games,83%
-De'Andre Hunter,IND,Over 1.5 3PTM,-166,Hit in 5 of his last 6 home games,83%
-Andrew Nembhard,CLE,Under 1.5 3PTM,-188,Hit in 15 of his last 18 games,83%
-Tyrese Haliburton,CLE,Over 14.5 REB+AST,-102,Hit in 5 of his last 6 games,83%
-Tyrese Haliburton,CLE,Over 9.5 Assists,-136,Hit in 5 of his last 6 games,83%
-Tyrese Haliburton,CLE,Over 0.5 Double Double,-110,Hit in 5 of his last 6 games,83%
-Myles Turner,CLE,Under 6.5 Rebounds,-140,Hit in 5 of his last 6 games,83%
-Myles Turner,CLE,Under 1.5 Blocks,110,Hit in 5 of his last 6 games vs CLE,83%
-Pascal Siakam,CLE,Under 2.5 Assists,-114,Hit in 5 of his last 6 games vs CLE,83%
-Aaron Nesmith,CLE,Under 1.5 Assists,-210,Hit in 5 of his last 6 games vs CLE,83%
-Sam Merrill,IND,Over 1.5 3PTM,-125,Hit in 5 of his last 6 games,83%
-Sam Merrill,IND,Over 5.5 Points,-140,Hit in 5 of his last 6 games,83%
-Obi Toppin,CLE,Over 11.5 PTS+AST+REB,-105,Hit in 5 of his last 6 games vs CLE,83%
-JaMychal Green,GSW,Over 7.5 REB+AST,110,Hit in 5 of his last 6 games,83%
-JaMychal Green,GSW,Under 0.5 Blocks,-300,Hit in 5 of his last 6 games vs GSW,83%
-Amen Thompson,GSW,Under 1.5 Blocks,-220,Hit in 5 of his last 6 games vs GSW,83%
-Dillon Brooks,GSW,Over 12.5 PTS+REB,-118,Hit in 5 of his last 6 games,83%
-Dillon Brooks,GSW,Over 14.5 PTS+AST+REB,-110,Hit in 5 of his last 6 games,83%
-Brandin Podziemski,HOU,Over 1.5 3PTM,-158,Hit in 5 of his last 6 away games,83%
-Danny Green,HOU,Under 12.5 PTS+AST,-104,Hit in 5 of his last 6 games,83%
-Danny Green,HOU,Under 4.5 Assists,-125,Hit in 5 of his last 6 games,83%
-Danny Green,HOU,Under 19.5 PTS+AST+REB,-114,Hit in 5 of his last 6 games,83%
-Jackie Butler,HOU,Under 6.5 Assists,-158,Hit in 5 of his last 6 games,83%
-Moses Moody,HOU,Under 4.5 REB+AST,-160,Hit in 14 of his last 17 games vs HOU,82%
-Jarrett Allen,IND,Under 12.5 REB+AST,-138,Hit in 9 of his last 11 games,82%
-Darius Garland,IND,Over 5.5 Assists,-132,Hit in 9 of his last 11 games,82%
-Pascal Siakam,CLE,Over 9.5 REB+AST,100,Hit in 9 of his last 11 games vs CLE,82%
-Pascal Siakam,CLE,Over 25.5 PTS+REB,-125,Hit in 9 of his last 11 games vs CLE,82%
-Pascal Siakam,CLE,Over 28.5 PTS+AST+REB,-114,Hit in 9 of his last 11 games vs CLE,82%
-Pascal Siakam,CLE,Over 6.5 Rebounds,-132,Hit in 9 of his last 11 games vs CLE,82%
-Aaron Nesmith,CLE,Over 1.5 3PTM,-200,Hit in 9 of his last 11 away games,82%
-Tari Eason,GSW,Over 0.5 Assists,-165,Hit in 9 of his last 11 games,82%
-Buddy Hield,HOU,Under 1.5 Assists,-190,Hit in 9 of his last 11 games,82%
-Jabari Walker,CLE,Over 6.5 PTS+AST+REB,-110,Hit in 13 of his last 16 games,81%
-Jabari Walker,CLE,Over 0.5 3PTM,100,Hit in 13 of his last 16 games,81%
-Jabari Walker,CLE,Over 2.5 Points,-145,Hit in 13 of his last 16 games,81%
-Ty Jerome,IND,Over 6.5 REB+AST,-136,Hit in 4 of his last 5 games,80%
-Jarrett Allen,IND,Under 1.5 Assists,-105,Hit in 4 of his last 5 games,80%
-Davion Mitchell,IND,Over 32.5 PTS+AST,-118,Hit in 4 of his last 5 games vs IND,80%
-Davion Mitchell,IND,Over 31.5 PTS+REB,-125,Hit in 4 of his last 5 games vs IND,80%
-Davion Mitchell,IND,Under 5.5 Assists,-125,Hit in 4 of his last 5 games vs IND,80%
-Davion Mitchell,IND,Over 37.5 PTS+AST+REB,-118,Hit in 4 of his last 5 games vs IND,80%
-Davion Mitchell,IND,Over 26.5 Points,-125,Hit in 4 of his last 5 games vs IND,80%
-Davion Mitchell,IND,Over 1.5 Steals,178,Hit in 4 of his last 5 games vs IND,80%
-Darius Garland,IND,Under 2.5 Rebounds,122,Hit in 4 of his last 5 games vs IND,80%
-Eric Mobley,IND,Under 3.5 Assists,-146,Hit in 4 of his last 5 games vs IND,80%
-De'Andre Hunter,IND,Under 16.5 PTS+REB,-106,Hit in 4 of his last 5 games vs IND,80%
-De'Andre Hunter,IND,Under 12.5 Points,-106,Hit in 4 of his last 5 games vs IND,80%
-De'Andre Hunter,IND,Under 17.5 PTS+AST+REB,100,Hit in 4 of his last 5 games vs IND,80%
-Andrew Nembhard,CLE,Over 16.5 PTS+AST,-102,Hit in 4 of his last 5 games,80%
-Andrew Nembhard,CLE,Over 4.5 Assists,104,Hit in 4 of his last 5 games,80%
-Andrew Nembhard,CLE,Over 19.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games,80%
-Tyrese Haliburton,CLE,Under 3.5 3PTM,-194,Hit in 4 of his last 5 games,80%
-Myles Turner,CLE,Under 1.5 3PTM,138,Hit in 4 of his last 5 games vs CLE,80%
-Myles Turner,CLE,Over 14.5 Points,-112,Hit in 4 of his last 5 games,80%
-Myles Turner,CLE,Over 15.5 PTS+AST,-115,Hit in 4 of his last 5 games,80%
-Pascal Siakam,CLE,Under 21.5 PTS+AST,-114,Hit in 4 of his last 5 games vs CLE,80%
-Pascal Siakam,CLE,Under 19.5 Points,-132,Hit in 4 of his last 5 games vs CLE,80%
-T.J. McConnell,CLE,Over 6.5 REB+AST,-108,Hit in 4 of his last 5 games,80%
-T.J. McConnell,CLE,Over 10.5 PTS+REB,-104,Hit in 4 of his last 5 games,80%
-T.J. McConnell,CLE,Over 3.5 Assists,-144,Hit in 4 of his last 5 games,80%
-T.J. McConnell,CLE,Over 14.5 PTS+AST+REB,-110,Hit in 4 of his last 5 games,80%
-Bennedict Mathurin,CLE,Under 3.5 Rebounds,-172,Hit in 4 of his last 5 games vs CLE,80%
-Bennedict Mathurin,CLE,Over 0.5 3PTM,-160,Hit in 16 of his last 20 away games,80%
-Bennedict Mathurin,CLE,Over 8.5 Points,-128,Hit in 16 of his last 20 away games,80%
-Bennedict Mathurin,CLE,Over 0.5 Assists,-165,Hit in 16 of his last 20 away games,80%
-Aaron Nesmith,CLE,Over 4.5 Rebounds,-106,Hit in 4 of his last 5 games,80%
-Aaron Nesmith,CLE,Under 6.5 REB+AST,-150,Hit in 4 of his last 5 games vs CLE,80%
-Obi Toppin,CLE,Over 6.5 Points,100,Hit in 16 of his last 20 games,80%
-Ty Jerome,IND,Over 16.5 PTS+REB,-114,Hit in 8 of his last 10 home games,80%
-Sam Merrill,IND,Under 2.5 Rebounds,-165,Hit in 4 of his last 5 games vs IND,80%
-JaMychal Green,GSW,Over 7.5 REB+AST,110,Hit in 4 of his last 5 home games,80%
-Steven Adams,GSW,Under 15.5 PTS+REB,-114,Hit in 4 of his last 5 games,80%
-Steven Adams,GSW,Under 15.5 PTS+REB,-114,Hit in 4 of his last 5 games vs GSW,80%
-Steven Adams,GSW,Under 7.5 Points,-110,Hit in 8 of his last 10 games vs GSW,80%
-Amen Thompson,GSW,Over 10.5 REB+AST,-136,Hit in 16 of his last 20 home games,80%
-Amen Thompson,GSW,Under 3.5 Assists,-138,Hit in 4 of his last 5 games,80%
-Amen Thompson,GSW,Under 3.5 Assists,-138,Hit in 4 of his last 5 games vs GSW,80%
-Amen Thompson,GSW,Under 7.5 Rebounds,-128,Hit in 4 of his last 5 games,80%
-Amen Thompson,GSW,Under 7.5 Rebounds,-128,Hit in 4 of his last 5 games vs GSW,80%
-Tari Eason,GSW,Over 6.5 Points,100,Hit in 4 of his last 5 games,80%
-Tari Eason,GSW,Over 6.5 Points,100,Hit in 16 of his last 20 home games,80%
-Tari Eason,GSW,Over 6.5 Points,100,Hit in 4 of his last 5 games vs GSW,80%
-Tari Eason,GSW,Over 0.5 3PTM,-135,Hit in 4 of his last 5 games vs GSW,80%
-Tari Eason,GSW,Over 0.5 3PTM,-135,Hit in 4 of his last 5 games,80%
-Dillon Brooks,GSW,Under 0.5 Blocks,-400,Hit in 12 of his last 15 games vs GSW,80%
-Buddy Hield,HOU,Over 2.5 Rebounds,-182,Hit in 8 of his last 10 away games,80%
-Brandin Podziemski,HOU,Under 13.5 PTS+AST,-108,Hit in 4 of his last 5 games vs HOU,80%
-Brandin Podziemski,HOU,Under 13.5 PTS+AST,-108,Hit in 4 of his last 5 games,80%
-Brandin Podziemski,HOU,Under 5.5 Rebounds,-152,Hit in 4 of his last 5 games,80%
-Brandin Podziemski,HOU,Under 5.5 Rebounds,-152,Hit in 4 of his last 5 games vs HOU,80%
-Brandin Podziemski,HOU,Under 10.5 Points,-120,Hit in 4 of his last 5 games,80%
-Brandin Podziemski,HOU,Under 10.5 Points,-120,Hit in 4 of his last 5 games vs HOU,80%
-Seth Curry,HOU,Under 32.5 PTS+AST,-108,Hit in 4 of his last 5 games,80%
-Seth Curry,HOU,Under 32.5 PTS+AST,-108,Hit in 4 of his last 5 games vs HOU,80%
-Seth Curry,HOU,Under 38.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games,80%
-Seth Curry,HOU,Under 38.5 PTS+AST+REB,-125,Hit in 4 of his last 5 games vs HOU,80%
-Jackie Butler,HOU,Under 12.5 REB+AST,-104,Hit in 12 of his last 15 games,80%
-Jackie Butler,HOU,Under 6.5 Rebounds,-118,Hit in 12 of his last 15 games,80%
-Aaron Nesmith,CLE,Under 1.5 Assists,-210,Hit in 11 of his last 14 games,79%
-Fred VanVleet,GSW,Under 3.5 3PTM,-180,Hit in 11 of his last 14 games,79%
-Ty Jerome,IND,Over 2.5 Rebounds,-162,Hit in 7 of his last 9 home games,78%
-Eric Mobley,IND,Under 17.5 Points,102,Hit in 7 of his last 9 games vs IND,78%
-Max Strus,IND,Over 3.5 Assists,112,Hit in 7 of his last 9 home games,78%
-Max Strus,IND,Over 4.5 Rebounds,102,Hit in 7 of his last 9 games,78%
-T.J. McConnell,CLE,Over 14.5 PTS+AST+REB,-110,Hit in 7 of his last 9 games vs CLE,78%
-Obi Toppin,CLE,Over 11.5 PTS+AST+REB,-105,Hit in 14 of his last 18 games,78%
-JaMychal Green,GSW,Under 1.5 3PTM,132,Hit in 7 of his last 9 games,78%
-Steven Adams,GSW,Under 7.5 Points,-110,Hit in 14 of his last 18 games,78%
-Amen Thompson,GSW,Under 21.5 PTS+REB,-122,Hit in 7 of his last 9 games vs GSW,78%
-Dillon Brooks,GSW,Over 2.5 Rebounds,-130,Hit in 14 of his last 18 games vs GSW,78%
-Dillon Brooks,GSW,Over 3.5 REB+AST,-160,Hit in 14 of his last 18 games vs GSW,78%
-Dillon Brooks,GSW,Under 0.5 Blocks,-400,Hit in 7 of his last 9 games,78%
-Brandin Podziemski,HOU,Over 1.5 3PTM,-158,Hit in 7 of his last 9 games vs HOU,78%
-Danny Green,HOU,Under 6.5 Rebounds,-118,Hit in 7 of his last 9 games vs HOU,78%
-Moses Moody,HOU,Under 4.5 REB+AST,-160,Hit in 7 of his last 9 games,78%
-Seth Curry,HOU,Under 10.5 REB+AST,-108,Hit in 7 of his last 9 games vs HOU,78%
-Seth Curry,HOU,Over 5.5 Assists,102,Hit in 7 of his last 9 away games,78%
-Jackie Butler,HOU,Under 12.5 REB+AST,-104,Hit in 7 of his last 9 games vs HOU,78%
-Jackie Butler,HOU,Over 30.5 PTS+AST,-102,Hit in 7 of his last 9 games,78%
-Jackie Butler,HOU,Over 23.5 Points,-120,Hit in 7 of his last 9 games,78%
-Jackie Butler,HOU,Under 0.5 Blocks,-200,Hit in 14 of his last 18 games,78%
-Amen Thompson,GSW,Under 1.5 Steals,-132,Hit in 10 of his last 13 games vs GSW,77%
-Tari Eason,GSW,Over 3.5 Rebounds,100,Hit in 10 of his last 13 games vs GSW,77%
-Fred VanVleet,GSW,Under 3.5 3PTM,-180,Hit in 10 of his last 13 games vs GSW,77%
-Fred VanVleet,GSW,Under 17.5 Points,-130,Hit in 10 of his last 13 games vs GSW,77%
-Davion Mitchell,IND,Under 3.5 3PTM,-152,Hit in 13 of his last 17 games,76%
-Andrew Nembhard,CLE,Over 7.5 REB+AST,-136,Hit in 13 of his last 17 games,76%
-Ty Jerome,IND,Over 13.5 Points,-114,Hit in 6 of his last 8 games,75%
-Ty Jerome,IND,Over 13.5 Points,-114,Hit in 3 of his last 4 home games,75%
-Jarrett Allen,IND,Over 22.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%
-Jarrett Allen,IND,Under 12.5 Points,-125,Hit in 6 of his last 8 games,75%
-Jarrett Allen,IND,Under 12.5 Points,-125,Hit in 3 of his last 4 games vs IND,75%
-Jarrett Allen,IND,Over 0.5 Double Double,100,Hit in 3 of his last 4 games,75%
-Jarrett Allen,IND,Under 14.5 PTS+AST,-132,Hit in 3 of his last 4 games vs IND,75%
-Jarrett Allen,IND,Under 24.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games vs IND,75%
-Jarrett Allen,IND,Over 0.5 Blocks,-150,Hit in 9 of his last 12 home games,75%
-Davion Mitchell,IND,Under 10.5 REB+AST,-122,Hit in 3 of his last 4 games,75%
-Davion Mitchell,IND,Under 10.5 REB+AST,-122,Hit in 6 of his last 8 games vs IND,75%
-Davion Mitchell,IND,Under 5.5 Assists,-125,Hit in 3 of his last 4 games,75%
-Davion Mitchell,IND,Over 26.5 Points,-125,Hit in 3 of his last 4 home games,75%
-Darius Garland,IND,Under 2.5 Rebounds,122,Hit in 3 of his last 4 games,75%
-Eric Mobley,IND,Under 20.5 PTS+AST,-110,Hit in 3 of his last 4 games vs IND,75%
-Eric Mobley,IND,Under 30.5 PTS+AST+REB,102,Hit in 3 of his last 4 games vs IND,75%
-Max Strus,IND,Over 7.5 REB+AST,-128,Hit in 6 of his last 8 games,75%
-Max Strus,IND,Under 14.5 PTS+REB,-118,Hit in 6 of his last 8 games vs IND,75%
-Max Strus,IND,Over 17.5 PTS+AST+REB,-125,Hit in 3 of his last 4 home games,75%
-De'Andre Hunter,IND,Under 3.5 Rebounds,114,Hit in 3 of his last 4 games,75%
-De'Andre Hunter,IND,Under 1.5 Assists,-140,Hit in 3 of his last 4 games,75%
-Andrew Nembhard,CLE,Under 3.5 Rebounds,-152,Hit in 3 of his last 4 games,75%
-Andrew Nembhard,CLE,Under 1.5 Steals,-245,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,CLE,Over 28.5 PTS+AST,-104,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,CLE,Over 22.5 PTS+REB,-118,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,CLE,Over 9.5 Assists,-136,Hit in 6 of his last 8 away games,75%
-Tyrese Haliburton,CLE,Over 32.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,CLE,Over 4.5 Rebounds,110,Hit in 3 of his last 4 games vs CLE,75%
-Tyrese Haliburton,CLE,Over 0.5 Blocks,-110,Hit in 3 of his last 4 games vs CLE,75%
-Myles Turner,CLE,Under 1.5 3PTM,138,Hit in 6 of his last 8 games,75%
-Myles Turner,CLE,Over 15.5 PTS+AST,-115,Hit in 9 of his last 12 away games,75%
-Pascal Siakam,CLE,Under 1.5 3PTM,-188,Hit in 12 of his last 16 games,75%
-Pascal Siakam,CLE,Under 0.5 Blocks,-160,Hit in 3 of his last 4 games,75%
-T.J. McConnell,CLE,Over 6.5 REB+AST,-108,Hit in 3 of his last 4 away games,75%
-T.J. McConnell,CLE,Over 11.5 PTS+AST,-120,Hit in 6 of his last 8 games vs CLE,75%
-T.J. McConnell,CLE,Over 3.5 Assists,-144,Hit in 3 of his last 4 away games,75%
-T.J. McConnell,CLE,Over 2.5 Rebounds,-102,Hit in 3 of his last 4 away games,75%
-T.J. McConnell,CLE,Over 7.5 Points,-114,Hit in 6 of his last 8 games vs CLE,75%
-Bennedict Mathurin,CLE,Over 12.5 PTS+REB,-102,Hit in 12 of his last 16 games,75%
-Bennedict Mathurin,CLE,Over 13.5 PTS+AST+REB,-115,Hit in 12 of his last 16 games,75%
-Aaron Nesmith,CLE,Over 16.5 PTS+REB,-125,Hit in 3 of his last 4 away games,75%
-Aaron Nesmith,CLE,Over 4.5 Rebounds,-106,Hit in 3 of his last 4 away games,75%
-Aaron Nesmith,CLE,Over 12.5 Points,-106,Hit in 3 of his last 4 away games,75%
-Aaron Nesmith,CLE,Over 13.5 PTS+AST,-125,Hit in 3 of his last 4 away games,75%
-Aaron Nesmith,CLE,Over 18.5 PTS+AST+REB,-120,Hit in 3 of his last 4 away games,75%
-Aaron Nesmith,CLE,Under 0.5 Blocks,-295,Hit in 6 of his last 8 games,75%
-Obi Toppin,CLE,Over 2.5 Rebounds,-162,Hit in 6 of his last 8 games vs CLE,75%
-Ty Jerome,IND,Over 17.5 PTS+AST,-114,Hit in 3 of his last 4 home games,75%
-Ty Jerome,IND,Over 16.5 PTS+REB,-114,Hit in 6 of his last 8 games,75%
-Ty Jerome,IND,Over 20.5 PTS+AST+REB,-118,Hit in 3 of his last 4 home games,75%
-Sam Merrill,IND,Over 1.5 Assists,110,Hit in 6 of his last 8 home games,75%
-Sam Merrill,IND,Over 9.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games vs IND,75%
-Sam Merrill,IND,Under 2.5 Rebounds,-165,Hit in 6 of his last 8 games,75%
-Jabari Walker,CLE,Over 0.5 Assists,-118,Hit in 3 of his last 4 games vs CLE,75%
-Jabari Walker,CLE,Over 2.5 Rebounds,100,Hit in 9 of his last 12 games,75%
-JaMychal Green,GSW,Over 4.5 Rebounds,108,Hit in 3 of his last 4 games,75%
-JaMychal Green,GSW,Over 4.5 Rebounds,108,Hit in 3 of his last 4 games vs GSW,75%
-JaMychal Green,GSW,Under 1.5 3PTM,132,Hit in 3 of his last 4 games vs GSW,75%
-Amen Thompson,GSW,Under 21.5 PTS+REB,-122,Hit in 6 of his last 8 games,75%
-Tari Eason,GSW,Over 3.5 Rebounds,100,Hit in 15 of his last 20 games,75%
-Fred VanVleet,GSW,Under 21.5 PTS+AST,-102,Hit in 9 of his last 12 games,75%
-Fred VanVleet,GSW,Under 25.5 PTS+AST+REB,-114,Hit in 9 of his last 12 games,75%
-Fred VanVleet,GSW,Under 17.5 Points,-130,Hit in 9 of his last 12 games,75%
-Fred VanVleet,GSW,Under 0.5 Blocks,-220,Hit in 12 of his last 16 games,75%
-Fred VanVleet,GSW,Under 0.5 Blocks,-220,Hit in 3 of his last 4 games vs GSW,75%
-Dillon Brooks,GSW,Over 1.5 3PTM,-114,Hit in 6 of his last 8 games vs GSW,75%
-Dillon Brooks,GSW,Over 11.5 PTS+AST,-115,Hit in 15 of his last 20 games,75%
-Quinten Post,HOU,Over 1.5 Assists,150,Hit in 3 of his last 4 games,75%
-Quinten Post,HOU,Over 1.5 Assists,150,Hit in 3 of his last 4 games vs HOU,75%
-Quinten Post,HOU,Under 3.5 Rebounds,-115,Hit in 6 of his last 8 games vs HOU,75%
-Quinten Post,HOU,Under 1.5 3PTM,-200,Hit in 3 of his last 4 games,75%
-Quinten Post,HOU,Under 1.5 3PTM,-200,Hit in 6 of his last 8 games vs HOU,75%
-Quinten Post,HOU,Under 5.5 Points,-118,Hit in 3 of his last 4 games,75%
-Quinten Post,HOU,Under 5.5 Points,-118,Hit in 6 of his last 8 games vs HOU,75%
-Buddy Hield,HOU,Under 9.5 PTS+REB,-108,Hit in 6 of his last 8 games,75%
-Danny Green,HOU,Under 6.5 Rebounds,-118,Hit in 6 of his last 8 games,75%
-Danny Green,HOU,Under 1.5 3PTM,-240,Hit in 3 of his last 4 games,75%
-Moses Moody,HOU,Over 1.5 3PTM,108,Hit in 6 of his last 8 away games,75%
-Moses Moody,HOU,Over 8.5 Points,-106,Hit in 15 of his last 20 away games,75%
-Jackie Butler,HOU,Under 6.5 Rebounds,-118,Hit in 3 of his last 4 games vs HOU,75%
-Jackie Butler,HOU,Over 0.5 3PTM,-245,Hit in 15 of his last 20 games,75%
-Jackie Butler,HOU,Over 0.5 3PTM,-245,Hit in 6 of his last 8 games vs HOU,75%
-Jackie Butler,HOU,Under 1.5 Steals,-125,Hit in 3 of his last 4 games,75%
-Jackie Butler,HOU,Under 1.5 Steals,-125,Hit in 3 of his last 4 games vs HOU,75%
-Buddy Hield,HOU,Under 10.5 PTS+AST+REB,-105,Hit in 6 of his last 8 games,75%
-Moses Moody,HOU,Over 9.5 PTS+AST,-130,Hit in 15 of his last 20 away games,75%
-Jarrett Allen,IND,Under 1.5 Steals,-220,IND rank 4th in STL against,4th
-Jarrett Allen,IND,Under 1.5 Assists,-105,IND rank 4th in AST versus C,4th
-Darius Garland,IND,Under 1.5 Steals,-270,IND rank 2nd in STL versus PG,2nd
-Eric Mobley,IND,Over 9.5 Rebounds,-118,IND rank 26th in REB versus PF,26th
-Andrew Nembhard,CLE,Under 1.5 Steals,-245,CLE rank 2nd in STL versus SG,2nd
-Pascal Siakam,CLE,Over 6.5 Rebounds,-132,CLE rank 27th in REB versus PF,27th
-Obi Toppin,CLE,Over 2.5 Rebounds,-162,CLE rank 27th in REB versus PF,27th
-Jabari Walker,CLE,Over 2.5 Rebounds,100,CLE rank 27th in REB versus PF,27th
-Amen Thompson,GSW,Under 1.5 Steals,-132,GSW rank 2nd in STL versus SF,2nd
-Fred VanVleet,GSW,Under 3.5 3PTM,-180,GSW rank 2nd in 3PTM versus PG,2nd
-Quinten Post,HOU,Under 3.5 Rebounds,-115,HOU rank 4th in REB against,4th
-Quinten Post,HOU,Under 1.5 3PTM,-200,HOU rank 2nd in 3PTM against,2nd
-Buddy Hield,HOU,Under 1.5 3PTM,-122,HOU rank 2nd in 3PTM against,2nd
-Buddy Hield,HOU,Under 1.5 Assists,-190,HOU rank 5th in AST versus SG,5th
-Brandin Podziemski,HOU,Under 3.5 Assists,-160,HOU rank 5th in AST versus SG,5th
-Danny Green,HOU,Under 4.5 Assists,-125,HOU rank 2nd in AST against,2nd
-Danny Green,HOU,Under 6.5 Rebounds,-118,HOU rank 4th in REB against,4th
-Danny Green,HOU,Under 1.5 3PTM,-240,HOU rank 2nd in 3PTM against,2nd
-Moses Moody,HOU,Under 2.5 Rebounds,112,HOU rank 4th in REB against,4th
-Moses Moody,HOU,Over 0.5 Blocks,145,HOU rank 28th in BLK against,28th
-Seth Curry,HOU,Under 5.5 Rebounds,-158,HOU rank 4th in REB against,4th
-Seth Curry,HOU,Under 4.5 3PTM,-114,HOU rank 2nd in 3PTM against,2nd
-Seth Curry,HOU,Over 26.5 Points,-132,HOU rank 30th in PTS versus PG,30th
-Seth Curry,HOU,Over 0.5 Blocks,120,HOU rank 28th in BLK against,28th
-Jackie Butler,HOU,Under 6.5 Assists,-158,HOU rank 1st in AST versus SF,1st
-Jackie Butler,HOU,Under 6.5 Rebounds,-118,HOU rank 5th in REB versus SF,5th
-Fred VanVleet,GSW,Under 17.5 Points,-130,GSW rank 1st in PTS versus PG,1st
-Brandin Podziemski,HOU,Under 5.5 Rebounds,-152,HOU rank 4th in REB against,4th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Ty Jerome,IND,Over 2.5 Rebounds,-162,Hit in 4 of his last 4 games,100%,True,3.0
+Jarrett Allen,IND,Under 10.5 Rebounds,-122,Hit in 4 of his last 4 games vs IND,100%,True,5.0
+Jarrett Allen,IND,Under 1.5 Steals,-220,Hit in 11 of his last 11 games vs IND,100%,False,2.0
+Jarrett Allen,IND,Under 12.5 REB+AST,-138,Hit in 4 of his last 4 games vs IND,100%,True,6.0
+Jarrett Allen,IND,Under 1.5 Steals,-220,Hit in 16 of his last 20 games,80%,False,2.0
+Tyrese Haliburton,CLE,Over 4.5 Rebounds,110,Hit in 6 of his last 6 games,100%,False,3.0
+Tyrese Haliburton,CLE,Under 1.5 Steals,-186,Hit in 4 of his last 4 games vs CLE,100%,True,1.0
+Myles Turner,CLE,Under 1.5 Assists,-210,Hit in 4 of his last 4 games vs CLE,100%,True,1.0
+T.J. McConnell,CLE,Over 2.5 Rebounds,-102,Hit in 4 of his last 4 games,100%,False,1.0
+Bennedict Mathurin,CLE,Over 0.5 3PTM,-160,Hit in 6 of his last 6 games vs CLE,100%,True,3.0
+Bennedict Mathurin,CLE,Over 0.5 Assists,-165,Hit in 5 of his last 5 games vs CLE,100%,True,1.0
+Aaron Nesmith,CLE,Over 16.5 PTS+REB,-125,Hit in 4 of his last 4 games,100%,True,33.0
+Aaron Nesmith,CLE,Over 1.5 3PTM,-200,Hit in 4 of his last 4 games,100%,True,4.0
+Aaron Nesmith,CLE,Over 12.5 Points,-106,Hit in 4 of his last 4 games,100%,True,25.0
+Aaron Nesmith,CLE,Over 13.5 PTS+AST,-125,Hit in 4 of his last 4 games,100%,True,25.0
+Aaron Nesmith,CLE,Over 18.5 PTS+AST+REB,-120,Hit in 4 of his last 4 games,100%,True,25.0
+Aaron Nesmith,CLE,Under 0.5 Blocks,-295,Hit in 4 of his last 4 games vs CLE,100%,False,1.0
+Obi Toppin,CLE,Over 9.5 PTS+REB,-110,Hit in 7 of his last 7 games vs CLE,100%,True,14.0
+Obi Toppin,CLE,Over 9.5 PTS+REB,-110,Hit in 11 of his last 11 away games,100%,True,14.0
+Obi Toppin,CLE,Over 0.5 3PTM,-210,Hit in 4 of his last 4 games vs CLE,100%,True,1.0
+Obi Toppin,CLE,Over 6.5 Points,100,Hit in 6 of his last 6 games vs CLE,100%,True,9.0
+Obi Toppin,CLE,Over 6.5 Points,100,Hit in 11 of his last 11 away games,100%,True,9.0
+Obi Toppin,CLE,Under 1.5 Assists,-220,Hit in 6 of his last 6 games,100%,False,2.0
+Steven Adams,GSW,Under 7.5 Rebounds,-114,Hit in 5 of his last 5 games vs GSW,100%,True,7.0
+Steven Adams,GSW,Under 7.5 Rebounds,-114,Hit in 5 of his last 5 games,100%,True,7.0
+Tari Eason,GSW,Over 9.5 PTS+REB,-125,Hit in 4 of his last 4 home games,100%,True,12.0
+Tari Eason,GSW,Over 3.5 Rebounds,100,Hit in 7 of his last 7 home games,100%,True,5.0
+Fred VanVleet,GSW,Over 20.5 PTS+REB,-118,Hit in 4 of his last 4 games,100%,True,30.0
+Fred VanVleet,GSW,Over 20.5 PTS+REB,-118,Hit in 4 of his last 4 games vs GSW,100%,True,30.0
+Fred VanVleet,GSW,Under 1.5 Steals,-186,Hit in 4 of his last 4 games vs GSW,100%,False,2.0
+Fred VanVleet,GSW,Under 1.5 Steals,-186,Hit in 4 of his last 4 games,100%,False,2.0
+Dillon Brooks,GSW,Over 1.5 3PTM,-114,Hit in 8 of his last 8 home games,100%,False,0.0
+Moses Moody,HOU,Over 0.5 Assists,-235,Hit in 10 of his last 10 games,100%,False,0.0
+Moses Moody,HOU,Over 0.5 Assists,-235,Hit in 6 of his last 6 games vs HOU,100%,False,0.0
+Moses Moody,HOU,Over 0.5 Assists,-235,Hit in 4 of his last 4 away games,100%,False,0.0
+Bennedict Mathurin,CLE,Over 0.5 Assists,-165,Hit in 15 of his last 16 games,94%,True,1.0
+Dillon Brooks,GSW,Over 9.5 Points,-128,Hit in 15 of his last 16 home games,94%,False,8.0
+Dillon Brooks,GSW,Over 11.5 PTS+AST,-115,Hit in 15 of his last 16 home games,94%,False,9.0
+Andrew Nembhard,CLE,Under 15.5 PTS+REB,-128,Hit in 11 of his last 12 games vs CLE,92%,False,33.0
+Andrew Nembhard,CLE,Under 3.5 Rebounds,-152,Hit in 11 of his last 12 games vs CLE,92%,True,0.0
+Andrew Nembhard,CLE,Under 1.5 3PTM,-188,Hit in 11 of his last 12 games vs CLE,92%,False,5.0
+T.J. McConnell,CLE,Over 3.5 Assists,-144,Hit in 10 of his last 11 games vs CLE,91%,False,2.0
+Obi Toppin,CLE,Over 11.5 PTS+AST+REB,-105,Hit in 10 of his last 11 away games,91%,False,11.0
+De'Andre Hunter,IND,Over 1.5 3PTM,-166,Hit in 9 of his last 10 games,90%,False,1.0
+Tari Eason,GSW,Over 0.5 Assists,-165,Hit in 18 of his last 20 home games,90%,True,1.0
+Brandin Podziemski,HOU,Under 0.5 Blocks,-350,Hit in 18 of his last 20 games,90%,False,1.0
+Tyrese Haliburton,CLE,Under 1.5 Steals,-186,Hit in 8 of his last 9 games,89%,True,1.0
+T.J. McConnell,CLE,Over 6.5 REB+AST,-108,Hit in 8 of his last 9 games vs CLE,89%,False,3.0
+Bennedict Mathurin,CLE,Over 12.5 PTS+REB,-102,Hit in 8 of his last 9 games vs CLE,89%,True,22.0
+Bennedict Mathurin,CLE,Over 8.5 Points,-128,Hit in 8 of his last 9 games vs CLE,89%,True,17.0
+Bennedict Mathurin,CLE,Over 13.5 PTS+AST+REB,-115,Hit in 8 of his last 9 games vs CLE,89%,True,18.0
+Obi Toppin,CLE,Over 0.5 3PTM,-210,Hit in 16 of his last 18 games,89%,True,1.0
+Amen Thompson,GSW,Under 0.5 3PTM,-325,Hit in 8 of his last 9 games vs GSW,89%,True,0.0
+Fred VanVleet,GSW,Under 8.5 REB+AST,-136,Hit in 8 of his last 9 games,89%,False,10.0
+Dillon Brooks,GSW,Over 12.5 PTS+REB,-118,Hit in 15 of his last 17 home games,88%,False,10.0
+Andrew Nembhard,CLE,Under 11.5 Points,-114,Hit in 7 of his last 8 games vs CLE,88%,False,33.0
+Bennedict Mathurin,CLE,Over 8.5 Points,-128,Hit in 14 of his last 16 games,88%,True,17.0
+Obi Toppin,CLE,Over 0.5 3PTM,-210,Hit in 7 of his last 8 away games,88%,True,1.0
+Ty Jerome,IND,Over 17.5 PTS+AST,-114,Hit in 7 of his last 8 games,88%,True,31.0
+Ty Jerome,IND,Over 20.5 PTS+AST+REB,-118,Hit in 7 of his last 8 games,88%,True,31.0
+Amen Thompson,GSW,Under 0.5 3PTM,-325,Hit in 7 of his last 8 games,88%,True,0.0
+Tari Eason,GSW,Over 9.5 PTS+REB,-125,Hit in 7 of his last 8 games,88%,True,12.0
+Sam Merrill,IND,Over 9.5 PTS+AST+REB,-118,Hit in 13 of his last 15 games,87%,True,14.0
+Tyrese Haliburton,CLE,Over 14.5 REB+AST,-102,Hit in 6 of his last 7 games vs CLE,86%,True,16.0
+Tyrese Haliburton,CLE,Over 9.5 Assists,-136,Hit in 6 of his last 7 games vs CLE,86%,True,13.0
+Tyrese Haliburton,CLE,Over 0.5 Double Double,-110,Hit in 6 of his last 7 games vs CLE,86%,True,1.0
+T.J. McConnell,CLE,Over 7.5 Points,-114,Hit in 6 of his last 7 away games,86%,True,9.0
+Sam Merrill,IND,Over 9.5 PTS+AST+REB,-118,Hit in 6 of his last 7 home games,86%,True,14.0
+Amen Thompson,GSW,Under 1.5 Blocks,-220,Hit in 6 of his last 7 games,86%,True,1.0
+Fred VanVleet,GSW,Under 8.5 REB+AST,-136,Hit in 6 of his last 7 games vs GSW,86%,False,10.0
+Dillon Brooks,GSW,Over 12.5 PTS+REB,-118,Hit in 6 of his last 7 games vs GSW,86%,False,10.0
+Dillon Brooks,GSW,Over 1.5 3PTM,-114,Hit in 12 of his last 14 games,86%,False,0.0
+Dillon Brooks,GSW,Over 9.5 Points,-128,Hit in 6 of his last 7 games vs GSW,86%,False,8.0
+Dillon Brooks,GSW,Over 14.5 PTS+AST+REB,-110,Hit in 6 of his last 7 games vs GSW,86%,False,9.0
+Brandin Podziemski,HOU,Under 0.5 Blocks,-350,Hit in 6 of his last 7 games vs HOU,86%,False,1.0
+Obi Toppin,CLE,Over 9.5 PTS+REB,-110,Hit in 17 of his last 20 games,85%,True,14.0
+Tari Eason,GSW,Over 11.5 PTS+AST+REB,-110,Hit in 17 of his last 20 home games,85%,False,8.0
+Dillon Brooks,GSW,Over 9.5 Points,-128,Hit in 17 of his last 20 games,85%,False,8.0
+Tari Eason,GSW,Over 9.5 PTS+REB,-125,Hit in 11 of his last 13 games vs GSW,85%,True,12.0
+Tari Eason,GSW,Over 0.5 Assists,-165,Hit in 11 of his last 13 games vs GSW,85%,True,1.0
+Dillon Brooks,GSW,Over 14.5 PTS+AST+REB,-110,Hit in 11 of his last 13 home games,85%,False,9.0
+Max Strus,IND,Over 2.5 3PTM,116,Hit in 5 of his last 6 games,83%,False,2.0
+De'Andre Hunter,IND,Over 1.5 3PTM,-166,Hit in 5 of his last 6 home games,83%,False,1.0
+Andrew Nembhard,CLE,Under 1.5 3PTM,-188,Hit in 15 of his last 18 games,83%,False,5.0
+Tyrese Haliburton,CLE,Over 14.5 REB+AST,-102,Hit in 5 of his last 6 games,83%,True,16.0
+Tyrese Haliburton,CLE,Over 9.5 Assists,-136,Hit in 5 of his last 6 games,83%,True,13.0
+Tyrese Haliburton,CLE,Over 0.5 Double Double,-110,Hit in 5 of his last 6 games,83%,True,1.0
+Myles Turner,CLE,Under 6.5 Rebounds,-140,Hit in 5 of his last 6 games,83%,False,11.0
+Myles Turner,CLE,Under 1.5 Blocks,110,Hit in 5 of his last 6 games vs CLE,83%,False,2.0
+Pascal Siakam,CLE,Under 2.5 Assists,-114,Hit in 5 of his last 6 games vs CLE,83%,False,4.0
+Aaron Nesmith,CLE,Under 1.5 Assists,-210,Hit in 5 of his last 6 games vs CLE,83%,True,0.0
+Sam Merrill,IND,Over 1.5 3PTM,-125,Hit in 5 of his last 6 games,83%,True,2.0
+Sam Merrill,IND,Over 5.5 Points,-140,Hit in 5 of his last 6 games,83%,True,10.0
+Obi Toppin,CLE,Over 11.5 PTS+AST+REB,-105,Hit in 5 of his last 6 games vs CLE,83%,False,11.0
+Amen Thompson,GSW,Under 1.5 Blocks,-220,Hit in 5 of his last 6 games vs GSW,83%,True,1.0
+Dillon Brooks,GSW,Over 12.5 PTS+REB,-118,Hit in 5 of his last 6 games,83%,False,10.0
+Dillon Brooks,GSW,Over 14.5 PTS+AST+REB,-110,Hit in 5 of his last 6 games,83%,False,9.0
+Brandin Podziemski,HOU,Over 1.5 3PTM,-158,Hit in 5 of his last 6 away games,83%,False,1.0
+Moses Moody,HOU,Under 4.5 REB+AST,-160,Hit in 14 of his last 17 games vs HOU,82%,True,3.0
+Jarrett Allen,IND,Under 12.5 REB+AST,-138,Hit in 9 of his last 11 games,82%,True,6.0
+Pascal Siakam,CLE,Over 9.5 REB+AST,100,Hit in 9 of his last 11 games vs CLE,82%,True,12.0
+Pascal Siakam,CLE,Over 25.5 PTS+REB,-125,Hit in 9 of his last 11 games vs CLE,82%,True,29.0
+Pascal Siakam,CLE,Over 28.5 PTS+AST+REB,-114,Hit in 9 of his last 11 games vs CLE,82%,False,25.0
+Pascal Siakam,CLE,Over 6.5 Rebounds,-132,Hit in 9 of his last 11 games vs CLE,82%,True,8.0
+Aaron Nesmith,CLE,Over 1.5 3PTM,-200,Hit in 9 of his last 11 away games,82%,True,4.0
+Tari Eason,GSW,Over 0.5 Assists,-165,Hit in 9 of his last 11 games,82%,True,1.0
+Buddy Hield,HOU,Under 1.5 Assists,-190,Hit in 9 of his last 11 games,82%,False,3.0
+Ty Jerome,IND,Over 6.5 REB+AST,-136,Hit in 4 of his last 5 games,80%,True,11.0
+Jarrett Allen,IND,Under 1.5 Assists,-105,Hit in 4 of his last 5 games,80%,True,1.0
+De'Andre Hunter,IND,Under 16.5 PTS+REB,-106,Hit in 4 of his last 5 games vs IND,80%,False,17.0
+De'Andre Hunter,IND,Under 12.5 Points,-106,Hit in 4 of his last 5 games vs IND,80%,False,13.0
+De'Andre Hunter,IND,Under 17.5 PTS+AST+REB,100,Hit in 4 of his last 5 games vs IND,80%,True,14.0
+Andrew Nembhard,CLE,Over 16.5 PTS+AST,-102,Hit in 4 of his last 5 games,80%,True,39.0
+Andrew Nembhard,CLE,Over 4.5 Assists,104,Hit in 4 of his last 5 games,80%,True,6.0
+Andrew Nembhard,CLE,Over 19.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games,80%,True,39.0
+Tyrese Haliburton,CLE,Under 3.5 3PTM,-194,Hit in 4 of his last 5 games,80%,True,2.0
+Myles Turner,CLE,Under 1.5 3PTM,138,Hit in 4 of his last 5 games vs CLE,80%,True,1.0
+Myles Turner,CLE,Over 14.5 Points,-112,Hit in 4 of his last 5 games,80%,True,15.0
+Myles Turner,CLE,Over 15.5 PTS+AST,-115,Hit in 4 of his last 5 games,80%,True,16.0
+Pascal Siakam,CLE,Under 21.5 PTS+AST,-114,Hit in 4 of his last 5 games vs CLE,80%,False,25.0
+Pascal Siakam,CLE,Under 19.5 Points,-132,Hit in 4 of his last 5 games vs CLE,80%,False,21.0
+T.J. McConnell,CLE,Over 6.5 REB+AST,-108,Hit in 4 of his last 5 games,80%,False,3.0
+T.J. McConnell,CLE,Over 10.5 PTS+REB,-104,Hit in 4 of his last 5 games,80%,False,10.0
+T.J. McConnell,CLE,Over 3.5 Assists,-144,Hit in 4 of his last 5 games,80%,False,2.0
+T.J. McConnell,CLE,Over 14.5 PTS+AST+REB,-110,Hit in 4 of his last 5 games,80%,False,11.0
+Bennedict Mathurin,CLE,Under 3.5 Rebounds,-172,Hit in 4 of his last 5 games vs CLE,80%,False,5.0
+Bennedict Mathurin,CLE,Over 0.5 3PTM,-160,Hit in 16 of his last 20 away games,80%,True,3.0
+Bennedict Mathurin,CLE,Over 8.5 Points,-128,Hit in 16 of his last 20 away games,80%,True,17.0
+Bennedict Mathurin,CLE,Over 0.5 Assists,-165,Hit in 16 of his last 20 away games,80%,True,1.0
+Aaron Nesmith,CLE,Over 4.5 Rebounds,-106,Hit in 4 of his last 5 games,80%,True,8.0
+Aaron Nesmith,CLE,Under 6.5 REB+AST,-150,Hit in 4 of his last 5 games vs CLE,80%,False,8.0
+Obi Toppin,CLE,Over 6.5 Points,100,Hit in 16 of his last 20 games,80%,True,9.0
+Ty Jerome,IND,Over 16.5 PTS+REB,-114,Hit in 8 of his last 10 home games,80%,True,26.0
+Sam Merrill,IND,Under 2.5 Rebounds,-165,Hit in 4 of his last 5 games vs IND,80%,False,4.0
+Steven Adams,GSW,Under 15.5 PTS+REB,-114,Hit in 4 of his last 5 games,80%,True,10.0
+Steven Adams,GSW,Under 15.5 PTS+REB,-114,Hit in 4 of his last 5 games vs GSW,80%,True,10.0
+Steven Adams,GSW,Under 7.5 Points,-110,Hit in 8 of his last 10 games vs GSW,80%,True,3.0
+Amen Thompson,GSW,Over 10.5 REB+AST,-136,Hit in 16 of his last 20 home games,80%,True,12.0
+Amen Thompson,GSW,Under 3.5 Assists,-138,Hit in 4 of his last 5 games,80%,True,3.0
+Amen Thompson,GSW,Under 3.5 Assists,-138,Hit in 4 of his last 5 games vs GSW,80%,True,3.0
+Amen Thompson,GSW,Under 7.5 Rebounds,-128,Hit in 4 of his last 5 games,80%,False,9.0
+Amen Thompson,GSW,Under 7.5 Rebounds,-128,Hit in 4 of his last 5 games vs GSW,80%,False,9.0
+Tari Eason,GSW,Over 6.5 Points,100,Hit in 4 of his last 5 games,80%,True,7.0
+Tari Eason,GSW,Over 6.5 Points,100,Hit in 16 of his last 20 home games,80%,True,7.0
+Tari Eason,GSW,Over 6.5 Points,100,Hit in 4 of his last 5 games vs GSW,80%,True,7.0
+Tari Eason,GSW,Over 0.5 3PTM,-135,Hit in 4 of his last 5 games vs GSW,80%,True,1.0
+Tari Eason,GSW,Over 0.5 3PTM,-135,Hit in 4 of his last 5 games,80%,True,1.0
+Dillon Brooks,GSW,Under 0.5 Blocks,-400,Hit in 12 of his last 15 games vs GSW,80%,True,0.0
+Buddy Hield,HOU,Over 2.5 Rebounds,-182,Hit in 8 of his last 10 away games,80%,True,3.0
+Brandin Podziemski,HOU,Under 13.5 PTS+AST,-108,Hit in 4 of his last 5 games vs HOU,80%,True,13.0
+Brandin Podziemski,HOU,Under 13.5 PTS+AST,-108,Hit in 4 of his last 5 games,80%,True,13.0
+Brandin Podziemski,HOU,Under 5.5 Rebounds,-152,Hit in 4 of his last 5 games,80%,True,3.0
+Brandin Podziemski,HOU,Under 5.5 Rebounds,-152,Hit in 4 of his last 5 games vs HOU,80%,True,3.0
+Brandin Podziemski,HOU,Under 10.5 Points,-120,Hit in 4 of his last 5 games,80%,False,11.0
+Brandin Podziemski,HOU,Under 10.5 Points,-120,Hit in 4 of his last 5 games vs HOU,80%,False,11.0
+Aaron Nesmith,CLE,Under 1.5 Assists,-210,Hit in 11 of his last 14 games,79%,True,0.0
+Fred VanVleet,GSW,Under 3.5 3PTM,-180,Hit in 11 of his last 14 games,79%,True,3.0
+Ty Jerome,IND,Over 2.5 Rebounds,-162,Hit in 7 of his last 9 home games,78%,True,3.0
+Max Strus,IND,Over 3.5 Assists,112,Hit in 7 of his last 9 home games,78%,False,3.0
+Max Strus,IND,Over 4.5 Rebounds,102,Hit in 7 of his last 9 games,78%,True,7.0
+T.J. McConnell,CLE,Over 14.5 PTS+AST+REB,-110,Hit in 7 of his last 9 games vs CLE,78%,False,11.0
+Obi Toppin,CLE,Over 11.5 PTS+AST+REB,-105,Hit in 14 of his last 18 games,78%,False,11.0
+Steven Adams,GSW,Under 7.5 Points,-110,Hit in 14 of his last 18 games,78%,True,3.0
+Amen Thompson,GSW,Under 21.5 PTS+REB,-122,Hit in 7 of his last 9 games vs GSW,78%,False,33.0
+Dillon Brooks,GSW,Over 2.5 Rebounds,-130,Hit in 14 of his last 18 games vs GSW,78%,False,2.0
+Dillon Brooks,GSW,Over 3.5 REB+AST,-160,Hit in 14 of his last 18 games vs GSW,78%,False,3.0
+Dillon Brooks,GSW,Under 0.5 Blocks,-400,Hit in 7 of his last 9 games,78%,True,0.0
+Brandin Podziemski,HOU,Over 1.5 3PTM,-158,Hit in 7 of his last 9 games vs HOU,78%,False,1.0
+Moses Moody,HOU,Under 4.5 REB+AST,-160,Hit in 7 of his last 9 games,78%,True,3.0
+Amen Thompson,GSW,Under 1.5 Steals,-132,Hit in 10 of his last 13 games vs GSW,77%,True,1.0
+Tari Eason,GSW,Over 3.5 Rebounds,100,Hit in 10 of his last 13 games vs GSW,77%,True,5.0
+Fred VanVleet,GSW,Under 3.5 3PTM,-180,Hit in 10 of his last 13 games vs GSW,77%,True,3.0
+Fred VanVleet,GSW,Under 17.5 Points,-130,Hit in 10 of his last 13 games vs GSW,77%,False,23.0
+Andrew Nembhard,CLE,Over 7.5 REB+AST,-136,Hit in 13 of his last 17 games,76%,False,6.0
+Ty Jerome,IND,Over 13.5 Points,-114,Hit in 6 of his last 8 games,75%,True,23.0
+Ty Jerome,IND,Over 13.5 Points,-114,Hit in 3 of his last 4 home games,75%,True,23.0
+Jarrett Allen,IND,Over 22.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%,False,17.0
+Jarrett Allen,IND,Under 12.5 Points,-125,Hit in 6 of his last 8 games,75%,True,12.0
+Jarrett Allen,IND,Under 12.5 Points,-125,Hit in 3 of his last 4 games vs IND,75%,True,12.0
+Jarrett Allen,IND,Over 0.5 Double Double,100,Hit in 3 of his last 4 games,75%,False,0.0
+Jarrett Allen,IND,Under 14.5 PTS+AST,-132,Hit in 3 of his last 4 games vs IND,75%,True,13.0
+Jarrett Allen,IND,Under 24.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games vs IND,75%,True,13.0
+Jarrett Allen,IND,Over 0.5 Blocks,-150,Hit in 9 of his last 12 home games,75%,False,0.0
+Max Strus,IND,Over 7.5 REB+AST,-128,Hit in 6 of his last 8 games,75%,True,10.0
+Max Strus,IND,Under 14.5 PTS+REB,-118,Hit in 6 of his last 8 games vs IND,75%,False,18.0
+Max Strus,IND,Over 17.5 PTS+AST+REB,-125,Hit in 3 of his last 4 home games,75%,False,14.0
+De'Andre Hunter,IND,Under 3.5 Rebounds,114,Hit in 3 of his last 4 games,75%,False,4.0
+De'Andre Hunter,IND,Under 1.5 Assists,-140,Hit in 3 of his last 4 games,75%,True,1.0
+Andrew Nembhard,CLE,Under 3.5 Rebounds,-152,Hit in 3 of his last 4 games,75%,True,0.0
+Andrew Nembhard,CLE,Under 1.5 Steals,-245,Hit in 3 of his last 4 games,75%,True,0.0
+Tyrese Haliburton,CLE,Over 28.5 PTS+AST,-104,Hit in 3 of his last 4 games,75%,True,39.0
+Tyrese Haliburton,CLE,Over 22.5 PTS+REB,-118,Hit in 3 of his last 4 games,75%,True,29.0
+Tyrese Haliburton,CLE,Over 9.5 Assists,-136,Hit in 6 of his last 8 away games,75%,True,13.0
+Tyrese Haliburton,CLE,Over 32.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games,75%,True,39.0
+Tyrese Haliburton,CLE,Over 4.5 Rebounds,110,Hit in 3 of his last 4 games vs CLE,75%,False,3.0
+Tyrese Haliburton,CLE,Over 0.5 Blocks,-110,Hit in 3 of his last 4 games vs CLE,75%,True,3.0
+Myles Turner,CLE,Under 1.5 3PTM,138,Hit in 6 of his last 8 games,75%,True,1.0
+Myles Turner,CLE,Over 15.5 PTS+AST,-115,Hit in 9 of his last 12 away games,75%,True,16.0
+Pascal Siakam,CLE,Under 1.5 3PTM,-188,Hit in 12 of his last 16 games,75%,False,2.0
+Pascal Siakam,CLE,Under 0.5 Blocks,-160,Hit in 3 of his last 4 games,75%,True,0.0
+T.J. McConnell,CLE,Over 6.5 REB+AST,-108,Hit in 3 of his last 4 away games,75%,False,3.0
+T.J. McConnell,CLE,Over 11.5 PTS+AST,-120,Hit in 6 of his last 8 games vs CLE,75%,False,11.0
+T.J. McConnell,CLE,Over 3.5 Assists,-144,Hit in 3 of his last 4 away games,75%,False,2.0
+T.J. McConnell,CLE,Over 2.5 Rebounds,-102,Hit in 3 of his last 4 away games,75%,False,1.0
+T.J. McConnell,CLE,Over 7.5 Points,-114,Hit in 6 of his last 8 games vs CLE,75%,True,9.0
+Bennedict Mathurin,CLE,Over 12.5 PTS+REB,-102,Hit in 12 of his last 16 games,75%,True,22.0
+Bennedict Mathurin,CLE,Over 13.5 PTS+AST+REB,-115,Hit in 12 of his last 16 games,75%,True,18.0
+Aaron Nesmith,CLE,Over 16.5 PTS+REB,-125,Hit in 3 of his last 4 away games,75%,True,33.0
+Aaron Nesmith,CLE,Over 4.5 Rebounds,-106,Hit in 3 of his last 4 away games,75%,True,8.0
+Aaron Nesmith,CLE,Over 12.5 Points,-106,Hit in 3 of his last 4 away games,75%,True,25.0
+Aaron Nesmith,CLE,Over 13.5 PTS+AST,-125,Hit in 3 of his last 4 away games,75%,True,25.0
+Aaron Nesmith,CLE,Over 18.5 PTS+AST+REB,-120,Hit in 3 of his last 4 away games,75%,True,25.0
+Aaron Nesmith,CLE,Under 0.5 Blocks,-295,Hit in 6 of his last 8 games,75%,False,1.0
+Obi Toppin,CLE,Over 2.5 Rebounds,-162,Hit in 6 of his last 8 games vs CLE,75%,True,5.0
+Ty Jerome,IND,Over 17.5 PTS+AST,-114,Hit in 3 of his last 4 home games,75%,True,31.0
+Ty Jerome,IND,Over 16.5 PTS+REB,-114,Hit in 6 of his last 8 games,75%,True,26.0
+Ty Jerome,IND,Over 20.5 PTS+AST+REB,-118,Hit in 3 of his last 4 home games,75%,True,31.0
+Sam Merrill,IND,Over 1.5 Assists,110,Hit in 6 of his last 8 home games,75%,True,4.0
+Sam Merrill,IND,Over 9.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games vs IND,75%,True,14.0
+Sam Merrill,IND,Under 2.5 Rebounds,-165,Hit in 6 of his last 8 games,75%,False,4.0
+Amen Thompson,GSW,Under 21.5 PTS+REB,-122,Hit in 6 of his last 8 games,75%,False,33.0
+Tari Eason,GSW,Over 3.5 Rebounds,100,Hit in 15 of his last 20 games,75%,True,5.0
+Fred VanVleet,GSW,Under 21.5 PTS+AST,-102,Hit in 9 of his last 12 games,75%,False,26.0
+Fred VanVleet,GSW,Under 25.5 PTS+AST+REB,-114,Hit in 9 of his last 12 games,75%,False,26.0
+Fred VanVleet,GSW,Under 17.5 Points,-130,Hit in 9 of his last 12 games,75%,False,23.0
+Fred VanVleet,GSW,Under 0.5 Blocks,-220,Hit in 12 of his last 16 games,75%,True,0.0
+Fred VanVleet,GSW,Under 0.5 Blocks,-220,Hit in 3 of his last 4 games vs GSW,75%,True,0.0
+Dillon Brooks,GSW,Over 1.5 3PTM,-114,Hit in 6 of his last 8 games vs GSW,75%,False,0.0
+Dillon Brooks,GSW,Over 11.5 PTS+AST,-115,Hit in 15 of his last 20 games,75%,False,9.0
+Quinten Post,HOU,Over 1.5 Assists,150,Hit in 3 of his last 4 games,75%,False,0.0
+Quinten Post,HOU,Over 1.5 Assists,150,Hit in 3 of his last 4 games vs HOU,75%,False,0.0
+Quinten Post,HOU,Under 3.5 Rebounds,-115,Hit in 6 of his last 8 games vs HOU,75%,True,0.0
+Quinten Post,HOU,Under 1.5 3PTM,-200,Hit in 3 of his last 4 games,75%,True,0.0
+Quinten Post,HOU,Under 1.5 3PTM,-200,Hit in 6 of his last 8 games vs HOU,75%,True,0.0
+Quinten Post,HOU,Under 5.5 Points,-118,Hit in 3 of his last 4 games,75%,True,0.0
+Quinten Post,HOU,Under 5.5 Points,-118,Hit in 6 of his last 8 games vs HOU,75%,True,0.0
+Buddy Hield,HOU,Under 9.5 PTS+REB,-108,Hit in 6 of his last 8 games,75%,False,54.0
+Moses Moody,HOU,Over 1.5 3PTM,108,Hit in 6 of his last 8 away games,75%,False,0.0
+Moses Moody,HOU,Over 8.5 Points,-106,Hit in 15 of his last 20 away games,75%,False,0.0
+Buddy Hield,HOU,Under 10.5 PTS+AST+REB,-105,Hit in 6 of his last 8 games,75%,False,54.0
+Moses Moody,HOU,Over 9.5 PTS+AST,-130,Hit in 15 of his last 20 away games,75%,False,0.0
+Jarrett Allen,IND,Under 1.5 Steals,-220,IND rank 4th in STL against,4th,False,2.0
+Jarrett Allen,IND,Under 1.5 Assists,-105,IND rank 4th in AST versus C,4th,True,1.0
+Andrew Nembhard,CLE,Under 1.5 Steals,-245,CLE rank 2nd in STL versus SG,2nd,True,0.0
+Pascal Siakam,CLE,Over 6.5 Rebounds,-132,CLE rank 27th in REB versus PF,27th,True,8.0
+Obi Toppin,CLE,Over 2.5 Rebounds,-162,CLE rank 27th in REB versus PF,27th,True,5.0
+Amen Thompson,GSW,Under 1.5 Steals,-132,GSW rank 2nd in STL versus SF,2nd,True,1.0
+Fred VanVleet,GSW,Under 3.5 3PTM,-180,GSW rank 2nd in 3PTM versus PG,2nd,True,3.0
+Quinten Post,HOU,Under 3.5 Rebounds,-115,HOU rank 4th in REB against,4th,True,0.0
+Quinten Post,HOU,Under 1.5 3PTM,-200,HOU rank 2nd in 3PTM against,2nd,True,0.0
+Buddy Hield,HOU,Under 1.5 3PTM,-122,HOU rank 2nd in 3PTM against,2nd,False,9.0
+Buddy Hield,HOU,Under 1.5 Assists,-190,HOU rank 5th in AST versus SG,5th,False,3.0
+Brandin Podziemski,HOU,Under 3.5 Assists,-160,HOU rank 5th in AST versus SG,5th,True,2.0
+Moses Moody,HOU,Under 2.5 Rebounds,112,HOU rank 4th in REB against,4th,False,3.0
+Moses Moody,HOU,Over 0.5 Blocks,145,HOU rank 28th in BLK against,28th,False,0.0
+Fred VanVleet,GSW,Under 17.5 Points,-130,GSW rank 1st in PTS versus PG,1st,False,23.0
+Brandin Podziemski,HOU,Under 5.5 Rebounds,-152,HOU rank 4th in REB against,4th,True,3.0
