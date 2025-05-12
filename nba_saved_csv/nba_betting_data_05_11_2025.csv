@@ -1,427 +1,373 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Jamal Murray,OKL,Over 0.5 Blocks,-125,Hit in 4 of his last 4 home games,100%
-Carl Braun,OKL,Over 7.5 REB+AST,-145,Hit in 4 of his last 4 home games,100%
-N. Jokic,OKL,Under 8.5 Assists,-122,Hit in 5 of his last 5 games,100%
-N. Jokic,OKL,Under 8.5 Assists,-122,Hit in 4 of his last 4 games vs OKL,100%
-Isaiah Hartenstein,DEN,Over 19.5 PTS+REB,-112,Hit in 4 of his last 4 games,100%
-Isaiah Hartenstein,DEN,Over 19.5 PTS+REB,-112,Hit in 6 of his last 6 games vs DEN,100%
-Luguentz Dort,DEN,Over 0.5 Blocks,100,Hit in 7 of his last 7 games vs DEN,100%
-Jalen Williams,DEN,Over 1.5 3PTM,-152,Hit in 5 of his last 5 away games,100%
-Jalen Williams,DEN,Over 22.5 Points,-118,Hit in 5 of his last 5 away games,100%
-Cason Wallace,DEN,Over 1.5 Rebounds,-175,Hit in 4 of his last 4 games vs DEN,100%
-Aaron Wiggins,DEN,Over 1.5 Rebounds,-175,Hit in 4 of his last 4 games,100%
-Aaron Wiggins,DEN,Over 1.5 Rebounds,-175,Hit in 10 of his last 10 games vs DEN,100%
-Aaron Wiggins,DEN,Over 0.5 3PTM,-165,Hit in 4 of his last 4 games vs DEN,100%
-Jalen Williams,DEN,Over 27.5 PTS+AST,-120,Hit in 8 of his last 8 away games,100%
-Tyrese Haliburton,CLE,Under 2.5 3PTM,-168,Hit in 5 of his last 5 games,100%
-Tyrese Haliburton,CLE,Under 1.5 Steals,-186,Hit in 7 of his last 7 games vs CLE,100%
-Myles Turner,CLE,Under 1.5 Assists,-220,Hit in 4 of his last 4 games,100%
-Myles Turner,CLE,Under 1.5 Assists,-220,Hit in 7 of his last 7 games vs CLE,100%
-Pascal Siakam,CLE,Under 0.5 Blocks,-210,Hit in 4 of his last 4 games,100%
-T.J. McConnell,CLE,Over 10.5 PTS+REB,-112,Hit in 5 of his last 5 home games,100%
-T.J. McConnell,CLE,Over 14.5 PTS+AST+REB,-122,Hit in 5 of his last 5 home games,100%
-Bennedict Mathurin,CLE,Under 1.5 Assists,-190,Hit in 7 of his last 7 games,100%
-Bennedict Mathurin,CLE,Under 1.5 Assists,-190,Hit in 4 of his last 4 games vs CLE,100%
-Obi Toppin,CLE,Under 1.5 3PTM,-235,Hit in 4 of his last 4 games,100%
-Obi Toppin,CLE,Under 1.5 3PTM,-235,Hit in 5 of his last 5 games vs CLE,100%
-Thomas Bryant,CLE,Under 6.5 PTS+AST+REB,-120,Hit in 5 of his last 5 games,100%
-Thomas Bryant,CLE,Under 0.5 3PTM,-325,Hit in 5 of his last 5 games,100%
-Thomas Bryant,CLE,Under 2.5 Points,100,Hit in 5 of his last 5 games,100%
-Davion Mitchell,IND,Over 30.5 Points,100,Hit in 4 of his last 4 games vs IND,100%
-Darius Garland,IND,Under 2.5 Rebounds,-136,Hit in 4 of his last 4 games vs IND,100%
-Dean Wade,IND,Over 2.5 Rebounds,-125,Hit in 5 of his last 5 games,100%
-Dean Wade,IND,Over 2.5 Rebounds,-125,Hit in 6 of his last 6 games vs IND,100%
-Eric Mobley,IND,Over 27.5 PTS+REB,-110,Hit in 4 of his last 4 games vs IND,100%
-Eric Mobley,IND,Over 0.5 Double Double,-135,Hit in 4 of his last 4 games vs IND,100%
-Max Strus,IND,Over 8.5 REB+AST,-138,Hit in 5 of his last 5 games,100%
-De'Andre Hunter,IND,Over 3.5 Rebounds,-172,Hit in 4 of his last 4 games vs IND,100%
-Jarrett Allen,IND,Over 23.5 PTS+REB,-128,Hit in 4 of his last 4 away games,100%
-Jarrett Allen,IND,Over 25.5 PTS+AST+REB,-114,Hit in 4 of his last 4 away games,100%
-Davion Mitchell,IND,Over 35.5 PTS+AST,-112,Hit in 4 of his last 4 games vs IND,100%
-Davion Mitchell,IND,Over 35.5 PTS+REB,-106,Hit in 4 of his last 4 games vs IND,100%
-Davion Mitchell,IND,Over 40.5 PTS+AST+REB,-114,Hit in 4 of his last 4 games vs IND,100%
-Cason Wallace,DEN,Over 1.5 Rebounds,-175,Hit in 19 of his last 20 away games,95%
-Darius Garland,IND,Over 22.5 PTS+AST+REB,-122,Hit in 19 of his last 20 away games,95%
-Andrew Nembhard,CLE,Under 0.5 Blocks,-375,Hit in 13 of his last 14 games vs CLE,93%
-Darius Garland,IND,Over 17.5 PTS+REB,-108,Hit in 13 of his last 14 away games,93%
-Tyrese Haliburton,CLE,Under 1.5 Steals,-186,Hit in 11 of his last 12 games,92%
-Russell Westbrook,OKL,Over 3.5 Assists,-152,Hit in 10 of his last 11 games vs OKL,91%
-Davion Mitchell,IND,Under 0.5 Blocks,-325,Hit in 10 of his last 11 games vs IND,91%
-Ty Jerome,IND,Over 8.5 Points,-125,Hit in 10 of his last 11 away games,91%
-Russell Westbrook,OKL,Over 14.5 PTS+REB,-114,Hit in 9 of his last 10 home games,90%
-Russell Westbrook,OKL,Over 18.5 PTS+AST+REB,-114,Hit in 9 of his last 10 home games,90%
-Russell Westbrook,OKL,Over 10.5 Points,-132,Hit in 9 of his last 10 home games,90%
-Cason Wallace,DEN,Over 1.5 Rebounds,-175,Hit in 18 of his last 20 games,90%
-Aaron Wiggins,DEN,Over 1.5 Rebounds,-175,Hit in 9 of his last 10 away games,90%
-Ty Jerome,IND,Over 2.5 Assists,-154,Hit in 9 of his last 10 away games,90%
-Darius Garland,IND,Over 7.5 REB+AST,-132,Hit in 9 of his last 10 away games,90%
-Ty Jerome,IND,Over 11.5 PTS+AST,-128,Hit in 9 of his last 10 away games,90%
-Darius Garland,IND,Over 22.5 PTS+AST+REB,-122,Hit in 18 of his last 20 games,90%
-Darius Garland,IND,Over 7.5 REB+AST,-132,Hit in 17 of his last 19 games,89%
-Jamal Murray,OKL,Over 5.5 Assists,-154,Hit in 8 of his last 9 home games,89%
-N. Jokic,OKL,Over 1.5 Steals,108,Hit in 8 of his last 9 home games,89%
-Aaron Wiggins,DEN,Over 9.5 PTS+AST+REB,-105,Hit in 8 of his last 9 games vs DEN,89%
-Aaron Wiggins,DEN,Over 9.5 PTS+AST+REB,-105,Hit in 16 of his last 18 away games,89%
-Aaron Wiggins,DEN,Over 5.5 Points,-136,Hit in 16 of his last 18 away games,89%
-Obi Toppin,CLE,Under 3.5 Rebounds,-146,Hit in 8 of his last 9 games,89%
-Obi Toppin,CLE,Over 6.5 Points,-122,Hit in 8 of his last 9 games vs CLE,89%
-De'Andre Hunter,IND,Over 9.5 Points,-128,Hit in 8 of his last 9 away games,89%
-Bennedict Mathurin,CLE,Over 12.5 Points,-118,Hit in 8 of his last 9 home games,89%
-De'Andre Hunter,IND,Over 9.5 Points,-128,Hit in 15 of his last 17 games,88%
-Alex Caruso,DEN,Over 2.5 Rebounds,-136,Hit in 7 of his last 8 away games,88%
-Pascal Siakam,CLE,Over 5.5 Rebounds,-162,Hit in 7 of his last 8 games vs CLE,88%
-Davion Mitchell,IND,Under 0.5 Blocks,-325,Hit in 7 of his last 8 games,88%
-Ty Jerome,IND,Over 14.5 PTS+AST+REB,-108,Hit in 7 of his last 8 away games,88%
-Luguentz Dort,DEN,Over 4.5 REB+AST,105,Hit in 6 of his last 7 away games,86%
-Andrew Nembhard,CLE,Under 0.5 Blocks,-375,Hit in 12 of his last 14 games,86%
-Aaron Nesmith,CLE,Over 17.5 PTS+REB,-102,Hit in 6 of his last 7 games,86%
-Aaron Nesmith,CLE,Over 12.5 Points,100,Hit in 6 of his last 7 games,86%
-Aaron Nesmith,CLE,Over 13.5 PTS+AST,-115,Hit in 6 of his last 7 games,86%
-Aaron Nesmith,CLE,Over 18.5 PTS+AST+REB,-115,Hit in 6 of his last 7 games,86%
-Eric Mobley,IND,Under 13.5 REB+AST,-122,Hit in 6 of his last 7 games,86%
-Myles Turner,CLE,Under 17.5 PTS+AST,-130,Hit in 6 of his last 7 games vs CLE,86%
-Darius Garland,IND,Over 20.5 PTS+AST,-108,Hit in 17 of his last 20 away games,85%
-Darius Garland,IND,Over 17.5 PTS+REB,-108,Hit in 17 of his last 20 games,85%
-Darius Garland,IND,Over 14.5 Points,-122,Hit in 17 of his last 20 away games,85%
-Max Strus,IND,Under 0.5 Blocks,-300,Hit in 17 of his last 20 games,85%
-Jalen Williams,DEN,Under 5.5 Assists,-172,Hit in 11 of his last 13 games,85%
-Bennedict Mathurin,CLE,Under 1.5 3PTM,-192,Hit in 11 of his last 13 games,85%
-Tyrese Haliburton,CLE,Over 26.5 PTS+AST,-128,Hit in 16 of his last 19 home games,84%
-Jamal Murray,OKL,Over 0.5 Blocks,-125,Hit in 5 of his last 6 games,83%
-Russell Westbrook,OKL,Over 14.5 PTS+REB,-114,Hit in 5 of his last 6 games,83%
-Russell Westbrook,OKL,Over 14.5 PTS+REB,-114,Hit in 5 of his last 6 games vs OKL,83%
-Russell Westbrook,OKL,Over 18.5 PTS+AST+REB,-114,Hit in 5 of his last 6 games,83%
-Russell Westbrook,OKL,Over 18.5 PTS+AST+REB,-114,Hit in 5 of his last 6 games vs OKL,83%
-Russell Westbrook,OKL,Over 10.5 Points,-132,Hit in 5 of his last 6 games,83%
-Aaron Gordon,OKL,Over 19.5 PTS+AST,-106,Hit in 5 of his last 6 games,83%
-Aaron Gordon,OKL,Over 19.5 PTS+AST,-106,Hit in 5 of his last 6 home games,83%
-Aaron Gordon,OKL,Over 25.5 PTS+AST+REB,-118,Hit in 5 of his last 6 home games,83%
-Aaron Gordon,OKL,Over 16.5 Points,-110,Hit in 5 of his last 6 games,83%
-Aaron Gordon,OKL,Over 16.5 Points,-110,Hit in 5 of his last 6 home games,83%
-N. Jokic,OKL,Under 22.5 REB+AST,-130,Hit in 5 of his last 6 games,83%
-Isaiah Hartenstein,DEN,Over 3.5 Assists,122,Hit in 5 of his last 6 away games,83%
-Luguentz Dort,DEN,Over 1.5 3PTM,-198,Hit in 5 of his last 6 games vs DEN,83%
-Luguentz Dort,DEN,Under 1.5 Assists,-210,Hit in 5 of his last 6 games,83%
-Jalen Williams,DEN,Over 1.5 3PTM,-152,Hit in 5 of his last 6 games,83%
-Alex Caruso,DEN,Over 2.5 Rebounds,-136,Hit in 15 of his last 18 games,83%
-Aaron Wiggins,DEN,Over 0.5 3PTM,-165,Hit in 15 of his last 18 away games,83%
-Chet Holmgren,DEN,Under 15.5 Points,-122,Hit in 5 of his last 6 games vs DEN,83%
-Chet Holmgren,DEN,Under 17.5 PTS+AST,-110,Hit in 5 of his last 6 games vs DEN,83%
-Russell Westbrook,OKL,Over 15.5 PTS+AST,-102,Hit in 5 of his last 6 games,83%
-Russell Westbrook,OKL,Over 15.5 PTS+AST,-102,Hit in 15 of his last 18 home games,83%
-Aaron Gordon,OKL,Over 22.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%
-Aaron Gordon,OKL,Over 22.5 PTS+REB,-122,Hit in 5 of his last 6 home games,83%
-N. Jokic,OKL,Under 36.5 PTS+AST,-122,Hit in 5 of his last 6 games,83%
-N. Jokic,OKL,Under 41.5 PTS+REB,-120,Hit in 5 of his last 6 games,83%
-N. Jokic,OKL,Under 50.5 PTS+AST+REB,-125,Hit in 5 of his last 6 games,83%
-N. Jokic,OKL,Under 27.5 Points,-114,Hit in 5 of his last 6 games,83%
-N. Jokic,OKL,Under 1.5 Blocks,-270,Hit in 15 of his last 18 games,83%
-Luguentz Dort,DEN,Over 11.5 PTS+REB,-130,Hit in 5 of his last 6 games vs DEN,83%
-Shai Gilgeous-Alexander,DEN,Under 14.5 REB+AST,-138,Hit in 10 of his last 12 games,83%
-Tyrese Haliburton,CLE,Over 9.5 Assists,104,Hit in 15 of his last 18 home games,83%
-Myles Turner,CLE,Under 1.5 3PTM,114,Hit in 5 of his last 6 games vs CLE,83%
-Pascal Siakam,CLE,Over 8.5 REB+AST,-144,Hit in 5 of his last 6 games vs CLE,83%
-T.J. McConnell,CLE,Under 3.5 Rebounds,-192,Hit in 5 of his last 6 games vs CLE,83%
-Bennedict Mathurin,CLE,Under 3.5 Rebounds,-138,Hit in 5 of his last 6 games,83%
-Aaron Nesmith,CLE,Over 4.5 Rebounds,-138,Hit in 5 of his last 6 games,83%
-Aaron Nesmith,CLE,Over 4.5 Rebounds,-138,Hit in 5 of his last 6 home games,83%
-Aaron Nesmith,CLE,Over 5.5 REB+AST,-140,Hit in 5 of his last 6 home games,83%
-Aaron Nesmith,CLE,Over 0.5 Assists,-220,Hit in 5 of his last 6 home games,83%
-Aaron Nesmith,CLE,Over 0.5 Blocks,-110,Hit in 5 of his last 6 games,83%
-Ty Jerome,IND,Under 1.5 3PTM,-230,Hit in 5 of his last 6 games,83%
-Davion Mitchell,IND,Under 5.5 Assists,-146,Hit in 5 of his last 6 games vs IND,83%
-Davion Mitchell,IND,Under 1.5 Steals,-220,Hit in 5 of his last 6 games,83%
-Max Strus,IND,Over 3.5 Assists,-114,Hit in 5 of his last 6 games,83%
-De'Andre Hunter,IND,Under 1.5 Assists,-200,Hit in 5 of his last 6 games,83%
-Ty Jerome,IND,Over 8.5 Points,-125,Hit in 15 of his last 18 games,83%
-Sam Merrill,IND,Over 9.5 PTS+AST+REB,100,Hit in 15 of his last 18 games,83%
-Ty Jerome,IND,Over 11.5 PTS+AST,-128,Hit in 14 of his last 17 games,82%
-Jamal Murray,OKL,Under 2.5 3PTM,-158,Hit in 9 of his last 11 games vs OKL,82%
-Carl Braun,OKL,Over 10.5 Points,-122,Hit in 9 of his last 11 home games,82%
-Paul Watson,OKL,Over 7.5 PTS+REB,-102,Hit in 9 of his last 11 games vs OKL,82%
-Andrew Nembhard,CLE,Under 8.5 REB+AST,-102,Hit in 9 of his last 11 games vs CLE,82%
-Eric Mobley,IND,Under 1.5 3PTM,-210,Hit in 9 of his last 11 games vs IND,82%
-Jamal Murray,OKL,Under 4.5 Rebounds,-158,Hit in 8 of his last 10 games vs OKL,80%
-Jamal Murray,OKL,Under 2.5 3PTM,-158,Hit in 4 of his last 5 games,80%
-Jamal Murray,OKL,Over 20.5 Points,-122,Hit in 4 of his last 5 home games,80%
-Russell Westbrook,OKL,Over 3.5 Assists,-152,Hit in 4 of his last 5 games,80%
-Russell Westbrook,OKL,Under 1.5 3PTM,-205,Hit in 8 of his last 10 games vs OKL,80%
-Aaron Gordon,OKL,Under 2.5 Assists,-104,Hit in 4 of his last 5 games vs OKL,80%
-Aaron Gordon,OKL,Under 0.5 Blocks,-160,Hit in 4 of his last 5 games vs OKL,80%
-Carl Braun,OKL,Over 10.5 Points,-122,Hit in 16 of his last 20 games,80%
-Carl Braun,OKL,Under 2.5 Assists,-162,Hit in 8 of his last 10 games vs OKL,80%
-Isaiah Hartenstein,DEN,Over 19.5 PTS+REB,-112,Hit in 16 of his last 20 away games,80%
-Isaiah Hartenstein,DEN,Over 22.5 PTS+AST+REB,-120,Hit in 16 of his last 20 away games,80%
-Isaiah Hartenstein,DEN,Over 8.5 Rebounds,-114,Hit in 16 of his last 20 away games,80%
-Luguentz Dort,DEN,Over 0.5 Blocks,100,Hit in 4 of his last 5 games,80%
-Alex Caruso,DEN,Under 10.5 PTS+AST,-130,Hit in 8 of his last 10 games vs DEN,80%
-Alex Caruso,DEN,Under 10.5 PTS+REB,-120,Hit in 8 of his last 10 games vs DEN,80%
-Alex Caruso,DEN,Under 13.5 PTS+AST+REB,-132,Hit in 8 of his last 10 games vs DEN,80%
-Alex Caruso,DEN,Under 1.5 Steals,-186,Hit in 4 of his last 5 games vs DEN,80%
-Cason Wallace,DEN,Over 8.5 PTS+AST+REB,-114,Hit in 16 of his last 20 away games,80%
-Chet Holmgren,DEN,Under 1.5 3PTM,-140,Hit in 4 of his last 5 games vs DEN,80%
-Jamal Murray,OKL,Over 26.5 PTS+AST,-128,Hit in 4 of his last 5 home games,80%
-Paul Watson,OKL,Over 7.5 PTS+REB,-102,Hit in 4 of his last 5 games,80%
-Paul Watson,OKL,Over 4.5 Points,-114,Hit in 4 of his last 5 games,80%
-Isaiah Hartenstein,DEN,Over 11.5 REB+AST,-136,Hit in 16 of his last 20 away games,80%
-Luguentz Dort,DEN,Under 13.5 PTS+AST+REB,-130,Hit in 4 of his last 5 games,80%
-Aaron Wiggins,DEN,Over 5.5 Points,-136,Hit in 8 of his last 10 games,80%
-Aaron Wiggins,DEN,Over 5.5 Points,-136,Hit in 8 of his last 10 games vs DEN,80%
-Andrew Nembhard,CLE,Under 1.5 3PTM,-136,Hit in 12 of his last 15 games vs CLE,80%
-Tyrese Haliburton,CLE,Over 13.5 REB+AST,-102,Hit in 4 of his last 5 home games,80%
-Tyrese Haliburton,CLE,Over 21.5 PTS+REB,-120,Hit in 4 of his last 5 games,80%
-Tyrese Haliburton,CLE,Over 31.5 PTS+AST+REB,-108,Hit in 4 of his last 5 games,80%
-Tyrese Haliburton,CLE,Over 3.5 Rebounds,-178,Hit in 4 of his last 5 home games,80%
-Tyrese Haliburton,CLE,Under 2.5 3PTM,-168,Hit in 4 of his last 5 games vs CLE,80%
-Tyrese Haliburton,CLE,Over 0.5 Blocks,-140,Hit in 4 of his last 5 games vs CLE,80%
-Myles Turner,CLE,Over 22.5 PTS+REB,-110,Hit in 4 of his last 5 games,80%
-Myles Turner,CLE,Over 23.5 PTS+AST+REB,-118,Hit in 4 of his last 5 games,80%
-Myles Turner,CLE,Under 15.5 Points,-125,Hit in 4 of his last 5 games vs CLE,80%
-Pascal Siakam,CLE,Under 24.5 PTS+REB,-122,Hit in 4 of his last 5 games,80%
-Pascal Siakam,CLE,Over 2.5 Assists,-148,Hit in 4 of his last 5 games,80%
-Pascal Siakam,CLE,Over 2.5 Assists,-148,Hit in 4 of his last 5 games vs CLE,80%
-Pascal Siakam,CLE,Under 27.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games,80%
-Pascal Siakam,CLE,Under 1.5 3PTM,-188,Hit in 4 of his last 5 games,80%
-Pascal Siakam,CLE,Under 0.5 Blocks,-210,Hit in 4 of his last 5 games vs CLE,80%
-T.J. McConnell,CLE,Under 7.5 REB+AST,-138,Hit in 4 of his last 5 games vs CLE,80%
-T.J. McConnell,CLE,Under 11.5 PTS+AST,-114,Hit in 4 of his last 5 games vs CLE,80%
-T.J. McConnell,CLE,Under 4.5 Assists,-162,Hit in 4 of his last 5 games vs CLE,80%
-T.J. McConnell,CLE,Under 3.5 Rebounds,-192,Hit in 4 of his last 5 games,80%
-T.J. McConnell,CLE,Over 7.5 Points,-106,Hit in 4 of his last 5 home games,80%
-Aaron Nesmith,CLE,Over 0.5 Assists,-220,Hit in 4 of his last 5 games vs CLE,80%
-Thomas Bryant,CLE,Under 6.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games vs CLE,80%
-Thomas Bryant,CLE,Under 0.5 3PTM,-325,Hit in 4 of his last 5 games vs CLE,80%
-Thomas Bryant,CLE,Under 2.5 Points,100,Hit in 4 of his last 5 games vs CLE,80%
-Ty Jerome,IND,Over 2.5 Assists,-154,Hit in 12 of his last 15 games,80%
-Ty Jerome,IND,Under 2.5 Rebounds,-175,Hit in 4 of his last 5 games vs IND,80%
-Ty Jerome,IND,Under 1.5 3PTM,-230,Hit in 4 of his last 5 games vs IND,80%
-Jarrett Allen,IND,Over 15.5 PTS+AST,-110,Hit in 4 of his last 5 games,80%
-Jarrett Allen,IND,Over 13.5 Points,100,Hit in 4 of his last 5 games,80%
-Jarrett Allen,IND,Over 0.5 Double Double,-115,Hit in 4 of his last 5 games,80%
-Davion Mitchell,IND,Under 5.5 Assists,-146,Hit in 4 of his last 5 games,80%
-Davion Mitchell,IND,Under 5.5 Rebounds,-172,Hit in 4 of his last 5 games,80%
-Davion Mitchell,IND,Under 3.5 3PTM,-132,Hit in 4 of his last 5 games vs IND,80%
-Darius Garland,IND,Over 20.5 PTS+AST,-108,Hit in 8 of his last 10 games,80%
-Darius Garland,IND,Over 17.5 PTS+REB,-108,Hit in 8 of his last 10 games vs IND,80%
-Darius Garland,IND,Over 5.5 Assists,102,Hit in 8 of his last 10 games vs IND,80%
-Darius Garland,IND,Over 5.5 Assists,102,Hit in 4 of his last 5 away games,80%
-Darius Garland,IND,Under 2.5 Rebounds,-136,Hit in 4 of his last 5 games,80%
-Darius Garland,IND,Over 14.5 Points,-122,Hit in 8 of his last 10 games,80%
-Dean Wade,IND,Over 5.5 PTS+AST+REB,-120,Hit in 16 of his last 20 away games,80%
-Dean Wade,IND,Over 2.5 Rebounds,-125,Hit in 4 of his last 5 away games,80%
-Eric Mobley,IND,Over 17.5 Points,104,Hit in 4 of his last 5 games,80%
-Eric Mobley,IND,Under 1.5 Blocks,-158,Hit in 4 of his last 5 games vs IND,80%
-Max Strus,IND,Over 8.5 REB+AST,-138,Hit in 4 of his last 5 away games,80%
-Max Strus,IND,Over 5.5 Rebounds,104,Hit in 4 of his last 5 games,80%
-De'Andre Hunter,IND,Over 14.5 PTS+REB,-106,Hit in 4 of his last 5 games,80%
-De'Andre Hunter,IND,Over 14.5 PTS+REB,-106,Hit in 4 of his last 5 away games,80%
-De'Andre Hunter,IND,Over 3.5 Rebounds,-172,Hit in 4 of his last 5 away games,80%
-De'Andre Hunter,IND,Over 1.5 3PTM,104,Hit in 4 of his last 5 away games,80%
-De'Andre Hunter,IND,Over 15.5 PTS+AST+REB,-114,Hit in 4 of his last 5 away games,80%
-Andrew Nembhard,CLE,Over 17.5 PTS+AST,-130,Hit in 4 of his last 5 games,80%
-Andrew Nembhard,CLE,Over 15.5 PTS+REB,-130,Hit in 4 of his last 5 games,80%
-Andrew Nembhard,CLE,Over 21.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games,80%
-Andrew Nembhard,CLE,Over 12.5 Points,-112,Hit in 4 of his last 5 games,80%
-Bennedict Mathurin,CLE,Over 12.5 Points,-118,Hit in 4 of his last 5 games vs CLE,80%
-Pascal Siakam,CLE,Under 17.5 Points,-102,Hit in 4 of his last 5 games,80%
-Jarrett Allen,IND,Over 23.5 PTS+REB,-128,Hit in 4 of his last 5 games,80%
-Jarrett Allen,IND,Over 25.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games,80%
-Eric Mobley,IND,Over 19.5 PTS+AST,-130,Hit in 4 of his last 5 games,80%
-Eric Mobley,IND,Under 2.5 Assists,130,Hit in 4 of his last 5 games vs IND,80%
-Aaron Wiggins,DEN,Over 0.5 Assists,-118,Hit in 15 of his last 19 away games,79%
-Russell Westbrook,OKL,Over 3.5 Assists,-152,Hit in 11 of his last 14 home games,79%
-Isaiah Hartenstein,DEN,Over 13.5 PTS+AST,-136,Hit in 11 of his last 14 away games,79%
-Bennedict Mathurin,CLE,Over 16.5 PTS+REB,-102,Hit in 11 of his last 14 home games,79%
-Ty Jerome,IND,Over 14.5 PTS+AST+REB,-108,Hit in 11 of his last 14 games,79%
-Bennedict Mathurin,CLE,Over 17.5 PTS+AST+REB,-125,Hit in 11 of his last 14 home games,79%
-Alex Caruso,DEN,Over 5.5 REB+AST,102,Hit in 7 of his last 9 games,78%
-Alex Caruso,DEN,Over 2.5 Assists,-102,Hit in 7 of his last 9 games,78%
-Shai Gilgeous-Alexander,DEN,Over 0.5 Blocks,-150,Hit in 7 of his last 9 games vs DEN,78%
-N. Jokic,OKL,Under 27.5 Points,-114,Hit in 7 of his last 9 games vs OKL,78%
-Shai Gilgeous-Alexander,DEN,Under 46.5 PTS+AST+REB,-120,Hit in 14 of his last 18 games,78%
-Tyrese Haliburton,CLE,Over 13.5 REB+AST,-102,Hit in 7 of his last 9 games,78%
-Tyrese Haliburton,CLE,Over 31.5 PTS+AST+REB,-108,Hit in 7 of his last 9 games vs CLE,78%
-Tyrese Haliburton,CLE,Over 3.5 Rebounds,-178,Hit in 7 of his last 9 games,78%
-Obi Toppin,CLE,Under 1.5 Assists,-185,Hit in 7 of his last 9 games,78%
-Sam Merrill,IND,Over 1.5 3PTM,-110,Hit in 7 of his last 9 games,78%
-Sam Merrill,IND,Over 5.5 Points,-118,Hit in 7 of his last 9 games,78%
-Max Strus,IND,Over 2.5 3PTM,-112,Hit in 7 of his last 9 games,78%
-Sam Merrill,IND,Over 9.5 PTS+AST+REB,100,Hit in 7 of his last 9 away games,78%
-N. Jokic,OKL,Under 1.5 3PTM,118,Hit in 10 of his last 13 games vs OKL,77%
-Jalen Williams,DEN,Under 27.5 PTS+REB,-112,Hit in 10 of his last 13 games vs DEN,77%
-Jalen Williams,DEN,Under 32.5 PTS+AST+REB,-108,Hit in 10 of his last 13 games vs DEN,77%
-Thomas Bryant,CLE,Over 2.5 Rebounds,-125,Hit in 10 of his last 13 games vs CLE,77%
-N. Jokic,OKL,Over 1.5 Steals,108,Hit in 13 of his last 17 games,76%
-Aaron Wiggins,DEN,Over 9.5 PTS+AST+REB,-105,Hit in 13 of his last 17 games,76%
-Aaron Wiggins,DEN,Over 0.5 3PTM,-165,Hit in 13 of his last 17 games,76%
-Jamal Murray,OKL,Over 25.5 PTS+REB,-108,Hit in 3 of his last 4 games vs OKL,75%
-Jamal Murray,OKL,Over 5.5 Assists,-154,Hit in 3 of his last 4 games vs OKL,75%
-Jamal Murray,OKL,Over 31.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games vs OKL,75%
-Jamal Murray,OKL,Over 20.5 Points,-122,Hit in 3 of his last 4 games vs OKL,75%
-Russell Westbrook,OKL,Under 7.5 REB+AST,-132,Hit in 6 of his last 8 games,75%
-Russell Westbrook,OKL,Over 10.5 Points,-132,Hit in 3 of his last 4 games vs OKL,75%
-Aaron Gordon,OKL,Over 25.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games,75%
-Carl Braun,OKL,Over 5.5 Rebounds,-102,Hit in 3 of his last 4 home games,75%
-Carl Braun,OKL,Under 1.5 3PTM,-205,Hit in 9 of his last 12 games,75%
-Carl Braun,OKL,Over 7.5 REB+AST,-145,Hit in 3 of his last 4 games,75%
-Carl Braun,OKL,Over 7.5 REB+AST,-145,Hit in 3 of his last 4 games vs OKL,75%
-Carl Braun,OKL,Over 0.5 Blocks,100,Hit in 3 of his last 4 games vs OKL,75%
-N. Jokic,OKL,Over 13.5 Rebounds,-114,Hit in 3 of his last 4 games vs OKL,75%
-Isaiah Hartenstein,DEN,Over 13.5 PTS+AST,-136,Hit in 3 of his last 4 games,75%
-Isaiah Hartenstein,DEN,Over 13.5 PTS+AST,-136,Hit in 3 of his last 4 games vs DEN,75%
-Isaiah Hartenstein,DEN,Over 22.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games,75%
-Isaiah Hartenstein,DEN,Over 22.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games vs DEN,75%
-Isaiah Hartenstein,DEN,Over 8.5 Rebounds,-114,Hit in 3 of his last 4 games,75%
-Isaiah Hartenstein,DEN,Over 10.5 Points,-118,Hit in 3 of his last 4 games,75%
-Isaiah Hartenstein,DEN,Over 10.5 Points,-118,Hit in 3 of his last 4 games vs DEN,75%
-Isaiah Hartenstein,DEN,Over 0.5 Blocks,-165,Hit in 6 of his last 8 games vs DEN,75%
-Luguentz Dort,DEN,Under 3.5 Rebounds,-172,Hit in 3 of his last 4 games,75%
-Luguentz Dort,DEN,Over 1.5 3PTM,-198,Hit in 15 of his last 20 games,75%
-Luguentz Dort,DEN,Over 8.5 Points,-118,Hit in 3 of his last 4 games vs DEN,75%
-Luguentz Dort,DEN,Over 9.5 PTS+AST,-125,Hit in 3 of his last 4 games vs DEN,75%
-Luguentz Dort,DEN,Under 1.5 Assists,-210,Hit in 3 of his last 4 games vs DEN,75%
-Jalen Williams,DEN,Over 10.5 REB+AST,110,Hit in 6 of his last 8 games,75%
-Jalen Williams,DEN,Under 27.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%
-Jalen Williams,DEN,Under 4.5 Rebounds,114,Hit in 3 of his last 4 games,75%
-Jalen Williams,DEN,Under 4.5 Rebounds,114,Hit in 3 of his last 4 games vs DEN,75%
-Jalen Williams,DEN,Over 1.5 3PTM,-152,Hit in 6 of his last 8 games vs DEN,75%
-Jalen Williams,DEN,Under 1.5 Steals,-186,Hit in 3 of his last 4 games,75%
-Jalen Williams,DEN,Under 1.5 Steals,-186,Hit in 3 of his last 4 games vs DEN,75%
-Alex Caruso,DEN,Over 5.5 REB+AST,102,Hit in 6 of his last 8 away games,75%
-Alex Caruso,DEN,Under 10.5 PTS+REB,-120,Hit in 3 of his last 4 games,75%
-Alex Caruso,DEN,Over 2.5 Assists,-102,Hit in 6 of his last 8 away games,75%
-Alex Caruso,DEN,Over 1.5 3PTM,134,Hit in 3 of his last 4 games vs DEN,75%
-Alex Caruso,DEN,Under 7.5 Points,-114,Hit in 3 of his last 4 games,75%
-Cason Wallace,DEN,Over 4.5 Points,-114,Hit in 15 of his last 20 games,75%
-Cason Wallace,DEN,Over 4.5 Points,-114,Hit in 15 of his last 20 away games,75%
-Cason Wallace,DEN,Over 1.5 Assists,-110,Hit in 12 of his last 16 games,75%
-Cason Wallace,DEN,Over 1.5 Assists,-110,Hit in 3 of his last 4 games vs DEN,75%
-Cason Wallace,DEN,Over 8.5 PTS+AST+REB,-114,Hit in 15 of his last 20 games,75%
-Cason Wallace,DEN,Under 0.5 3PTM,-105,Hit in 3 of his last 4 games,75%
-Aaron Wiggins,DEN,Over 0.5 Assists,-118,Hit in 6 of his last 8 games vs DEN,75%
-Shai Gilgeous-Alexander,DEN,Over 39.5 PTS+AST,-120,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,DEN,Under 6.5 Rebounds,-148,Hit in 15 of his last 20 games,75%
-Shai Gilgeous-Alexander,DEN,Under 1.5 3PTM,118,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,DEN,Over 31.5 Points,-118,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,DEN,Over 1.5 Steals,108,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,DEN,Over 1.5 Steals,108,Hit in 3 of his last 4 away games,75%
-Chet Holmgren,DEN,Over 24.5 PTS+REB,-128,Hit in 6 of his last 8 games,75%
-Chet Holmgren,DEN,Over 24.5 PTS+REB,-128,Hit in 3 of his last 4 away games,75%
-Chet Holmgren,DEN,Under 1.5 3PTM,-140,Hit in 3 of his last 4 games,75%
-Chet Holmgren,DEN,Under 15.5 Points,-122,Hit in 3 of his last 4 games,75%
-Chet Holmgren,DEN,Over 2.5 Blocks,-128,Hit in 3 of his last 4 games,75%
-Chet Holmgren,DEN,Under 17.5 PTS+AST,-110,Hit in 3 of his last 4 games,75%
-Chet Holmgren,DEN,Over 26.5 PTS+AST+REB,-122,Hit in 6 of his last 8 games,75%
-Chet Holmgren,DEN,Over 26.5 PTS+AST+REB,-122,Hit in 6 of his last 8 away games,75%
-Jamal Murray,OKL,Over 26.5 PTS+AST,-128,Hit in 3 of his last 4 games vs OKL,75%
-Russell Westbrook,OKL,Over 15.5 PTS+AST,-102,Hit in 3 of his last 4 games vs OKL,75%
-Paul Watson,OKL,Over 4.5 Points,-114,Hit in 3 of his last 4 games vs OKL,75%
-Isaiah Hartenstein,DEN,Over 11.5 REB+AST,-136,Hit in 6 of his last 8 games,75%
-Jalen Williams,DEN,Under 32.5 PTS+AST+REB,-108,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,DEN,Under 14.5 REB+AST,-138,Hit in 9 of his last 12 games vs DEN,75%
-Shai Gilgeous-Alexander,DEN,Under 38.5 PTS+REB,-122,Hit in 3 of his last 4 games vs DEN,75%
-Shai Gilgeous-Alexander,DEN,Under 46.5 PTS+AST+REB,-120,Hit in 9 of his last 12 games vs DEN,75%
-Andrew Nembhard,CLE,Over 5.5 Assists,114,Hit in 3 of his last 4 games,75%
-Andrew Nembhard,CLE,Over 3.5 Rebounds,-104,Hit in 3 of his last 4 games,75%
-Andrew Nembhard,CLE,Over 3.5 Rebounds,-104,Hit in 3 of his last 4 home games,75%
-Andrew Nembhard,CLE,Under 1.5 3PTM,-136,Hit in 15 of his last 20 games,75%
-Andrew Nembhard,CLE,Under 1.5 Steals,-270,Hit in 3 of his last 4 games vs CLE,75%
-Tyrese Haliburton,CLE,Over 21.5 PTS+REB,-120,Hit in 3 of his last 4 games vs CLE,75%
-Tyrese Haliburton,CLE,Over 21.5 PTS+REB,-120,Hit in 6 of his last 8 home games,75%
-Tyrese Haliburton,CLE,Over 17.5 Points,-114,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,CLE,Over 17.5 Points,-114,Hit in 3 of his last 4 games vs CLE,75%
-Tyrese Haliburton,CLE,Over 0.5 Blocks,-140,Hit in 3 of his last 4 games,75%
-Myles Turner,CLE,Over 8.5 REB+AST,100,Hit in 3 of his last 4 games,75%
-Myles Turner,CLE,Over 6.5 Rebounds,-136,Hit in 3 of his last 4 games,75%
-Myles Turner,CLE,Over 6.5 Rebounds,-136,Hit in 9 of his last 12 home games,75%
-Pascal Siakam,CLE,Under 24.5 PTS+REB,-122,Hit in 3 of his last 4 games vs CLE,75%
-Pascal Siakam,CLE,Under 27.5 PTS+AST+REB,-122,Hit in 3 of his last 4 games vs CLE,75%
-Pascal Siakam,CLE,Under 1.5 3PTM,-188,Hit in 3 of his last 4 games vs CLE,75%
-T.J. McConnell,CLE,Under 7.5 REB+AST,-138,Hit in 3 of his last 4 games,75%
-T.J. McConnell,CLE,Under 4.5 Assists,-162,Hit in 3 of his last 4 games,75%
-Bennedict Mathurin,CLE,Under 3.5 Rebounds,-138,Hit in 6 of his last 8 games vs CLE,75%
-Aaron Nesmith,CLE,Over 2.5 3PTM,152,Hit in 3 of his last 4 games,75%
-Aaron Nesmith,CLE,Over 5.5 REB+AST,-140,Hit in 3 of his last 4 games,75%
-Aaron Nesmith,CLE,Over 0.5 Assists,-220,Hit in 3 of his last 4 games,75%
-Obi Toppin,CLE,Under 10.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%
-Obi Toppin,CLE,Under 10.5 PTS+REB,-125,Hit in 3 of his last 4 games vs CLE,75%
-Obi Toppin,CLE,Under 3.5 Rebounds,-146,Hit in 6 of his last 8 games vs CLE,75%
-Obi Toppin,CLE,Over 6.5 Points,-122,Hit in 15 of his last 20 games,75%
-Obi Toppin,CLE,Under 12.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games,75%
-Obi Toppin,CLE,Under 12.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games vs CLE,75%
-Ty Jerome,IND,Over 2.5 Assists,-154,Hit in 3 of his last 4 games vs IND,75%
-Sam Merrill,IND,Over 1.5 Assists,-105,Hit in 3 of his last 4 games vs IND,75%
-Sam Merrill,IND,Over 2.5 Rebounds,115,Hit in 3 of his last 4 games vs IND,75%
-Sam Merrill,IND,Over 1.5 3PTM,-110,Hit in 3 of his last 4 games vs IND,75%
-Sam Merrill,IND,Over 1.5 3PTM,-110,Hit in 6 of his last 8 away games,75%
-Sam Merrill,IND,Over 5.5 Points,-118,Hit in 3 of his last 4 games vs IND,75%
-Sam Merrill,IND,Over 5.5 Points,-118,Hit in 6 of his last 8 away games,75%
-Jarrett Allen,IND,Over 12.5 REB+AST,-118,Hit in 3 of his last 4 games,75%
-Jarrett Allen,IND,Over 12.5 REB+AST,-118,Hit in 3 of his last 4 away games,75%
-Jarrett Allen,IND,Over 10.5 Rebounds,-132,Hit in 3 of his last 4 games,75%
-Jarrett Allen,IND,Over 10.5 Rebounds,-132,Hit in 3 of his last 4 away games,75%
-Jarrett Allen,IND,Over 1.5 Assists,-130,Hit in 3 of his last 4 games,75%
-Jarrett Allen,IND,Over 1.5 Assists,-130,Hit in 3 of his last 4 away games,75%
-Davion Mitchell,IND,Over 10.5 REB+AST,-104,Hit in 3 of his last 4 games vs IND,75%
-Davion Mitchell,IND,Under 3.5 3PTM,-132,Hit in 15 of his last 20 games,75%
-Darius Garland,IND,Over 5.5 Assists,102,Hit in 9 of his last 12 games,75%
-Darius Garland,IND,Under 2.5 3PTM,-168,Hit in 12 of his last 16 games,75%
-Darius Garland,IND,Over 14.5 Points,-122,Hit in 3 of his last 4 games vs IND,75%
-Dean Wade,IND,Over 0.5 Assists,125,Hit in 3 of his last 4 games vs IND,75%
-Dean Wade,IND,Over 0.5 Assists,125,Hit in 15 of his last 20 away games,75%
-Dean Wade,IND,Under 0.5 3PTM,-125,Hit in 6 of his last 8 games,75%
-Dean Wade,IND,Under 2.5 Points,-110,Hit in 6 of his last 8 games,75%
-Eric Mobley,IND,Over 10.5 Rebounds,-104,Hit in 3 of his last 4 games vs IND,75%
-Eric Mobley,IND,Under 1.5 Blocks,-158,Hit in 6 of his last 8 games,75%
-Max Strus,IND,Over 15.5 PTS+REB,-118,Hit in 3 of his last 4 games vs IND,75%
-Max Strus,IND,Over 15.5 PTS+REB,-118,Hit in 3 of his last 4 away games,75%
-Max Strus,IND,Over 3.5 Assists,-114,Hit in 3 of his last 4 games vs IND,75%
-Max Strus,IND,Over 19.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games vs IND,75%
-Max Strus,IND,Over 19.5 PTS+AST+REB,-112,Hit in 3 of his last 4 away games,75%
-Max Strus,IND,Over 2.5 3PTM,-112,Hit in 3 of his last 4 games vs IND,75%
-Max Strus,IND,Over 2.5 3PTM,-112,Hit in 3 of his last 4 away games,75%
-Max Strus,IND,Over 10.5 Points,-104,Hit in 3 of his last 4 games vs IND,75%
-Max Strus,IND,Over 10.5 Points,-104,Hit in 3 of his last 4 away games,75%
-De'Andre Hunter,IND,Over 3.5 Rebounds,-172,Hit in 3 of his last 4 games,75%
-De'Andre Hunter,IND,Over 1.5 3PTM,104,Hit in 9 of his last 12 games,75%
-De'Andre Hunter,IND,Under 1.5 Assists,-200,Hit in 6 of his last 8 games vs IND,75%
-De'Andre Hunter,IND,Over 15.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games,75%
-Andrew Nembhard,CLE,Over 17.5 PTS+AST,-130,Hit in 3 of his last 4 home games,75%
-Andrew Nembhard,CLE,Over 15.5 PTS+REB,-130,Hit in 3 of his last 4 home games,75%
-Andrew Nembhard,CLE,Over 21.5 PTS+AST+REB,-114,Hit in 3 of his last 4 home games,75%
-Andrew Nembhard,CLE,Over 12.5 Points,-112,Hit in 3 of his last 4 home games,75%
-Pascal Siakam,CLE,Over 20.5 PTS+AST,-130,Hit in 3 of his last 4 home games,75%
-Pascal Siakam,CLE,Under 17.5 Points,-102,Hit in 3 of his last 4 games vs CLE,75%
-Max Strus,IND,Over 13.5 PTS+AST,-130,Hit in 3 of his last 4 games vs IND,75%
-Max Strus,IND,Over 13.5 PTS+AST,-130,Hit in 3 of his last 4 away games,75%
-Sam Merrill,IND,Over 9.5 PTS+AST+REB,100,Hit in 3 of his last 4 games vs IND,75%
-Russell Westbrook,OKL,Over 3.5 Rebounds,106,OKL rank 27th in REB versus PG,27th
-Aaron Gordon,OKL,Under 2.5 Assists,-104,OKL rank 4th in AST versus PF,4th
-Aaron Gordon,OKL,Over 1.5 3PTM,100,OKL rank 26th in 3PTM versus PF,26th
-Carl Braun,OKL,Under 2.5 Assists,-162,OKL rank 4th in AST against,4th
-N. Jokic,OKL,Under 8.5 Assists,-122,OKL rank 4th in AST against,4th
-Isaiah Hartenstein,DEN,Over 3.5 Assists,122,DEN rank 29th in AST against,29th
-Luguentz Dort,DEN,Under 3.5 Rebounds,-172,DEN rank 2nd in REB versus SF,2nd
-Luguentz Dort,DEN,Over 1.5 3PTM,-198,DEN rank 26th in 3PTM versus SF,26th
-Jalen Williams,DEN,Over 1.5 3PTM,-152,DEN rank 28th in 3PTM versus SG,28th
-Jalen Williams,DEN,Over 22.5 Points,-118,DEN rank 28th in PTS versus SG,28th
-Alex Caruso,DEN,Over 2.5 Assists,-102,DEN rank 29th in AST versus SG,29th
-Alex Caruso,DEN,Over 1.5 3PTM,134,DEN rank 28th in 3PTM versus SG,28th
-Cason Wallace,DEN,Over 4.5 Points,-114,DEN rank 28th in PTS versus SG,28th
-Cason Wallace,DEN,Over 1.5 Assists,-110,DEN rank 29th in AST versus SG,29th
-Aaron Wiggins,DEN,Over 0.5 Assists,-118,DEN rank 29th in AST versus SG,29th
-Aaron Wiggins,DEN,Over 0.5 3PTM,-165,DEN rank 28th in 3PTM versus SG,28th
-Shai Gilgeous-Alexander,DEN,Over 7.5 Assists,-128,DEN rank 26th in AST versus PG,26th
-Shai Gilgeous-Alexander,DEN,Under 6.5 Rebounds,-148,DEN rank 1st in REB versus PG,1st
-Chet Holmgren,DEN,Under 1.5 3PTM,-140,DEN rank 2nd in 3PTM versus C,2nd
-Chet Holmgren,DEN,Over 1.5 Assists,-130,DEN rank 29th in AST against,29th
-N. Jokic,OKL,Under 27.5 Points,-114,OKL rank 3rd in PTS versus C,3rd
-Aaron Wiggins,DEN,Over 5.5 Points,-136,DEN rank 28th in PTS versus SG,28th
-Andrew Nembhard,CLE,Under 1.5 Steals,-270,CLE rank 2nd in STL versus SG,2nd
-Andrew Nembhard,CLE,Under 0.5 Blocks,-375,CLE rank 5th in BLK versus SG,5th
-Pascal Siakam,CLE,Over 5.5 Rebounds,-162,CLE rank 27th in REB versus PF,27th
-T.J. McConnell,CLE,Under 3.5 Rebounds,-192,CLE rank 2nd in REB versus PG,2nd
-Jarrett Allen,IND,Under 0.5 Blocks,145,IND rank 3rd in BLK versus C,3rd
-Davion Mitchell,IND,Under 1.5 Steals,-220,IND rank 4th in STL against,4th
-Dean Wade,IND,Over 2.5 Rebounds,-125,IND rank 26th in REB versus PF,26th
-Eric Mobley,IND,Over 10.5 Rebounds,-104,IND rank 26th in REB versus PF,26th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Jamal Murray,OKL,Over 0.5 Blocks,-125,Hit in 4 of his last 4 home games,100%,False,0.0
+Isaiah Hartenstein,DEN,Over 19.5 PTS+REB,-112,Hit in 4 of his last 4 games,100%,True,22.0
+Isaiah Hartenstein,DEN,Over 19.5 PTS+REB,-112,Hit in 6 of his last 6 games vs DEN,100%,True,22.0
+Luguentz Dort,DEN,Over 0.5 Blocks,100,Hit in 7 of his last 7 games vs DEN,100%,False,0.0
+Jalen Williams,DEN,Over 1.5 3PTM,-152,Hit in 5 of his last 5 away games,100%,False,0.0
+Jalen Williams,DEN,Over 22.5 Points,-118,Hit in 5 of his last 5 away games,100%,False,10.0
+Cason Wallace,DEN,Over 1.5 Rebounds,-175,Hit in 4 of his last 4 games vs DEN,100%,True,5.0
+Aaron Wiggins,DEN,Over 1.5 Rebounds,-175,Hit in 4 of his last 4 games,100%,True,6.0
+Aaron Wiggins,DEN,Over 1.5 Rebounds,-175,Hit in 10 of his last 10 games vs DEN,100%,True,6.0
+Aaron Wiggins,DEN,Over 0.5 3PTM,-165,Hit in 4 of his last 4 games vs DEN,100%,True,3.0
+Jalen Williams,DEN,Over 27.5 PTS+AST,-120,Hit in 8 of his last 8 away games,100%,False,15.0
+Tyrese Haliburton,CLE,Under 2.5 3PTM,-168,Hit in 5 of his last 5 games,100%,True,1.0
+Tyrese Haliburton,CLE,Under 1.5 Steals,-186,Hit in 7 of his last 7 games vs CLE,100%,True,0.0
+Myles Turner,CLE,Under 1.5 Assists,-220,Hit in 4 of his last 4 games,100%,False,3.0
+Myles Turner,CLE,Under 1.5 Assists,-220,Hit in 7 of his last 7 games vs CLE,100%,False,3.0
+Pascal Siakam,CLE,Under 0.5 Blocks,-210,Hit in 4 of his last 4 games,100%,True,0.0
+T.J. McConnell,CLE,Over 10.5 PTS+REB,-112,Hit in 5 of his last 5 home games,100%,True,17.0
+T.J. McConnell,CLE,Over 14.5 PTS+AST+REB,-122,Hit in 5 of his last 5 home games,100%,True,23.0
+Bennedict Mathurin,CLE,Under 1.5 Assists,-190,Hit in 7 of his last 7 games,100%,True,0.0
+Bennedict Mathurin,CLE,Under 1.5 Assists,-190,Hit in 4 of his last 4 games vs CLE,100%,True,0.0
+Obi Toppin,CLE,Under 1.5 3PTM,-235,Hit in 4 of his last 4 games,100%,True,1.0
+Obi Toppin,CLE,Under 1.5 3PTM,-235,Hit in 5 of his last 5 games vs CLE,100%,True,1.0
+Thomas Bryant,CLE,Under 6.5 PTS+AST+REB,-120,Hit in 5 of his last 5 games,100%,False,7.0
+Thomas Bryant,CLE,Under 0.5 3PTM,-325,Hit in 5 of his last 5 games,100%,False,1.0
+Thomas Bryant,CLE,Under 2.5 Points,100,Hit in 5 of his last 5 games,100%,False,7.0
+Darius Garland,IND,Under 2.5 Rebounds,-136,Hit in 4 of his last 4 games vs IND,100%,True,1.0
+Dean Wade,IND,Over 2.5 Rebounds,-125,Hit in 5 of his last 5 games,100%,True,3.0
+Dean Wade,IND,Over 2.5 Rebounds,-125,Hit in 6 of his last 6 games vs IND,100%,True,3.0
+Max Strus,IND,Over 8.5 REB+AST,-138,Hit in 5 of his last 5 games,100%,True,9.0
+De'Andre Hunter,IND,Over 3.5 Rebounds,-172,Hit in 4 of his last 4 games vs IND,100%,True,4.0
+Jarrett Allen,IND,Over 23.5 PTS+REB,-128,Hit in 4 of his last 4 away games,100%,False,4.0
+Jarrett Allen,IND,Over 25.5 PTS+AST+REB,-114,Hit in 4 of his last 4 away games,100%,False,3.0
+Cason Wallace,DEN,Over 1.5 Rebounds,-175,Hit in 19 of his last 20 away games,95%,True,5.0
+Darius Garland,IND,Over 22.5 PTS+AST+REB,-122,Hit in 19 of his last 20 away games,95%,True,29.0
+Andrew Nembhard,CLE,Under 0.5 Blocks,-375,Hit in 13 of his last 14 games vs CLE,93%,True,0.0
+Darius Garland,IND,Over 17.5 PTS+REB,-108,Hit in 13 of his last 14 away games,93%,True,24.0
+Tyrese Haliburton,CLE,Under 1.5 Steals,-186,Hit in 11 of his last 12 games,92%,True,0.0
+Russell Westbrook,OKL,Over 3.5 Assists,-152,Hit in 10 of his last 11 games vs OKL,91%,False,1.0
+Ty Jerome,IND,Over 8.5 Points,-125,Hit in 10 of his last 11 away games,91%,True,9.0
+Russell Westbrook,OKL,Over 14.5 PTS+REB,-114,Hit in 9 of his last 10 home games,90%,False,13.0
+Russell Westbrook,OKL,Over 18.5 PTS+AST+REB,-114,Hit in 9 of his last 10 home games,90%,False,11.0
+Russell Westbrook,OKL,Over 10.5 Points,-132,Hit in 9 of his last 10 home games,90%,False,10.0
+Cason Wallace,DEN,Over 1.5 Rebounds,-175,Hit in 18 of his last 20 games,90%,True,5.0
+Aaron Wiggins,DEN,Over 1.5 Rebounds,-175,Hit in 9 of his last 10 away games,90%,True,6.0
+Ty Jerome,IND,Over 2.5 Assists,-154,Hit in 9 of his last 10 away games,90%,False,0.0
+Darius Garland,IND,Over 7.5 REB+AST,-132,Hit in 9 of his last 10 away games,90%,False,7.0
+Ty Jerome,IND,Over 11.5 PTS+AST,-128,Hit in 9 of his last 10 away games,90%,False,9.0
+Darius Garland,IND,Over 22.5 PTS+AST+REB,-122,Hit in 18 of his last 20 games,90%,True,29.0
+Darius Garland,IND,Over 7.5 REB+AST,-132,Hit in 17 of his last 19 games,89%,False,7.0
+Jamal Murray,OKL,Over 5.5 Assists,-154,Hit in 8 of his last 9 home games,89%,False,5.0
+Aaron Wiggins,DEN,Over 9.5 PTS+AST+REB,-105,Hit in 8 of his last 9 games vs DEN,89%,True,17.0
+Aaron Wiggins,DEN,Over 9.5 PTS+AST+REB,-105,Hit in 16 of his last 18 away games,89%,True,17.0
+Aaron Wiggins,DEN,Over 5.5 Points,-136,Hit in 16 of his last 18 away games,89%,True,17.0
+Obi Toppin,CLE,Under 3.5 Rebounds,-146,Hit in 8 of his last 9 games,89%,False,5.0
+Obi Toppin,CLE,Over 6.5 Points,-122,Hit in 8 of his last 9 games vs CLE,89%,True,22.0
+De'Andre Hunter,IND,Over 9.5 Points,-128,Hit in 8 of his last 9 away games,89%,False,5.0
+Bennedict Mathurin,CLE,Over 12.5 Points,-118,Hit in 8 of his last 9 home games,89%,False,0.0
+De'Andre Hunter,IND,Over 9.5 Points,-128,Hit in 15 of his last 17 games,88%,False,5.0
+Alex Caruso,DEN,Over 2.5 Rebounds,-136,Hit in 7 of his last 8 away games,88%,True,4.0
+Pascal Siakam,CLE,Over 5.5 Rebounds,-162,Hit in 7 of his last 8 games vs CLE,88%,True,6.0
+Ty Jerome,IND,Over 14.5 PTS+AST+REB,-108,Hit in 7 of his last 8 away games,88%,False,9.0
+Luguentz Dort,DEN,Over 4.5 REB+AST,105,Hit in 6 of his last 7 away games,86%,False,2.0
+Andrew Nembhard,CLE,Under 0.5 Blocks,-375,Hit in 12 of his last 14 games,86%,True,0.0
+Aaron Nesmith,CLE,Over 17.5 PTS+REB,-102,Hit in 6 of his last 7 games,86%,False,17.0
+Aaron Nesmith,CLE,Over 12.5 Points,100,Hit in 6 of his last 7 games,86%,True,16.0
+Aaron Nesmith,CLE,Over 13.5 PTS+AST,-115,Hit in 6 of his last 7 games,86%,True,20.0
+Aaron Nesmith,CLE,Over 18.5 PTS+AST+REB,-115,Hit in 6 of his last 7 games,86%,True,20.0
+Myles Turner,CLE,Under 17.5 PTS+AST,-130,Hit in 6 of his last 7 games vs CLE,86%,False,31.0
+Darius Garland,IND,Over 20.5 PTS+AST,-108,Hit in 17 of his last 20 away games,85%,True,29.0
+Darius Garland,IND,Over 17.5 PTS+REB,-108,Hit in 17 of his last 20 games,85%,True,24.0
+Darius Garland,IND,Over 14.5 Points,-122,Hit in 17 of his last 20 away games,85%,True,23.0
+Max Strus,IND,Under 0.5 Blocks,-300,Hit in 17 of his last 20 games,85%,True,0.0
+Jalen Williams,DEN,Under 5.5 Assists,-172,Hit in 11 of his last 13 games,85%,True,5.0
+Bennedict Mathurin,CLE,Under 1.5 3PTM,-192,Hit in 11 of his last 13 games,85%,True,0.0
+Tyrese Haliburton,CLE,Over 26.5 PTS+AST,-128,Hit in 16 of his last 19 home games,84%,False,18.0
+Jamal Murray,OKL,Over 0.5 Blocks,-125,Hit in 5 of his last 6 games,83%,False,0.0
+Russell Westbrook,OKL,Over 14.5 PTS+REB,-114,Hit in 5 of his last 6 games,83%,False,13.0
+Russell Westbrook,OKL,Over 14.5 PTS+REB,-114,Hit in 5 of his last 6 games vs OKL,83%,False,13.0
+Russell Westbrook,OKL,Over 18.5 PTS+AST+REB,-114,Hit in 5 of his last 6 games,83%,False,11.0
+Russell Westbrook,OKL,Over 18.5 PTS+AST+REB,-114,Hit in 5 of his last 6 games vs OKL,83%,False,11.0
+Russell Westbrook,OKL,Over 10.5 Points,-132,Hit in 5 of his last 6 games,83%,False,10.0
+Aaron Gordon,OKL,Over 19.5 PTS+AST,-106,Hit in 5 of his last 6 games,83%,True,27.0
+Aaron Gordon,OKL,Over 19.5 PTS+AST,-106,Hit in 5 of his last 6 home games,83%,True,27.0
+Aaron Gordon,OKL,Over 25.5 PTS+AST+REB,-118,Hit in 5 of his last 6 home games,83%,True,27.0
+Aaron Gordon,OKL,Over 16.5 Points,-110,Hit in 5 of his last 6 games,83%,True,21.0
+Aaron Gordon,OKL,Over 16.5 Points,-110,Hit in 5 of his last 6 home games,83%,True,21.0
+Isaiah Hartenstein,DEN,Over 3.5 Assists,122,Hit in 5 of his last 6 away games,83%,False,3.0
+Luguentz Dort,DEN,Over 1.5 3PTM,-198,Hit in 5 of his last 6 games vs DEN,83%,True,2.0
+Luguentz Dort,DEN,Under 1.5 Assists,-210,Hit in 5 of his last 6 games,83%,True,0.0
+Jalen Williams,DEN,Over 1.5 3PTM,-152,Hit in 5 of his last 6 games,83%,False,0.0
+Alex Caruso,DEN,Over 2.5 Rebounds,-136,Hit in 15 of his last 18 games,83%,True,4.0
+Aaron Wiggins,DEN,Over 0.5 3PTM,-165,Hit in 15 of his last 18 away games,83%,True,3.0
+Chet Holmgren,DEN,Under 15.5 Points,-122,Hit in 5 of his last 6 games vs DEN,83%,True,8.0
+Chet Holmgren,DEN,Under 17.5 PTS+AST,-110,Hit in 5 of his last 6 games vs DEN,83%,True,8.0
+Russell Westbrook,OKL,Over 15.5 PTS+AST,-102,Hit in 5 of his last 6 games,83%,False,11.0
+Russell Westbrook,OKL,Over 15.5 PTS+AST,-102,Hit in 15 of his last 18 home games,83%,False,11.0
+Aaron Gordon,OKL,Over 22.5 PTS+REB,-122,Hit in 5 of his last 6 games,83%,True,37.0
+Aaron Gordon,OKL,Over 22.5 PTS+REB,-122,Hit in 5 of his last 6 home games,83%,True,37.0
+Luguentz Dort,DEN,Over 11.5 PTS+REB,-130,Hit in 5 of his last 6 games vs DEN,83%,True,12.0
+Shai Gilgeous-Alexander,DEN,Under 14.5 REB+AST,-138,Hit in 10 of his last 12 games,83%,True,12.0
+Tyrese Haliburton,CLE,Over 9.5 Assists,104,Hit in 15 of his last 18 home games,83%,False,5.0
+Myles Turner,CLE,Under 1.5 3PTM,114,Hit in 5 of his last 6 games vs CLE,83%,False,4.0
+Pascal Siakam,CLE,Over 8.5 REB+AST,-144,Hit in 5 of his last 6 games vs CLE,83%,True,9.0
+T.J. McConnell,CLE,Under 3.5 Rebounds,-192,Hit in 5 of his last 6 games vs CLE,83%,True,2.0
+Bennedict Mathurin,CLE,Under 3.5 Rebounds,-138,Hit in 5 of his last 6 games,83%,True,1.0
+Aaron Nesmith,CLE,Over 4.5 Rebounds,-138,Hit in 5 of his last 6 games,83%,False,1.0
+Aaron Nesmith,CLE,Over 4.5 Rebounds,-138,Hit in 5 of his last 6 home games,83%,False,1.0
+Aaron Nesmith,CLE,Over 5.5 REB+AST,-140,Hit in 5 of his last 6 home games,83%,False,5.0
+Aaron Nesmith,CLE,Over 0.5 Assists,-220,Hit in 5 of his last 6 home games,83%,True,4.0
+Aaron Nesmith,CLE,Over 0.5 Blocks,-110,Hit in 5 of his last 6 games,83%,False,0.0
+Ty Jerome,IND,Under 1.5 3PTM,-230,Hit in 5 of his last 6 games,83%,True,1.0
+Max Strus,IND,Over 3.5 Assists,-114,Hit in 5 of his last 6 games,83%,False,3.0
+De'Andre Hunter,IND,Under 1.5 Assists,-200,Hit in 5 of his last 6 games,83%,True,1.0
+Ty Jerome,IND,Over 8.5 Points,-125,Hit in 15 of his last 18 games,83%,True,9.0
+Sam Merrill,IND,Over 9.5 PTS+AST+REB,100,Hit in 15 of his last 18 games,83%,False,3.0
+Ty Jerome,IND,Over 11.5 PTS+AST,-128,Hit in 14 of his last 17 games,82%,False,9.0
+Jamal Murray,OKL,Under 2.5 3PTM,-158,Hit in 9 of his last 11 games vs OKL,82%,True,2.0
+Andrew Nembhard,CLE,Under 8.5 REB+AST,-102,Hit in 9 of his last 11 games vs CLE,82%,False,10.0
+Jamal Murray,OKL,Under 4.5 Rebounds,-158,Hit in 8 of his last 10 games vs OKL,80%,True,4.0
+Jamal Murray,OKL,Under 2.5 3PTM,-158,Hit in 4 of his last 5 games,80%,True,2.0
+Jamal Murray,OKL,Over 20.5 Points,-122,Hit in 4 of his last 5 home games,80%,True,21.0
+Russell Westbrook,OKL,Over 3.5 Assists,-152,Hit in 4 of his last 5 games,80%,False,1.0
+Russell Westbrook,OKL,Under 1.5 3PTM,-205,Hit in 8 of his last 10 games vs OKL,80%,False,2.0
+Aaron Gordon,OKL,Under 2.5 Assists,-104,Hit in 4 of his last 5 games vs OKL,80%,False,6.0
+Aaron Gordon,OKL,Under 0.5 Blocks,-160,Hit in 4 of his last 5 games vs OKL,80%,False,1.0
+Isaiah Hartenstein,DEN,Over 19.5 PTS+REB,-112,Hit in 16 of his last 20 away games,80%,True,22.0
+Isaiah Hartenstein,DEN,Over 22.5 PTS+AST+REB,-120,Hit in 16 of his last 20 away games,80%,False,11.0
+Isaiah Hartenstein,DEN,Over 8.5 Rebounds,-114,Hit in 16 of his last 20 away games,80%,True,14.0
+Luguentz Dort,DEN,Over 0.5 Blocks,100,Hit in 4 of his last 5 games,80%,False,0.0
+Alex Caruso,DEN,Under 10.5 PTS+AST,-130,Hit in 8 of his last 10 games vs DEN,80%,False,16.0
+Alex Caruso,DEN,Under 10.5 PTS+REB,-120,Hit in 8 of his last 10 games vs DEN,80%,False,18.0
+Alex Caruso,DEN,Under 13.5 PTS+AST+REB,-132,Hit in 8 of his last 10 games vs DEN,80%,False,16.0
+Alex Caruso,DEN,Under 1.5 Steals,-186,Hit in 4 of his last 5 games vs DEN,80%,True,0.0
+Cason Wallace,DEN,Over 8.5 PTS+AST+REB,-114,Hit in 16 of his last 20 away games,80%,True,19.0
+Chet Holmgren,DEN,Under 1.5 3PTM,-140,Hit in 4 of his last 5 games vs DEN,80%,True,0.0
+Jamal Murray,OKL,Over 26.5 PTS+AST,-128,Hit in 4 of his last 5 home games,80%,False,26.0
+Isaiah Hartenstein,DEN,Over 11.5 REB+AST,-136,Hit in 16 of his last 20 away games,80%,True,17.0
+Luguentz Dort,DEN,Under 13.5 PTS+AST+REB,-130,Hit in 4 of his last 5 games,80%,True,10.0
+Aaron Wiggins,DEN,Over 5.5 Points,-136,Hit in 8 of his last 10 games,80%,True,17.0
+Aaron Wiggins,DEN,Over 5.5 Points,-136,Hit in 8 of his last 10 games vs DEN,80%,True,17.0
+Andrew Nembhard,CLE,Under 1.5 3PTM,-136,Hit in 12 of his last 15 games vs CLE,80%,True,1.0
+Tyrese Haliburton,CLE,Over 13.5 REB+AST,-102,Hit in 4 of his last 5 home games,80%,False,10.0
+Tyrese Haliburton,CLE,Over 21.5 PTS+REB,-120,Hit in 4 of his last 5 games,80%,False,18.0
+Tyrese Haliburton,CLE,Over 31.5 PTS+AST+REB,-108,Hit in 4 of his last 5 games,80%,False,18.0
+Tyrese Haliburton,CLE,Over 3.5 Rebounds,-178,Hit in 4 of his last 5 home games,80%,True,5.0
+Tyrese Haliburton,CLE,Under 2.5 3PTM,-168,Hit in 4 of his last 5 games vs CLE,80%,True,1.0
+Tyrese Haliburton,CLE,Over 0.5 Blocks,-140,Hit in 4 of his last 5 games vs CLE,80%,False,0.0
+Myles Turner,CLE,Over 22.5 PTS+REB,-110,Hit in 4 of his last 5 games,80%,True,35.0
+Myles Turner,CLE,Over 23.5 PTS+AST+REB,-118,Hit in 4 of his last 5 games,80%,True,31.0
+Myles Turner,CLE,Under 15.5 Points,-125,Hit in 4 of his last 5 games vs CLE,80%,False,28.0
+Pascal Siakam,CLE,Under 24.5 PTS+REB,-122,Hit in 4 of his last 5 games,80%,False,31.0
+Pascal Siakam,CLE,Over 2.5 Assists,-148,Hit in 4 of his last 5 games,80%,True,3.0
+Pascal Siakam,CLE,Over 2.5 Assists,-148,Hit in 4 of his last 5 games vs CLE,80%,True,3.0
+Pascal Siakam,CLE,Under 27.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games,80%,False,28.0
+Pascal Siakam,CLE,Under 1.5 3PTM,-188,Hit in 4 of his last 5 games,80%,False,2.0
+Pascal Siakam,CLE,Under 0.5 Blocks,-210,Hit in 4 of his last 5 games vs CLE,80%,True,0.0
+T.J. McConnell,CLE,Under 7.5 REB+AST,-138,Hit in 4 of his last 5 games vs CLE,80%,False,10.0
+T.J. McConnell,CLE,Under 11.5 PTS+AST,-114,Hit in 4 of his last 5 games vs CLE,80%,False,23.0
+T.J. McConnell,CLE,Under 4.5 Assists,-162,Hit in 4 of his last 5 games vs CLE,80%,False,8.0
+T.J. McConnell,CLE,Under 3.5 Rebounds,-192,Hit in 4 of his last 5 games,80%,True,2.0
+T.J. McConnell,CLE,Over 7.5 Points,-106,Hit in 4 of his last 5 home games,80%,True,15.0
+Aaron Nesmith,CLE,Over 0.5 Assists,-220,Hit in 4 of his last 5 games vs CLE,80%,True,4.0
+Thomas Bryant,CLE,Under 6.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games vs CLE,80%,False,7.0
+Thomas Bryant,CLE,Under 0.5 3PTM,-325,Hit in 4 of his last 5 games vs CLE,80%,False,1.0
+Thomas Bryant,CLE,Under 2.5 Points,100,Hit in 4 of his last 5 games vs CLE,80%,False,7.0
+Ty Jerome,IND,Over 2.5 Assists,-154,Hit in 12 of his last 15 games,80%,False,0.0
+Ty Jerome,IND,Under 2.5 Rebounds,-175,Hit in 4 of his last 5 games vs IND,80%,True,2.0
+Ty Jerome,IND,Under 1.5 3PTM,-230,Hit in 4 of his last 5 games vs IND,80%,True,1.0
+Jarrett Allen,IND,Over 15.5 PTS+AST,-110,Hit in 4 of his last 5 games,80%,False,3.0
+Jarrett Allen,IND,Over 13.5 Points,100,Hit in 4 of his last 5 games,80%,False,2.0
+Jarrett Allen,IND,Over 0.5 Double Double,-115,Hit in 4 of his last 5 games,80%,False,0.0
+Darius Garland,IND,Over 20.5 PTS+AST,-108,Hit in 8 of his last 10 games,80%,True,29.0
+Darius Garland,IND,Over 17.5 PTS+REB,-108,Hit in 8 of his last 10 games vs IND,80%,True,24.0
+Darius Garland,IND,Over 5.5 Assists,102,Hit in 8 of his last 10 games vs IND,80%,True,6.0
+Darius Garland,IND,Over 5.5 Assists,102,Hit in 4 of his last 5 away games,80%,True,6.0
+Darius Garland,IND,Under 2.5 Rebounds,-136,Hit in 4 of his last 5 games,80%,True,1.0
+Darius Garland,IND,Over 14.5 Points,-122,Hit in 8 of his last 10 games,80%,True,23.0
+Dean Wade,IND,Over 5.5 PTS+AST+REB,-120,Hit in 16 of his last 20 away games,80%,False,5.0
+Dean Wade,IND,Over 2.5 Rebounds,-125,Hit in 4 of his last 5 away games,80%,True,3.0
+Max Strus,IND,Over 8.5 REB+AST,-138,Hit in 4 of his last 5 away games,80%,True,9.0
+Max Strus,IND,Over 5.5 Rebounds,104,Hit in 4 of his last 5 games,80%,True,6.0
+De'Andre Hunter,IND,Over 14.5 PTS+REB,-106,Hit in 4 of his last 5 games,80%,False,9.0
+De'Andre Hunter,IND,Over 14.5 PTS+REB,-106,Hit in 4 of his last 5 away games,80%,False,9.0
+De'Andre Hunter,IND,Over 3.5 Rebounds,-172,Hit in 4 of his last 5 away games,80%,True,4.0
+De'Andre Hunter,IND,Over 1.5 3PTM,104,Hit in 4 of his last 5 away games,80%,False,0.0
+De'Andre Hunter,IND,Over 15.5 PTS+AST+REB,-114,Hit in 4 of his last 5 away games,80%,False,6.0
+Andrew Nembhard,CLE,Over 17.5 PTS+AST,-130,Hit in 4 of his last 5 games,80%,False,16.0
+Andrew Nembhard,CLE,Over 15.5 PTS+REB,-130,Hit in 4 of his last 5 games,80%,False,12.0
+Andrew Nembhard,CLE,Over 21.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games,80%,False,16.0
+Andrew Nembhard,CLE,Over 12.5 Points,-112,Hit in 4 of his last 5 games,80%,False,9.0
+Bennedict Mathurin,CLE,Over 12.5 Points,-118,Hit in 4 of his last 5 games vs CLE,80%,False,0.0
+Pascal Siakam,CLE,Under 17.5 Points,-102,Hit in 4 of his last 5 games,80%,False,25.0
+Jarrett Allen,IND,Over 23.5 PTS+REB,-128,Hit in 4 of his last 5 games,80%,False,4.0
+Jarrett Allen,IND,Over 25.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games,80%,False,3.0
+Aaron Wiggins,DEN,Over 0.5 Assists,-118,Hit in 15 of his last 19 away games,79%,False,0.0
+Russell Westbrook,OKL,Over 3.5 Assists,-152,Hit in 11 of his last 14 home games,79%,False,1.0
+Isaiah Hartenstein,DEN,Over 13.5 PTS+AST,-136,Hit in 11 of his last 14 away games,79%,False,11.0
+Bennedict Mathurin,CLE,Over 16.5 PTS+REB,-102,Hit in 11 of his last 14 home games,79%,False,1.0
+Ty Jerome,IND,Over 14.5 PTS+AST+REB,-108,Hit in 11 of his last 14 games,79%,False,9.0
+Bennedict Mathurin,CLE,Over 17.5 PTS+AST+REB,-125,Hit in 11 of his last 14 home games,79%,False,0.0
+Alex Caruso,DEN,Over 5.5 REB+AST,102,Hit in 7 of his last 9 games,78%,True,6.0
+Alex Caruso,DEN,Over 2.5 Assists,-102,Hit in 7 of his last 9 games,78%,False,2.0
+Shai Gilgeous-Alexander,DEN,Over 0.5 Blocks,-150,Hit in 7 of his last 9 games vs DEN,78%,False,0.0
+Shai Gilgeous-Alexander,DEN,Under 46.5 PTS+AST+REB,-120,Hit in 14 of his last 18 games,78%,True,31.0
+Tyrese Haliburton,CLE,Over 13.5 REB+AST,-102,Hit in 7 of his last 9 games,78%,False,10.0
+Tyrese Haliburton,CLE,Over 31.5 PTS+AST+REB,-108,Hit in 7 of his last 9 games vs CLE,78%,False,18.0
+Tyrese Haliburton,CLE,Over 3.5 Rebounds,-178,Hit in 7 of his last 9 games,78%,True,5.0
+Obi Toppin,CLE,Under 1.5 Assists,-185,Hit in 7 of his last 9 games,78%,False,2.0
+Sam Merrill,IND,Over 1.5 3PTM,-110,Hit in 7 of his last 9 games,78%,False,0.0
+Sam Merrill,IND,Over 5.5 Points,-118,Hit in 7 of his last 9 games,78%,False,2.0
+Max Strus,IND,Over 2.5 3PTM,-112,Hit in 7 of his last 9 games,78%,True,3.0
+Sam Merrill,IND,Over 9.5 PTS+AST+REB,100,Hit in 7 of his last 9 away games,78%,False,3.0
+Jalen Williams,DEN,Under 27.5 PTS+REB,-112,Hit in 10 of his last 13 games vs DEN,77%,True,13.0
+Jalen Williams,DEN,Under 32.5 PTS+AST+REB,-108,Hit in 10 of his last 13 games vs DEN,77%,True,15.0
+Thomas Bryant,CLE,Over 2.5 Rebounds,-125,Hit in 10 of his last 13 games vs CLE,77%,False,0.0
+Aaron Wiggins,DEN,Over 9.5 PTS+AST+REB,-105,Hit in 13 of his last 17 games,76%,True,17.0
+Aaron Wiggins,DEN,Over 0.5 3PTM,-165,Hit in 13 of his last 17 games,76%,True,3.0
+Jamal Murray,OKL,Over 25.5 PTS+REB,-108,Hit in 3 of his last 4 games vs OKL,75%,False,25.0
+Jamal Murray,OKL,Over 5.5 Assists,-154,Hit in 3 of his last 4 games vs OKL,75%,False,5.0
+Jamal Murray,OKL,Over 31.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games vs OKL,75%,False,26.0
+Jamal Murray,OKL,Over 20.5 Points,-122,Hit in 3 of his last 4 games vs OKL,75%,True,21.0
+Russell Westbrook,OKL,Under 7.5 REB+AST,-132,Hit in 6 of his last 8 games,75%,True,4.0
+Russell Westbrook,OKL,Over 10.5 Points,-132,Hit in 3 of his last 4 games vs OKL,75%,False,10.0
+Aaron Gordon,OKL,Over 25.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games,75%,True,27.0
+Isaiah Hartenstein,DEN,Over 13.5 PTS+AST,-136,Hit in 3 of his last 4 games,75%,False,11.0
+Isaiah Hartenstein,DEN,Over 13.5 PTS+AST,-136,Hit in 3 of his last 4 games vs DEN,75%,False,11.0
+Isaiah Hartenstein,DEN,Over 22.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games,75%,False,11.0
+Isaiah Hartenstein,DEN,Over 22.5 PTS+AST+REB,-120,Hit in 3 of his last 4 games vs DEN,75%,False,11.0
+Isaiah Hartenstein,DEN,Over 8.5 Rebounds,-114,Hit in 3 of his last 4 games,75%,True,14.0
+Isaiah Hartenstein,DEN,Over 10.5 Points,-118,Hit in 3 of his last 4 games,75%,False,8.0
+Isaiah Hartenstein,DEN,Over 10.5 Points,-118,Hit in 3 of his last 4 games vs DEN,75%,False,8.0
+Isaiah Hartenstein,DEN,Over 0.5 Blocks,-165,Hit in 6 of his last 8 games vs DEN,75%,True,1.0
+Luguentz Dort,DEN,Under 3.5 Rebounds,-172,Hit in 3 of his last 4 games,75%,True,2.0
+Luguentz Dort,DEN,Over 1.5 3PTM,-198,Hit in 15 of his last 20 games,75%,True,2.0
+Luguentz Dort,DEN,Over 8.5 Points,-118,Hit in 3 of his last 4 games vs DEN,75%,True,10.0
+Luguentz Dort,DEN,Over 9.5 PTS+AST,-125,Hit in 3 of his last 4 games vs DEN,75%,True,10.0
+Luguentz Dort,DEN,Under 1.5 Assists,-210,Hit in 3 of his last 4 games vs DEN,75%,True,0.0
+Jalen Williams,DEN,Over 10.5 REB+AST,110,Hit in 6 of his last 8 games,75%,False,8.0
+Jalen Williams,DEN,Under 27.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%,True,13.0
+Jalen Williams,DEN,Under 4.5 Rebounds,114,Hit in 3 of his last 4 games,75%,True,3.0
+Jalen Williams,DEN,Under 4.5 Rebounds,114,Hit in 3 of his last 4 games vs DEN,75%,True,3.0
+Jalen Williams,DEN,Over 1.5 3PTM,-152,Hit in 6 of his last 8 games vs DEN,75%,False,0.0
+Jalen Williams,DEN,Under 1.5 Steals,-186,Hit in 3 of his last 4 games,75%,False,3.0
+Jalen Williams,DEN,Under 1.5 Steals,-186,Hit in 3 of his last 4 games vs DEN,75%,False,3.0
+Alex Caruso,DEN,Over 5.5 REB+AST,102,Hit in 6 of his last 8 away games,75%,True,6.0
+Alex Caruso,DEN,Under 10.5 PTS+REB,-120,Hit in 3 of his last 4 games,75%,False,18.0
+Alex Caruso,DEN,Over 2.5 Assists,-102,Hit in 6 of his last 8 away games,75%,False,2.0
+Alex Caruso,DEN,Over 1.5 3PTM,134,Hit in 3 of his last 4 games vs DEN,75%,True,2.0
+Alex Caruso,DEN,Under 7.5 Points,-114,Hit in 3 of his last 4 games,75%,False,14.0
+Cason Wallace,DEN,Over 4.5 Points,-114,Hit in 15 of his last 20 games,75%,True,17.0
+Cason Wallace,DEN,Over 4.5 Points,-114,Hit in 15 of his last 20 away games,75%,True,17.0
+Cason Wallace,DEN,Over 1.5 Assists,-110,Hit in 12 of his last 16 games,75%,True,2.0
+Cason Wallace,DEN,Over 1.5 Assists,-110,Hit in 3 of his last 4 games vs DEN,75%,True,2.0
+Cason Wallace,DEN,Over 8.5 PTS+AST+REB,-114,Hit in 15 of his last 20 games,75%,True,19.0
+Cason Wallace,DEN,Under 0.5 3PTM,-105,Hit in 3 of his last 4 games,75%,False,3.0
+Aaron Wiggins,DEN,Over 0.5 Assists,-118,Hit in 6 of his last 8 games vs DEN,75%,False,0.0
+Shai Gilgeous-Alexander,DEN,Over 39.5 PTS+AST,-120,Hit in 3 of his last 4 games,75%,False,31.0
+Shai Gilgeous-Alexander,DEN,Under 6.5 Rebounds,-148,Hit in 15 of his last 20 games,75%,True,6.0
+Shai Gilgeous-Alexander,DEN,Under 1.5 3PTM,118,Hit in 3 of his last 4 games,75%,True,0.0
+Shai Gilgeous-Alexander,DEN,Over 31.5 Points,-118,Hit in 3 of his last 4 games,75%,False,25.0
+Shai Gilgeous-Alexander,DEN,Over 1.5 Steals,108,Hit in 3 of his last 4 games,75%,True,2.0
+Shai Gilgeous-Alexander,DEN,Over 1.5 Steals,108,Hit in 3 of his last 4 away games,75%,True,2.0
+Chet Holmgren,DEN,Over 24.5 PTS+REB,-128,Hit in 6 of his last 8 games,75%,False,21.0
+Chet Holmgren,DEN,Over 24.5 PTS+REB,-128,Hit in 3 of his last 4 away games,75%,False,21.0
+Chet Holmgren,DEN,Under 1.5 3PTM,-140,Hit in 3 of his last 4 games,75%,True,0.0
+Chet Holmgren,DEN,Under 15.5 Points,-122,Hit in 3 of his last 4 games,75%,True,8.0
+Chet Holmgren,DEN,Over 2.5 Blocks,-128,Hit in 3 of his last 4 games,75%,False,0.0
+Chet Holmgren,DEN,Under 17.5 PTS+AST,-110,Hit in 3 of his last 4 games,75%,True,8.0
+Chet Holmgren,DEN,Over 26.5 PTS+AST+REB,-122,Hit in 6 of his last 8 games,75%,False,8.0
+Chet Holmgren,DEN,Over 26.5 PTS+AST+REB,-122,Hit in 6 of his last 8 away games,75%,False,8.0
+Jamal Murray,OKL,Over 26.5 PTS+AST,-128,Hit in 3 of his last 4 games vs OKL,75%,False,26.0
+Russell Westbrook,OKL,Over 15.5 PTS+AST,-102,Hit in 3 of his last 4 games vs OKL,75%,False,11.0
+Isaiah Hartenstein,DEN,Over 11.5 REB+AST,-136,Hit in 6 of his last 8 games,75%,True,17.0
+Jalen Williams,DEN,Under 32.5 PTS+AST+REB,-108,Hit in 3 of his last 4 games,75%,True,15.0
+Shai Gilgeous-Alexander,DEN,Under 14.5 REB+AST,-138,Hit in 9 of his last 12 games vs DEN,75%,True,12.0
+Shai Gilgeous-Alexander,DEN,Under 38.5 PTS+REB,-122,Hit in 3 of his last 4 games vs DEN,75%,True,31.0
+Shai Gilgeous-Alexander,DEN,Under 46.5 PTS+AST+REB,-120,Hit in 9 of his last 12 games vs DEN,75%,True,31.0
+Andrew Nembhard,CLE,Over 5.5 Assists,114,Hit in 3 of his last 4 games,75%,True,7.0
+Andrew Nembhard,CLE,Over 3.5 Rebounds,-104,Hit in 3 of his last 4 games,75%,False,3.0
+Andrew Nembhard,CLE,Over 3.5 Rebounds,-104,Hit in 3 of his last 4 home games,75%,False,3.0
+Andrew Nembhard,CLE,Under 1.5 3PTM,-136,Hit in 15 of his last 20 games,75%,True,1.0
+Andrew Nembhard,CLE,Under 1.5 Steals,-270,Hit in 3 of his last 4 games vs CLE,75%,False,3.0
+Tyrese Haliburton,CLE,Over 21.5 PTS+REB,-120,Hit in 3 of his last 4 games vs CLE,75%,False,18.0
+Tyrese Haliburton,CLE,Over 21.5 PTS+REB,-120,Hit in 6 of his last 8 home games,75%,False,18.0
+Tyrese Haliburton,CLE,Over 17.5 Points,-114,Hit in 3 of his last 4 games,75%,False,13.0
+Tyrese Haliburton,CLE,Over 17.5 Points,-114,Hit in 3 of his last 4 games vs CLE,75%,False,13.0
+Tyrese Haliburton,CLE,Over 0.5 Blocks,-140,Hit in 3 of his last 4 games,75%,False,0.0
+Myles Turner,CLE,Over 8.5 REB+AST,100,Hit in 3 of his last 4 games,75%,True,10.0
+Myles Turner,CLE,Over 6.5 Rebounds,-136,Hit in 3 of his last 4 games,75%,True,7.0
+Myles Turner,CLE,Over 6.5 Rebounds,-136,Hit in 9 of his last 12 home games,75%,True,7.0
+Pascal Siakam,CLE,Under 24.5 PTS+REB,-122,Hit in 3 of his last 4 games vs CLE,75%,False,31.0
+Pascal Siakam,CLE,Under 27.5 PTS+AST+REB,-122,Hit in 3 of his last 4 games vs CLE,75%,False,28.0
+Pascal Siakam,CLE,Under 1.5 3PTM,-188,Hit in 3 of his last 4 games vs CLE,75%,False,2.0
+T.J. McConnell,CLE,Under 7.5 REB+AST,-138,Hit in 3 of his last 4 games,75%,False,10.0
+T.J. McConnell,CLE,Under 4.5 Assists,-162,Hit in 3 of his last 4 games,75%,False,8.0
+Bennedict Mathurin,CLE,Under 3.5 Rebounds,-138,Hit in 6 of his last 8 games vs CLE,75%,True,1.0
+Aaron Nesmith,CLE,Over 2.5 3PTM,152,Hit in 3 of his last 4 games,75%,False,2.0
+Aaron Nesmith,CLE,Over 5.5 REB+AST,-140,Hit in 3 of his last 4 games,75%,False,5.0
+Aaron Nesmith,CLE,Over 0.5 Assists,-220,Hit in 3 of his last 4 games,75%,True,4.0
+Obi Toppin,CLE,Under 10.5 PTS+REB,-125,Hit in 3 of his last 4 games,75%,False,27.0
+Obi Toppin,CLE,Under 10.5 PTS+REB,-125,Hit in 3 of his last 4 games vs CLE,75%,False,27.0
+Obi Toppin,CLE,Under 3.5 Rebounds,-146,Hit in 6 of his last 8 games vs CLE,75%,False,5.0
+Obi Toppin,CLE,Over 6.5 Points,-122,Hit in 15 of his last 20 games,75%,True,22.0
+Obi Toppin,CLE,Under 12.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games,75%,False,24.0
+Obi Toppin,CLE,Under 12.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games vs CLE,75%,False,24.0
+Ty Jerome,IND,Over 2.5 Assists,-154,Hit in 3 of his last 4 games vs IND,75%,False,0.0
+Sam Merrill,IND,Over 1.5 Assists,-105,Hit in 3 of his last 4 games vs IND,75%,False,1.0
+Sam Merrill,IND,Over 2.5 Rebounds,115,Hit in 3 of his last 4 games vs IND,75%,True,3.0
+Sam Merrill,IND,Over 1.5 3PTM,-110,Hit in 3 of his last 4 games vs IND,75%,False,0.0
+Sam Merrill,IND,Over 1.5 3PTM,-110,Hit in 6 of his last 8 away games,75%,False,0.0
+Sam Merrill,IND,Over 5.5 Points,-118,Hit in 3 of his last 4 games vs IND,75%,False,2.0
+Sam Merrill,IND,Over 5.5 Points,-118,Hit in 6 of his last 8 away games,75%,False,2.0
+Jarrett Allen,IND,Over 12.5 REB+AST,-118,Hit in 3 of his last 4 games,75%,False,3.0
+Jarrett Allen,IND,Over 12.5 REB+AST,-118,Hit in 3 of his last 4 away games,75%,False,3.0
+Jarrett Allen,IND,Over 10.5 Rebounds,-132,Hit in 3 of his last 4 games,75%,False,2.0
+Jarrett Allen,IND,Over 10.5 Rebounds,-132,Hit in 3 of his last 4 away games,75%,False,2.0
+Jarrett Allen,IND,Over 1.5 Assists,-130,Hit in 3 of his last 4 games,75%,False,1.0
+Jarrett Allen,IND,Over 1.5 Assists,-130,Hit in 3 of his last 4 away games,75%,False,1.0
+Darius Garland,IND,Over 5.5 Assists,102,Hit in 9 of his last 12 games,75%,True,6.0
+Darius Garland,IND,Under 2.5 3PTM,-168,Hit in 12 of his last 16 games,75%,True,1.0
+Darius Garland,IND,Over 14.5 Points,-122,Hit in 3 of his last 4 games vs IND,75%,True,23.0
+Dean Wade,IND,Over 0.5 Assists,125,Hit in 3 of his last 4 games vs IND,75%,False,0.0
+Dean Wade,IND,Over 0.5 Assists,125,Hit in 15 of his last 20 away games,75%,False,0.0
+Dean Wade,IND,Under 0.5 3PTM,-125,Hit in 6 of his last 8 games,75%,False,1.0
+Dean Wade,IND,Under 2.5 Points,-110,Hit in 6 of his last 8 games,75%,False,5.0
+Max Strus,IND,Over 15.5 PTS+REB,-118,Hit in 3 of his last 4 games vs IND,75%,True,23.0
+Max Strus,IND,Over 15.5 PTS+REB,-118,Hit in 3 of his last 4 away games,75%,True,23.0
+Max Strus,IND,Over 3.5 Assists,-114,Hit in 3 of his last 4 games vs IND,75%,False,3.0
+Max Strus,IND,Over 19.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games vs IND,75%,True,20.0
+Max Strus,IND,Over 19.5 PTS+AST+REB,-112,Hit in 3 of his last 4 away games,75%,True,20.0
+Max Strus,IND,Over 2.5 3PTM,-112,Hit in 3 of his last 4 games vs IND,75%,True,3.0
+Max Strus,IND,Over 2.5 3PTM,-112,Hit in 3 of his last 4 away games,75%,True,3.0
+Max Strus,IND,Over 10.5 Points,-104,Hit in 3 of his last 4 games vs IND,75%,True,17.0
+Max Strus,IND,Over 10.5 Points,-104,Hit in 3 of his last 4 away games,75%,True,17.0
+De'Andre Hunter,IND,Over 3.5 Rebounds,-172,Hit in 3 of his last 4 games,75%,True,4.0
+De'Andre Hunter,IND,Over 1.5 3PTM,104,Hit in 9 of his last 12 games,75%,False,0.0
+De'Andre Hunter,IND,Under 1.5 Assists,-200,Hit in 6 of his last 8 games vs IND,75%,True,1.0
+De'Andre Hunter,IND,Over 15.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games,75%,False,6.0
+Andrew Nembhard,CLE,Over 17.5 PTS+AST,-130,Hit in 3 of his last 4 home games,75%,False,16.0
+Andrew Nembhard,CLE,Over 15.5 PTS+REB,-130,Hit in 3 of his last 4 home games,75%,False,12.0
+Andrew Nembhard,CLE,Over 21.5 PTS+AST+REB,-114,Hit in 3 of his last 4 home games,75%,False,16.0
+Andrew Nembhard,CLE,Over 12.5 Points,-112,Hit in 3 of his last 4 home games,75%,False,9.0
+Pascal Siakam,CLE,Over 20.5 PTS+AST,-130,Hit in 3 of his last 4 home games,75%,True,28.0
+Pascal Siakam,CLE,Under 17.5 Points,-102,Hit in 3 of his last 4 games vs CLE,75%,False,25.0
+Max Strus,IND,Over 13.5 PTS+AST,-130,Hit in 3 of his last 4 games vs IND,75%,True,20.0
+Max Strus,IND,Over 13.5 PTS+AST,-130,Hit in 3 of his last 4 away games,75%,True,20.0
+Sam Merrill,IND,Over 9.5 PTS+AST+REB,100,Hit in 3 of his last 4 games vs IND,75%,False,3.0
+Russell Westbrook,OKL,Over 3.5 Rebounds,106,OKL rank 27th in REB versus PG,27th,False,3.0
+Aaron Gordon,OKL,Under 2.5 Assists,-104,OKL rank 4th in AST versus PF,4th,False,6.0
+Aaron Gordon,OKL,Over 1.5 3PTM,100,OKL rank 26th in 3PTM versus PF,26th,True,3.0
+Isaiah Hartenstein,DEN,Over 3.5 Assists,122,DEN rank 29th in AST against,29th,False,3.0
+Luguentz Dort,DEN,Under 3.5 Rebounds,-172,DEN rank 2nd in REB versus SF,2nd,True,2.0
+Luguentz Dort,DEN,Over 1.5 3PTM,-198,DEN rank 26th in 3PTM versus SF,26th,True,2.0
+Jalen Williams,DEN,Over 1.5 3PTM,-152,DEN rank 28th in 3PTM versus SG,28th,False,0.0
+Jalen Williams,DEN,Over 22.5 Points,-118,DEN rank 28th in PTS versus SG,28th,False,10.0
+Alex Caruso,DEN,Over 2.5 Assists,-102,DEN rank 29th in AST versus SG,29th,False,2.0
+Alex Caruso,DEN,Over 1.5 3PTM,134,DEN rank 28th in 3PTM versus SG,28th,True,2.0
+Cason Wallace,DEN,Over 4.5 Points,-114,DEN rank 28th in PTS versus SG,28th,True,17.0
+Cason Wallace,DEN,Over 1.5 Assists,-110,DEN rank 29th in AST versus SG,29th,True,2.0
+Aaron Wiggins,DEN,Over 0.5 Assists,-118,DEN rank 29th in AST versus SG,29th,False,0.0
+Aaron Wiggins,DEN,Over 0.5 3PTM,-165,DEN rank 28th in 3PTM versus SG,28th,True,3.0
+Shai Gilgeous-Alexander,DEN,Over 7.5 Assists,-128,DEN rank 26th in AST versus PG,26th,False,6.0
+Shai Gilgeous-Alexander,DEN,Under 6.5 Rebounds,-148,DEN rank 1st in REB versus PG,1st,True,6.0
+Chet Holmgren,DEN,Under 1.5 3PTM,-140,DEN rank 2nd in 3PTM versus C,2nd,True,0.0
+Chet Holmgren,DEN,Over 1.5 Assists,-130,DEN rank 29th in AST against,29th,False,0.0
+Aaron Wiggins,DEN,Over 5.5 Points,-136,DEN rank 28th in PTS versus SG,28th,True,17.0
+Andrew Nembhard,CLE,Under 1.5 Steals,-270,CLE rank 2nd in STL versus SG,2nd,False,3.0
+Andrew Nembhard,CLE,Under 0.5 Blocks,-375,CLE rank 5th in BLK versus SG,5th,True,0.0
+Pascal Siakam,CLE,Over 5.5 Rebounds,-162,CLE rank 27th in REB versus PF,27th,True,6.0
+T.J. McConnell,CLE,Under 3.5 Rebounds,-192,CLE rank 2nd in REB versus PG,2nd,True,2.0
+Jarrett Allen,IND,Under 0.5 Blocks,145,IND rank 3rd in BLK versus C,3rd,False,1.0
+Dean Wade,IND,Over 2.5 Rebounds,-125,IND rank 26th in REB versus PF,26th,True,3.0
