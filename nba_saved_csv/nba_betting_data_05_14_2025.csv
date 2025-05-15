@@ -1,415 +1,312 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Payton Pritchard,NYK,Under 6.5 REB+AST,-136,Hit in 9 of his last 9 games,100%
-Payton Pritchard,NYK,Under 6.5 REB+AST,-136,Hit in 4 of his last 4 games vs NYK,100%
-Payton Pritchard,NYK,Under 2.5 Assists,116,Hit in 8 of his last 8 games,100%
-Payton Pritchard,NYK,Under 2.5 Assists,116,Hit in 4 of his last 4 games vs NYK,100%
-K. Porzingis,NYK,Under 20.5 PTS+REB,-112,Hit in 5 of his last 5 games,100%
-Jalen Brunson,BOS,Over 3.5 Rebounds,104,Hit in 4 of his last 5 games,80%
-K. Porzingis,NYK,Under 20.5 PTS+REB,-112,Hit in 4 of his last 4 games vs NYK,100%
-K. Porzingis,NYK,Under 5.5 Rebounds,118,Hit in 6 of his last 6 games,100%
-K. Porzingis,NYK,Under 5.5 Rebounds,118,Hit in 5 of his last 5 games vs NYK,100%
-K. Porzingis,NYK,Under 1.5 3PTM,-118,Hit in 5 of his last 5 games,100%
-K. Porzingis,NYK,Under 1.5 3PTM,-118,Hit in 4 of his last 4 games vs NYK,100%
-Payton Pritchard,NYK,Under 3.5 Rebounds,-146,Hit in 8 of his last 9 games,89%
-K. Porzingis,NYK,Under 14.5 Points,-122,Hit in 5 of his last 5 games,100%
-K. Porzingis,NYK,Under 14.5 Points,-122,Hit in 4 of his last 4 games vs NYK,100%
-K. Porzingis,NYK,Under 7.5 REB+AST,-110,Hit in 7 of his last 7 games,100%
-K. Porzingis,NYK,Under 7.5 REB+AST,-110,Hit in 5 of his last 5 games vs NYK,100%
-K. Porzingis,NYK,Under 17.5 PTS+AST,-130,Hit in 5 of his last 5 games,100%
-K. Porzingis,NYK,Under 17.5 PTS+AST,-130,Hit in 4 of his last 4 games vs NYK,100%
-K. Porzingis,NYK,Under 23.5 PTS+AST+REB,-130,Hit in 5 of his last 5 games,100%
-K. Porzingis,NYK,Under 23.5 PTS+AST+REB,-130,Hit in 4 of his last 4 games vs NYK,100%
-Jrue Holiday,NYK,Under 9.5 REB+AST,-136,Hit in 4 of his last 4 games,100%
-Jrue Holiday,NYK,Under 9.5 REB+AST,-136,Hit in 9 of his last 9 games vs NYK,100%
-Jrue Holiday,NYK,Under 0.5 Blocks,-250,Hit in 4 of his last 4 games,100%
-Jrue Holiday,NYK,Under 0.5 Blocks,-250,Hit in 5 of his last 5 games vs NYK,100%
-DJ White,NYK,Under 5.5 Assists,-125,Hit in 5 of his last 5 games,100%
-DJ White,NYK,Under 5.5 Assists,-125,Hit in 4 of his last 4 games vs NYK,100%
-DJ White,NYK,Under 1.5 Steals,-270,Hit in 6 of his last 6 games,100%
-DJ White,NYK,Under 1.5 Steals,-270,Hit in 9 of his last 9 games vs NYK,100%
-Al Horford,NYK,Under 10.5 REB+AST,-102,Hit in 7 of his last 7 games,100%
-Al Horford,NYK,Under 10.5 REB+AST,-102,Hit in 9 of his last 9 games vs NYK,100%
-Jabari Brown,NYK,Under 12.5 REB+AST,-130,Hit in 7 of his last 7 games,100%
-Jabari Brown,NYK,Under 12.5 REB+AST,-130,Hit in 16 of his last 16 games vs NYK,100%
-Jabari Brown,NYK,Under 30.5 PTS+AST,-125,Hit in 7 of his last 7 games,100%
-Jabari Brown,NYK,Under 30.5 PTS+AST,-125,Hit in 9 of his last 9 games vs NYK,100%
-Jabari Brown,NYK,Under 32.5 PTS+REB,-108,Hit in 7 of his last 7 games,100%
-Jabari Brown,NYK,Under 32.5 PTS+REB,-108,Hit in 9 of his last 9 games vs NYK,100%
-Jabari Brown,NYK,Under 37.5 PTS+AST+REB,-110,Hit in 7 of his last 7 games,100%
-Jabari Brown,NYK,Under 37.5 PTS+AST+REB,-110,Hit in 9 of his last 9 games vs NYK,100%
-Jabari Brown,NYK,Under 7.5 Rebounds,-132,Hit in 5 of his last 5 games,100%
-Jabari Brown,NYK,Under 7.5 Rebounds,-132,Hit in 5 of his last 5 games vs NYK,100%
-Jabari Brown,NYK,Under 2.5 3PTM,-220,Hit in 7 of his last 7 games,100%
-Jabari Brown,NYK,Under 2.5 3PTM,-220,Hit in 7 of his last 7 games vs NYK,100%
-Jabari Brown,NYK,Under 25.5 Points,-122,Hit in 7 of his last 7 games,100%
-Jabari Brown,NYK,Under 25.5 Points,-122,Hit in 9 of his last 9 games vs NYK,100%
-Miles McBride,BOS,Over 0.5 3PTM,-210,Hit in 5 of his last 5 games,100%
-Miles McBride,BOS,Over 0.5 3PTM,-210,Hit in 5 of his last 5 games vs BOS,100%
-Miles McBride,BOS,Over 0.5 3PTM,-210,Hit in 13 of his last 13 away games,100%
-Mikal Bridges,BOS,Over 1.5 Steals,126,Hit in 4 of his last 4 games,100%
-Mikal Bridges,BOS,Over 1.5 Steals,126,Hit in 4 of his last 4 games vs BOS,100%
-Mitchell Robinson,BOS,Over 6.5 Rebounds,-128,Hit in 4 of his last 4 games,100%
-Mitchell Robinson,BOS,Over 6.5 Rebounds,-128,Hit in 5 of his last 5 games vs BOS,100%
-Karl-Anthony Towns,BOS,Under 1.5 3PTM,-225,Hit in 5 of his last 5 games vs BOS,100%
-Karl-Anthony Towns,BOS,Under 1.5 3PTM,-225,Hit in 5 of his last 5 games,100%
-Karl-Anthony Towns,BOS,Over 0.5 Double Double,-310,Hit in 6 of his last 6 games,100%
-Karl-Anthony Towns,BOS,Over 0.5 Double Double,-310,Hit in 6 of his last 6 games vs BOS,100%
-Karl-Anthony Towns,BOS,Under 1.5 Assists,-110,Hit in 4 of his last 4 games,100%
-Karl-Anthony Towns,BOS,Under 1.5 Assists,-110,Hit in 4 of his last 4 games vs BOS,100%
-Jason Hart,BOS,Under 14.5 REB+AST,-130,Hit in 6 of his last 6 games,100%
-Jason Hart,BOS,Under 14.5 REB+AST,-130,Hit in 4 of his last 4 games vs BOS,100%
-Jason Hart,BOS,Over 16.5 PTS+AST,-122,Hit in 4 of his last 4 away games,100%
-Jason Hart,BOS,Over 20.5 PTS+REB,-120,Hit in 4 of his last 4 away games,100%
-Jason Hart,BOS,Under 5.5 Assists,-162,Hit in 5 of his last 5 games,100%
-Jason Hart,BOS,Under 5.5 Assists,-162,Hit in 4 of his last 4 games vs BOS,100%
-Jason Hart,BOS,Over 26.5 PTS+AST+REB,-102,Hit in 4 of his last 4 away games,100%
-Jason Hart,BOS,Over 11.5 Points,-110,Hit in 4 of his last 4 away games,100%
-Rudy Gobert,GSW,Under 9.5 PTS+AST,-130,Hit in 5 of his last 5 games vs GSW,100%
-Rudy Gobert,GSW,Under 9.5 PTS+AST,-130,Hit in 4 of his last 4 games,100%
-Naz Reid,GSW,Over 10.5 Points,-106,Hit in 5 of his last 5 home games,100%
-Naz Reid,GSW,Over 16.5 PTS+AST+REB,-130,Hit in 5 of his last 5 home games,100%
-Naz Reid,GSW,Over 1.5 3PTM,-132,Hit in 4 of his last 4 home games,100%
-Anthony Edwards,GSW,Over 11.5 REB+AST,100,Hit in 4 of his last 4 home games,100%
-Anthony Edwards,GSW,Over 6.5 Rebounds,-112,Hit in 4 of his last 4 home games,100%
-Anthony Edwards,GSW,Over 0.5 Blocks,-120,Hit in 7 of his last 7 home games,100%
-Jaden McDaniels,GSW,Over 0.5 Blocks,-225,Hit in 4 of his last 4 games,100%
-Jaden McDaniels,GSW,Over 0.5 Blocks,-225,Hit in 5 of his last 5 games vs GSW,100%
-Brandin Podziemski,MIN,Under 1.5 3PTM,-114,Hit in 5 of his last 5 games,100%
-Brandin Podziemski,MIN,Under 1.5 3PTM,-114,Hit in 4 of his last 4 games vs MIN,100%
-Brandin Podziemski,MIN,Under 11.5 Points,-130,Hit in 7 of his last 7 games,100%
-Brandin Podziemski,MIN,Under 11.5 Points,-130,Hit in 4 of his last 4 games vs MIN,100%
-Brandin Podziemski,MIN,Under 0.5 Blocks,-375,Hit in 4 of his last 4 games,100%
-Brandin Podziemski,MIN,Under 0.5 Blocks,-375,Hit in 10 of his last 10 games vs MIN,100%
-Kevon Looney,MIN,Under 0.5 Assists,-110,Hit in 9 of his last 9 games,100%
-Kevon Looney,MIN,Under 0.5 Assists,-110,Hit in 4 of his last 4 games vs MIN,100%
-Donte DiVincenzo,GSW,Over 0.5 Steals,-245,Hit in 4 of his last 4 home games,100%
-Jonathan Kuminga,MIN,Under 24.5 PTS+AST+REB,-122,Hit in 11 of his last 12 games,92%
-Jalen Brunson,BOS,Over 6.5 Assists,-118,Hit in 9 of his last 10 games,90%
-Donte DiVincenzo,GSW,Over 1.5 3PTM,-180,Hit in 18 of his last 20 home games,90%
-Nickeil Alexander-Walker,GSW,Over 1.5 Rebounds,-175,Hit in 18 of his last 20 home games,90%
-Trayce Jackson-Davis,MIN,Under 4.5 Rebounds,-144,Hit in 18 of his last 20 games,90%
-Trayce Jackson-Davis,MIN,Under 5.5 REB+AST,-118,Hit in 18 of his last 20 games,90%
-Trayce Jackson-Davis,MIN,Under 10.5 PTS+AST+REB,-105,Hit in 9 of his last 10 games,90%
-Jonathan Kuminga,MIN,Under 6.5 REB+AST,-152,Hit in 9 of his last 10 games,90%
-Jonathan Kuminga,MIN,Under 1.5 3PTM,-245,Hit in 18 of his last 20 games,90%
-Jonathan Kuminga,MIN,Under 18.5 Points,-136,Hit in 18 of his last 20 games,90%
-Trayce Jackson-Davis,MIN,Under 9.5 PTS+REB,-108,Hit in 9 of his last 10 games,90%
-Donte DiVincenzo,GSW,Over 0.5 Steals,-245,Hit in 9 of his last 10 games vs GSW,90%
-Mikal Bridges,BOS,Over 2.5 Assists,-172,Hit in 17 of his last 19 away games,89%
-Al Horford,NYK,Under 17.5 PTS+REB,-130,Hit in 8 of his last 9 games vs NYK,89%
-Al Horford,NYK,Under 20.5 PTS+AST+REB,-132,Hit in 8 of his last 9 games,89%
-Al Horford,NYK,Under 20.5 PTS+AST+REB,-132,Hit in 8 of his last 9 games vs NYK,89%
-Al Horford,NYK,Under 9.5 Points,-138,Hit in 8 of his last 9 games,89%
-OG Anunoby,BOS,Over 1.5 3PTM,-188,Hit in 16 of his last 18 away games,89%
-Jason Hart,BOS,Under 1.5 3PTM,-235,Hit in 8 of his last 9 games vs BOS,89%
-Julius Randle,GSW,Under 7.5 Rebounds,-154,Hit in 8 of his last 9 games,89%
-Nickeil Alexander-Walker,GSW,Over 0.5 3PTM,-190,Hit in 8 of his last 9 home games,89%
-Kevon Looney,MIN,Under 11.5 PTS+AST+REB,-135,Hit in 8 of his last 9 games,89%
-Kevon Looney,MIN,Under 4.5 Points,-185,Hit in 8 of his last 9 games,89%
-Miles McBride,BOS,Over 0.5 Assists,-220,Hit in 15 of his last 17 away games,88%
-Payton Pritchard,NYK,Under 17.5 PTS+AST,-118,Hit in 7 of his last 8 games,88%
-Payton Pritchard,NYK,Under 17.5 PTS+REB,-104,Hit in 7 of his last 8 games,88%
-Payton Pritchard,NYK,Under 20.5 PTS+AST+REB,-106,Hit in 7 of his last 8 games,88%
-Payton Pritchard,NYK,Under 14.5 Points,-122,Hit in 7 of his last 8 games,88%
-K. Porzingis,NYK,Under 1.5 Assists,-115,Hit in 7 of his last 8 games,88%
-Jrue Holiday,NYK,Under 4.5 Assists,-136,Hit in 7 of his last 8 games vs NYK,88%
-Jrue Holiday,NYK,Under 4.5 Rebounds,102,Hit in 7 of his last 8 games,88%
-Jabari Brown,NYK,Under 0.5 Blocks,-275,Hit in 14 of his last 16 games,88%
-Miles McBride,BOS,Under 7.5 PTS+AST+REB,-130,Hit in 7 of his last 8 games,88%
-Julius Randle,GSW,Over 21.5 Points,-130,Hit in 7 of his last 8 games,88%
-Brandin Podziemski,MIN,Under 14.5 PTS+AST,-132,Hit in 7 of his last 8 games vs MIN,88%
-Jason Hart,BOS,Under 0.5 Blocks,-160,Hit in 13 of his last 15 games vs BOS,87%
-Trayce Jackson-Davis,MIN,Under 0.5 Blocks,-125,Hit in 13 of his last 15 games,87%
-K. Porzingis,NYK,Under 1.5 Blocks,-200,Hit in 6 of his last 7 games,86%
-Jrue Holiday,NYK,Under 15.5 PTS+REB,-106,Hit in 6 of his last 7 games,86%
-Jrue Holiday,NYK,Under 4.5 Rebounds,102,Hit in 6 of his last 7 games vs NYK,86%
-Jrue Holiday,NYK,Under 11.5 Points,-138,Hit in 6 of his last 7 games,86%
-Al Horford,NYK,Under 17.5 PTS+REB,-130,Hit in 6 of his last 7 games,86%
-Al Horford,NYK,Under 7.5 Rebounds,104,Hit in 6 of his last 7 games,86%
-Al Horford,NYK,Under 1.5 Blocks,-220,Hit in 6 of his last 7 games vs NYK,86%
-Mikal Bridges,BOS,Under 14.5 Points,-122,Hit in 6 of his last 7 games vs BOS,86%
-Jalen Brunson,BOS,Over 2.5 3PTM,-125,Hit in 6 of his last 7 games vs BOS,86%
-OG Anunoby,BOS,Under 15.5 Points,-136,Hit in 12 of his last 14 games vs BOS,86%
-Donte DiVincenzo,GSW,Over 2.5 Rebounds,-162,Hit in 6 of his last 7 home games,86%
-Anthony Edwards,GSW,Under 39.5 PTS+AST+REB,-128,Hit in 6 of his last 7 games vs GSW,86%
-Julius Randle,GSW,Under 0.5 Blocks,-300,Hit in 6 of his last 7 games,86%
-Jaden McDaniels,GSW,Under 18.5 PTS+REB,-128,Hit in 12 of his last 14 games vs GSW,86%
-Buddy Hield,MIN,Under 1.5 Steals,-245,Hit in 6 of his last 7 games,86%
-Brandin Podziemski,MIN,Under 14.5 PTS+AST,-132,Hit in 6 of his last 7 games,86%
-Jonathan Kuminga,MIN,Under 24.5 PTS+AST+REB,-122,Hit in 12 of his last 14 games vs MIN,86%
-Jonathan Kuminga,MIN,Under 1.5 3PTM,-245,Hit in 12 of his last 14 games vs MIN,86%
-Donte DiVincenzo,GSW,Over 0.5 Steals,-245,Hit in 6 of his last 7 games,86%
-Donte DiVincenzo,GSW,Over 11.5 PTS+AST,-118,Hit in 17 of his last 20 home games,85%
-Donte DiVincenzo,GSW,Over 11.5 PTS+REB,-120,Hit in 17 of his last 20 home games,85%
-Donte DiVincenzo,GSW,Over 14.5 PTS+AST+REB,-122,Hit in 17 of his last 20 home games,85%
-Jaden McDaniels,GSW,Under 1.5 Steals,-220,Hit in 17 of his last 20 games,85%
-Nickeil Alexander-Walker,GSW,Over 1.5 Assists,-125,Hit in 17 of his last 20 games,85%
-Nickeil Alexander-Walker,GSW,Over 1.5 Assists,-125,Hit in 17 of his last 20 home games,85%
-Jonathan Kuminga,MIN,Under 19.5 PTS+AST,-110,Hit in 17 of his last 20 games,85%
-Jonathan Kuminga,MIN,Under 6.5 REB+AST,-152,Hit in 11 of his last 13 games vs MIN,85%
-Nickeil Alexander-Walker,GSW,Over 9.5 PTS+AST+REB,-110,Hit in 16 of his last 19 home games,84%
-Payton Pritchard,NYK,Under 17.5 PTS+AST,-118,Hit in 5 of his last 6 games vs NYK,83%
-Payton Pritchard,NYK,Under 17.5 PTS+REB,-104,Hit in 5 of his last 6 games vs NYK,83%
-Payton Pritchard,NYK,Under 20.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games vs NYK,83%
-Payton Pritchard,NYK,Under 14.5 Points,-122,Hit in 5 of his last 6 games vs NYK,83%
-Al Horford,NYK,Under 11.5 PTS+AST,-102,Hit in 5 of his last 6 games vs NYK,83%
-Al Horford,NYK,Under 2.5 Assists,104,Hit in 10 of his last 12 games vs NYK,83%
-Al Horford,NYK,Under 1.5 3PTM,110,Hit in 5 of his last 6 games,83%
-Al Horford,NYK,Under 1.5 3PTM,110,Hit in 5 of his last 6 games vs NYK,83%
-Al Horford,NYK,Under 9.5 Points,-138,Hit in 5 of his last 6 games vs NYK,83%
-Jabari Brown,NYK,Under 0.5 Blocks,-275,Hit in 5 of his last 6 games vs NYK,83%
-Karl-Anthony Towns,BOS,Over 31.5 PTS+REB,-112,Hit in 5 of his last 6 games vs BOS,83%
-Karl-Anthony Towns,BOS,Over 33.5 PTS+AST+REB,-112,Hit in 5 of his last 6 games vs BOS,83%
-Karl-Anthony Towns,BOS,Over 12.5 Rebounds,106,Hit in 5 of his last 6 games vs BOS,83%
-Karl-Anthony Towns,BOS,Over 19.5 Points,-102,Hit in 5 of his last 6 games vs BOS,83%
-Jason Hart,BOS,Under 1.5 3PTM,-235,Hit in 5 of his last 6 games,83%
-Rudy Gobert,GSW,Under 0.5 Assists,-110,Hit in 5 of his last 6 games,83%
-Naz Reid,GSW,Over 1.5 3PTM,-132,Hit in 5 of his last 6 games vs GSW,83%
-Donte DiVincenzo,GSW,Over 5.5 REB+AST,-140,Hit in 5 of his last 6 games vs GSW,83%
-Donte DiVincenzo,GSW,Over 2.5 Assists,-146,Hit in 5 of his last 6 games vs GSW,83%
-Donte DiVincenzo,GSW,Over 2.5 Rebounds,-162,Hit in 5 of his last 6 games vs GSW,83%
-Anthony Edwards,GSW,Over 4.5 Assists,-114,Hit in 5 of his last 6 home games,83%
-Julius Randle,GSW,Under 7.5 Rebounds,-154,Hit in 5 of his last 6 games vs GSW,83%
-Julius Randle,GSW,Under 1.5 3PTM,110,Hit in 5 of his last 6 games vs GSW,83%
-Julius Randle,GSW,Under 0.5 Blocks,-300,Hit in 5 of his last 6 games vs GSW,83%
-Mike Conley,GSW,Under 7.5 Points,-130,Hit in 5 of his last 6 games vs GSW,83%
-Jaden McDaniels,GSW,Under 1.5 Steals,-220,Hit in 10 of his last 12 games vs GSW,83%
-Danny Green,MIN,Over 13.5 PTS+AST,-132,Hit in 5 of his last 6 games,83%
-Jackie Butler,MIN,Under 32.5 PTS+REB,-108,Hit in 15 of his last 18 games,83%
-Jackie Butler,MIN,Over 6.5 Rebounds,-112,Hit in 5 of his last 6 games,83%
-Jackie Butler,MIN,Under 1.5 Steals,-132,Hit in 5 of his last 6 games,83%
-Donte DiVincenzo,GSW,Over 2.5 Assists,-146,Hit in 14 of his last 17 home games,82%
-Nickeil Alexander-Walker,GSW,Over 5.5 Points,-110,Hit in 14 of his last 17 home games,82%
-Donte DiVincenzo,GSW,Over 2.5 Rebounds,-162,Hit in 9 of his last 11 games,82%
-Buddy Hield,MIN,Under 2.5 Assists,-200,Hit in 9 of his last 11 games vs MIN,82%
-Buddy Hield,MIN,Under 0.5 Blocks,-225,Hit in 9 of his last 11 games vs MIN,82%
-Kevon Looney,MIN,Under 5.5 Rebounds,105,Hit in 13 of his last 16 games,81%
-Payton Pritchard,NYK,Under 2.5 3PTM,110,Hit in 12 of his last 15 games vs NYK,80%
-K. Porzingis,NYK,Under 1.5 Blocks,-200,Hit in 4 of his last 5 games vs NYK,80%
-Al Horford,NYK,Under 7.5 Rebounds,104,Hit in 4 of his last 5 games vs NYK,80%
-Al Horford,NYK,Under 1.5 Blocks,-220,Hit in 4 of his last 5 games,80%
-Luke Kornet,NYK,Under 9.5 PTS+REB,-118,Hit in 4 of his last 5 games vs NYK,80%
-Miles McBride,BOS,Over 0.5 Assists,-220,Hit in 8 of his last 10 games vs BOS,80%
-Mikal Bridges,BOS,Over 7.5 REB+AST,-102,Hit in 4 of his last 5 games vs BOS,80%
-Mikal Bridges,BOS,Over 2.5 Assists,-172,Hit in 4 of his last 5 games,80%
-Mikal Bridges,BOS,Over 2.5 Assists,-172,Hit in 4 of his last 5 games vs BOS,80%
-Mikal Bridges,BOS,Over 4.5 Rebounds,102,Hit in 4 of his last 5 away games,80%
-Mikal Bridges,BOS,Over 1.5 3PTM,-104,Hit in 4 of his last 5 away games,80%
-Mikal Bridges,BOS,Over 1.5 Steals,126,Hit in 4 of his last 5 away games,80%
-Mikal Bridges,BOS,Over 0.5 Blocks,-110,Hit in 4 of his last 5 away games,80%
-Jalen Brunson,BOS,Over 33.5 PTS+AST,-125,Hit in 8 of his last 10 games,80%
-Jalen Brunson,BOS,Over 33.5 PTS+AST,-125,Hit in 4 of his last 5 games vs BOS,80%
-Jalen Brunson,BOS,Over 33.5 PTS+AST,-125,Hit in 4 of his last 5 away games,80%
-Jalen Brunson,BOS,Over 30.5 PTS+REB,-114,Hit in 8 of his last 10 games,80%
-Jalen Brunson,BOS,Over 30.5 PTS+REB,-114,Hit in 4 of his last 5 away games,80%
-Jalen Brunson,BOS,Over 6.5 Assists,-118,Hit in 4 of his last 5 games vs BOS,80%
-Jalen Brunson,BOS,Over 6.5 Assists,-118,Hit in 4 of his last 5 away games,80%
-Jalen Brunson,BOS,Over 37.5 PTS+AST+REB,-114,Hit in 8 of his last 10 games,80%
-Jalen Brunson,BOS,Over 37.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games vs BOS,80%
-Jalen Brunson,BOS,Over 37.5 PTS+AST+REB,-114,Hit in 4 of his last 5 away games,80%
-Jalen Brunson,BOS,Over 3.5 Rebounds,104,Hit in 4 of his last 5 away games,80%
-Jalen Brunson,BOS,Over 2.5 3PTM,-125,Hit in 4 of his last 5 games,80%
-Jalen Brunson,BOS,Over 27.5 Points,-106,Hit in 4 of his last 5 away games,80%
-OG Anunoby,BOS,Under 6.5 REB+AST,-120,Hit in 4 of his last 5 games,80%
-OG Anunoby,BOS,Over 21.5 PTS+AST+REB,-120,Hit in 16 of his last 20 games,80%
-Karl-Anthony Towns,BOS,Over 21.5 PTS+AST,-102,Hit in 12 of his last 15 away games,80%
-Karl-Anthony Towns,BOS,Over 12.5 Rebounds,106,Hit in 4 of his last 5 games,80%
-Karl-Anthony Towns,BOS,Over 19.5 Points,-102,Hit in 12 of his last 15 away games,80%
-Jason Hart,BOS,Over 9.5 Rebounds,102,Hit in 4 of his last 5 away games,80%
-Jason Hart,BOS,Under 1.5 Steals,-220,Hit in 4 of his last 5 games,80%
-Miles McBride,BOS,Under 1.5 Rebounds,-225,Hit in 8 of his last 10 games,80%
-Naz Reid,GSW,Under 14.5 PTS+REB,-104,Hit in 4 of his last 5 games,80%
-Naz Reid,GSW,Over 4.5 Rebounds,-104,Hit in 16 of his last 20 home games,80%
-Naz Reid,GSW,Over 1.5 Assists,-118,Hit in 16 of his last 20 home games,80%
-Donte DiVincenzo,GSW,Over 5.5 REB+AST,-140,Hit in 4 of his last 5 games,80%
-Donte DiVincenzo,GSW,Over 5.5 REB+AST,-140,Hit in 16 of his last 20 home games,80%
-Donte DiVincenzo,GSW,Over 2.5 Assists,-146,Hit in 4 of his last 5 games,80%
-Donte DiVincenzo,GSW,Over 8.5 Points,-114,Hit in 16 of his last 20 home games,80%
-Anthony Edwards,GSW,Over 34.5 PTS+REB,-110,Hit in 4 of his last 5 home games,80%
-Anthony Edwards,GSW,Under 39.5 PTS+AST+REB,-128,Hit in 4 of his last 5 games,80%
-Anthony Edwards,GSW,Over 1.5 Steals,138,Hit in 4 of his last 5 games,80%
-Anthony Edwards,GSW,Over 1.5 Steals,138,Hit in 4 of his last 5 home games,80%
-Anthony Edwards,GSW,Over 0.5 Blocks,-120,Hit in 4 of his last 5 games vs GSW,80%
-Julius Randle,GSW,Under 1.5 3PTM,110,Hit in 4 of his last 5 games,80%
-Jaden McDaniels,GSW,Under 1.5 3PTM,-260,Hit in 4 of his last 5 games,80%
-Jaden McDaniels,GSW,Under 1.5 Assists,-205,Hit in 4 of his last 5 games,80%
-Nickeil Alexander-Walker,GSW,Over 1.5 Rebounds,-175,Hit in 16 of his last 20 games,80%
-Nickeil Alexander-Walker,GSW,Over 0.5 3PTM,-190,Hit in 12 of his last 15 games vs GSW,80%
-Buddy Hield,MIN,Under 5.5 REB+AST,120,Hit in 16 of his last 20 games,80%
-Buddy Hield,MIN,Over 15.5 PTS+AST,-106,Hit in 4 of his last 5 games,80%
-Buddy Hield,MIN,Over 15.5 PTS+AST,-106,Hit in 4 of his last 5 games vs MIN,80%
-Buddy Hield,MIN,Over 17.5 PTS+REB,-102,Hit in 4 of his last 5 games,80%
-Buddy Hield,MIN,Over 17.5 PTS+REB,-102,Hit in 4 of his last 5 games vs MIN,80%
-Buddy Hield,MIN,Under 2.5 Assists,-200,Hit in 16 of his last 20 games,80%
-Buddy Hield,MIN,Over 3.5 3PTM,130,Hit in 4 of his last 5 games,80%
-Buddy Hield,MIN,Over 13.5 Points,-102,Hit in 4 of his last 5 games,80%
-Buddy Hield,MIN,Over 13.5 Points,-102,Hit in 4 of his last 5 games vs MIN,80%
-Brandin Podziemski,MIN,Over 7.5 REB+AST,-148,Hit in 4 of his last 5 games vs MIN,80%
-Brandin Podziemski,MIN,Under 16.5 PTS+REB,-118,Hit in 4 of his last 5 games,80%
-Brandin Podziemski,MIN,Under 19.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games,80%
-Brandin Podziemski,MIN,Over 5.5 Rebounds,118,Hit in 4 of his last 5 games vs MIN,80%
-Danny Green,MIN,Under 11.5 REB+AST,-132,Hit in 4 of his last 5 games,80%
-Danny Green,MIN,Over 8.5 Points,-125,Hit in 4 of his last 5 games,80%
-Trayce Jackson-Davis,MIN,Under 5.5 Points,-125,Hit in 16 of his last 20 games,80%
-Trayce Jackson-Davis,MIN,Under 6.5 PTS+AST,-125,Hit in 16 of his last 20 games,80%
-Jonathan Kuminga,MIN,Under 1.5 Assists,-102,Hit in 4 of his last 5 games,80%
-Kevon Looney,MIN,Under 4.5 Points,-185,Hit in 4 of his last 5 games vs MIN,80%
-Jackie Butler,MIN,Under 32.5 PTS+AST,-112,Hit in 4 of his last 5 games,80%
-Jackie Butler,MIN,Under 32.5 PTS+AST,-112,Hit in 4 of his last 5 games vs MIN,80%
-Jackie Butler,MIN,Under 32.5 PTS+REB,-108,Hit in 4 of his last 5 games vs MIN,80%
-Jackie Butler,MIN,Under 39.5 PTS+AST+REB,-118,Hit in 16 of his last 20 games,80%
-Jackie Butler,MIN,Under 39.5 PTS+AST+REB,-118,Hit in 4 of his last 5 games vs MIN,80%
-Jackie Butler,MIN,Over 1.5 3PTM,164,Hit in 4 of his last 5 games,80%
-Jackie Butler,MIN,Under 26.5 Points,-128,Hit in 4 of his last 5 games,80%
-Jackie Butler,MIN,Under 26.5 Points,-128,Hit in 4 of his last 5 games vs MIN,80%
-Jackie Butler,MIN,Under 1.5 Steals,-132,Hit in 4 of his last 5 games vs MIN,80%
-Jackie Butler,MIN,Under 0.5 Blocks,-275,Hit in 4 of his last 5 games,80%
-Jackie Butler,MIN,Under 0.5 Blocks,-275,Hit in 4 of his last 5 games vs MIN,80%
-Luke Kornet,NYK,Under 4.5 Rebounds,-136,Hit in 11 of his last 14 games vs NYK,79%
-OG Anunoby,BOS,Under 6.5 REB+AST,-120,Hit in 11 of his last 14 games vs BOS,79%
-Jason Hart,BOS,Under 1.5 Steals,-220,Hit in 11 of his last 14 games vs BOS,79%
-Naz Reid,GSW,Over 16.5 PTS+AST+REB,-130,Hit in 11 of his last 14 games vs GSW,79%
-Jonathan Kuminga,MIN,Under 19.5 PTS+AST,-110,Hit in 11 of his last 14 games vs MIN,79%
-Jonathan Kuminga,MIN,Under 18.5 Points,-136,Hit in 11 of his last 14 games vs MIN,79%
-Jaden McDaniels,GSW,Under 19.5 PTS+AST+REB,-114,Hit in 11 of his last 14 games vs GSW,79%
-Al Horford,NYK,Under 11.5 PTS+AST,-102,Hit in 7 of his last 9 games,78%
-Mikal Bridges,BOS,Under 18.5 PTS+REB,-110,Hit in 7 of his last 9 games vs BOS,78%
-Mikal Bridges,BOS,Over 4.5 Rebounds,102,Hit in 7 of his last 9 games,78%
-OG Anunoby,BOS,Over 16.5 PTS+AST,-118,Hit in 7 of his last 9 away games,78%
-OG Anunoby,BOS,Over 19.5 PTS+REB,-130,Hit in 7 of his last 9 away games,78%
-OG Anunoby,BOS,Over 21.5 PTS+AST+REB,-120,Hit in 7 of his last 9 away games,78%
-Anthony Edwards,GSW,Over 3.5 3PTM,-130,Hit in 7 of his last 9 games vs GSW,78%
-Julius Randle,GSW,Under 13.5 REB+AST,-138,Hit in 7 of his last 9 games,78%
-Brandin Podziemski,MIN,Over 2.5 Assists,-138,Hit in 7 of his last 9 away games,78%
-Jaden McDaniels,GSW,Under 5.5 Rebounds,-102,Hit in 10 of his last 13 games vs GSW,77%
-Jaden McDaniels,GSW,Over 0.5 Blocks,-225,Hit in 10 of his last 13 home games,77%
-Buddy Hield,MIN,Under 0.5 Blocks,-225,Hit in 10 of his last 13 games,77%
-DJ White,NYK,Under 10.5 REB+AST,108,Hit in 13 of his last 17 games vs NYK,76%
-Payton Pritchard,NYK,Under 3.5 Rebounds,-146,Hit in 3 of his last 4 games vs NYK,75%
-K. Porzingis,NYK,Under 1.5 Assists,-115,Hit in 3 of his last 4 games vs NYK,75%
-Jrue Holiday,NYK,Under 4.5 Assists,-136,Hit in 3 of his last 4 games,75%
-DJ White,NYK,Over 23.5 PTS+REB,-122,Hit in 3 of his last 4 games,75%
-DJ White,NYK,Over 23.5 PTS+REB,-122,Hit in 3 of his last 4 games vs NYK,75%
-DJ White,NYK,Over 5.5 Rebounds,102,Hit in 3 of his last 4 home games,75%
-DJ White,NYK,Under 3.5 3PTM,110,Hit in 6 of his last 8 games,75%
-DJ White,NYK,Over 18.5 Points,-106,Hit in 3 of his last 4 games,75%
-DJ White,NYK,Over 18.5 Points,-106,Hit in 3 of his last 4 games vs NYK,75%
-DJ White,NYK,Over 0.5 Blocks,-210,Hit in 3 of his last 4 games,75%
-DJ White,NYK,Over 0.5 Blocks,-210,Hit in 3 of his last 4 games vs NYK,75%
-Al Horford,NYK,Under 2.5 Assists,104,Hit in 3 of his last 4 games,75%
-Luke Kornet,NYK,Under 9.5 PTS+REB,-118,Hit in 3 of his last 4 games,75%
-Miles McBride,BOS,Under 5.5 Points,-130,Hit in 6 of his last 8 games,75%
-Miles McBride,BOS,Over 0.5 Assists,-220,Hit in 15 of his last 20 games,75%
-Mikal Bridges,BOS,Over 7.5 REB+AST,-102,Hit in 3 of his last 4 games,75%
-Mikal Bridges,BOS,Over 7.5 REB+AST,-102,Hit in 12 of his last 16 away games,75%
-Mikal Bridges,BOS,Over 17.5 PTS+AST,-110,Hit in 12 of his last 16 away games,75%
-Mikal Bridges,BOS,Over 21.5 PTS+AST+REB,-125,Hit in 12 of his last 16 away games,75%
-Mikal Bridges,BOS,Over 4.5 Rebounds,102,Hit in 3 of his last 4 games vs BOS,75%
-Mikal Bridges,BOS,Under 14.5 Points,-122,Hit in 3 of his last 4 games,75%
-Mikal Bridges,BOS,Over 0.5 Blocks,-110,Hit in 6 of his last 8 games,75%
-Jalen Brunson,BOS,Over 30.5 PTS+REB,-114,Hit in 3 of his last 4 games vs BOS,75%
-Jalen Brunson,BOS,Over 3.5 Rebounds,104,Hit in 3 of his last 4 games vs BOS,75%
-Jalen Brunson,BOS,Over 2.5 3PTM,-125,Hit in 3 of his last 4 away games,75%
-OG Anunoby,BOS,Over 16.5 PTS+AST,-118,Hit in 15 of his last 20 games,75%
-OG Anunoby,BOS,Over 19.5 PTS+REB,-130,Hit in 15 of his last 20 games,75%
-OG Anunoby,BOS,Under 4.5 Rebounds,104,Hit in 3 of his last 4 games vs BOS,75%
-OG Anunoby,BOS,Under 4.5 Rebounds,104,Hit in 3 of his last 4 games,75%
-OG Anunoby,BOS,Over 1.5 3PTM,-188,Hit in 15 of his last 20 games,75%
-OG Anunoby,BOS,Under 1.5 Steals,-200,Hit in 3 of his last 4 games,75%
-OG Anunoby,BOS,Under 1.5 Steals,-200,Hit in 6 of his last 8 games vs BOS,75%
-OG Anunoby,BOS,Under 1.5 Assists,-120,Hit in 6 of his last 8 games,75%
-OG Anunoby,BOS,Under 0.5 Blocks,-135,Hit in 3 of his last 4 games,75%
-OG Anunoby,BOS,Under 0.5 Blocks,-135,Hit in 3 of his last 4 games vs BOS,75%
-Karl-Anthony Towns,BOS,Over 31.5 PTS+REB,-112,Hit in 9 of his last 12 away games,75%
-Karl-Anthony Towns,BOS,Over 33.5 PTS+AST+REB,-112,Hit in 9 of his last 12 away games,75%
-Rudy Gobert,GSW,Over 18.5 PTS+REB,-122,Hit in 15 of his last 20 home games,75%
-Rudy Gobert,GSW,Over 8.5 Points,-118,Hit in 15 of his last 20 home games,75%
-Rudy Gobert,GSW,Over 10.5 REB+AST,-125,Hit in 9 of his last 12 games vs GSW,75%
-Rudy Gobert,GSW,Under 0.5 Assists,-110,Hit in 3 of his last 4 games vs GSW,75%
-Rudy Gobert,GSW,Over 19.5 PTS+AST+REB,-115,Hit in 15 of his last 20 home games,75%
-Naz Reid,GSW,Over 1.5 3PTM,-132,Hit in 3 of his last 4 games,75%
-Anthony Edwards,GSW,Over 1.5 Steals,138,Hit in 3 of his last 4 games vs GSW,75%
-Anthony Edwards,GSW,Over 0.5 Blocks,-120,Hit in 3 of his last 4 games,75%
-Julius Randle,GSW,Over 5.5 Assists,-144,Hit in 3 of his last 4 games,75%
-Julius Randle,GSW,Over 5.5 Assists,-144,Hit in 3 of his last 4 games vs GSW,75%
-Julius Randle,GSW,Over 21.5 Points,-130,Hit in 3 of his last 4 home games,75%
-Mike Conley,GSW,Over 3.5 Assists,-132,Hit in 3 of his last 4 games,75%
-Mike Conley,GSW,Over 3.5 Assists,-132,Hit in 3 of his last 4 games vs GSW,75%
-Mike Conley,GSW,Under 7.5 Points,-130,Hit in 3 of his last 4 games,75%
-Jaden McDaniels,GSW,Under 1.5 3PTM,-260,Hit in 3 of his last 4 games vs GSW,75%
-Jaden McDaniels,GSW,Over 12.5 Points,-108,Hit in 3 of his last 4 home games,75%
-Jaden McDaniels,GSW,Over 13.5 PTS+AST,-118,Hit in 3 of his last 4 home games,75%
-Jaden McDaniels,GSW,Under 1.5 Assists,-205,Hit in 3 of his last 4 games vs GSW,75%
-Nickeil Alexander-Walker,GSW,Over 0.5 3PTM,-190,Hit in 15 of his last 20 games,75%
-Buddy Hield,MIN,Over 3.5 Rebounds,-152,Hit in 3 of his last 4 games vs MIN,75%
-Buddy Hield,MIN,Over 3.5 Rebounds,-152,Hit in 3 of his last 4 games,75%
-Buddy Hield,MIN,Over 3.5 3PTM,130,Hit in 3 of his last 4 games vs MIN,75%
-Buddy Hield,MIN,Under 1.5 Steals,-245,Hit in 3 of his last 4 games vs MIN,75%
-Brandin Podziemski,MIN,Over 7.5 REB+AST,-148,Hit in 3 of his last 4 games,75%
-Brandin Podziemski,MIN,Under 16.5 PTS+REB,-118,Hit in 6 of his last 8 games vs MIN,75%
-Brandin Podziemski,MIN,Under 19.5 PTS+AST+REB,-120,Hit in 6 of his last 8 games vs MIN,75%
-Brandin Podziemski,MIN,Over 5.5 Rebounds,118,Hit in 3 of his last 4 games,75%
-Danny Green,MIN,Over 13.5 PTS+AST,-132,Hit in 9 of his last 12 games vs MIN,75%
-Danny Green,MIN,Under 15.5 PTS+REB,-130,Hit in 9 of his last 12 games,75%
-Danny Green,MIN,Under 20.5 PTS+AST+REB,-120,Hit in 9 of his last 12 games,75%
-Danny Green,MIN,Under 1.5 3PTM,-172,Hit in 9 of his last 12 games vs MIN,75%
-Danny Green,MIN,Over 8.5 Points,-125,Hit in 9 of his last 12 games vs MIN,75%
-Danny Green,MIN,Under 1.5 Steals,-144,Hit in 9 of his last 12 games vs MIN,75%
-Danny Green,MIN,Under 0.5 Blocks,164,Hit in 3 of his last 4 games,75%
-Danny Green,MIN,Under 0.5 Blocks,164,Hit in 3 of his last 4 games vs MIN,75%
-Trayce Jackson-Davis,MIN,Under 0.5 Assists,160,Hit in 6 of his last 8 games,75%
-Jonathan Kuminga,MIN,Under 22.5 PTS+REB,-118,Hit in 15 of his last 20 games,75%
-Jonathan Kuminga,MIN,Under 1.5 Assists,-102,Hit in 3 of his last 4 games vs MIN,75%
-Kevon Looney,MIN,Under 11.5 PTS+AST+REB,-135,Hit in 3 of his last 4 games vs MIN,75%
-Jackie Butler,MIN,Over 6.5 Rebounds,-112,Hit in 3 of his last 4 games vs MIN,75%
-Jackie Butler,MIN,Over 1.5 3PTM,164,Hit in 3 of his last 4 games vs MIN,75%
-Julius Randle,GSW,Over 0.5 Steals,-245,Hit in 6 of his last 8 games,75%
-Payton Pritchard,NYK,Under 3.5 Rebounds,-146,NYK rank 2nd in REB against,2nd
-Jrue Holiday,NYK,Under 4.5 Rebounds,102,NYK rank 2nd in REB against,2nd
-DJ White,NYK,Under 1.5 Steals,-270,NYK rank 3rd in STL against,3rd
-DJ White,NYK,Over 0.5 Blocks,-210,NYK rank 27th in BLK versus SG,27th
-Al Horford,NYK,Under 7.5 Rebounds,104,NYK rank 2nd in REB versus C,2nd
-Al Horford,NYK,Under 9.5 Points,-138,NYK rank 5th in PTS versus C,5th
-Luke Kornet,NYK,Under 4.5 Rebounds,-136,NYK rank 2nd in REB versus C,2nd
-Jabari Brown,NYK,Under 4.5 Assists,104,NYK rank 3rd in AST versus SF,3rd
-Jabari Brown,NYK,Under 7.5 Rebounds,-132,NYK rank 2nd in REB against,2nd
-Mikal Bridges,BOS,Under 14.5 Points,-122,BOS rank 4th in PTS versus SF,4th
-Jalen Brunson,BOS,Over 3.5 Rebounds,104,BOS rank 28th in REB versus PG,28th
-Jalen Brunson,BOS,Over 27.5 Points,-106,BOS rank 28th in PTS versus PG,28th
-OG Anunoby,BOS,Under 15.5 Points,-136,BOS rank 2nd in PTS against,2nd
-OG Anunoby,BOS,Under 1.5 Steals,-200,BOS rank 5th in STL versus PF,5th
-OG Anunoby,BOS,Under 1.5 Assists,-120,BOS rank 3rd in AST against,3rd
-OG Anunoby,BOS,Under 0.5 Blocks,-135,BOS rank 3rd in BLK versus PF,3rd
-Mitchell Robinson,BOS,Under 4.5 Points,-125,BOS rank 2nd in PTS versus C,2nd
-Karl-Anthony Towns,BOS,Under 1.5 3PTM,-225,BOS rank 5th in 3PTM versus C,5th
-Karl-Anthony Towns,BOS,Under 1.5 Assists,-110,BOS rank 3rd in AST versus C,3rd
-Karl-Anthony Towns,BOS,Under 0.5 Blocks,-125,BOS rank 1st in BLK versus C,1st
-Jason Hart,BOS,Under 5.5 Assists,-162,BOS rank 3rd in AST versus SG,3rd
-Jason Hart,BOS,Under 1.5 Steals,-220,BOS rank 4th in STL versus SG,4th
-Jason Hart,BOS,Under 1.5 3PTM,-235,BOS rank 2nd in 3PTM versus SG,2nd
-Jason Hart,BOS,Under 0.5 Blocks,-160,BOS rank 4th in BLK versus SG,4th
-K. Porzingis,NYK,Under 14.5 Points,-122,NYK rank 5th in PTS versus C,5th
-Luke Kornet,NYK,Under 4.5 Points,100,NYK rank 5th in PTS versus C,5th
-K. Porzingis,NYK,Under 5.5 Rebounds,118,NYK rank 2nd in REB versus C,2nd
-Rudy Gobert,GSW,Over 10.5 Rebounds,112,GSW rank 26th in REB versus C,26th
-Naz Reid,GSW,Over 4.5 Rebounds,-104,GSW rank 26th in REB versus C,26th
-Mike Conley,GSW,Under 7.5 Points,-130,GSW rank 1st in PTS versus PG,1st
-Buddy Hield,MIN,Under 2.5 Assists,-200,MIN rank 5th in AST against,5th
-Brandin Podziemski,MIN,Under 1.5 3PTM,-114,MIN rank 3rd in 3PTM against,3rd
-Brandin Podziemski,MIN,Under 11.5 Points,-130,MIN rank 5th in PTS against,5th
-Danny Green,MIN,Under 4.5 Assists,122,MIN rank 3rd in AST versus PF,3rd
-Danny Green,MIN,Under 6.5 Rebounds,-154,MIN rank 5th in REB versus PF,5th
-Danny Green,MIN,Under 1.5 3PTM,-172,MIN rank 3rd in 3PTM against,3rd
-Trayce Jackson-Davis,MIN,Under 4.5 Rebounds,-144,MIN rank 3rd in REB versus C,3rd
-Trayce Jackson-Davis,MIN,Under 5.5 Points,-125,MIN rank 4th in PTS versus C,4th
-Trayce Jackson-Davis,MIN,Under 0.5 Assists,160,MIN rank 5th in AST against,5th
-Jonathan Kuminga,MIN,Under 1.5 Assists,-102,MIN rank 3rd in AST versus PF,3rd
-Jonathan Kuminga,MIN,Under 4.5 Rebounds,-136,MIN rank 5th in REB versus PF,5th
-Jonathan Kuminga,MIN,Under 1.5 3PTM,-245,MIN rank 3rd in 3PTM against,3rd
-Jonathan Kuminga,MIN,Under 18.5 Points,-136,MIN rank 5th in PTS against,5th
-Kevon Looney,MIN,Under 0.5 Assists,-110,MIN rank 5th in AST against,5th
-Kevon Looney,MIN,Under 5.5 Rebounds,105,MIN rank 3rd in REB versus C,3rd
-Kevon Looney,MIN,Under 4.5 Points,-185,MIN rank 4th in PTS versus C,4th
-Jackie Butler,MIN,Under 6.5 Assists,-144,MIN rank 4th in AST versus SF,4th
-Mike Conley,GSW,Under 1.5 3PTM,-162,GSW rank 2nd in 3PTM versus PG,2nd
-Jackie Butler,MIN,Under 26.5 Points,-128,MIN rank 5th in PTS against,5th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Payton Pritchard,NYK,Under 6.5 REB+AST,-136,Hit in 9 of his last 9 games,100%,False,8.0
+Payton Pritchard,NYK,Under 6.5 REB+AST,-136,Hit in 4 of his last 4 games vs NYK,100%,False,8.0
+Payton Pritchard,NYK,Under 2.5 Assists,116,Hit in 8 of his last 8 games,100%,False,3.0
+Payton Pritchard,NYK,Under 2.5 Assists,116,Hit in 4 of his last 4 games vs NYK,100%,False,3.0
+Jalen Brunson,BOS,Over 3.5 Rebounds,104,Hit in 4 of his last 5 games,80%,False,1.0
+Payton Pritchard,NYK,Under 3.5 Rebounds,-146,Hit in 8 of his last 9 games,89%,False,5.0
+Jrue Holiday,NYK,Under 9.5 REB+AST,-136,Hit in 4 of his last 4 games,100%,False,10.0
+Jrue Holiday,NYK,Under 9.5 REB+AST,-136,Hit in 9 of his last 9 games vs NYK,100%,False,10.0
+Jrue Holiday,NYK,Under 0.5 Blocks,-250,Hit in 4 of his last 4 games,100%,True,0.0
+Jrue Holiday,NYK,Under 0.5 Blocks,-250,Hit in 5 of his last 5 games vs NYK,100%,True,0.0
+Al Horford,NYK,Under 10.5 REB+AST,-102,Hit in 7 of his last 7 games,100%,True,7.0
+Al Horford,NYK,Under 10.5 REB+AST,-102,Hit in 9 of his last 9 games vs NYK,100%,True,7.0
+Miles McBride,BOS,Over 0.5 3PTM,-210,Hit in 5 of his last 5 games,100%,True,3.0
+Miles McBride,BOS,Over 0.5 3PTM,-210,Hit in 5 of his last 5 games vs BOS,100%,True,3.0
+Miles McBride,BOS,Over 0.5 3PTM,-210,Hit in 13 of his last 13 away games,100%,True,3.0
+Mikal Bridges,BOS,Over 1.5 Steals,126,Hit in 4 of his last 4 games,100%,False,1.0
+Mikal Bridges,BOS,Over 1.5 Steals,126,Hit in 4 of his last 4 games vs BOS,100%,False,1.0
+Mitchell Robinson,BOS,Over 6.5 Rebounds,-128,Hit in 4 of his last 4 games,100%,True,13.0
+Mitchell Robinson,BOS,Over 6.5 Rebounds,-128,Hit in 5 of his last 5 games vs BOS,100%,True,13.0
+Karl-Anthony Towns,BOS,Under 1.5 3PTM,-225,Hit in 5 of his last 5 games vs BOS,100%,True,1.0
+Karl-Anthony Towns,BOS,Under 1.5 3PTM,-225,Hit in 5 of his last 5 games,100%,True,1.0
+Karl-Anthony Towns,BOS,Over 0.5 Double Double,-310,Hit in 6 of his last 6 games,100%,False,0.0
+Karl-Anthony Towns,BOS,Over 0.5 Double Double,-310,Hit in 6 of his last 6 games vs BOS,100%,False,0.0
+Karl-Anthony Towns,BOS,Under 1.5 Assists,-110,Hit in 4 of his last 4 games,100%,True,0.0
+Karl-Anthony Towns,BOS,Under 1.5 Assists,-110,Hit in 4 of his last 4 games vs BOS,100%,True,0.0
+Rudy Gobert,GSW,Under 9.5 PTS+AST,-130,Hit in 5 of his last 5 games vs GSW,100%,False,17.0
+Rudy Gobert,GSW,Under 9.5 PTS+AST,-130,Hit in 4 of his last 4 games,100%,False,17.0
+Naz Reid,GSW,Over 10.5 Points,-106,Hit in 5 of his last 5 home games,100%,False,8.0
+Naz Reid,GSW,Over 16.5 PTS+AST+REB,-130,Hit in 5 of his last 5 home games,100%,False,9.0
+Naz Reid,GSW,Over 1.5 3PTM,-132,Hit in 4 of his last 4 home games,100%,False,0.0
+Anthony Edwards,GSW,Over 11.5 REB+AST,100,Hit in 4 of his last 4 home games,100%,True,19.0
+Anthony Edwards,GSW,Over 6.5 Rebounds,-112,Hit in 4 of his last 4 home games,100%,True,7.0
+Anthony Edwards,GSW,Over 0.5 Blocks,-120,Hit in 7 of his last 7 home games,100%,True,3.0
+Jaden McDaniels,GSW,Over 0.5 Blocks,-225,Hit in 4 of his last 4 games,100%,False,0.0
+Jaden McDaniels,GSW,Over 0.5 Blocks,-225,Hit in 5 of his last 5 games vs GSW,100%,False,0.0
+Brandin Podziemski,MIN,Under 1.5 3PTM,-114,Hit in 5 of his last 5 games,100%,False,4.0
+Brandin Podziemski,MIN,Under 1.5 3PTM,-114,Hit in 4 of his last 4 games vs MIN,100%,False,4.0
+Brandin Podziemski,MIN,Under 11.5 Points,-130,Hit in 7 of his last 7 games,100%,False,36.0
+Brandin Podziemski,MIN,Under 11.5 Points,-130,Hit in 4 of his last 4 games vs MIN,100%,False,36.0
+Brandin Podziemski,MIN,Under 0.5 Blocks,-375,Hit in 4 of his last 4 games,100%,True,0.0
+Brandin Podziemski,MIN,Under 0.5 Blocks,-375,Hit in 10 of his last 10 games vs MIN,100%,True,0.0
+Kevon Looney,MIN,Under 0.5 Assists,-110,Hit in 9 of his last 9 games,100%,False,1.0
+Kevon Looney,MIN,Under 0.5 Assists,-110,Hit in 4 of his last 4 games vs MIN,100%,False,1.0
+Donte DiVincenzo,GSW,Over 0.5 Steals,-245,Hit in 4 of his last 4 home games,100%,True,4.0
+Jonathan Kuminga,MIN,Under 24.5 PTS+AST+REB,-122,Hit in 11 of his last 12 games,92%,False,32.0
+Jalen Brunson,BOS,Over 6.5 Assists,-118,Hit in 9 of his last 10 games,90%,False,6.0
+Donte DiVincenzo,GSW,Over 1.5 3PTM,-180,Hit in 18 of his last 20 home games,90%,True,2.0
+Nickeil Alexander-Walker,GSW,Over 1.5 Rebounds,-175,Hit in 18 of his last 20 home games,90%,False,0.0
+Trayce Jackson-Davis,MIN,Under 4.5 Rebounds,-144,Hit in 18 of his last 20 games,90%,True,2.0
+Trayce Jackson-Davis,MIN,Under 5.5 REB+AST,-118,Hit in 18 of his last 20 games,90%,True,2.0
+Trayce Jackson-Davis,MIN,Under 10.5 PTS+AST+REB,-105,Hit in 9 of his last 10 games,90%,True,2.0
+Jonathan Kuminga,MIN,Under 6.5 REB+AST,-152,Hit in 9 of his last 10 games,90%,True,3.0
+Jonathan Kuminga,MIN,Under 1.5 3PTM,-245,Hit in 18 of his last 20 games,90%,False,3.0
+Jonathan Kuminga,MIN,Under 18.5 Points,-136,Hit in 18 of his last 20 games,90%,False,32.0
+Trayce Jackson-Davis,MIN,Under 9.5 PTS+REB,-108,Hit in 9 of his last 10 games,90%,True,4.0
+Donte DiVincenzo,GSW,Over 0.5 Steals,-245,Hit in 9 of his last 10 games vs GSW,90%,True,4.0
+Mikal Bridges,BOS,Over 2.5 Assists,-172,Hit in 17 of his last 19 away games,89%,True,3.0
+Al Horford,NYK,Under 17.5 PTS+REB,-130,Hit in 8 of his last 9 games vs NYK,89%,False,21.0
+Al Horford,NYK,Under 20.5 PTS+AST+REB,-132,Hit in 8 of his last 9 games,89%,True,18.0
+Al Horford,NYK,Under 20.5 PTS+AST+REB,-132,Hit in 8 of his last 9 games vs NYK,89%,True,18.0
+Al Horford,NYK,Under 9.5 Points,-138,Hit in 8 of his last 9 games,89%,False,16.0
+OG Anunoby,BOS,Over 1.5 3PTM,-188,Hit in 16 of his last 18 away games,89%,False,1.0
+Julius Randle,GSW,Under 7.5 Rebounds,-154,Hit in 8 of his last 9 games,89%,False,8.0
+Nickeil Alexander-Walker,GSW,Over 0.5 3PTM,-190,Hit in 8 of his last 9 home games,89%,False,0.0
+Kevon Looney,MIN,Under 11.5 PTS+AST+REB,-135,Hit in 8 of his last 9 games,89%,True,1.0
+Kevon Looney,MIN,Under 4.5 Points,-185,Hit in 8 of his last 9 games,89%,True,0.0
+Miles McBride,BOS,Over 0.5 Assists,-220,Hit in 15 of his last 17 away games,88%,True,3.0
+Payton Pritchard,NYK,Under 17.5 PTS+AST,-118,Hit in 7 of his last 8 games,88%,False,30.0
+Payton Pritchard,NYK,Under 17.5 PTS+REB,-104,Hit in 7 of his last 8 games,88%,False,32.0
+Payton Pritchard,NYK,Under 20.5 PTS+AST+REB,-106,Hit in 7 of his last 8 games,88%,False,30.0
+Payton Pritchard,NYK,Under 14.5 Points,-122,Hit in 7 of his last 8 games,88%,False,27.0
+Jrue Holiday,NYK,Under 4.5 Assists,-136,Hit in 7 of his last 8 games vs NYK,88%,True,3.0
+Jrue Holiday,NYK,Under 4.5 Rebounds,102,Hit in 7 of his last 8 games,88%,False,7.0
+Miles McBride,BOS,Under 7.5 PTS+AST+REB,-130,Hit in 7 of his last 8 games,88%,False,20.0
+Julius Randle,GSW,Over 21.5 Points,-130,Hit in 7 of his last 8 games,88%,True,33.0
+Brandin Podziemski,MIN,Under 14.5 PTS+AST,-132,Hit in 7 of his last 8 games vs MIN,88%,False,40.0
+Trayce Jackson-Davis,MIN,Under 0.5 Blocks,-125,Hit in 13 of his last 15 games,87%,True,0.0
+Jrue Holiday,NYK,Under 15.5 PTS+REB,-106,Hit in 6 of his last 7 games,86%,False,25.0
+Jrue Holiday,NYK,Under 4.5 Rebounds,102,Hit in 6 of his last 7 games vs NYK,86%,False,7.0
+Jrue Holiday,NYK,Under 11.5 Points,-138,Hit in 6 of his last 7 games,86%,False,18.0
+Al Horford,NYK,Under 17.5 PTS+REB,-130,Hit in 6 of his last 7 games,86%,False,21.0
+Al Horford,NYK,Under 7.5 Rebounds,104,Hit in 6 of his last 7 games,86%,True,5.0
+Al Horford,NYK,Under 1.5 Blocks,-220,Hit in 6 of his last 7 games vs NYK,86%,True,1.0
+Mikal Bridges,BOS,Under 14.5 Points,-122,Hit in 6 of his last 7 games vs BOS,86%,True,11.0
+Jalen Brunson,BOS,Over 2.5 3PTM,-125,Hit in 6 of his last 7 games vs BOS,86%,False,1.0
+OG Anunoby,BOS,Under 15.5 Points,-136,Hit in 12 of his last 14 games vs BOS,86%,True,8.0
+Donte DiVincenzo,GSW,Over 2.5 Rebounds,-162,Hit in 6 of his last 7 home games,86%,False,2.0
+Anthony Edwards,GSW,Under 39.5 PTS+AST+REB,-128,Hit in 6 of his last 7 games vs GSW,86%,False,44.0
+Julius Randle,GSW,Under 0.5 Blocks,-300,Hit in 6 of his last 7 games,86%,True,0.0
+Jaden McDaniels,GSW,Under 18.5 PTS+REB,-128,Hit in 12 of his last 14 games vs GSW,86%,True,18.0
+Buddy Hield,MIN,Under 1.5 Steals,-245,Hit in 6 of his last 7 games,86%,False,2.0
+Brandin Podziemski,MIN,Under 14.5 PTS+AST,-132,Hit in 6 of his last 7 games,86%,False,40.0
+Jonathan Kuminga,MIN,Under 24.5 PTS+AST+REB,-122,Hit in 12 of his last 14 games vs MIN,86%,False,32.0
+Jonathan Kuminga,MIN,Under 1.5 3PTM,-245,Hit in 12 of his last 14 games vs MIN,86%,False,3.0
+Donte DiVincenzo,GSW,Over 0.5 Steals,-245,Hit in 6 of his last 7 games,86%,True,4.0
+Donte DiVincenzo,GSW,Over 11.5 PTS+AST,-118,Hit in 17 of his last 20 home games,85%,True,23.0
+Donte DiVincenzo,GSW,Over 11.5 PTS+REB,-120,Hit in 17 of his last 20 home games,85%,True,19.0
+Donte DiVincenzo,GSW,Over 14.5 PTS+AST+REB,-122,Hit in 17 of his last 20 home games,85%,True,23.0
+Jaden McDaniels,GSW,Under 1.5 Steals,-220,Hit in 17 of his last 20 games,85%,False,4.0
+Nickeil Alexander-Walker,GSW,Over 1.5 Assists,-125,Hit in 17 of his last 20 games,85%,True,2.0
+Nickeil Alexander-Walker,GSW,Over 1.5 Assists,-125,Hit in 17 of his last 20 home games,85%,True,2.0
+Jonathan Kuminga,MIN,Under 19.5 PTS+AST,-110,Hit in 17 of his last 20 games,85%,False,32.0
+Jonathan Kuminga,MIN,Under 6.5 REB+AST,-152,Hit in 11 of his last 13 games vs MIN,85%,True,3.0
+Nickeil Alexander-Walker,GSW,Over 9.5 PTS+AST+REB,-110,Hit in 16 of his last 19 home games,84%,False,4.0
+Payton Pritchard,NYK,Under 17.5 PTS+AST,-118,Hit in 5 of his last 6 games vs NYK,83%,False,30.0
+Payton Pritchard,NYK,Under 17.5 PTS+REB,-104,Hit in 5 of his last 6 games vs NYK,83%,False,32.0
+Payton Pritchard,NYK,Under 20.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games vs NYK,83%,False,30.0
+Payton Pritchard,NYK,Under 14.5 Points,-122,Hit in 5 of his last 6 games vs NYK,83%,False,27.0
+Al Horford,NYK,Under 11.5 PTS+AST,-102,Hit in 5 of his last 6 games vs NYK,83%,False,18.0
+Al Horford,NYK,Under 2.5 Assists,104,Hit in 10 of his last 12 games vs NYK,83%,True,2.0
+Al Horford,NYK,Under 1.5 3PTM,110,Hit in 5 of his last 6 games,83%,False,2.0
+Al Horford,NYK,Under 1.5 3PTM,110,Hit in 5 of his last 6 games vs NYK,83%,False,2.0
+Al Horford,NYK,Under 9.5 Points,-138,Hit in 5 of his last 6 games vs NYK,83%,False,16.0
+Karl-Anthony Towns,BOS,Over 31.5 PTS+REB,-112,Hit in 5 of his last 6 games vs BOS,83%,False,29.0
+Karl-Anthony Towns,BOS,Over 33.5 PTS+AST+REB,-112,Hit in 5 of his last 6 games vs BOS,83%,False,21.0
+Karl-Anthony Towns,BOS,Over 12.5 Rebounds,106,Hit in 5 of his last 6 games vs BOS,83%,False,8.0
+Karl-Anthony Towns,BOS,Over 19.5 Points,-102,Hit in 5 of his last 6 games vs BOS,83%,True,21.0
+Rudy Gobert,GSW,Under 0.5 Assists,-110,Hit in 5 of his last 6 games,83%,True,0.0
+Naz Reid,GSW,Over 1.5 3PTM,-132,Hit in 5 of his last 6 games vs GSW,83%,False,0.0
+Donte DiVincenzo,GSW,Over 5.5 REB+AST,-140,Hit in 5 of his last 6 games vs GSW,83%,True,8.0
+Donte DiVincenzo,GSW,Over 2.5 Assists,-146,Hit in 5 of his last 6 games vs GSW,83%,True,6.0
+Donte DiVincenzo,GSW,Over 2.5 Rebounds,-162,Hit in 5 of his last 6 games vs GSW,83%,False,2.0
+Anthony Edwards,GSW,Over 4.5 Assists,-114,Hit in 5 of his last 6 home games,83%,True,12.0
+Julius Randle,GSW,Under 7.5 Rebounds,-154,Hit in 5 of his last 6 games vs GSW,83%,False,8.0
+Julius Randle,GSW,Under 1.5 3PTM,110,Hit in 5 of his last 6 games vs GSW,83%,False,2.0
+Julius Randle,GSW,Under 0.5 Blocks,-300,Hit in 5 of his last 6 games vs GSW,83%,True,0.0
+Mike Conley,GSW,Under 7.5 Points,-130,Hit in 5 of his last 6 games vs GSW,83%,False,24.0
+Jaden McDaniels,GSW,Under 1.5 Steals,-220,Hit in 10 of his last 12 games vs GSW,83%,False,4.0
+Donte DiVincenzo,GSW,Over 2.5 Assists,-146,Hit in 14 of his last 17 home games,82%,True,6.0
+Nickeil Alexander-Walker,GSW,Over 5.5 Points,-110,Hit in 14 of his last 17 home games,82%,False,2.0
+Donte DiVincenzo,GSW,Over 2.5 Rebounds,-162,Hit in 9 of his last 11 games,82%,False,2.0
+Buddy Hield,MIN,Under 2.5 Assists,-200,Hit in 9 of his last 11 games vs MIN,82%,True,1.0
+Buddy Hield,MIN,Under 0.5 Blocks,-225,Hit in 9 of his last 11 games vs MIN,82%,True,0.0
+Kevon Looney,MIN,Under 5.5 Rebounds,105,Hit in 13 of his last 16 games,81%,True,3.0
+Payton Pritchard,NYK,Under 2.5 3PTM,110,Hit in 12 of his last 15 games vs NYK,80%,False,5.0
+Al Horford,NYK,Under 7.5 Rebounds,104,Hit in 4 of his last 5 games vs NYK,80%,True,5.0
+Al Horford,NYK,Under 1.5 Blocks,-220,Hit in 4 of his last 5 games,80%,True,1.0
+Luke Kornet,NYK,Under 9.5 PTS+REB,-118,Hit in 4 of his last 5 games vs NYK,80%,False,19.0
+Miles McBride,BOS,Over 0.5 Assists,-220,Hit in 8 of his last 10 games vs BOS,80%,True,3.0
+Mikal Bridges,BOS,Over 7.5 REB+AST,-102,Hit in 4 of his last 5 games vs BOS,80%,False,5.0
+Mikal Bridges,BOS,Over 2.5 Assists,-172,Hit in 4 of his last 5 games,80%,True,3.0
+Mikal Bridges,BOS,Over 2.5 Assists,-172,Hit in 4 of his last 5 games vs BOS,80%,True,3.0
+Mikal Bridges,BOS,Over 4.5 Rebounds,102,Hit in 4 of his last 5 away games,80%,False,2.0
+Mikal Bridges,BOS,Over 1.5 3PTM,-104,Hit in 4 of his last 5 away games,80%,False,1.0
+Mikal Bridges,BOS,Over 1.5 Steals,126,Hit in 4 of his last 5 away games,80%,False,1.0
+Mikal Bridges,BOS,Over 0.5 Blocks,-110,Hit in 4 of his last 5 away games,80%,True,1.0
+Jalen Brunson,BOS,Over 33.5 PTS+AST,-125,Hit in 8 of his last 10 games,80%,False,30.0
+Jalen Brunson,BOS,Over 33.5 PTS+AST,-125,Hit in 4 of his last 5 games vs BOS,80%,False,30.0
+Jalen Brunson,BOS,Over 33.5 PTS+AST,-125,Hit in 4 of his last 5 away games,80%,False,30.0
+Jalen Brunson,BOS,Over 30.5 PTS+REB,-114,Hit in 8 of his last 10 games,80%,False,25.0
+Jalen Brunson,BOS,Over 30.5 PTS+REB,-114,Hit in 4 of his last 5 away games,80%,False,25.0
+Jalen Brunson,BOS,Over 6.5 Assists,-118,Hit in 4 of his last 5 games vs BOS,80%,False,6.0
+Jalen Brunson,BOS,Over 6.5 Assists,-118,Hit in 4 of his last 5 away games,80%,False,6.0
+Jalen Brunson,BOS,Over 37.5 PTS+AST+REB,-114,Hit in 8 of his last 10 games,80%,False,30.0
+Jalen Brunson,BOS,Over 37.5 PTS+AST+REB,-114,Hit in 4 of his last 5 games vs BOS,80%,False,30.0
+Jalen Brunson,BOS,Over 37.5 PTS+AST+REB,-114,Hit in 4 of his last 5 away games,80%,False,30.0
+Jalen Brunson,BOS,Over 3.5 Rebounds,104,Hit in 4 of his last 5 away games,80%,False,1.0
+Jalen Brunson,BOS,Over 2.5 3PTM,-125,Hit in 4 of his last 5 games,80%,False,1.0
+Jalen Brunson,BOS,Over 27.5 Points,-106,Hit in 4 of his last 5 away games,80%,False,24.0
+OG Anunoby,BOS,Under 6.5 REB+AST,-120,Hit in 4 of his last 5 games,80%,False,10.0
+OG Anunoby,BOS,Over 21.5 PTS+AST+REB,-120,Hit in 16 of his last 20 games,80%,False,10.0
+Karl-Anthony Towns,BOS,Over 21.5 PTS+AST,-102,Hit in 12 of his last 15 away games,80%,False,21.0
+Karl-Anthony Towns,BOS,Over 12.5 Rebounds,106,Hit in 4 of his last 5 games,80%,False,8.0
+Karl-Anthony Towns,BOS,Over 19.5 Points,-102,Hit in 12 of his last 15 away games,80%,True,21.0
+Miles McBride,BOS,Under 1.5 Rebounds,-225,Hit in 8 of his last 10 games,80%,True,0.0
+Naz Reid,GSW,Under 14.5 PTS+REB,-104,Hit in 4 of his last 5 games,80%,True,12.0
+Naz Reid,GSW,Over 4.5 Rebounds,-104,Hit in 16 of his last 20 home games,80%,False,4.0
+Naz Reid,GSW,Over 1.5 Assists,-118,Hit in 16 of his last 20 home games,80%,False,1.0
+Donte DiVincenzo,GSW,Over 5.5 REB+AST,-140,Hit in 4 of his last 5 games,80%,True,8.0
+Donte DiVincenzo,GSW,Over 5.5 REB+AST,-140,Hit in 16 of his last 20 home games,80%,True,8.0
+Donte DiVincenzo,GSW,Over 2.5 Assists,-146,Hit in 4 of his last 5 games,80%,True,6.0
+Donte DiVincenzo,GSW,Over 8.5 Points,-114,Hit in 16 of his last 20 home games,80%,True,17.0
+Anthony Edwards,GSW,Over 34.5 PTS+REB,-110,Hit in 4 of his last 5 home games,80%,True,39.0
+Anthony Edwards,GSW,Under 39.5 PTS+AST+REB,-128,Hit in 4 of his last 5 games,80%,False,44.0
+Anthony Edwards,GSW,Over 1.5 Steals,138,Hit in 4 of his last 5 games,80%,False,1.0
+Anthony Edwards,GSW,Over 1.5 Steals,138,Hit in 4 of his last 5 home games,80%,False,1.0
+Anthony Edwards,GSW,Over 0.5 Blocks,-120,Hit in 4 of his last 5 games vs GSW,80%,True,3.0
+Julius Randle,GSW,Under 1.5 3PTM,110,Hit in 4 of his last 5 games,80%,False,2.0
+Jaden McDaniels,GSW,Under 1.5 3PTM,-260,Hit in 4 of his last 5 games,80%,True,0.0
+Jaden McDaniels,GSW,Under 1.5 Assists,-205,Hit in 4 of his last 5 games,80%,False,2.0
+Nickeil Alexander-Walker,GSW,Over 1.5 Rebounds,-175,Hit in 16 of his last 20 games,80%,False,0.0
+Nickeil Alexander-Walker,GSW,Over 0.5 3PTM,-190,Hit in 12 of his last 15 games vs GSW,80%,False,0.0
+Buddy Hield,MIN,Under 5.5 REB+AST,120,Hit in 16 of his last 20 games,80%,True,5.0
+Buddy Hield,MIN,Over 15.5 PTS+AST,-106,Hit in 4 of his last 5 games,80%,False,9.0
+Buddy Hield,MIN,Over 15.5 PTS+AST,-106,Hit in 4 of his last 5 games vs MIN,80%,False,9.0
+Buddy Hield,MIN,Over 17.5 PTS+REB,-102,Hit in 4 of his last 5 games,80%,False,12.0
+Buddy Hield,MIN,Over 17.5 PTS+REB,-102,Hit in 4 of his last 5 games vs MIN,80%,False,12.0
+Buddy Hield,MIN,Under 2.5 Assists,-200,Hit in 16 of his last 20 games,80%,True,1.0
+Buddy Hield,MIN,Over 3.5 3PTM,130,Hit in 4 of his last 5 games,80%,False,0.0
+Buddy Hield,MIN,Over 13.5 Points,-102,Hit in 4 of his last 5 games,80%,False,8.0
+Buddy Hield,MIN,Over 13.5 Points,-102,Hit in 4 of his last 5 games vs MIN,80%,False,8.0
+Brandin Podziemski,MIN,Over 7.5 REB+AST,-148,Hit in 4 of his last 5 games vs MIN,80%,True,10.0
+Brandin Podziemski,MIN,Under 16.5 PTS+REB,-118,Hit in 4 of his last 5 games,80%,False,42.0
+Brandin Podziemski,MIN,Under 19.5 PTS+AST+REB,-120,Hit in 4 of his last 5 games,80%,False,40.0
+Brandin Podziemski,MIN,Over 5.5 Rebounds,118,Hit in 4 of his last 5 games vs MIN,80%,True,6.0
+Trayce Jackson-Davis,MIN,Under 5.5 Points,-125,Hit in 16 of his last 20 games,80%,True,2.0
+Trayce Jackson-Davis,MIN,Under 6.5 PTS+AST,-125,Hit in 16 of his last 20 games,80%,True,2.0
+Jonathan Kuminga,MIN,Under 1.5 Assists,-102,Hit in 4 of his last 5 games,80%,True,0.0
+Kevon Looney,MIN,Under 4.5 Points,-185,Hit in 4 of his last 5 games vs MIN,80%,True,0.0
+Luke Kornet,NYK,Under 4.5 Rebounds,-136,Hit in 11 of his last 14 games vs NYK,79%,False,9.0
+OG Anunoby,BOS,Under 6.5 REB+AST,-120,Hit in 11 of his last 14 games vs BOS,79%,False,10.0
+Naz Reid,GSW,Over 16.5 PTS+AST+REB,-130,Hit in 11 of his last 14 games vs GSW,79%,False,9.0
+Jonathan Kuminga,MIN,Under 19.5 PTS+AST,-110,Hit in 11 of his last 14 games vs MIN,79%,False,32.0
+Jonathan Kuminga,MIN,Under 18.5 Points,-136,Hit in 11 of his last 14 games vs MIN,79%,False,32.0
+Jaden McDaniels,GSW,Under 19.5 PTS+AST+REB,-114,Hit in 11 of his last 14 games vs GSW,79%,True,16.0
+Al Horford,NYK,Under 11.5 PTS+AST,-102,Hit in 7 of his last 9 games,78%,False,18.0
+Mikal Bridges,BOS,Under 18.5 PTS+REB,-110,Hit in 7 of his last 9 games vs BOS,78%,True,13.0
+Mikal Bridges,BOS,Over 4.5 Rebounds,102,Hit in 7 of his last 9 games,78%,False,2.0
+OG Anunoby,BOS,Over 16.5 PTS+AST,-118,Hit in 7 of his last 9 away games,78%,False,10.0
+OG Anunoby,BOS,Over 19.5 PTS+REB,-130,Hit in 7 of his last 9 away games,78%,False,16.0
+OG Anunoby,BOS,Over 21.5 PTS+AST+REB,-120,Hit in 7 of his last 9 away games,78%,False,10.0
+Anthony Edwards,GSW,Over 3.5 3PTM,-130,Hit in 7 of his last 9 games vs GSW,78%,True,5.0
+Julius Randle,GSW,Under 13.5 REB+AST,-138,Hit in 7 of his last 9 games,78%,True,13.0
+Brandin Podziemski,MIN,Over 2.5 Assists,-138,Hit in 7 of his last 9 away games,78%,True,4.0
+Jaden McDaniels,GSW,Under 5.5 Rebounds,-102,Hit in 10 of his last 13 games vs GSW,77%,True,4.0
+Jaden McDaniels,GSW,Over 0.5 Blocks,-225,Hit in 10 of his last 13 home games,77%,False,0.0
+Buddy Hield,MIN,Under 0.5 Blocks,-225,Hit in 10 of his last 13 games,77%,True,0.0
+Payton Pritchard,NYK,Under 3.5 Rebounds,-146,Hit in 3 of his last 4 games vs NYK,75%,False,5.0
+Jrue Holiday,NYK,Under 4.5 Assists,-136,Hit in 3 of his last 4 games,75%,True,3.0
+Al Horford,NYK,Under 2.5 Assists,104,Hit in 3 of his last 4 games,75%,True,2.0
+Luke Kornet,NYK,Under 9.5 PTS+REB,-118,Hit in 3 of his last 4 games,75%,False,19.0
+Miles McBride,BOS,Under 5.5 Points,-130,Hit in 6 of his last 8 games,75%,False,17.0
+Miles McBride,BOS,Over 0.5 Assists,-220,Hit in 15 of his last 20 games,75%,True,3.0
+Mikal Bridges,BOS,Over 7.5 REB+AST,-102,Hit in 3 of his last 4 games,75%,False,5.0
+Mikal Bridges,BOS,Over 7.5 REB+AST,-102,Hit in 12 of his last 16 away games,75%,False,5.0
+Mikal Bridges,BOS,Over 17.5 PTS+AST,-110,Hit in 12 of his last 16 away games,75%,False,14.0
+Mikal Bridges,BOS,Over 21.5 PTS+AST+REB,-125,Hit in 12 of his last 16 away games,75%,False,14.0
+Mikal Bridges,BOS,Over 4.5 Rebounds,102,Hit in 3 of his last 4 games vs BOS,75%,False,2.0
+Mikal Bridges,BOS,Under 14.5 Points,-122,Hit in 3 of his last 4 games,75%,True,11.0
+Mikal Bridges,BOS,Over 0.5 Blocks,-110,Hit in 6 of his last 8 games,75%,True,1.0
+Jalen Brunson,BOS,Over 30.5 PTS+REB,-114,Hit in 3 of his last 4 games vs BOS,75%,False,25.0
+Jalen Brunson,BOS,Over 3.5 Rebounds,104,Hit in 3 of his last 4 games vs BOS,75%,False,1.0
+Jalen Brunson,BOS,Over 2.5 3PTM,-125,Hit in 3 of his last 4 away games,75%,False,1.0
+OG Anunoby,BOS,Over 16.5 PTS+AST,-118,Hit in 15 of his last 20 games,75%,False,10.0
+OG Anunoby,BOS,Over 19.5 PTS+REB,-130,Hit in 15 of his last 20 games,75%,False,16.0
+OG Anunoby,BOS,Under 4.5 Rebounds,104,Hit in 3 of his last 4 games vs BOS,75%,False,8.0
+OG Anunoby,BOS,Under 4.5 Rebounds,104,Hit in 3 of his last 4 games,75%,False,8.0
+OG Anunoby,BOS,Over 1.5 3PTM,-188,Hit in 15 of his last 20 games,75%,False,1.0
+OG Anunoby,BOS,Under 1.5 Steals,-200,Hit in 3 of his last 4 games,75%,True,0.0
+OG Anunoby,BOS,Under 1.5 Steals,-200,Hit in 6 of his last 8 games vs BOS,75%,True,0.0
+OG Anunoby,BOS,Under 1.5 Assists,-120,Hit in 6 of his last 8 games,75%,False,2.0
+OG Anunoby,BOS,Under 0.5 Blocks,-135,Hit in 3 of his last 4 games,75%,False,1.0
+OG Anunoby,BOS,Under 0.5 Blocks,-135,Hit in 3 of his last 4 games vs BOS,75%,False,1.0
+Karl-Anthony Towns,BOS,Over 31.5 PTS+REB,-112,Hit in 9 of his last 12 away games,75%,False,29.0
+Karl-Anthony Towns,BOS,Over 33.5 PTS+AST+REB,-112,Hit in 9 of his last 12 away games,75%,False,21.0
+Rudy Gobert,GSW,Over 18.5 PTS+REB,-122,Hit in 15 of his last 20 home games,75%,True,25.0
+Rudy Gobert,GSW,Over 8.5 Points,-118,Hit in 15 of his last 20 home games,75%,True,17.0
+Rudy Gobert,GSW,Over 10.5 REB+AST,-125,Hit in 9 of his last 12 games vs GSW,75%,False,8.0
+Rudy Gobert,GSW,Under 0.5 Assists,-110,Hit in 3 of his last 4 games vs GSW,75%,True,0.0
+Rudy Gobert,GSW,Over 19.5 PTS+AST+REB,-115,Hit in 15 of his last 20 home games,75%,False,17.0
+Naz Reid,GSW,Over 1.5 3PTM,-132,Hit in 3 of his last 4 games,75%,False,0.0
+Anthony Edwards,GSW,Over 1.5 Steals,138,Hit in 3 of his last 4 games vs GSW,75%,False,1.0
+Anthony Edwards,GSW,Over 0.5 Blocks,-120,Hit in 3 of his last 4 games,75%,True,3.0
+Julius Randle,GSW,Over 5.5 Assists,-144,Hit in 3 of his last 4 games,75%,False,5.0
+Julius Randle,GSW,Over 5.5 Assists,-144,Hit in 3 of his last 4 games vs GSW,75%,False,5.0
+Julius Randle,GSW,Over 21.5 Points,-130,Hit in 3 of his last 4 home games,75%,True,33.0
+Mike Conley,GSW,Over 3.5 Assists,-132,Hit in 3 of his last 4 games,75%,True,8.0
+Mike Conley,GSW,Over 3.5 Assists,-132,Hit in 3 of his last 4 games vs GSW,75%,True,8.0
+Mike Conley,GSW,Under 7.5 Points,-130,Hit in 3 of his last 4 games,75%,False,24.0
+Jaden McDaniels,GSW,Under 1.5 3PTM,-260,Hit in 3 of his last 4 games vs GSW,75%,True,0.0
+Jaden McDaniels,GSW,Over 12.5 Points,-108,Hit in 3 of his last 4 home games,75%,True,14.0
+Jaden McDaniels,GSW,Over 13.5 PTS+AST,-118,Hit in 3 of his last 4 home games,75%,True,16.0
+Jaden McDaniels,GSW,Under 1.5 Assists,-205,Hit in 3 of his last 4 games vs GSW,75%,False,2.0
+Nickeil Alexander-Walker,GSW,Over 0.5 3PTM,-190,Hit in 15 of his last 20 games,75%,False,0.0
+Buddy Hield,MIN,Over 3.5 Rebounds,-152,Hit in 3 of his last 4 games vs MIN,75%,True,4.0
+Buddy Hield,MIN,Over 3.5 Rebounds,-152,Hit in 3 of his last 4 games,75%,True,4.0
+Buddy Hield,MIN,Over 3.5 3PTM,130,Hit in 3 of his last 4 games vs MIN,75%,False,0.0
+Buddy Hield,MIN,Under 1.5 Steals,-245,Hit in 3 of his last 4 games vs MIN,75%,False,2.0
+Brandin Podziemski,MIN,Over 7.5 REB+AST,-148,Hit in 3 of his last 4 games,75%,True,10.0
+Brandin Podziemski,MIN,Under 16.5 PTS+REB,-118,Hit in 6 of his last 8 games vs MIN,75%,False,42.0
+Brandin Podziemski,MIN,Under 19.5 PTS+AST+REB,-120,Hit in 6 of his last 8 games vs MIN,75%,False,40.0
+Brandin Podziemski,MIN,Over 5.5 Rebounds,118,Hit in 3 of his last 4 games,75%,True,6.0
+Trayce Jackson-Davis,MIN,Under 0.5 Assists,160,Hit in 6 of his last 8 games,75%,True,0.0
+Jonathan Kuminga,MIN,Under 22.5 PTS+REB,-118,Hit in 15 of his last 20 games,75%,False,35.0
+Jonathan Kuminga,MIN,Under 1.5 Assists,-102,Hit in 3 of his last 4 games vs MIN,75%,True,0.0
+Kevon Looney,MIN,Under 11.5 PTS+AST+REB,-135,Hit in 3 of his last 4 games vs MIN,75%,True,1.0
+Julius Randle,GSW,Over 0.5 Steals,-245,Hit in 6 of his last 8 games,75%,False,0.0
+Payton Pritchard,NYK,Under 3.5 Rebounds,-146,NYK rank 2nd in REB against,2nd,False,5.0
+Jrue Holiday,NYK,Under 4.5 Rebounds,102,NYK rank 2nd in REB against,2nd,False,7.0
+Al Horford,NYK,Under 7.5 Rebounds,104,NYK rank 2nd in REB versus C,2nd,True,5.0
+Al Horford,NYK,Under 9.5 Points,-138,NYK rank 5th in PTS versus C,5th,False,16.0
+Luke Kornet,NYK,Under 4.5 Rebounds,-136,NYK rank 2nd in REB versus C,2nd,False,9.0
+Mikal Bridges,BOS,Under 14.5 Points,-122,BOS rank 4th in PTS versus SF,4th,True,11.0
+Jalen Brunson,BOS,Over 3.5 Rebounds,104,BOS rank 28th in REB versus PG,28th,False,1.0
+Jalen Brunson,BOS,Over 27.5 Points,-106,BOS rank 28th in PTS versus PG,28th,False,24.0
+OG Anunoby,BOS,Under 15.5 Points,-136,BOS rank 2nd in PTS against,2nd,True,8.0
+OG Anunoby,BOS,Under 1.5 Steals,-200,BOS rank 5th in STL versus PF,5th,True,0.0
+OG Anunoby,BOS,Under 1.5 Assists,-120,BOS rank 3rd in AST against,3rd,False,2.0
+OG Anunoby,BOS,Under 0.5 Blocks,-135,BOS rank 3rd in BLK versus PF,3rd,False,1.0
+Mitchell Robinson,BOS,Under 4.5 Points,-125,BOS rank 2nd in PTS versus C,2nd,False,8.0
+Karl-Anthony Towns,BOS,Under 1.5 3PTM,-225,BOS rank 5th in 3PTM versus C,5th,True,1.0
+Karl-Anthony Towns,BOS,Under 1.5 Assists,-110,BOS rank 3rd in AST versus C,3rd,True,0.0
+Karl-Anthony Towns,BOS,Under 0.5 Blocks,-125,BOS rank 1st in BLK versus C,1st,False,1.0
+Luke Kornet,NYK,Under 4.5 Points,100,NYK rank 5th in PTS versus C,5th,False,10.0
+Rudy Gobert,GSW,Over 10.5 Rebounds,112,GSW rank 26th in REB versus C,26th,False,8.0
+Naz Reid,GSW,Over 4.5 Rebounds,-104,GSW rank 26th in REB versus C,26th,False,4.0
+Mike Conley,GSW,Under 7.5 Points,-130,GSW rank 1st in PTS versus PG,1st,False,24.0
+Buddy Hield,MIN,Under 2.5 Assists,-200,MIN rank 5th in AST against,5th,True,1.0
+Brandin Podziemski,MIN,Under 1.5 3PTM,-114,MIN rank 3rd in 3PTM against,3rd,False,4.0
+Brandin Podziemski,MIN,Under 11.5 Points,-130,MIN rank 5th in PTS against,5th,False,36.0
+Trayce Jackson-Davis,MIN,Under 4.5 Rebounds,-144,MIN rank 3rd in REB versus C,3rd,True,2.0
+Trayce Jackson-Davis,MIN,Under 5.5 Points,-125,MIN rank 4th in PTS versus C,4th,True,2.0
+Trayce Jackson-Davis,MIN,Under 0.5 Assists,160,MIN rank 5th in AST against,5th,True,0.0
+Jonathan Kuminga,MIN,Under 1.5 Assists,-102,MIN rank 3rd in AST versus PF,3rd,True,0.0
+Jonathan Kuminga,MIN,Under 4.5 Rebounds,-136,MIN rank 5th in REB versus PF,5th,True,3.0
+Jonathan Kuminga,MIN,Under 1.5 3PTM,-245,MIN rank 3rd in 3PTM against,3rd,False,3.0
+Jonathan Kuminga,MIN,Under 18.5 Points,-136,MIN rank 5th in PTS against,5th,False,32.0
+Kevon Looney,MIN,Under 0.5 Assists,-110,MIN rank 5th in AST against,5th,False,1.0
+Kevon Looney,MIN,Under 5.5 Rebounds,105,MIN rank 3rd in REB versus C,3rd,True,3.0
+Kevon Looney,MIN,Under 4.5 Points,-185,MIN rank 4th in PTS versus C,4th,True,0.0
+Mike Conley,GSW,Under 1.5 3PTM,-162,GSW rank 2nd in 3PTM versus PG,2nd,False,4.0
