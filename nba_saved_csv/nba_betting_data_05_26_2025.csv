@@ -1,218 +1,205 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Rudy Gobert,OKL,Under 15.5 PTS+REB,-132,Hit in 4 of his last 4 games vs OKL,100%
-Rudy Gobert,OKL,Under 1.5 Blocks,-220,Hit in 5 of his last 5 games,100%
-Rudy Gobert,OKL,Over 0.5 Assists,-175,Hit in 6 of his last 6 games vs OKL,100%
-Naz Reid,OKL,Under 18.5 PTS+REB,-128,Hit in 7 of his last 7 games,100%
-Naz Reid,OKL,Over 6.5 Rebounds,-106,Hit in 7 of his last 7 games vs OKL,100%
-Naz Reid,OKL,Under 11.5 Points,-122,Hit in 7 of his last 7 games,100%
-Donte DiVincenzo,OKL,Over 2.5 Assists,-132,Hit in 4 of his last 4 home games,100%
-Donte DiVincenzo,OKL,Over 1.5 3PTM,-174,Hit in 5 of his last 5 games,100%
-Donte DiVincenzo,OKL,Over 1.5 3PTM,-174,Hit in 7 of his last 7 games vs OKL,100%
-Anthony Edwards,OKL,Over 13.5 REB+AST,-114,Hit in 6 of his last 6 home games,100%
-Anthony Edwards,OKL,Over 8.5 Rebounds,118,Hit in 5 of his last 5 games vs OKL,100%
-Julius Randle,OKL,Over 23.5 PTS+AST,-112,Hit in 6 of his last 6 home games,100%
-Julius Randle,OKL,Under 0.5 Blocks,-375,Hit in 4 of his last 4 games,100%
-Mike Conley,OKL,Under 10.5 PTS+AST,-132,Hit in 4 of his last 4 games vs OKL,100%
-Mike Conley,OKL,Under 3.5 Assists,-188,Hit in 4 of his last 4 games vs OKL,100%
-Nickeil Alexander-Walker,OKL,Under 2.5 Assists,-186,Hit in 5 of his last 5 games,100%
-Nickeil Alexander-Walker,OKL,Over 1.5 3PTM,-130,Hit in 8 of his last 8 games vs OKL,100%
-Isaiah Hartenstein,MIN,Under 2.5 Assists,-188,Hit in 6 of his last 6 games,100%
-Isaiah Hartenstein,MIN,Under 2.5 Assists,-188,Hit in 4 of his last 4 games vs MIN,100%
-Isaiah Hartenstein,MIN,Under 17.5 PTS+AST+REB,-112,Hit in 4 of his last 4 games vs MIN,100%
-Jalen Williams,MIN,Under 0.5 Blocks,-155,Hit in 4 of his last 4 games,100%
-Cason Wallace,MIN,Under 1.5 Steals,-132,Hit in 5 of his last 5 games vs MIN,100%
-Chet Holmgren,MIN,Under 8.5 Rebounds,-144,Hit in 4 of his last 4 games vs MIN,100%
-Chet Holmgren,MIN,Under 1.5 3PTM,-152,Hit in 4 of his last 4 games,100%
-Julius Randle,OKL,Over 23.5 PTS+AST,-112,Hit in 11 of his last 12 games,92%
-Donte DiVincenzo,OKL,Over 10.5 PTS+AST,-125,Hit in 9 of his last 10 games vs OKL,90%
-Donte DiVincenzo,OKL,Over 1.5 3PTM,-174,Hit in 18 of his last 20 home games,90%
-Nickeil Alexander-Walker,OKL,Under 2.5 Rebounds,-138,Hit in 9 of his last 10 games,90%
-Anthony Edwards,OKL,Over 0.5 Blocks,-155,Hit in 8 of his last 9 home games,89%
-Chet Holmgren,MIN,Over 1.5 Assists,-110,Hit in 8 of his last 9 games vs MIN,89%
-Rudy Gobert,OKL,Under 1.5 Blocks,-220,Hit in 6 of his last 7 games vs OKL,86%
-Naz Reid,OKL,Under 19.5 PTS+AST+REB,-104,Hit in 6 of his last 7 games,86%
-Donte DiVincenzo,OKL,Over 7.5 Points,-136,Hit in 6 of his last 7 games vs OKL,86%
-Julius Randle,OKL,Over 25.5 PTS+REB,-112,Hit in 6 of his last 7 games,86%
-Julius Randle,OKL,Over 30.5 PTS+AST+REB,-112,Hit in 6 of his last 7 games,86%
-Julius Randle,OKL,Over 18.5 Points,-114,Hit in 6 of his last 7 games,86%
-Julius Randle,OKL,Under 0.5 Blocks,-375,Hit in 6 of his last 7 games vs OKL,86%
-Jaden McDaniels,OKL,Over 5.5 Rebounds,-138,Hit in 6 of his last 7 games vs OKL,86%
-Nickeil Alexander-Walker,OKL,Under 2.5 Assists,-186,Hit in 6 of his last 7 games vs OKL,86%
-Isaiah Joe,MIN,Over 0.5 Assists,-118,Hit in 12 of his last 14 games vs MIN,86%
-Luguentz Dort,MIN,Under 0.5 Blocks,-250,Hit in 6 of his last 7 games,86%
-Jalen Williams,MIN,Over 4.5 Assists,-158,Hit in 6 of his last 7 games vs MIN,86%
-Jalen Williams,MIN,Over 4.5 Assists,-158,Hit in 6 of his last 7 away games,86%
-Alex Caruso,MIN,Over 7.5 Points,-110,Hit in 6 of his last 7 games,86%
-Alex Caruso,MIN,Over 1.5 Assists,-185,Hit in 6 of his last 7 away games,86%
-Chet Holmgren,MIN,Under 23.5 PTS+REB,-114,Hit in 6 of his last 7 games vs MIN,86%
-Chet Holmgren,MIN,Under 25.5 PTS+AST+REB,-125,Hit in 6 of his last 7 games vs MIN,86%
-Chet Holmgren,MIN,Under 1.5 3PTM,-152,Hit in 6 of his last 7 games vs MIN,86%
-Naz Reid,OKL,Over 0.5 Blocks,-174,Hit in 6 of his last 7 games vs OKL,86%
-Donte DiVincenzo,OKL,Over 10.5 PTS+AST,-125,Hit in 17 of his last 20 home games,85%
-Donte DiVincenzo,OKL,Over 13.5 PTS+AST+REB,-118,Hit in 17 of his last 20 home games,85%
-Donte DiVincenzo,OKL,Over 7.5 Points,-136,Hit in 17 of his last 20 home games,85%
-Isaiah Hartenstein,MIN,Over 7.5 Points,-122,Hit in 17 of his last 20 away games,85%
-Aaron Wiggins,MIN,Over 4.5 Points,102,Hit in 17 of his last 20 away games,85%
-Aaron Wiggins,MIN,Over 6.5 PTS+AST+REB,-135,Hit in 17 of his last 20 away games,85%
-Naz Reid,OKL,Over 1.5 3PTM,-144,Hit in 5 of his last 6 home games,83%
-Naz Reid,OKL,Over 1.5 Assists,-140,Hit in 5 of his last 6 games vs OKL,83%
-Anthony Edwards,OKL,Over 13.5 REB+AST,-114,Hit in 5 of his last 6 games vs OKL,83%
-Anthony Edwards,OKL,Over 33.5 PTS+AST,-110,Hit in 5 of his last 6 games,83%
-Anthony Edwards,OKL,Over 5.5 Assists,104,Hit in 5 of his last 6 games vs OKL,83%
-Julius Randle,OKL,Over 25.5 PTS+REB,-112,Hit in 5 of his last 6 home games,83%
-Julius Randle,OKL,Over 30.5 PTS+AST+REB,-112,Hit in 5 of his last 6 home games,83%
-Julius Randle,OKL,Over 18.5 Points,-114,Hit in 5 of his last 6 home games,83%
-Mike Conley,OKL,Over 5.5 REB+AST,-114,Hit in 5 of his last 6 games,83%
-Jaden McDaniels,OKL,Over 7.5 REB+AST,-130,Hit in 5 of his last 6 games vs OKL,83%
-Nickeil Alexander-Walker,OKL,Over 13.5 PTS+AST+REB,-105,Hit in 5 of his last 6 games vs OKL,83%
-Nickeil Alexander-Walker,OKL,Over 8.5 Points,-112,Hit in 5 of his last 6 games vs OKL,83%
-Isaiah Joe,MIN,Under 1.5 Rebounds,-155,Hit in 10 of his last 12 games,83%
-Isaiah Hartenstein,MIN,Under 9.5 REB+AST,-106,Hit in 5 of his last 6 games,83%
-Isaiah Hartenstein,MIN,Under 7.5 Rebounds,-122,Hit in 5 of his last 6 games,83%
-Luguentz Dort,MIN,Under 3.5 Rebounds,-172,Hit in 5 of his last 6 games vs MIN,83%
-Jalen Williams,MIN,Over 10.5 REB+AST,-128,Hit in 5 of his last 6 games,83%
-Aaron Wiggins,MIN,Over 0.5 Assists,-115,Hit in 5 of his last 6 games,83%
-Shai Gilgeous-Alexander,MIN,Over 6.5 Assists,-136,Hit in 5 of his last 6 games vs MIN,83%
-Aaron Wiggins,MIN,Under 5.5 PTS+REB,102,Hit in 5 of his last 6 games,83%
-Alex Caruso,MIN,Over 1.5 Assists,-185,Hit in 14 of his last 17 games,82%
-Isaiah Hartenstein,MIN,Over 7.5 Points,-122,Hit in 9 of his last 11 games,82%
-Aaron Wiggins,MIN,Over 0.5 3PTM,-110,Hit in 9 of his last 11 games vs MIN,82%
-Anthony Edwards,OKL,Under 3.5 3PTM,-158,Hit in 13 of his last 16 games vs OKL,81%
-Rudy Gobert,OKL,Under 15.5 PTS+REB,-132,Hit in 4 of his last 5 games,80%
-Rudy Gobert,OKL,Under 8.5 Rebounds,-125,Hit in 4 of his last 5 games,80%
-Rudy Gobert,OKL,Over 6.5 Points,-102,Hit in 16 of his last 20 home games,80%
-Rudy Gobert,OKL,Under 9.5 REB+AST,-120,Hit in 4 of his last 5 games,80%
-Rudy Gobert,OKL,Over 0.5 Assists,-175,Hit in 4 of his last 5 games,80%
-Donte DiVincenzo,OKL,Over 10.5 PTS+AST,-125,Hit in 4 of his last 5 games,80%
-Donte DiVincenzo,OKL,Over 10.5 PTS+REB,-118,Hit in 8 of his last 10 games vs OKL,80%
-Donte DiVincenzo,OKL,Over 10.5 PTS+REB,-118,Hit in 16 of his last 20 home games,80%
-Donte DiVincenzo,OKL,Over 2.5 Assists,-132,Hit in 4 of his last 5 games,80%
-Donte DiVincenzo,OKL,Over 13.5 PTS+AST+REB,-118,Hit in 8 of his last 10 games vs OKL,80%
-Donte DiVincenzo,OKL,Over 7.5 Points,-136,Hit in 4 of his last 5 games,80%
-Anthony Edwards,OKL,Over 8.5 Rebounds,118,Hit in 4 of his last 5 home games,80%
-Julius Randle,OKL,Under 11.5 REB+AST,-106,Hit in 4 of his last 5 games,80%
-Julius Randle,OKL,Under 11.5 REB+AST,-106,Hit in 4 of his last 5 games vs OKL,80%
-Julius Randle,OKL,Over 1.5 3PTM,-102,Hit in 4 of his last 5 games,80%
-Jaden McDaniels,OKL,Over 1.5 Assists,-150,Hit in 4 of his last 5 games,80%
-Isaiah Joe,MIN,Over 0.5 Assists,-118,Hit in 16 of his last 20 games,80%
-Isaiah Hartenstein,MIN,Over 9.5 PTS+AST,-132,Hit in 16 of his last 20 away games,80%
-Isaiah Hartenstein,MIN,Under 17.5 PTS+AST+REB,-112,Hit in 4 of his last 5 games,80%
-Luguentz Dort,MIN,Under 10.5 PTS+REB,-110,Hit in 4 of his last 5 games vs MIN,80%
-Luguentz Dort,MIN,Under 11.5 PTS+AST+REB,-104,Hit in 4 of his last 5 games vs MIN,80%
-Luguentz Dort,MIN,Under 7.5 Points,-118,Hit in 4 of his last 5 games vs MIN,80%
-Luguentz Dort,MIN,Under 8.5 PTS+AST,-110,Hit in 4 of his last 5 games vs MIN,80%
-Jalen Williams,MIN,Over 10.5 REB+AST,-128,Hit in 4 of his last 5 games vs MIN,80%
-Jalen Williams,MIN,Under 25.5 PTS+AST,-114,Hit in 12 of his last 15 games vs MIN,80%
-Jalen Williams,MIN,Over 4.5 Assists,-158,Hit in 12 of his last 15 games,80%
-Jalen Williams,MIN,Over 1.5 3PTM,-114,Hit in 4 of his last 5 games vs MIN,80%
-Jalen Williams,MIN,Under 20.5 Points,-120,Hit in 12 of his last 15 games vs MIN,80%
-Alex Caruso,MIN,Under 2.5 Rebounds,100,Hit in 4 of his last 5 games,80%
-Cason Wallace,MIN,Over 11.5 PTS+AST+REB,-130,Hit in 4 of his last 5 games,80%
-Cason Wallace,MIN,Over 2.5 Rebounds,-174,Hit in 4 of his last 5 games,80%
-Cason Wallace,MIN,Over 2.5 Rebounds,-174,Hit in 12 of his last 15 away games,80%
-Cason Wallace,MIN,Over 0.5 3PTM,-210,Hit in 4 of his last 5 games,80%
-Cason Wallace,MIN,Over 0.5 3PTM,-210,Hit in 4 of his last 5 games vs MIN,80%
-Aaron Wiggins,MIN,Over 0.5 3PTM,-110,Hit in 16 of his last 20 away games,80%
-Shai Gilgeous-Alexander,MIN,Under 11.5 REB+AST,102,Hit in 4 of his last 5 games,80%
-Shai Gilgeous-Alexander,MIN,Over 38.5 PTS+AST,-110,Hit in 8 of his last 10 games vs MIN,80%
-Shai Gilgeous-Alexander,MIN,Over 43.5 PTS+AST+REB,-115,Hit in 4 of his last 5 games vs MIN,80%
-Chet Holmgren,MIN,Under 1.5 Blocks,116,Hit in 4 of his last 5 games,80%
-Naz Reid,OKL,Over 0.5 Blocks,-174,Hit in 4 of his last 5 games,80%
-Shai Gilgeous-Alexander,MIN,Under 4.5 Rebounds,118,Hit in 4 of his last 5 games,80%
-Anthony Edwards,OKL,Under 35.5 PTS+REB,-106,Hit in 11 of his last 14 games vs OKL,79%
-Anthony Edwards,OKL,Under 41.5 PTS+AST+REB,-114,Hit in 11 of his last 14 games vs OKL,79%
-Anthony Edwards,OKL,Under 27.5 Points,-112,Hit in 11 of his last 14 games vs OKL,79%
-Isaiah Joe,MIN,Over 5.5 PTS+AST+REB,-105,Hit in 11 of his last 14 games vs MIN,79%
-Aaron Wiggins,MIN,Over 1.5 Rebounds,-125,Hit in 11 of his last 14 games vs MIN,79%
-Rudy Gobert,OKL,Over 6.5 Points,-102,Hit in 7 of his last 9 games vs OKL,78%
-Rudy Gobert,OKL,Over 7.5 PTS+AST,-118,Hit in 7 of his last 9 games vs OKL,78%
-Isaiah Hartenstein,MIN,Over 0.5 Blocks,-136,Hit in 7 of his last 9 games vs MIN,78%
-Luguentz Dort,MIN,Under 0.5 Blocks,-250,Hit in 7 of his last 9 games vs MIN,78%
-Alex Caruso,MIN,Over 1.5 Assists,-185,Hit in 7 of his last 9 games vs MIN,78%
-Cason Wallace,MIN,Under 9.5 PTS+REB,-114,Hit in 7 of his last 9 games vs MIN,78%
-Cason Wallace,MIN,Under 6.5 Points,-122,Hit in 7 of his last 9 games vs MIN,78%
-Aaron Wiggins,MIN,Over 4.5 Points,102,Hit in 7 of his last 9 games vs MIN,78%
-Shai Gilgeous-Alexander,MIN,Under 0.5 Blocks,-130,Hit in 7 of his last 9 games vs MIN,78%
-Aaron Wiggins,MIN,Over 1.5 Rebounds,-125,Hit in 10 of his last 13 away games,77%
-Aaron Wiggins,MIN,Over 0.5 Assists,-115,Hit in 13 of his last 17 away games,76%
-Rudy Gobert,OKL,Over 15.5 PTS+AST+REB,-130,Hit in 15 of his last 20 home games,75%
-Rudy Gobert,OKL,Under 8.5 Rebounds,-125,Hit in 3 of his last 4 games vs OKL,75%
-Rudy Gobert,OKL,Under 9.5 REB+AST,-120,Hit in 3 of his last 4 games vs OKL,75%
-Rudy Gobert,OKL,Over 7.5 PTS+AST,-118,Hit in 15 of his last 20 home games,75%
-Naz Reid,OKL,Over 1.5 3PTM,-144,Hit in 9 of his last 12 games vs OKL,75%
-Naz Reid,OKL,Over 1.5 Assists,-140,Hit in 15 of his last 20 home games,75%
-Donte DiVincenzo,OKL,Over 5.5 REB+AST,-112,Hit in 15 of his last 20 home games,75%
-Donte DiVincenzo,OKL,Over 2.5 Assists,-132,Hit in 3 of his last 4 games vs OKL,75%
-Donte DiVincenzo,OKL,Under 2.5 Rebounds,100,Hit in 3 of his last 4 games,75%
-Anthony Edwards,OKL,Over 13.5 REB+AST,-114,Hit in 3 of his last 4 games,75%
-Anthony Edwards,OKL,Over 5.5 Assists,104,Hit in 3 of his last 4 games,75%
-Anthony Edwards,OKL,Under 1.5 Steals,-220,Hit in 3 of his last 4 games,75%
-Anthony Edwards,OKL,Under 1.5 Steals,-220,Hit in 3 of his last 4 games vs OKL,75%
-Anthony Edwards,OKL,Over 0.5 Blocks,-155,Hit in 6 of his last 8 games,75%
-Anthony Edwards,OKL,Over 0.5 Blocks,-155,Hit in 3 of his last 4 games vs OKL,75%
-Julius Randle,OKL,Over 4.5 Assists,-146,Hit in 3 of his last 4 home games,75%
-Julius Randle,OKL,Under 6.5 Rebounds,-106,Hit in 3 of his last 4 games vs OKL,75%
-Mike Conley,OKL,Under 9.5 PTS+REB,-114,Hit in 3 of his last 4 games vs OKL,75%
-Mike Conley,OKL,Under 12.5 PTS+AST+REB,-108,Hit in 3 of his last 4 games vs OKL,75%
-Jaden McDaniels,OKL,Under 18.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%
-Jaden McDaniels,OKL,Under 20.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games,75%
-Jaden McDaniels,OKL,Over 1.5 Assists,-150,Hit in 3 of his last 4 games vs OKL,75%
-Jaden McDaniels,OKL,Over 0.5 Blocks,-160,Hit in 6 of his last 8 games,75%
-Nickeil Alexander-Walker,OKL,Over 13.5 PTS+AST+REB,-105,Hit in 15 of his last 20 home games,75%
-Isaiah Joe,MIN,Under 0.5 3PTM,100,Hit in 6 of his last 8 games,75%
-Isaiah Joe,MIN,Under 2.5 Points,120,Hit in 6 of his last 8 games,75%
-Isaiah Hartenstein,MIN,Under 9.5 REB+AST,-106,Hit in 3 of his last 4 games vs MIN,75%
-Isaiah Hartenstein,MIN,Under 15.5 PTS+REB,-118,Hit in 3 of his last 4 games vs MIN,75%
-Isaiah Hartenstein,MIN,Under 7.5 Rebounds,-122,Hit in 3 of his last 4 games vs MIN,75%
-Isaiah Hartenstein,MIN,Over 0.5 Blocks,-136,Hit in 3 of his last 4 away games,75%
-Luguentz Dort,MIN,Under 7.5 Points,-118,Hit in 3 of his last 4 games,75%
-Luguentz Dort,MIN,Under 8.5 PTS+AST,-110,Hit in 3 of his last 4 games,75%
-Luguentz Dort,MIN,Under 4.5 REB+AST,-155,Hit in 3 of his last 4 games vs MIN,75%
-Luguentz Dort,MIN,Over 0.5 Assists,-225,Hit in 12 of his last 16 games vs MIN,75%
-Jalen Williams,MIN,Over 26.5 PTS+REB,-110,Hit in 3 of his last 4 games,75%
-Jalen Williams,MIN,Over 26.5 PTS+REB,-110,Hit in 3 of his last 4 games vs MIN,75%
-Jalen Williams,MIN,Over 31.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games vs MIN,75%
-Jalen Williams,MIN,Over 31.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games,75%
-Jalen Williams,MIN,Over 5.5 Rebounds,-132,Hit in 3 of his last 4 games vs MIN,75%
-Jalen Williams,MIN,Over 1.5 3PTM,-114,Hit in 3 of his last 4 games,75%
-Jalen Williams,MIN,Over 1.5 3PTM,-114,Hit in 6 of his last 8 away games,75%
-Jalen Williams,MIN,Under 1.5 Steals,-144,Hit in 3 of his last 4 games,75%
-Jalen Williams,MIN,Under 1.5 Steals,-144,Hit in 3 of his last 4 games vs MIN,75%
-Alex Caruso,MIN,Over 10.5 PTS+REB,-106,Hit in 3 of his last 4 games,75%
-Alex Caruso,MIN,Under 1.5 3PTM,-198,Hit in 3 of his last 4 games,75%
-Alex Caruso,MIN,Under 1.5 3PTM,-198,Hit in 3 of his last 4 games vs MIN,75%
-Cason Wallace,MIN,Over 11.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games vs MIN,75%
-Cason Wallace,MIN,Over 2.5 Rebounds,-174,Hit in 3 of his last 4 games vs MIN,75%
-Cason Wallace,MIN,Over 2.5 Assists,125,Hit in 3 of his last 4 games,75%
-Aaron Wiggins,MIN,Over 1.5 Rebounds,-125,Hit in 15 of his last 20 games,75%
-Shai Gilgeous-Alexander,MIN,Over 38.5 PTS+AST,-110,Hit in 3 of his last 4 games,75%
-Shai Gilgeous-Alexander,MIN,Over 1.5 Steals,-114,Hit in 6 of his last 8 games,75%
-Chet Holmgren,MIN,Under 25.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%
-Chet Holmgren,MIN,Over 14.5 Points,-132,Hit in 3 of his last 4 games vs MIN,75%
-Chet Holmgren,MIN,Under 9.5 REB+AST,-105,Hit in 6 of his last 8 games vs MIN,75%
-Chet Holmgren,MIN,Over 16.5 PTS+AST,-125,Hit in 3 of his last 4 games vs MIN,75%
-Aaron Wiggins,MIN,Over 6.5 PTS+AST+REB,-135,Hit in 15 of his last 20 games,75%
-Aaron Wiggins,MIN,Over 6.5 PTS+AST+REB,-135,Hit in 6 of his last 8 games vs MIN,75%
-Naz Reid,OKL,Under 11.5 Points,-122,OKL rank 3rd in PTS versus C,3rd
-Anthony Edwards,OKL,Under 1.5 Steals,-220,OKL rank 1st in STL versus SG,1st
-Julius Randle,OKL,Over 1.5 3PTM,-102,OKL rank 26th in 3PTM versus PF,26th
-Mike Conley,OKL,Under 3.5 Assists,-188,OKL rank 4th in AST against,4th
-Jaden McDaniels,OKL,Over 1.5 3PTM,104,OKL rank 26th in 3PTM versus PF,26th
-Jaden McDaniels,OKL,Under 12.5 Points,-114,OKL rank 3rd in PTS against,3rd
-Nickeil Alexander-Walker,OKL,Under 2.5 Assists,-186,OKL rank 4th in AST against,4th
-Isaiah Joe,MIN,Under 0.5 3PTM,100,MIN rank 3rd in 3PTM against,3rd
-Isaiah Joe,MIN,Under 2.5 Points,120,MIN rank 5th in PTS against,5th
-Isaiah Hartenstein,MIN,Under 2.5 Assists,-188,MIN rank 5th in AST against,5th
-Isaiah Hartenstein,MIN,Under 7.5 Rebounds,-122,MIN rank 3rd in REB versus C,3rd
-Luguentz Dort,MIN,Under 1.5 3PTM,100,MIN rank 3rd in 3PTM against,3rd
-Luguentz Dort,MIN,Under 7.5 Points,-118,MIN rank 5th in PTS against,5th
-Jalen Williams,MIN,Under 20.5 Points,-120,MIN rank 5th in PTS against,5th
-Alex Caruso,MIN,Under 1.5 3PTM,-198,MIN rank 3rd in 3PTM against,3rd
-Shai Gilgeous-Alexander,MIN,Under 1.5 3PTM,-114,MIN rank 1st in 3PTM versus PG,1st
-Shai Gilgeous-Alexander,MIN,Under 31.5 Points,-125,MIN rank 4th in PTS versus PG,4th
-Shai Gilgeous-Alexander,MIN,Under 0.5 Blocks,-130,MIN rank 2nd in BLK versus PG,2nd
-Chet Holmgren,MIN,Under 8.5 Rebounds,-144,MIN rank 3rd in REB versus C,3rd
-Chet Holmgren,MIN,Under 1.5 3PTM,-152,MIN rank 3rd in 3PTM versus C,3rd
-Anthony Edwards,OKL,Under 27.5 Points,-112,OKL rank 3rd in PTS against,3rd
-Mike Conley,OKL,Under 6.5 Points,-108,OKL rank 2nd in PTS versus PG,2nd
-Cason Wallace,MIN,Under 6.5 Points,-122,MIN rank 5th in PTS against,5th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Rudy Gobert,OKL,Under 15.5 PTS+REB,-132,Hit in 4 of his last 4 games vs OKL,100%,False,22.0
+Rudy Gobert,OKL,Under 1.5 Blocks,-220,Hit in 5 of his last 5 games,100%,True,1.0
+Rudy Gobert,OKL,Over 0.5 Assists,-175,Hit in 6 of his last 6 games vs OKL,100%,True,3.0
+Naz Reid,OKL,Under 18.5 PTS+REB,-128,Hit in 7 of his last 7 games,100%,False,19.0
+Naz Reid,OKL,Over 6.5 Rebounds,-106,Hit in 7 of his last 7 games vs OKL,100%,False,6.0
+Naz Reid,OKL,Under 11.5 Points,-122,Hit in 7 of his last 7 games,100%,False,13.0
+Donte DiVincenzo,OKL,Over 2.5 Assists,-132,Hit in 4 of his last 4 home games,100%,True,5.0
+Donte DiVincenzo,OKL,Over 1.5 3PTM,-174,Hit in 5 of his last 5 games,100%,True,5.0
+Donte DiVincenzo,OKL,Over 1.5 3PTM,-174,Hit in 7 of his last 7 games vs OKL,100%,True,5.0
+Anthony Edwards,OKL,Over 13.5 REB+AST,-114,Hit in 6 of his last 6 home games,100%,False,10.0
+Anthony Edwards,OKL,Over 8.5 Rebounds,118,Hit in 5 of his last 5 games vs OKL,100%,False,4.0
+Julius Randle,OKL,Over 23.5 PTS+AST,-112,Hit in 6 of his last 6 home games,100%,False,8.0
+Julius Randle,OKL,Under 0.5 Blocks,-375,Hit in 4 of his last 4 games,100%,True,0.0
+Mike Conley,OKL,Under 10.5 PTS+AST,-132,Hit in 4 of his last 4 games vs OKL,100%,False,13.0
+Mike Conley,OKL,Under 3.5 Assists,-188,Hit in 4 of his last 4 games vs OKL,100%,True,3.0
+Nickeil Alexander-Walker,OKL,Under 2.5 Assists,-186,Hit in 5 of his last 5 games,100%,False,6.0
+Nickeil Alexander-Walker,OKL,Over 1.5 3PTM,-130,Hit in 8 of his last 8 games vs OKL,100%,True,5.0
+Isaiah Hartenstein,MIN,Under 2.5 Assists,-188,Hit in 6 of his last 6 games,100%,True,2.0
+Isaiah Hartenstein,MIN,Under 2.5 Assists,-188,Hit in 4 of his last 4 games vs MIN,100%,True,2.0
+Isaiah Hartenstein,MIN,Under 17.5 PTS+AST+REB,-112,Hit in 4 of his last 4 games vs MIN,100%,True,4.0
+Jalen Williams,MIN,Under 0.5 Blocks,-155,Hit in 4 of his last 4 games,100%,True,0.0
+Cason Wallace,MIN,Under 1.5 Steals,-132,Hit in 5 of his last 5 games vs MIN,100%,False,2.0
+Chet Holmgren,MIN,Under 8.5 Rebounds,-144,Hit in 4 of his last 4 games vs MIN,100%,True,7.0
+Chet Holmgren,MIN,Under 1.5 3PTM,-152,Hit in 4 of his last 4 games,100%,False,2.0
+Julius Randle,OKL,Over 23.5 PTS+AST,-112,Hit in 11 of his last 12 games,92%,False,8.0
+Donte DiVincenzo,OKL,Over 10.5 PTS+AST,-125,Hit in 9 of his last 10 games vs OKL,90%,True,36.0
+Donte DiVincenzo,OKL,Over 1.5 3PTM,-174,Hit in 18 of his last 20 home games,90%,True,5.0
+Nickeil Alexander-Walker,OKL,Under 2.5 Rebounds,-138,Hit in 9 of his last 10 games,90%,False,4.0
+Anthony Edwards,OKL,Over 0.5 Blocks,-155,Hit in 8 of his last 9 home games,89%,False,0.0
+Chet Holmgren,MIN,Over 1.5 Assists,-110,Hit in 8 of his last 9 games vs MIN,89%,False,1.0
+Rudy Gobert,OKL,Under 1.5 Blocks,-220,Hit in 6 of his last 7 games vs OKL,86%,True,1.0
+Naz Reid,OKL,Under 19.5 PTS+AST+REB,-104,Hit in 6 of his last 7 games,86%,True,15.0
+Donte DiVincenzo,OKL,Over 7.5 Points,-136,Hit in 6 of his last 7 games vs OKL,86%,True,31.0
+Julius Randle,OKL,Over 25.5 PTS+REB,-112,Hit in 6 of his last 7 games,86%,False,12.0
+Julius Randle,OKL,Over 30.5 PTS+AST+REB,-112,Hit in 6 of his last 7 games,86%,False,8.0
+Julius Randle,OKL,Over 18.5 Points,-114,Hit in 6 of his last 7 games,86%,False,5.0
+Julius Randle,OKL,Under 0.5 Blocks,-375,Hit in 6 of his last 7 games vs OKL,86%,True,0.0
+Jaden McDaniels,OKL,Over 5.5 Rebounds,-138,Hit in 6 of his last 7 games vs OKL,86%,False,4.0
+Nickeil Alexander-Walker,OKL,Under 2.5 Assists,-186,Hit in 6 of his last 7 games vs OKL,86%,False,6.0
+Isaiah Joe,MIN,Over 0.5 Assists,-118,Hit in 12 of his last 14 games vs MIN,86%,False,0.0
+Luguentz Dort,MIN,Under 0.5 Blocks,-250,Hit in 6 of his last 7 games,86%,False,1.0
+Jalen Williams,MIN,Over 4.5 Assists,-158,Hit in 6 of his last 7 games vs MIN,86%,True,5.0
+Jalen Williams,MIN,Over 4.5 Assists,-158,Hit in 6 of his last 7 away games,86%,True,5.0
+Alex Caruso,MIN,Over 7.5 Points,-110,Hit in 6 of his last 7 games,86%,True,14.0
+Alex Caruso,MIN,Over 1.5 Assists,-185,Hit in 6 of his last 7 away games,86%,False,1.0
+Chet Holmgren,MIN,Under 23.5 PTS+REB,-114,Hit in 6 of his last 7 games vs MIN,86%,False,32.0
+Chet Holmgren,MIN,Under 25.5 PTS+AST+REB,-125,Hit in 6 of his last 7 games vs MIN,86%,False,26.0
+Chet Holmgren,MIN,Under 1.5 3PTM,-152,Hit in 6 of his last 7 games vs MIN,86%,False,2.0
+Naz Reid,OKL,Over 0.5 Blocks,-174,Hit in 6 of his last 7 games vs OKL,86%,False,0.0
+Donte DiVincenzo,OKL,Over 10.5 PTS+AST,-125,Hit in 17 of his last 20 home games,85%,True,36.0
+Donte DiVincenzo,OKL,Over 13.5 PTS+AST+REB,-118,Hit in 17 of his last 20 home games,85%,True,36.0
+Donte DiVincenzo,OKL,Over 7.5 Points,-136,Hit in 17 of his last 20 home games,85%,True,31.0
+Isaiah Hartenstein,MIN,Over 7.5 Points,-122,Hit in 17 of his last 20 away games,85%,False,2.0
+Naz Reid,OKL,Over 1.5 3PTM,-144,Hit in 5 of his last 6 home games,83%,False,1.0
+Naz Reid,OKL,Over 1.5 Assists,-140,Hit in 5 of his last 6 games vs OKL,83%,True,2.0
+Anthony Edwards,OKL,Over 13.5 REB+AST,-114,Hit in 5 of his last 6 games vs OKL,83%,False,10.0
+Anthony Edwards,OKL,Over 33.5 PTS+AST,-110,Hit in 5 of his last 6 games,83%,False,24.0
+Anthony Edwards,OKL,Over 5.5 Assists,104,Hit in 5 of his last 6 games vs OKL,83%,True,6.0
+Julius Randle,OKL,Over 25.5 PTS+REB,-112,Hit in 5 of his last 6 home games,83%,False,12.0
+Julius Randle,OKL,Over 30.5 PTS+AST+REB,-112,Hit in 5 of his last 6 home games,83%,False,8.0
+Julius Randle,OKL,Over 18.5 Points,-114,Hit in 5 of his last 6 home games,83%,False,5.0
+Mike Conley,OKL,Over 5.5 REB+AST,-114,Hit in 5 of his last 6 games,83%,False,5.0
+Jaden McDaniels,OKL,Over 7.5 REB+AST,-130,Hit in 5 of his last 6 games vs OKL,83%,False,6.0
+Nickeil Alexander-Walker,OKL,Over 13.5 PTS+AST+REB,-105,Hit in 5 of his last 6 games vs OKL,83%,True,39.0
+Nickeil Alexander-Walker,OKL,Over 8.5 Points,-112,Hit in 5 of his last 6 games vs OKL,83%,True,33.0
+Isaiah Joe,MIN,Under 1.5 Rebounds,-155,Hit in 10 of his last 12 games,83%,True,0.0
+Isaiah Hartenstein,MIN,Under 9.5 REB+AST,-106,Hit in 5 of his last 6 games,83%,True,8.0
+Isaiah Hartenstein,MIN,Under 7.5 Rebounds,-122,Hit in 5 of his last 6 games,83%,True,6.0
+Luguentz Dort,MIN,Under 3.5 Rebounds,-172,Hit in 5 of his last 6 games vs MIN,83%,False,4.0
+Jalen Williams,MIN,Over 10.5 REB+AST,-128,Hit in 5 of his last 6 games,83%,False,8.0
+Shai Gilgeous-Alexander,MIN,Over 6.5 Assists,-136,Hit in 5 of his last 6 games vs MIN,83%,True,10.0
+Alex Caruso,MIN,Over 1.5 Assists,-185,Hit in 14 of his last 17 games,82%,False,1.0
+Isaiah Hartenstein,MIN,Over 7.5 Points,-122,Hit in 9 of his last 11 games,82%,False,2.0
+Anthony Edwards,OKL,Under 3.5 3PTM,-158,Hit in 13 of his last 16 games vs OKL,81%,True,1.0
+Rudy Gobert,OKL,Under 15.5 PTS+REB,-132,Hit in 4 of his last 5 games,80%,False,22.0
+Rudy Gobert,OKL,Under 8.5 Rebounds,-125,Hit in 4 of his last 5 games,80%,False,9.0
+Rudy Gobert,OKL,Over 6.5 Points,-102,Hit in 16 of his last 20 home games,80%,True,13.0
+Rudy Gobert,OKL,Under 9.5 REB+AST,-120,Hit in 4 of his last 5 games,80%,False,12.0
+Rudy Gobert,OKL,Over 0.5 Assists,-175,Hit in 4 of his last 5 games,80%,True,3.0
+Donte DiVincenzo,OKL,Over 10.5 PTS+AST,-125,Hit in 4 of his last 5 games,80%,True,36.0
+Donte DiVincenzo,OKL,Over 10.5 PTS+REB,-118,Hit in 8 of his last 10 games vs OKL,80%,True,34.0
+Donte DiVincenzo,OKL,Over 10.5 PTS+REB,-118,Hit in 16 of his last 20 home games,80%,True,34.0
+Donte DiVincenzo,OKL,Over 2.5 Assists,-132,Hit in 4 of his last 5 games,80%,True,5.0
+Donte DiVincenzo,OKL,Over 13.5 PTS+AST+REB,-118,Hit in 8 of his last 10 games vs OKL,80%,True,36.0
+Donte DiVincenzo,OKL,Over 7.5 Points,-136,Hit in 4 of his last 5 games,80%,True,31.0
+Anthony Edwards,OKL,Over 8.5 Rebounds,118,Hit in 4 of his last 5 home games,80%,False,4.0
+Julius Randle,OKL,Under 11.5 REB+AST,-106,Hit in 4 of his last 5 games,80%,True,10.0
+Julius Randle,OKL,Under 11.5 REB+AST,-106,Hit in 4 of his last 5 games vs OKL,80%,True,10.0
+Julius Randle,OKL,Over 1.5 3PTM,-102,Hit in 4 of his last 5 games,80%,False,0.0
+Jaden McDaniels,OKL,Over 1.5 Assists,-150,Hit in 4 of his last 5 games,80%,True,2.0
+Isaiah Joe,MIN,Over 0.5 Assists,-118,Hit in 16 of his last 20 games,80%,False,0.0
+Isaiah Hartenstein,MIN,Over 9.5 PTS+AST,-132,Hit in 16 of his last 20 away games,80%,False,4.0
+Isaiah Hartenstein,MIN,Under 17.5 PTS+AST+REB,-112,Hit in 4 of his last 5 games,80%,True,4.0
+Luguentz Dort,MIN,Under 10.5 PTS+REB,-110,Hit in 4 of his last 5 games vs MIN,80%,True,10.0
+Luguentz Dort,MIN,Under 11.5 PTS+AST+REB,-104,Hit in 4 of his last 5 games vs MIN,80%,True,6.0
+Luguentz Dort,MIN,Under 7.5 Points,-118,Hit in 4 of his last 5 games vs MIN,80%,True,6.0
+Luguentz Dort,MIN,Under 8.5 PTS+AST,-110,Hit in 4 of his last 5 games vs MIN,80%,True,6.0
+Jalen Williams,MIN,Over 10.5 REB+AST,-128,Hit in 4 of his last 5 games vs MIN,80%,False,8.0
+Jalen Williams,MIN,Under 25.5 PTS+AST,-114,Hit in 12 of his last 15 games vs MIN,80%,False,51.0
+Jalen Williams,MIN,Over 4.5 Assists,-158,Hit in 12 of his last 15 games,80%,True,5.0
+Jalen Williams,MIN,Over 1.5 3PTM,-114,Hit in 4 of his last 5 games vs MIN,80%,True,6.0
+Jalen Williams,MIN,Under 20.5 Points,-120,Hit in 12 of his last 15 games vs MIN,80%,False,46.0
+Alex Caruso,MIN,Under 2.5 Rebounds,100,Hit in 4 of his last 5 games,80%,True,2.0
+Cason Wallace,MIN,Over 11.5 PTS+AST+REB,-130,Hit in 4 of his last 5 games,80%,True,12.0
+Cason Wallace,MIN,Over 2.5 Rebounds,-174,Hit in 4 of his last 5 games,80%,True,3.0
+Cason Wallace,MIN,Over 2.5 Rebounds,-174,Hit in 12 of his last 15 away games,80%,True,3.0
+Cason Wallace,MIN,Over 0.5 3PTM,-210,Hit in 4 of his last 5 games,80%,True,1.0
+Cason Wallace,MIN,Over 0.5 3PTM,-210,Hit in 4 of his last 5 games vs MIN,80%,True,1.0
+Shai Gilgeous-Alexander,MIN,Under 11.5 REB+AST,102,Hit in 4 of his last 5 games,80%,False,19.0
+Shai Gilgeous-Alexander,MIN,Over 38.5 PTS+AST,-110,Hit in 8 of his last 10 games vs MIN,80%,True,54.0
+Shai Gilgeous-Alexander,MIN,Over 43.5 PTS+AST+REB,-115,Hit in 4 of his last 5 games vs MIN,80%,True,54.0
+Chet Holmgren,MIN,Under 1.5 Blocks,116,Hit in 4 of his last 5 games,80%,False,3.0
+Naz Reid,OKL,Over 0.5 Blocks,-174,Hit in 4 of his last 5 games,80%,False,0.0
+Shai Gilgeous-Alexander,MIN,Under 4.5 Rebounds,118,Hit in 4 of his last 5 games,80%,False,9.0
+Anthony Edwards,OKL,Under 35.5 PTS+REB,-106,Hit in 11 of his last 14 games vs OKL,79%,True,22.0
+Anthony Edwards,OKL,Under 41.5 PTS+AST+REB,-114,Hit in 11 of his last 14 games vs OKL,79%,True,24.0
+Anthony Edwards,OKL,Under 27.5 Points,-112,Hit in 11 of his last 14 games vs OKL,79%,True,18.0
+Isaiah Joe,MIN,Over 5.5 PTS+AST+REB,-105,Hit in 11 of his last 14 games vs MIN,79%,True,7.0
+Rudy Gobert,OKL,Over 6.5 Points,-102,Hit in 7 of his last 9 games vs OKL,78%,True,13.0
+Rudy Gobert,OKL,Over 7.5 PTS+AST,-118,Hit in 7 of his last 9 games vs OKL,78%,True,16.0
+Isaiah Hartenstein,MIN,Over 0.5 Blocks,-136,Hit in 7 of his last 9 games vs MIN,78%,False,0.0
+Luguentz Dort,MIN,Under 0.5 Blocks,-250,Hit in 7 of his last 9 games vs MIN,78%,False,1.0
+Alex Caruso,MIN,Over 1.5 Assists,-185,Hit in 7 of his last 9 games vs MIN,78%,False,1.0
+Cason Wallace,MIN,Under 9.5 PTS+REB,-114,Hit in 7 of his last 9 games vs MIN,78%,False,12.0
+Cason Wallace,MIN,Under 6.5 Points,-122,Hit in 7 of his last 9 games vs MIN,78%,False,9.0
+Shai Gilgeous-Alexander,MIN,Under 0.5 Blocks,-130,Hit in 7 of his last 9 games vs MIN,78%,True,0.0
+Rudy Gobert,OKL,Over 15.5 PTS+AST+REB,-130,Hit in 15 of his last 20 home games,75%,True,16.0
+Rudy Gobert,OKL,Under 8.5 Rebounds,-125,Hit in 3 of his last 4 games vs OKL,75%,False,9.0
+Rudy Gobert,OKL,Under 9.5 REB+AST,-120,Hit in 3 of his last 4 games vs OKL,75%,False,12.0
+Rudy Gobert,OKL,Over 7.5 PTS+AST,-118,Hit in 15 of his last 20 home games,75%,True,16.0
+Naz Reid,OKL,Over 1.5 3PTM,-144,Hit in 9 of his last 12 games vs OKL,75%,False,1.0
+Naz Reid,OKL,Over 1.5 Assists,-140,Hit in 15 of his last 20 home games,75%,True,2.0
+Donte DiVincenzo,OKL,Over 5.5 REB+AST,-112,Hit in 15 of his last 20 home games,75%,True,8.0
+Donte DiVincenzo,OKL,Over 2.5 Assists,-132,Hit in 3 of his last 4 games vs OKL,75%,True,5.0
+Donte DiVincenzo,OKL,Under 2.5 Rebounds,100,Hit in 3 of his last 4 games,75%,False,3.0
+Anthony Edwards,OKL,Over 13.5 REB+AST,-114,Hit in 3 of his last 4 games,75%,False,10.0
+Anthony Edwards,OKL,Over 5.5 Assists,104,Hit in 3 of his last 4 games,75%,True,6.0
+Anthony Edwards,OKL,Under 1.5 Steals,-220,Hit in 3 of his last 4 games,75%,True,0.0
+Anthony Edwards,OKL,Under 1.5 Steals,-220,Hit in 3 of his last 4 games vs OKL,75%,True,0.0
+Anthony Edwards,OKL,Over 0.5 Blocks,-155,Hit in 6 of his last 8 games,75%,False,0.0
+Anthony Edwards,OKL,Over 0.5 Blocks,-155,Hit in 3 of his last 4 games vs OKL,75%,False,0.0
+Julius Randle,OKL,Over 4.5 Assists,-146,Hit in 3 of his last 4 home games,75%,False,3.0
+Julius Randle,OKL,Under 6.5 Rebounds,-106,Hit in 3 of his last 4 games vs OKL,75%,False,7.0
+Mike Conley,OKL,Under 9.5 PTS+REB,-114,Hit in 3 of his last 4 games vs OKL,75%,False,12.0
+Mike Conley,OKL,Under 12.5 PTS+AST+REB,-108,Hit in 3 of his last 4 games vs OKL,75%,False,13.0
+Jaden McDaniels,OKL,Under 18.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%,False,32.0
+Jaden McDaniels,OKL,Under 20.5 PTS+AST+REB,-114,Hit in 3 of his last 4 games,75%,False,30.0
+Jaden McDaniels,OKL,Over 1.5 Assists,-150,Hit in 3 of his last 4 games vs OKL,75%,True,2.0
+Jaden McDaniels,OKL,Over 0.5 Blocks,-160,Hit in 6 of his last 8 games,75%,True,1.0
+Nickeil Alexander-Walker,OKL,Over 13.5 PTS+AST+REB,-105,Hit in 15 of his last 20 home games,75%,True,39.0
+Isaiah Joe,MIN,Under 0.5 3PTM,100,Hit in 6 of his last 8 games,75%,False,1.0
+Isaiah Joe,MIN,Under 2.5 Points,120,Hit in 6 of his last 8 games,75%,False,7.0
+Isaiah Hartenstein,MIN,Under 9.5 REB+AST,-106,Hit in 3 of his last 4 games vs MIN,75%,True,8.0
+Isaiah Hartenstein,MIN,Under 15.5 PTS+REB,-118,Hit in 3 of his last 4 games vs MIN,75%,True,8.0
+Isaiah Hartenstein,MIN,Under 7.5 Rebounds,-122,Hit in 3 of his last 4 games vs MIN,75%,True,6.0
+Isaiah Hartenstein,MIN,Over 0.5 Blocks,-136,Hit in 3 of his last 4 away games,75%,False,0.0
+Luguentz Dort,MIN,Under 7.5 Points,-118,Hit in 3 of his last 4 games,75%,True,6.0
+Luguentz Dort,MIN,Under 8.5 PTS+AST,-110,Hit in 3 of his last 4 games,75%,True,6.0
+Luguentz Dort,MIN,Under 4.5 REB+AST,-155,Hit in 3 of his last 4 games vs MIN,75%,True,4.0
+Luguentz Dort,MIN,Over 0.5 Assists,-225,Hit in 12 of his last 16 games vs MIN,75%,False,0.0
+Jalen Williams,MIN,Over 26.5 PTS+REB,-110,Hit in 3 of his last 4 games,75%,True,49.0
+Jalen Williams,MIN,Over 26.5 PTS+REB,-110,Hit in 3 of his last 4 games vs MIN,75%,True,49.0
+Jalen Williams,MIN,Over 31.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games vs MIN,75%,True,51.0
+Jalen Williams,MIN,Over 31.5 PTS+AST+REB,-112,Hit in 3 of his last 4 games,75%,True,51.0
+Jalen Williams,MIN,Over 5.5 Rebounds,-132,Hit in 3 of his last 4 games vs MIN,75%,False,3.0
+Jalen Williams,MIN,Over 1.5 3PTM,-114,Hit in 3 of his last 4 games,75%,True,6.0
+Jalen Williams,MIN,Over 1.5 3PTM,-114,Hit in 6 of his last 8 away games,75%,True,6.0
+Jalen Williams,MIN,Under 1.5 Steals,-144,Hit in 3 of his last 4 games,75%,False,3.0
+Jalen Williams,MIN,Under 1.5 Steals,-144,Hit in 3 of his last 4 games vs MIN,75%,False,3.0
+Alex Caruso,MIN,Over 10.5 PTS+REB,-106,Hit in 3 of his last 4 games,75%,True,16.0
+Alex Caruso,MIN,Under 1.5 3PTM,-198,Hit in 3 of his last 4 games,75%,False,2.0
+Alex Caruso,MIN,Under 1.5 3PTM,-198,Hit in 3 of his last 4 games vs MIN,75%,False,2.0
+Cason Wallace,MIN,Over 11.5 PTS+AST+REB,-130,Hit in 3 of his last 4 games vs MIN,75%,True,12.0
+Cason Wallace,MIN,Over 2.5 Rebounds,-174,Hit in 3 of his last 4 games vs MIN,75%,True,3.0
+Cason Wallace,MIN,Over 2.5 Assists,125,Hit in 3 of his last 4 games,75%,True,3.0
+Shai Gilgeous-Alexander,MIN,Over 38.5 PTS+AST,-110,Hit in 3 of his last 4 games,75%,True,54.0
+Shai Gilgeous-Alexander,MIN,Over 1.5 Steals,-114,Hit in 6 of his last 8 games,75%,False,1.0
+Chet Holmgren,MIN,Under 25.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%,False,26.0
+Chet Holmgren,MIN,Over 14.5 Points,-132,Hit in 3 of his last 4 games vs MIN,75%,True,25.0
+Chet Holmgren,MIN,Under 9.5 REB+AST,-105,Hit in 6 of his last 8 games vs MIN,75%,True,8.0
+Chet Holmgren,MIN,Over 16.5 PTS+AST,-125,Hit in 3 of his last 4 games vs MIN,75%,True,26.0
+Naz Reid,OKL,Under 11.5 Points,-122,OKL rank 3rd in PTS versus C,3rd,False,13.0
+Anthony Edwards,OKL,Under 1.5 Steals,-220,OKL rank 1st in STL versus SG,1st,True,0.0
+Julius Randle,OKL,Over 1.5 3PTM,-102,OKL rank 26th in 3PTM versus PF,26th,False,0.0
+Mike Conley,OKL,Under 3.5 Assists,-188,OKL rank 4th in AST against,4th,True,3.0
+Jaden McDaniels,OKL,Over 1.5 3PTM,104,OKL rank 26th in 3PTM versus PF,26th,True,3.0
+Jaden McDaniels,OKL,Under 12.5 Points,-114,OKL rank 3rd in PTS against,3rd,False,28.0
+Nickeil Alexander-Walker,OKL,Under 2.5 Assists,-186,OKL rank 4th in AST against,4th,False,6.0
+Isaiah Joe,MIN,Under 0.5 3PTM,100,MIN rank 3rd in 3PTM against,3rd,False,1.0
+Isaiah Joe,MIN,Under 2.5 Points,120,MIN rank 5th in PTS against,5th,False,7.0
+Isaiah Hartenstein,MIN,Under 2.5 Assists,-188,MIN rank 5th in AST against,5th,True,2.0
+Isaiah Hartenstein,MIN,Under 7.5 Rebounds,-122,MIN rank 3rd in REB versus C,3rd,True,6.0
+Luguentz Dort,MIN,Under 1.5 3PTM,100,MIN rank 3rd in 3PTM against,3rd,True,1.0
+Luguentz Dort,MIN,Under 7.5 Points,-118,MIN rank 5th in PTS against,5th,True,6.0
+Jalen Williams,MIN,Under 20.5 Points,-120,MIN rank 5th in PTS against,5th,False,46.0
+Alex Caruso,MIN,Under 1.5 3PTM,-198,MIN rank 3rd in 3PTM against,3rd,False,2.0
+Shai Gilgeous-Alexander,MIN,Under 1.5 3PTM,-114,MIN rank 1st in 3PTM versus PG,1st,False,2.0
+Shai Gilgeous-Alexander,MIN,Under 31.5 Points,-125,MIN rank 4th in PTS versus PG,4th,False,44.0
+Shai Gilgeous-Alexander,MIN,Under 0.5 Blocks,-130,MIN rank 2nd in BLK versus PG,2nd,True,0.0
+Chet Holmgren,MIN,Under 8.5 Rebounds,-144,MIN rank 3rd in REB versus C,3rd,True,7.0
+Chet Holmgren,MIN,Under 1.5 3PTM,-152,MIN rank 3rd in 3PTM versus C,3rd,False,2.0
+Anthony Edwards,OKL,Under 27.5 Points,-112,OKL rank 3rd in PTS against,3rd,True,18.0
+Mike Conley,OKL,Under 6.5 Points,-108,OKL rank 2nd in PTS versus PG,2nd,False,10.0
+Cason Wallace,MIN,Under 6.5 Points,-122,MIN rank 5th in PTS against,5th,False,9.0
