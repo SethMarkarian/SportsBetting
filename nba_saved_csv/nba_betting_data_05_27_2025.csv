@@ -1,173 +1,159 @@
-Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage
-Andrew Nembhard,NYK,Under 8.5 REB+AST,-130,Hit in 5 of his last 5 games vs NYK,100%
-Andrew Nembhard,NYK,Under 4.5 Assists,102,Hit in 5 of his last 5 games vs NYK,100%
-Andrew Nembhard,NYK,Under 1.5 Steals,-200,Hit in 4 of his last 4 games,100%
-Andrew Nembhard,NYK,Under 0.5 Blocks,-350,Hit in 6 of his last 6 games vs NYK,100%
-Tyrese Haliburton,NYK,Under 0.5 Blocks,-114,Hit in 6 of his last 6 games vs NYK,100%
-Myles Turner,NYK,Under 1.5 3PTM,116,Hit in 4 of his last 4 games,100%
-Myles Turner,NYK,Over 14.5 Points,-130,Hit in 6 of his last 6 home games,100%
-Pascal Siakam,NYK,Under 5.5 Rebounds,122,Hit in 4 of his last 4 games vs NYK,100%
-T.J. McConnell,NYK,Over 11.5 PTS+AST,-125,Hit in 4 of his last 4 games vs NYK,100%
-T.J. McConnell,NYK,Over 11.5 PTS+AST,-125,Hit in 4 of his last 4 home games,100%
-T.J. McConnell,NYK,Over 14.5 PTS+AST+REB,-106,Hit in 7 of his last 7 home games,100%
-T.J. McConnell,NYK,Over 8.5 Points,-104,Hit in 4 of his last 4 home games,100%
-Obi Toppin,NYK,Under 8.5 Points,-128,Hit in 4 of his last 4 games,100%
-Obi Toppin,NYK,Under 0.5 3PTM,105,Hit in 4 of his last 4 games,100%
-Obi Toppin,NYK,Under 0.5 3PTM,105,Hit in 6 of his last 6 games vs NYK,100%
-Mikal Bridges,IND,Under 1.5 3PTM,-120,Hit in 5 of his last 5 games vs IND,100%
-Jalen Brunson,IND,Under 3.5 Rebounds,-192,Hit in 4 of his last 4 games vs IND,100%
-OG Anunoby,IND,Over 1.5 3PTM,-182,Hit in 4 of his last 4 games,100%
-OG Anunoby,IND,Over 1.5 3PTM,-182,Hit in 4 of his last 4 games vs IND,100%
-OG Anunoby,IND,Over 15.5 Points,-114,Hit in 4 of his last 4 games,100%
-OG Anunoby,IND,Over 15.5 Points,-114,Hit in 4 of his last 4 games vs IND,100%
-OG Anunoby,IND,Under 6.5 REB+AST,-110,Hit in 6 of his last 6 games vs IND,100%
-OG Anunoby,IND,Over 16.5 PTS+AST,-130,Hit in 4 of his last 4 games,100%
-OG Anunoby,IND,Over 16.5 PTS+AST,-130,Hit in 4 of his last 4 games vs IND,100%
-Mitchell Robinson,IND,Under 15.5 PTS+AST+REB,-130,Hit in 4 of his last 4 games,100%
-Mitchell Robinson,IND,Under 15.5 PTS+AST+REB,-130,Hit in 4 of his last 4 games vs IND,100%
-Mitchell Robinson,IND,Under 9.5 REB+AST,-130,Hit in 4 of his last 4 games,100%
-Mitchell Robinson,IND,Under 9.5 REB+AST,-130,Hit in 4 of his last 4 games vs IND,100%
-Karl-Anthony Towns,IND,Over 1.5 3PTM,-152,Hit in 7 of his last 7 games vs IND,100%
-Jason Hart,IND,Over 17.5 PTS+REB,-106,Hit in 6 of his last 6 away games,100%
-Miles McBride,IND,Over 6.5 Points,-145,Hit in 10 of his last 11 games vs IND,91%
-Jason Hart,IND,Over 13.5 PTS+AST,-112,Hit in 10 of his last 11 away games,91%
-Jason Hart,IND,Over 22.5 PTS+AST+REB,-102,Hit in 10 of his last 11 away games,91%
-Myles Turner,NYK,Over 1.5 Blocks,-178,Hit in 9 of his last 10 games vs NYK,90%
-Mitchell Robinson,IND,Under 1.5 Blocks,-220,Hit in 9 of his last 10 games,90%
-Pascal Siakam,NYK,Under 0.5 Blocks,-200,Hit in 8 of his last 9 games,89%
-Karl-Anthony Towns,IND,Under 1.5 Assists,-102,Hit in 8 of his last 9 games,89%
-Myles Turner,NYK,Over 6.5 REB+AST,-135,Hit in 14 of his last 16 home games,88%
-Pascal Siakam,NYK,Over 2.5 Assists,-162,Hit in 7 of his last 8 games,88%
-Mitchell Robinson,IND,Over 0.5 Assists,-140,Hit in 7 of his last 8 games vs IND,88%
-Karl-Anthony Towns,IND,Over 33.5 PTS+REB,-125,Hit in 7 of his last 8 games vs IND,88%
-Karl-Anthony Towns,IND,Over 35.5 PTS+AST+REB,-120,Hit in 7 of his last 8 games vs IND,88%
-Andrew Nembhard,NYK,Under 1.5 Steals,-200,Hit in 12 of his last 14 games vs NYK,86%
-Miles McBride,IND,Under 1.5 Assists,-135,Hit in 12 of his last 14 games,86%
-Mikal Bridges,IND,Under 3.5 Assists,-158,Hit in 6 of his last 7 games,86%
-Mikal Bridges,IND,Under 1.5 3PTM,-120,Hit in 6 of his last 7 games,86%
-OG Anunoby,IND,Under 4.5 Rebounds,102,Hit in 6 of his last 7 games vs IND,86%
-Jason Hart,IND,Over 17.5 PTS+REB,-106,Hit in 6 of his last 7 games vs IND,86%
-OG Anunoby,IND,Over 1.5 3PTM,-182,Hit in 17 of his last 20 away games,85%
-Andrew Nembhard,NYK,Under 0.5 Blocks,-350,Hit in 16 of his last 19 games,84%
-Tyrese Haliburton,NYK,Under 0.5 Blocks,-114,Hit in 5 of his last 6 games,83%
-Pascal Siakam,NYK,Under 0.5 Blocks,-200,Hit in 5 of his last 6 games vs NYK,83%
-Aaron Nesmith,NYK,Over 11.5 Points,-114,Hit in 10 of his last 12 games,83%
-T.J. McConnell,NYK,Over 11.5 PTS+AST,-125,Hit in 5 of his last 6 games,83%
-T.J. McConnell,NYK,Over 14.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games,83%
-T.J. McConnell,NYK,Over 8.5 Points,-104,Hit in 5 of his last 6 games,83%
-Obi Toppin,NYK,Under 8.5 Points,-128,Hit in 5 of his last 6 games vs NYK,83%
-Obi Toppin,NYK,Under 13.5 PTS+AST+REB,-125,Hit in 5 of his last 6 games vs NYK,83%
-OG Anunoby,IND,Under 22.5 PTS+AST+REB,-122,Hit in 5 of his last 6 games vs IND,83%
-OG Anunoby,IND,Over 1.5 Assists,-120,Hit in 5 of his last 6 games,83%
-Mitchell Robinson,IND,Under 8.5 Rebounds,-122,Hit in 15 of his last 18 games,83%
-Jason Hart,IND,Over 8.5 Rebounds,102,Hit in 5 of his last 6 games vs IND,83%
-Jason Hart,IND,Over 0.5 3PTM,-136,Hit in 5 of his last 6 away games,83%
-Jason Hart,IND,Over 8.5 Points,-122,Hit in 5 of his last 6 away games,83%
-Tyrese Haliburton,NYK,Under 1.5 Steals,-186,Hit in 14 of his last 17 games,82%
-Myles Turner,NYK,Over 1.5 Blocks,-178,Hit in 14 of his last 17 home games,82%
-Myles Turner,NYK,Over 6.5 REB+AST,-135,Hit in 9 of his last 11 games vs NYK,82%
-Aaron Nesmith,NYK,Under 13.5 PTS+AST,-115,Hit in 9 of his last 11 games vs NYK,82%
-Karl-Anthony Towns,IND,Over 0.5 Double Double,-280,Hit in 9 of his last 11 games,82%
-Andrew Nembhard,NYK,Under 16.5 PTS+AST,-122,Hit in 4 of his last 5 games vs NYK,80%
-Andrew Nembhard,NYK,Under 15.5 PTS+REB,-132,Hit in 4 of his last 5 games vs NYK,80%
-Andrew Nembhard,NYK,Under 19.5 PTS+AST+REB,-102,Hit in 4 of his last 5 games vs NYK,80%
-Tyrese Haliburton,NYK,Over 8.5 Assists,-138,Hit in 16 of his last 20 home games,80%
-Myles Turner,NYK,Under 1.5 3PTM,116,Hit in 4 of his last 5 games vs NYK,80%
-Myles Turner,NYK,Over 6.5 REB+AST,-135,Hit in 8 of his last 10 games,80%
-Pascal Siakam,NYK,Over 22.5 PTS+AST,-128,Hit in 4 of his last 5 games,80%
-Pascal Siakam,NYK,Over 0.5 Steals,-158,Hit in 4 of his last 5 games,80%
-Aaron Nesmith,NYK,Over 0.5 Assists,-210,Hit in 4 of his last 5 home games,80%
-T.J. McConnell,NYK,Over 2.5 Rebounds,110,Hit in 4 of his last 5 home games,80%
-Miles McBride,IND,Under 1.5 Assists,-135,Hit in 4 of his last 5 games vs IND,80%
-Miles McBride,IND,Under 1.5 3PTM,-165,Hit in 4 of his last 5 games vs IND,80%
-Miles McBride,IND,Over 6.5 Points,-145,Hit in 4 of his last 5 games,80%
-Mikal Bridges,IND,Over 7.5 REB+AST,-102,Hit in 4 of his last 5 games vs IND,80%
-Mikal Bridges,IND,Over 3.5 Rebounds,-162,Hit in 4 of his last 5 games vs IND,80%
-Mikal Bridges,IND,Under 16.5 Points,-114,Hit in 4 of his last 5 games vs IND,80%
-Jalen Brunson,IND,Under 6.5 Assists,-102,Hit in 4 of his last 5 games,80%
-Jalen Brunson,IND,Under 3.5 Rebounds,-192,Hit in 4 of his last 5 games,80%
-Jalen Brunson,IND,Under 2.5 3PTM,-132,Hit in 4 of his last 5 games vs IND,80%
-OG Anunoby,IND,Under 22.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games,80%
-OG Anunoby,IND,Over 0.5 Blocks,-210,Hit in 4 of his last 5 games,80%
-OG Anunoby,IND,Over 0.5 Blocks,-210,Hit in 4 of his last 5 away games,80%
-Mitchell Robinson,IND,Under 14.5 PTS+REB,-114,Hit in 12 of his last 15 games,80%
-Mitchell Robinson,IND,Over 0.5 Steals,-210,Hit in 4 of his last 5 games,80%
-Karl-Anthony Towns,IND,Over 23.5 PTS+AST,-130,Hit in 4 of his last 5 games vs IND,80%
-Karl-Anthony Towns,IND,Over 11.5 Rebounds,-122,Hit in 4 of his last 5 away games,80%
-Karl-Anthony Towns,IND,Over 22.5 Points,-106,Hit in 4 of his last 5 games vs IND,80%
-Jason Hart,IND,Over 13.5 REB+AST,104,Hit in 4 of his last 5 games vs IND,80%
-Jason Hart,IND,Over 17.5 PTS+REB,-106,Hit in 4 of his last 5 games,80%
-Mikal Bridges,IND,Over 3.5 Rebounds,-162,Hit in 11 of his last 14 games,79%
-Andrew Nembhard,NYK,Over 3.5 Rebounds,-110,Hit in 3 of his last 4 home games,75%
-Andrew Nembhard,NYK,Over 1.5 3PTM,136,Hit in 3 of his last 4 games,75%
-Andrew Nembhard,NYK,Over 11.5 Points,-112,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,NYK,Over 13.5 REB+AST,-112,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,NYK,Under 30.5 PTS+AST,-108,Hit in 3 of his last 4 games vs NYK,75%
-Tyrese Haliburton,NYK,Under 26.5 PTS+REB,-125,Hit in 15 of his last 20 games,75%
-Tyrese Haliburton,NYK,Under 26.5 PTS+REB,-125,Hit in 3 of his last 4 games vs NYK,75%
-Tyrese Haliburton,NYK,Under 35.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games vs NYK,75%
-Tyrese Haliburton,NYK,Over 2.5 3PTM,-186,Hit in 3 of his last 4 games,75%
-Tyrese Haliburton,NYK,Under 21.5 Points,-114,Hit in 3 of his last 4 games vs NYK,75%
-Myles Turner,NYK,Under 20.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%
-Myles Turner,NYK,Under 22.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%
-Myles Turner,NYK,Over 5.5 Rebounds,-106,Hit in 12 of his last 16 home games,75%
-Myles Turner,NYK,Over 14.5 Points,-130,Hit in 6 of his last 8 games vs NYK,75%
-Myles Turner,NYK,Over 1.5 Blocks,-178,Hit in 6 of his last 8 games,75%
-Myles Turner,NYK,Under 17.5 PTS+AST,-140,Hit in 3 of his last 4 games,75%
-Pascal Siakam,NYK,Under 9.5 REB+AST,-152,Hit in 3 of his last 4 games vs NYK,75%
-Pascal Siakam,NYK,Over 22.5 PTS+AST,-128,Hit in 3 of his last 4 games vs NYK,75%
-Pascal Siakam,NYK,Over 0.5 Steals,-158,Hit in 3 of his last 4 games vs NYK,75%
-Aaron Nesmith,NYK,Over 4.5 Rebounds,-146,Hit in 3 of his last 4 games,75%
-Aaron Nesmith,NYK,Over 4.5 Rebounds,-146,Hit in 6 of his last 8 home games,75%
-Aaron Nesmith,NYK,Over 1.5 3PTM,-166,Hit in 9 of his last 12 games,75%
-Aaron Nesmith,NYK,Over 5.5 REB+AST,-155,Hit in 3 of his last 4 games,75%
-Aaron Nesmith,NYK,Over 5.5 REB+AST,-155,Hit in 6 of his last 8 home games,75%
-Aaron Nesmith,NYK,Over 17.5 PTS+REB,100,Hit in 9 of his last 12 games,75%
-Aaron Nesmith,NYK,Over 0.5 Assists,-210,Hit in 12 of his last 16 games vs NYK,75%
-Aaron Nesmith,NYK,Over 0.5 Blocks,-145,Hit in 6 of his last 8 games,75%
-T.J. McConnell,NYK,Under 3.5 Assists,-138,Hit in 3 of his last 4 games,75%
-T.J. McConnell,NYK,Over 2.5 Rebounds,110,Hit in 9 of his last 12 games,75%
-Obi Toppin,NYK,Under 1.5 Assists,-175,Hit in 3 of his last 4 games vs NYK,75%
-Obi Toppin,NYK,Under 13.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%
-Miles McBride,IND,Under 1.5 Rebounds,-105,Hit in 6 of his last 8 games,75%
-Miles McBride,IND,Over 6.5 Points,-145,Hit in 3 of his last 4 away games,75%
-Mikal Bridges,IND,Over 19.5 PTS+AST,-132,Hit in 3 of his last 4 games,75%
-Mikal Bridges,IND,Over 20.5 PTS+REB,-120,Hit in 3 of his last 4 games,75%
-Mikal Bridges,IND,Over 24.5 PTS+AST+REB,-102,Hit in 3 of his last 4 games,75%
-Mikal Bridges,IND,Under 0.5 Blocks,130,Hit in 3 of his last 4 games vs IND,75%
-Mikal Bridges,IND,Over 1.5 Steals,162,Hit in 3 of his last 4 away games,75%
-Jalen Brunson,IND,Under 9.5 REB+AST,104,Hit in 3 of his last 4 games vs IND,75%
-OG Anunoby,IND,Over 1.5 Steals,126,Hit in 3 of his last 4 games,75%
-OG Anunoby,IND,Over 1.5 Steals,126,Hit in 3 of his last 4 games vs IND,75%
-OG Anunoby,IND,Under 6.5 REB+AST,-110,Hit in 6 of his last 8 games,75%
-OG Anunoby,IND,Over 1.5 Assists,-120,Hit in 3 of his last 4 games vs IND,75%
-OG Anunoby,IND,Over 1.5 Assists,-120,Hit in 3 of his last 4 away games,75%
-Mitchell Robinson,IND,Under 14.5 PTS+REB,-114,Hit in 3 of his last 4 games vs IND,75%
-Mitchell Robinson,IND,Under 8.5 Rebounds,-122,Hit in 3 of his last 4 games vs IND,75%
-Mitchell Robinson,IND,Over 5.5 Points,-125,Hit in 6 of his last 8 games vs IND,75%
-Mitchell Robinson,IND,Under 1.5 Blocks,-220,Hit in 3 of his last 4 games vs IND,75%
-Mitchell Robinson,IND,Over 0.5 Steals,-210,Hit in 6 of his last 8 games vs IND,75%
-Mitchell Robinson,IND,Under 6.5 PTS+AST,-110,Hit in 3 of his last 4 games,75%
-Mitchell Robinson,IND,Under 6.5 PTS+AST,-110,Hit in 3 of his last 4 games vs IND,75%
-Karl-Anthony Towns,IND,Over 13.5 REB+AST,-108,Hit in 6 of his last 8 games vs IND,75%
-Karl-Anthony Towns,IND,Over 11.5 Rebounds,-122,Hit in 3 of his last 4 games,75%
-Karl-Anthony Towns,IND,Over 11.5 Rebounds,-122,Hit in 3 of his last 4 games vs IND,75%
-Karl-Anthony Towns,IND,Under 0.5 Blocks,-130,Hit in 3 of his last 4 games,75%
-Karl-Anthony Towns,IND,Under 0.5 Blocks,-130,Hit in 3 of his last 4 games vs IND,75%
-Karl-Anthony Towns,IND,Over 0.5 Double Double,-280,Hit in 6 of his last 8 games vs IND,75%
-Jason Hart,IND,Over 13.5 REB+AST,104,Hit in 3 of his last 4 games,75%
-Jason Hart,IND,Over 13.5 REB+AST,104,Hit in 6 of his last 8 away games,75%
-Jason Hart,IND,Over 8.5 Rebounds,102,Hit in 3 of his last 4 games,75%
-Jason Hart,IND,Over 8.5 Rebounds,102,Hit in 6 of his last 8 away games,75%
-Jason Hart,IND,Over 0.5 3PTM,-136,Hit in 12 of his last 16 games,75%
-Obi Toppin,NYK,Over 11.5 PTS+REB,-130,Hit in 3 of his last 4 games vs NYK,75%
-Aaron Nesmith,NYK,Over 17.5 PTS+AST+REB,-125,Hit in 9 of his last 12 games,75%
-Andrew Nembhard,NYK,Under 1.5 Steals,-200,NYK rank 3rd in STL against,3rd
-Tyrese Haliburton,NYK,Under 4.5 Rebounds,-136,NYK rank 2nd in REB against,2nd
-Tyrese Haliburton,NYK,Under 1.5 Steals,-186,NYK rank 3rd in STL versus PG,3rd
-Pascal Siakam,NYK,Under 5.5 Rebounds,122,NYK rank 2nd in REB versus PF,2nd
-Obi Toppin,NYK,Under 3.5 Rebounds,-114,NYK rank 2nd in REB versus PF,2nd
-Mitchell Robinson,IND,Under 1.5 Blocks,-220,IND rank 3rd in BLK versus C,3rd
-Karl-Anthony Towns,IND,Under 1.5 Assists,-102,IND rank 4th in AST versus C,4th
-Karl-Anthony Towns,IND,Under 0.5 Blocks,-130,IND rank 3rd in BLK versus C,3rd
-Karl-Anthony Towns,IND,Under 0.5 Steals,-130,IND rank 4th in STL against,4th
+Player Name,Opponent,Market,Odds,Trend Context,Linemate Percentage,Bet Hit,Actual Value
+Andrew Nembhard,NYK,Under 8.5 REB+AST,-130,Hit in 5 of his last 5 games vs NYK,100%,True,5.0
+Andrew Nembhard,NYK,Under 4.5 Assists,102,Hit in 5 of his last 5 games vs NYK,100%,True,3.0
+Andrew Nembhard,NYK,Under 1.5 Steals,-200,Hit in 4 of his last 4 games,100%,True,1.0
+Andrew Nembhard,NYK,Under 0.5 Blocks,-350,Hit in 6 of his last 6 games vs NYK,100%,True,0.0
+Tyrese Haliburton,NYK,Under 0.5 Blocks,-114,Hit in 6 of his last 6 games vs NYK,100%,True,0.0
+Myles Turner,NYK,Under 1.5 3PTM,116,Hit in 4 of his last 4 games,100%,True,1.0
+Myles Turner,NYK,Over 14.5 Points,-130,Hit in 6 of his last 6 home games,100%,True,15.0
+Pascal Siakam,NYK,Under 5.5 Rebounds,122,Hit in 4 of his last 4 games vs NYK,100%,True,5.0
+T.J. McConnell,NYK,Over 11.5 PTS+AST,-125,Hit in 4 of his last 4 games vs NYK,100%,False,9.0
+T.J. McConnell,NYK,Over 11.5 PTS+AST,-125,Hit in 4 of his last 4 home games,100%,False,9.0
+T.J. McConnell,NYK,Over 14.5 PTS+AST+REB,-106,Hit in 7 of his last 7 home games,100%,False,9.0
+T.J. McConnell,NYK,Over 8.5 Points,-104,Hit in 4 of his last 4 home games,100%,False,6.0
+Obi Toppin,NYK,Under 8.5 Points,-128,Hit in 4 of his last 4 games,100%,True,7.0
+Obi Toppin,NYK,Under 0.5 3PTM,105,Hit in 4 of his last 4 games,100%,False,1.0
+Obi Toppin,NYK,Under 0.5 3PTM,105,Hit in 6 of his last 6 games vs NYK,100%,False,1.0
+Mikal Bridges,IND,Under 1.5 3PTM,-120,Hit in 5 of his last 5 games vs IND,100%,False,4.0
+Jalen Brunson,IND,Under 3.5 Rebounds,-192,Hit in 4 of his last 4 games vs IND,100%,True,2.0
+OG Anunoby,IND,Over 1.5 3PTM,-182,Hit in 4 of his last 4 games,100%,False,1.0
+OG Anunoby,IND,Over 1.5 3PTM,-182,Hit in 4 of his last 4 games vs IND,100%,False,1.0
+OG Anunoby,IND,Over 15.5 Points,-114,Hit in 4 of his last 4 games,100%,True,24.0
+OG Anunoby,IND,Over 15.5 Points,-114,Hit in 4 of his last 4 games vs IND,100%,True,24.0
+OG Anunoby,IND,Under 6.5 REB+AST,-110,Hit in 6 of his last 6 games vs IND,100%,True,5.0
+OG Anunoby,IND,Over 16.5 PTS+AST,-130,Hit in 4 of his last 4 games,100%,True,25.0
+OG Anunoby,IND,Over 16.5 PTS+AST,-130,Hit in 4 of his last 4 games vs IND,100%,True,25.0
+Mitchell Robinson,IND,Under 15.5 PTS+AST+REB,-130,Hit in 4 of his last 4 games,100%,True,7.0
+Mitchell Robinson,IND,Under 15.5 PTS+AST+REB,-130,Hit in 4 of his last 4 games vs IND,100%,True,7.0
+Mitchell Robinson,IND,Under 9.5 REB+AST,-130,Hit in 4 of his last 4 games,100%,True,8.0
+Mitchell Robinson,IND,Under 9.5 REB+AST,-130,Hit in 4 of his last 4 games vs IND,100%,True,8.0
+Karl-Anthony Towns,IND,Over 1.5 3PTM,-152,Hit in 7 of his last 7 games vs IND,100%,False,1.0
+Miles McBride,IND,Over 6.5 Points,-145,Hit in 10 of his last 11 games vs IND,91%,False,5.0
+Myles Turner,NYK,Over 1.5 Blocks,-178,Hit in 9 of his last 10 games vs NYK,90%,True,3.0
+Mitchell Robinson,IND,Under 1.5 Blocks,-220,Hit in 9 of his last 10 games,90%,True,0.0
+Pascal Siakam,NYK,Under 0.5 Blocks,-200,Hit in 8 of his last 9 games,89%,False,1.0
+Karl-Anthony Towns,IND,Under 1.5 Assists,-102,Hit in 8 of his last 9 games,89%,False,3.0
+Myles Turner,NYK,Over 6.5 REB+AST,-135,Hit in 14 of his last 16 home games,88%,False,4.0
+Pascal Siakam,NYK,Over 2.5 Assists,-162,Hit in 7 of his last 8 games,88%,False,2.0
+Mitchell Robinson,IND,Over 0.5 Assists,-140,Hit in 7 of his last 8 games vs IND,88%,True,1.0
+Karl-Anthony Towns,IND,Over 33.5 PTS+REB,-125,Hit in 7 of his last 8 games vs IND,88%,True,38.0
+Karl-Anthony Towns,IND,Over 35.5 PTS+AST+REB,-120,Hit in 7 of his last 8 games vs IND,88%,False,29.0
+Andrew Nembhard,NYK,Under 1.5 Steals,-200,Hit in 12 of his last 14 games vs NYK,86%,True,1.0
+Miles McBride,IND,Under 1.5 Assists,-135,Hit in 12 of his last 14 games,86%,True,0.0
+Mikal Bridges,IND,Under 3.5 Assists,-158,Hit in 6 of his last 7 games,86%,True,2.0
+Mikal Bridges,IND,Under 1.5 3PTM,-120,Hit in 6 of his last 7 games,86%,False,4.0
+OG Anunoby,IND,Under 4.5 Rebounds,102,Hit in 6 of his last 7 games vs IND,86%,True,4.0
+OG Anunoby,IND,Over 1.5 3PTM,-182,Hit in 17 of his last 20 away games,85%,False,1.0
+Andrew Nembhard,NYK,Under 0.5 Blocks,-350,Hit in 16 of his last 19 games,84%,True,0.0
+Tyrese Haliburton,NYK,Under 0.5 Blocks,-114,Hit in 5 of his last 6 games,83%,True,0.0
+Pascal Siakam,NYK,Under 0.5 Blocks,-200,Hit in 5 of his last 6 games vs NYK,83%,False,1.0
+Aaron Nesmith,NYK,Over 11.5 Points,-114,Hit in 10 of his last 12 games,83%,True,20.0
+T.J. McConnell,NYK,Over 11.5 PTS+AST,-125,Hit in 5 of his last 6 games,83%,False,9.0
+T.J. McConnell,NYK,Over 14.5 PTS+AST+REB,-106,Hit in 5 of his last 6 games,83%,False,9.0
+T.J. McConnell,NYK,Over 8.5 Points,-104,Hit in 5 of his last 6 games,83%,False,6.0
+Obi Toppin,NYK,Under 8.5 Points,-128,Hit in 5 of his last 6 games vs NYK,83%,True,7.0
+Obi Toppin,NYK,Under 13.5 PTS+AST+REB,-125,Hit in 5 of his last 6 games vs NYK,83%,True,9.0
+OG Anunoby,IND,Under 22.5 PTS+AST+REB,-122,Hit in 5 of his last 6 games vs IND,83%,False,25.0
+OG Anunoby,IND,Over 1.5 Assists,-120,Hit in 5 of his last 6 games,83%,False,1.0
+Mitchell Robinson,IND,Under 8.5 Rebounds,-122,Hit in 15 of his last 18 games,83%,True,7.0
+Tyrese Haliburton,NYK,Under 1.5 Steals,-186,Hit in 14 of his last 17 games,82%,False,4.0
+Myles Turner,NYK,Over 1.5 Blocks,-178,Hit in 14 of his last 17 home games,82%,True,3.0
+Myles Turner,NYK,Over 6.5 REB+AST,-135,Hit in 9 of his last 11 games vs NYK,82%,False,4.0
+Aaron Nesmith,NYK,Under 13.5 PTS+AST,-115,Hit in 9 of his last 11 games vs NYK,82%,False,21.0
+Karl-Anthony Towns,IND,Over 0.5 Double Double,-280,Hit in 9 of his last 11 games,82%,True,1.0
+Andrew Nembhard,NYK,Under 16.5 PTS+AST,-122,Hit in 4 of his last 5 games vs NYK,80%,True,8.0
+Andrew Nembhard,NYK,Under 15.5 PTS+REB,-132,Hit in 4 of his last 5 games vs NYK,80%,True,7.0
+Andrew Nembhard,NYK,Under 19.5 PTS+AST+REB,-102,Hit in 4 of his last 5 games vs NYK,80%,True,8.0
+Tyrese Haliburton,NYK,Over 8.5 Assists,-138,Hit in 16 of his last 20 home games,80%,True,15.0
+Myles Turner,NYK,Under 1.5 3PTM,116,Hit in 4 of his last 5 games vs NYK,80%,True,1.0
+Myles Turner,NYK,Over 6.5 REB+AST,-135,Hit in 8 of his last 10 games,80%,False,4.0
+Pascal Siakam,NYK,Over 22.5 PTS+AST,-128,Hit in 4 of his last 5 games,80%,True,38.0
+Pascal Siakam,NYK,Over 0.5 Steals,-158,Hit in 4 of his last 5 games,80%,True,1.0
+Aaron Nesmith,NYK,Over 0.5 Assists,-210,Hit in 4 of his last 5 home games,80%,True,1.0
+T.J. McConnell,NYK,Over 2.5 Rebounds,110,Hit in 4 of his last 5 home games,80%,False,0.0
+Miles McBride,IND,Under 1.5 Assists,-135,Hit in 4 of his last 5 games vs IND,80%,True,0.0
+Miles McBride,IND,Under 1.5 3PTM,-165,Hit in 4 of his last 5 games vs IND,80%,True,1.0
+Miles McBride,IND,Over 6.5 Points,-145,Hit in 4 of his last 5 games,80%,False,5.0
+Mikal Bridges,IND,Over 7.5 REB+AST,-102,Hit in 4 of his last 5 games vs IND,80%,False,5.0
+Mikal Bridges,IND,Over 3.5 Rebounds,-162,Hit in 4 of his last 5 games vs IND,80%,False,3.0
+Mikal Bridges,IND,Under 16.5 Points,-114,Hit in 4 of his last 5 games vs IND,80%,False,25.0
+Jalen Brunson,IND,Under 6.5 Assists,-102,Hit in 4 of his last 5 games,80%,True,5.0
+Jalen Brunson,IND,Under 3.5 Rebounds,-192,Hit in 4 of his last 5 games,80%,True,2.0
+Jalen Brunson,IND,Under 2.5 3PTM,-132,Hit in 4 of his last 5 games vs IND,80%,True,2.0
+OG Anunoby,IND,Under 22.5 PTS+AST+REB,-122,Hit in 4 of his last 5 games,80%,False,25.0
+OG Anunoby,IND,Over 0.5 Blocks,-210,Hit in 4 of his last 5 games,80%,True,2.0
+OG Anunoby,IND,Over 0.5 Blocks,-210,Hit in 4 of his last 5 away games,80%,True,2.0
+Mitchell Robinson,IND,Under 14.5 PTS+REB,-114,Hit in 12 of his last 15 games,80%,True,13.0
+Mitchell Robinson,IND,Over 0.5 Steals,-210,Hit in 4 of his last 5 games,80%,True,1.0
+Karl-Anthony Towns,IND,Over 23.5 PTS+AST,-130,Hit in 4 of his last 5 games vs IND,80%,True,29.0
+Karl-Anthony Towns,IND,Over 11.5 Rebounds,-122,Hit in 4 of his last 5 away games,80%,True,12.0
+Karl-Anthony Towns,IND,Over 22.5 Points,-106,Hit in 4 of his last 5 games vs IND,80%,True,26.0
+Mikal Bridges,IND,Over 3.5 Rebounds,-162,Hit in 11 of his last 14 games,79%,False,3.0
+Andrew Nembhard,NYK,Over 3.5 Rebounds,-110,Hit in 3 of his last 4 home games,75%,False,2.0
+Andrew Nembhard,NYK,Over 1.5 3PTM,136,Hit in 3 of his last 4 games,75%,False,1.0
+Andrew Nembhard,NYK,Over 11.5 Points,-112,Hit in 3 of his last 4 games,75%,False,5.0
+Tyrese Haliburton,NYK,Over 13.5 REB+AST,-112,Hit in 3 of his last 4 games,75%,True,27.0
+Tyrese Haliburton,NYK,Under 30.5 PTS+AST,-108,Hit in 3 of his last 4 games vs NYK,75%,False,57.0
+Tyrese Haliburton,NYK,Under 26.5 PTS+REB,-125,Hit in 15 of his last 20 games,75%,False,54.0
+Tyrese Haliburton,NYK,Under 26.5 PTS+REB,-125,Hit in 3 of his last 4 games vs NYK,75%,False,54.0
+Tyrese Haliburton,NYK,Under 35.5 PTS+AST+REB,-118,Hit in 3 of his last 4 games vs NYK,75%,False,57.0
+Tyrese Haliburton,NYK,Over 2.5 3PTM,-186,Hit in 3 of his last 4 games,75%,True,5.0
+Tyrese Haliburton,NYK,Under 21.5 Points,-114,Hit in 3 of his last 4 games vs NYK,75%,False,42.0
+Myles Turner,NYK,Under 20.5 PTS+REB,-112,Hit in 3 of his last 4 games,75%,True,18.0
+Myles Turner,NYK,Under 22.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%,True,16.0
+Myles Turner,NYK,Over 5.5 Rebounds,-106,Hit in 12 of his last 16 home games,75%,False,3.0
+Myles Turner,NYK,Over 14.5 Points,-130,Hit in 6 of his last 8 games vs NYK,75%,True,15.0
+Myles Turner,NYK,Over 1.5 Blocks,-178,Hit in 6 of his last 8 games,75%,True,3.0
+Myles Turner,NYK,Under 17.5 PTS+AST,-140,Hit in 3 of his last 4 games,75%,True,16.0
+Pascal Siakam,NYK,Under 9.5 REB+AST,-152,Hit in 3 of his last 4 games vs NYK,75%,True,7.0
+Pascal Siakam,NYK,Over 22.5 PTS+AST,-128,Hit in 3 of his last 4 games vs NYK,75%,True,38.0
+Pascal Siakam,NYK,Over 0.5 Steals,-158,Hit in 3 of his last 4 games vs NYK,75%,True,1.0
+Aaron Nesmith,NYK,Over 4.5 Rebounds,-146,Hit in 3 of his last 4 games,75%,False,3.0
+Aaron Nesmith,NYK,Over 4.5 Rebounds,-146,Hit in 6 of his last 8 home games,75%,False,3.0
+Aaron Nesmith,NYK,Over 1.5 3PTM,-166,Hit in 9 of his last 12 games,75%,True,2.0
+Aaron Nesmith,NYK,Over 5.5 REB+AST,-155,Hit in 3 of his last 4 games,75%,False,4.0
+Aaron Nesmith,NYK,Over 5.5 REB+AST,-155,Hit in 6 of his last 8 home games,75%,False,4.0
+Aaron Nesmith,NYK,Over 17.5 PTS+REB,100,Hit in 9 of his last 12 games,75%,True,23.0
+Aaron Nesmith,NYK,Over 0.5 Assists,-210,Hit in 12 of his last 16 games vs NYK,75%,True,1.0
+Aaron Nesmith,NYK,Over 0.5 Blocks,-145,Hit in 6 of his last 8 games,75%,False,0.0
+T.J. McConnell,NYK,Under 3.5 Assists,-138,Hit in 3 of his last 4 games,75%,True,3.0
+T.J. McConnell,NYK,Over 2.5 Rebounds,110,Hit in 9 of his last 12 games,75%,False,0.0
+Obi Toppin,NYK,Under 1.5 Assists,-175,Hit in 3 of his last 4 games vs NYK,75%,False,2.0
+Obi Toppin,NYK,Under 13.5 PTS+AST+REB,-125,Hit in 3 of his last 4 games,75%,True,9.0
+Miles McBride,IND,Under 1.5 Rebounds,-105,Hit in 6 of his last 8 games,75%,False,2.0
+Miles McBride,IND,Over 6.5 Points,-145,Hit in 3 of his last 4 away games,75%,False,5.0
+Mikal Bridges,IND,Over 19.5 PTS+AST,-132,Hit in 3 of his last 4 games,75%,True,27.0
+Mikal Bridges,IND,Over 20.5 PTS+REB,-120,Hit in 3 of his last 4 games,75%,True,28.0
+Mikal Bridges,IND,Over 24.5 PTS+AST+REB,-102,Hit in 3 of his last 4 games,75%,True,27.0
+Mikal Bridges,IND,Under 0.5 Blocks,130,Hit in 3 of his last 4 games vs IND,75%,True,0.0
+Mikal Bridges,IND,Over 1.5 Steals,162,Hit in 3 of his last 4 away games,75%,False,0.0
+Jalen Brunson,IND,Under 9.5 REB+AST,104,Hit in 3 of his last 4 games vs IND,75%,True,7.0
+OG Anunoby,IND,Over 1.5 Steals,126,Hit in 3 of his last 4 games,75%,True,3.0
+OG Anunoby,IND,Over 1.5 Steals,126,Hit in 3 of his last 4 games vs IND,75%,True,3.0
+OG Anunoby,IND,Under 6.5 REB+AST,-110,Hit in 6 of his last 8 games,75%,True,5.0
+OG Anunoby,IND,Over 1.5 Assists,-120,Hit in 3 of his last 4 games vs IND,75%,False,1.0
+OG Anunoby,IND,Over 1.5 Assists,-120,Hit in 3 of his last 4 away games,75%,False,1.0
+Mitchell Robinson,IND,Under 14.5 PTS+REB,-114,Hit in 3 of his last 4 games vs IND,75%,True,13.0
+Mitchell Robinson,IND,Under 8.5 Rebounds,-122,Hit in 3 of his last 4 games vs IND,75%,True,7.0
+Mitchell Robinson,IND,Over 5.5 Points,-125,Hit in 6 of his last 8 games vs IND,75%,True,6.0
+Mitchell Robinson,IND,Under 1.5 Blocks,-220,Hit in 3 of his last 4 games vs IND,75%,True,0.0
+Mitchell Robinson,IND,Over 0.5 Steals,-210,Hit in 6 of his last 8 games vs IND,75%,True,1.0
+Mitchell Robinson,IND,Under 6.5 PTS+AST,-110,Hit in 3 of his last 4 games,75%,False,7.0
+Mitchell Robinson,IND,Under 6.5 PTS+AST,-110,Hit in 3 of his last 4 games vs IND,75%,False,7.0
+Karl-Anthony Towns,IND,Over 13.5 REB+AST,-108,Hit in 6 of his last 8 games vs IND,75%,True,15.0
+Karl-Anthony Towns,IND,Over 11.5 Rebounds,-122,Hit in 3 of his last 4 games,75%,True,12.0
+Karl-Anthony Towns,IND,Over 11.5 Rebounds,-122,Hit in 3 of his last 4 games vs IND,75%,True,12.0
+Karl-Anthony Towns,IND,Under 0.5 Blocks,-130,Hit in 3 of his last 4 games,75%,True,0.0
+Karl-Anthony Towns,IND,Under 0.5 Blocks,-130,Hit in 3 of his last 4 games vs IND,75%,True,0.0
+Karl-Anthony Towns,IND,Over 0.5 Double Double,-280,Hit in 6 of his last 8 games vs IND,75%,True,1.0
+Obi Toppin,NYK,Over 11.5 PTS+REB,-130,Hit in 3 of his last 4 games vs NYK,75%,False,9.0
+Aaron Nesmith,NYK,Over 17.5 PTS+AST+REB,-125,Hit in 9 of his last 12 games,75%,True,21.0
+Andrew Nembhard,NYK,Under 1.5 Steals,-200,NYK rank 3rd in STL against,3rd,True,1.0
+Tyrese Haliburton,NYK,Under 4.5 Rebounds,-136,NYK rank 2nd in REB against,2nd,False,12.0
+Tyrese Haliburton,NYK,Under 1.5 Steals,-186,NYK rank 3rd in STL versus PG,3rd,False,4.0
+Pascal Siakam,NYK,Under 5.5 Rebounds,122,NYK rank 2nd in REB versus PF,2nd,True,5.0
+Obi Toppin,NYK,Under 3.5 Rebounds,-114,NYK rank 2nd in REB versus PF,2nd,True,2.0
+Mitchell Robinson,IND,Under 1.5 Blocks,-220,IND rank 3rd in BLK versus C,3rd,True,0.0
+Karl-Anthony Towns,IND,Under 1.5 Assists,-102,IND rank 4th in AST versus C,4th,False,3.0
+Karl-Anthony Towns,IND,Under 0.5 Blocks,-130,IND rank 3rd in BLK versus C,3rd,True,0.0
+Karl-Anthony Towns,IND,Under 0.5 Steals,-130,IND rank 4th in STL against,4th,True,0.0
